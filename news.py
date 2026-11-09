@@ -20,6 +20,8 @@ from urllib.parse import quote_plus
 import feedparser
 import requests
 
+sys.stdout.reconfigure(line_buffering=True)  # show progress live in the GitHub log
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
 HEADLINES_FILE = os.path.join(DATA, "headlines.json")
@@ -229,12 +231,11 @@ def run_headlines():
 # Mode 2: articles
 # ---------------------------------------------------------------------------
 PROMPT = """You are a careful news writer for the website "{site}".
-Below are numbered news items collected in the last few hours from other news websites ({scope}).
-Items starting with N are general news. Items starting with S are sports.
+Below are numbered {kind} items collected in the last few hours from other news websites ({scope}).
 
 TASK
-Pick the {n_news} most important DIFFERENT news stories (from N items) and the {n_sports} most important DIFFERENT sports stories (from S items).
-Prefer stories reported by several sources. Write one short original article for each.
+Pick the {n} most important DIFFERENT {kind} stories. Prefer stories reported by several sources.
+{avoid}Write one short original article for each.
 
 STRICT RULES
 1. Use ONLY facts that appear in the items below. Never add facts, numbers, names, dates, quotes or background from your own knowledge.
@@ -247,7 +248,7 @@ STRICT RULES
 8. "sources" lists the IDs of every item you used. At least one; two or more when possible.
 
 Return only JSON in this shape:
-{{"articles": [{{"category": "news or sports", "title": "...", "summary": "one sentence",
+{{"articles": [{{"title": "...", "summary": "one sentence",
   "paragraphs": ["...", "..."], "sources": ["N3", "N17"]}}]}}
 
 ITEMS
@@ -259,12 +260,21 @@ NUM = re.compile(r"\d[\d,.]*\d|\d")
 
 def ask_gemini(prompt, key):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}}
-    for attempt in range(5):
-        r = requests.post(url, json=body, timeout=180,
-                          headers={"x-goog-api-key": key, "Content-Type": "application/json"})
-        if r.status_code in (429, 500, 502, 503):
+    config = {"temperature": 0.2, "responseMimeType": "application/json",
+              "thinkingConfig": {"thinkingBudget": 0}}  # no slow "thinking", just write
+    for attempt in range(4):
+        body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": config}
+        try:
+            r = requests.post(url, json=body, timeout=300,
+                              headers={"x-goog-api-key": key, "Content-Type": "application/json"})
+        except requests.exceptions.RequestException as ex:
+            print(f"  AI connection problem ({type(ex).__name__}), retrying…")
+            time.sleep(20)
+            continue
+        if r.status_code == 400 and "thinking" in r.text.lower() and "thinkingConfig" in config:
+            config = {k: v for k, v in config.items() if k != "thinkingConfig"}  # model doesn't support it
+            continue
+        if r.status_code in (429, 500, 502, 503, 504):
             wait = 30 * (attempt + 1)
             print(f"  AI busy ({r.status_code}), waiting {wait}s…")
             time.sleep(wait)
@@ -272,10 +282,10 @@ def ask_gemini(prompt, key):
         if r.status_code >= 400:
             raise RuntimeError(f"AI error {r.status_code}: {r.text[:300]}")
         parts = r.json()["candidates"][0]["content"]["parts"]
-        text = "".join(p.get("text", "") for p in parts).strip()
+        text = "".join(p.get("text", "") for p in parts if not p.get("thought")).strip()
         text = re.sub(r"^```(?:json)?|```$", "", text).strip()
         return json.loads(text)
-    raise RuntimeError("AI service stayed busy, try again later")
+    raise RuntimeError("AI service did not answer, it will try again at the next scheduled run")
 
 
 def numbers_ok(article_text, ref_items):
@@ -287,51 +297,20 @@ def numbers_ok(article_text, ref_items):
     return missing
 
 
-def write_section(region, key, headlines):
-    now = now_utc()
-    recent = [h for h in headlines if h["region"] == region
-              and now - parse_iso(h["published"]) <= timedelta(hours=12)]
-    if len(recent) < 40:
-        recent = [h for h in headlines if h["region"] == region
-                  and now - parse_iso(h["published"]) <= timedelta(hours=24)]
-    news = [h for h in recent if h["category"] == "news"][:160]
-    sports = [h for h in recent if h["category"] == "sports"][:60]
-    if not news:
-        print(f"  No {region} headlines yet, skipping.")
-        return []
-
-    ref = {}
-    lines = []
-    for prefix, group in (("N", news), ("S", sports)):
-        for i, h in enumerate(group, 1):
-            rid = f"{prefix}{i}"
-            ref[rid] = h
-            text = f"[{rid}] ({h['source']}, {h['published'][:16].replace('T', ' ')} UTC) {h['title']}"
-            if h["summary"]:
-                text += f" | {h['summary']}"
-            lines.append(text)
-
-    scope = "Pakistan" if region == "local" else "international"
-    prompt = PROMPT.format(site=SITE_NAME, scope=scope, n_news=N_NEWS,
-                           n_sports=N_SPORTS if sports else 0, items="\n".join(lines))
-    result = ask_gemini(prompt, key)
-
-    out, counts = [], {"news": 0, "sports": 0}
+def build_articles(result, ref, cat, limit, now, region):
+    out = []
     for a in result.get("articles", []):
-        cat = "sports" if a.get("category") == "sports" else "news"
-        limit = N_SPORTS if cat == "sports" else N_NEWS
         refs = [ref[r] for r in a.get("sources", []) if r in ref]
         paras = [p.strip() for p in a.get("paragraphs", []) if p and p.strip()]
         title = (a.get("title") or "").strip()
-        if not refs or not paras or not title or counts[cat] >= limit:
+        if not refs or not paras or not title or len(out) >= limit:
             continue
         missing = numbers_ok(" ".join([title, a.get("summary", "")] + paras), refs)
         if missing:
             print(f"  Rejected (numbers not found in sources {missing}): {title[:70]}")
             continue
-        counts[cat] += 1
         out.append({
-            "id": hashlib.sha1(f"{now.isoformat()}{title}".encode()).hexdigest()[:16],
+            "id": hashlib.sha1(f"{now.isoformat()}{region}{title}".encode()).hexdigest()[:16],
             "region": region,
             "category": cat,
             "title": title,
@@ -341,7 +320,49 @@ def write_section(region, key, headlines):
                          "published": h["published"], "used_text": h["summary"]} for h in refs],
             "created": iso(now),
         })
-    print(f"  {region}: {counts['news']} news + {counts['sports']} sports articles kept")
+    return out
+
+
+def write_section(region, key, headlines, now):
+    recent = [h for h in headlines if h["region"] == region
+              and now - parse_iso(h["published"]) <= timedelta(hours=12)]
+    if len(recent) < 40:
+        recent = [h for h in headlines if h["region"] == region
+                  and now - parse_iso(h["published"]) <= timedelta(hours=24)]
+    scope = "Pakistan" if region == "local" else "international"
+    out = []
+    # Small jobs are faster and more reliable on the free AI tier:
+    # news in two rounds of up to 4, then sports.
+    half = (N_NEWS + 1) // 2
+    jobs = [("news", "N", half), ("news", "N", N_NEWS - half), ("sports", "S", N_SPORTS)]
+    for cat, prefix, n in jobs:
+        if n <= 0:
+            continue
+        group = [h for h in recent if h["category"] == cat][:120 if cat == "news" else 60]
+        if not group:
+            print(f"  No {region} {cat} headlines yet, skipping.")
+            continue
+        done = [a["title"] for a in out if a["category"] == cat]
+        avoid = ("Do NOT write about these stories, they are already covered:\n- "
+                 + "\n- ".join(done) + "\n") if done else ""
+        ref, lines = {}, []
+        for i, h in enumerate(group, 1):
+            rid = f"{prefix}{i}"
+            ref[rid] = h
+            text = f"[{rid}] ({h['source']}, {h['published'][:16].replace('T', ' ')} UTC) {h['title']}"
+            if h["summary"]:
+                text += f" | {h['summary']}"
+            lines.append(text)
+        prompt = PROMPT.format(site=SITE_NAME, kind=cat, scope=scope, n=n,
+                               avoid=avoid, items="\n".join(lines))
+        try:
+            got = build_articles(ask_gemini(prompt, key), ref, cat, n, now, region)
+        except Exception as ex:
+            print(f"  Could not write {region} {cat}: {ex}")
+            continue
+        out += got
+        print(f"  {region} {cat}: {len(got)} written")
+        time.sleep(5)  # be gentle with the free tier
     return out
 
 
@@ -350,13 +371,11 @@ def run_articles():
     if not key:
         sys.exit("GEMINI_API_KEY is missing. Add it under Settings > Secrets and variables > Actions.")
     headlines = load(HEADLINES_FILE, [])
+    now = now_utc()
     new = []
     for region in ("local", "international"):
         print(f"Writing {region} articles…")
-        try:
-            new += write_section(region, key, headlines)
-        except Exception as ex:
-            print(f"  Could not write {region} articles: {ex}")
+        new += write_section(region, key, headlines, now)
     old = load(ARTICLES_FILE, [])
     articles = prune(new + old, "created")
     articles.sort(key=lambda a: a["created"], reverse=True)
