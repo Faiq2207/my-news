@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34598009/README.md)
 # My News Channel: free automatic news website
 
 What this website does on its own:

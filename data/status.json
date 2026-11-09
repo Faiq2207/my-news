@@ -1,0 +1,137 @@
+{
+ "updated": "2026-11-09T20:22:23Z",
+ "sources": [
+  {
+   "source": "BBC News",
+   "region": "international",
+   "items": 64,
+   "via": "rss"
+  },
+  {
+   "source": "CNN",
+   "region": "international",
+   "items": 49,
+   "via": "rss"
+  },
+  {
+   "source": "Al Jazeera",
+   "region": "international",
+   "items": 25,
+   "via": "rss"
+  },
+  {
+   "source": "Fox News",
+   "region": "international",
+   "items": 50,
+   "via": "rss"
+  },
+  {
+   "source": "Sky News",
+   "region": "international",
+   "items": 10,
+   "via": "rss"
+  },
+  {
+   "source": "France 24",
+   "region": "international",
+   "items": 24,
+   "via": "rss"
+  },
+  {
+   "source": "DW",
+   "region": "international",
+   "items": 40,
+   "via": "rss"
+  },
+  {
+   "source": "CNBC",
+   "region": "international",
+   "items": 30,
+   "via": "rss"
+  },
+  {
+   "source": "Euronews",
+   "region": "international",
+   "items": 40,
+   "via": "rss"
+  },
+  {
+   "source": "NHK World",
+   "region": "international",
+   "items": 29,
+   "via": "google-news"
+  },
+  {
+   "source": "Geo News",
+   "region": "local",
+   "items": 40,
+   "via": "google-news"
+  },
+  {
+   "source": "ARY News",
+   "region": "local",
+   "items": 38,
+   "via": "rss"
+  },
+  {
+   "source": "Dunya News",
+   "region": "local",
+   "items": 40,
+   "via": "google-news"
+  },
+  {
+   "source": "Samaa",
+   "region": "local",
+   "items": 40,
+   "via": "google-news"
+  },
+  {
+   "source": "Express Tribune",
+   "region": "local",
+   "items": 80,
+   "via": "rss"
+  },
+  {
+   "source": "Express News",
+   "region": "local",
+   "items": 0,
+   "via": "failed"
+  },
+  {
+   "source": "92 News",
+   "region": "local",
+   "items": 27,
+   "via": "google-news"
+  },
+  {
+   "source": "Hum News",
+   "region": "local",
+   "items": 1,
+   "via": "google-news"
+  },
+  {
+   "source": "Aaj News",
+   "region": "local",
+   "items": 40,
+   "via": "google-news"
+  },
+  {
+   "source": "GNN",
+   "region": "local",
+   "items": 14,
+   "via": "google-news"
+  },
+  {
+   "source": "PTV News",
+   "region": "local",
+   "items": 1,
+   "via": "google-news"
+  },
+  {
+   "source": "Dawn",
+   "region": "local",
+   "items": 58,
+   "via": "rss"
+  }
+ ]
+}

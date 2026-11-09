@@ -1,0 +1,7 @@
+{
+  "site_name": "My News Channel",
+  "tagline": "Pakistan and world news, updated through the day",
+  "keep_days": 3,
+  "articles_news_per_section": 8,
+  "articles_sports_per_section": 2
+}

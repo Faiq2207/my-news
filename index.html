@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>News</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,400..800&family=Noto+Naskh+Arabic:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #f4f7f4;
+  --surface: #ffffff;
+  --ink: #17212b;
+  --muted: #5f6b74;
+  --line: #d6ded8;
+  --green: #0e6b4f;
+  --green-soft: #e1efe8;
+  --gold: #a87814;
+  --gold-soft: #f6ecd4;
+  --ui: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --read: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --urdu: "Noto Naskh Arabic", "Jameel Noori Nastaleeq", Tahoma, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0f1714; --surface: #16211d; --ink: #e6ede9; --muted: #9aa8a1;
+    --line: #2a3832; --green: #4fbf93; --green-soft: #1b3229; --gold: #e0b44d; --gold-soft: #3a2f16;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--ui); font-size: 16px; line-height: 1.5;
+  padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px);
+}
+a { color: inherit; }
+button, select, input { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px; }
+.ur { font-family: var(--urdu); }
+
+header.top { padding: 28px 0 8px; display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: baseline; justify-content: space-between; }
+.brand { font-weight: 800; font-stretch: 78%; font-size: clamp(30px, 5vw, 44px); letter-spacing: -0.01em; line-height: 1; margin: 0; }
+.tagline { color: var(--muted); margin: 6px 0 0; }
+.updated { color: var(--muted); font-size: 14px; display: flex; align-items: center; gap: 8px; }
+.pulse { width: 9px; height: 9px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 0 var(--green); animation: pulse 2.4s infinite; }
+@keyframes pulse { 70% { box-shadow: 0 0 0 8px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
+
+/* The one bold element: the Pakistan / World switch */
+.switch { display: grid; grid-template-columns: 1fr 1fr; margin: 18px 0 28px; border: 2px solid var(--ink); border-radius: 14px; overflow: hidden; }
+.switch button {
+  border: 0; background: transparent; cursor: pointer; padding: 14px 16px 12px; text-align: left;
+  font-weight: 800; font-stretch: 75%; font-size: clamp(28px, 6vw, 56px); line-height: 1; letter-spacing: -0.01em;
+  color: var(--muted); transition: background .2s, color .2s;
+}
+.switch button small { display: block; font-size: 14px; font-weight: 500; font-stretch: 100%; letter-spacing: 0; margin-top: 6px; }
+.switch button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+.switch button + button { border-left: 2px solid var(--ink); }
+
+h2.sec { font-weight: 700; font-stretch: 85%; font-size: 24px; margin: 0 0 14px; }
+.sec-note { color: var(--muted); font-size: 14px; margin: -8px 0 16px; }
+
+/* Our stories */
+.stories { display: grid; grid-template-columns: repeat(12, 1fr); gap: 18px; margin-bottom: 40px; }
+.story { grid-column: span 4; background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 18px; text-align: left; cursor: pointer; display: flex; flex-direction: column; gap: 8px; }
+.story:hover h3 { text-decoration: underline; text-underline-offset: 3px; }
+.story.lead { grid-column: span 8; grid-row: span 2; border-top: 6px solid var(--green); padding: 26px; }
+.story.lead h3 { font-size: clamp(26px, 3.4vw, 38px); font-stretch: 80%; line-height: 1.08; }
+.story.lead p { font-size: 18px; }
+.story h3 { margin: 0; font-size: 20px; font-weight: 700; line-height: 1.2; }
+.story p { margin: 0; font-family: var(--read); color: var(--muted); }
+.story .meta { margin-top: auto; font-size: 13px; color: var(--muted); }
+.story.sports { border-left: 5px solid var(--gold); }
+.story.half { grid-column: span 6; }
+h3.sub { font-size: 18px; font-weight: 700; margin: 8px 0 12px; grid-column: 1 / -1; }
+.tag { align-self: flex-start; font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 4px; background: var(--green-soft); color: var(--green); }
+.story.sports .tag { background: var(--gold-soft); color: var(--gold); }
+.older { margin: -20px 0 40px; }
+.older summary { cursor: pointer; color: var(--green); font-weight: 600; }
+.older ul { list-style: none; padding: 0; margin: 12px 0 0; columns: 2 320px; }
+.older li { break-inside: avoid; margin-bottom: 10px; }
+.older button { background: none; border: 0; padding: 0; text-align: left; cursor: pointer; font-weight: 600; }
+.older span { display: block; font-size: 13px; color: var(--muted); font-weight: 400; }
+
+/* Live headlines */
+.filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 14px; }
+.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px; cursor: pointer; font-size: 14px; }
+.chip[aria-pressed="true"] { background: var(--green); border-color: var(--green); color: var(--paper); }
+.filters select, .filters input { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px; font-size: 14px; }
+.filters input { flex: 1 1 200px; min-width: 0; }
+.feed { list-style: none; margin: 0 0 60px; padding: 0; border-top: 1px solid var(--line); }
+.feed li { display: grid; grid-template-columns: 92px 1fr; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.when { font-size: 13px; color: var(--muted); padding-top: 3px; }
+.when b { display: block; color: var(--ink); font-weight: 700; font-size: 14px; }
+.feed a { font-weight: 600; font-size: 17px; text-decoration: none; line-height: 1.3; }
+.feed a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.feed a.ur { font-size: 19px; line-height: 1.8; }
+.feed p { margin: 4px 0 0; color: var(--muted); font-family: var(--read); font-size: 15px; }
+.feed .sp { color: var(--gold); font-weight: 700; font-size: 12px; margin-left: 6px; }
+.more { display: block; margin: -40px auto 60px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 10px 24px; cursor: pointer; }
+.empty { padding: 28px; border: 1px dashed var(--line); border-radius: 6px; color: var(--muted); text-align: center; grid-column: 1 / -1; }
+
+/* Article reader */
+dialog { border: 0; padding: 0; width: min(760px, 100vw); max-height: 100dvh; background: var(--surface); color: var(--ink); border-radius: 10px; }
+dialog::backdrop { background: rgb(0 0 0 / .55); }
+.reader { padding: 28px clamp(20px, 5vw, 48px) 36px; }
+.reader .close { float: right; border: 1px solid var(--line); background: var(--paper); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+.reader h1 { font-size: clamp(28px, 4.5vw, 40px); font-stretch: 80%; line-height: 1.08; margin: 12px 0 10px; }
+.reader .byline { color: var(--muted); font-size: 14px; margin-bottom: 22px; }
+.reader .body p { font-family: var(--read); font-size: 19px; line-height: 1.65; margin: 0 0 1em; max-width: 66ch; }
+.refs { margin-top: 28px; padding: 18px; background: var(--paper); border-radius: 6px; }
+.refs h2 { font-size: 17px; margin: 0 0 4px; }
+.refs .note { font-size: 13px; color: var(--muted); margin: 0 0 12px; }
+.refs ol { margin: 0; padding-left: 22px; }
+.refs li { margin-bottom: 12px; font-size: 15px; }
+.refs li a { font-weight: 600; }
+.refs details { font-size: 14px; color: var(--muted); margin-top: 4px; }
+footer { color: var(--muted); font-size: 13px; padding: 24px 0 40px; border-top: 1px solid var(--line); }
+
+@media (max-width: 860px) {
+  .story, .story.lead { grid-column: 1 / -1; grid-row: auto; }
+}
+@media (max-width: 520px) {
+  .feed li { grid-template-columns: 1fr; gap: 4px; }
+  .when b { display: inline; margin-right: 6px; }
+}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1 class="brand" id="brand">News</h1>
+      <p class="tagline" id="tagline"></p>
+    </div>
+    <div class="updated" aria-live="polite"><span class="pulse" aria-hidden="true"></span><span id="updated">Loading…</span></div>
+  </header>
+
+  <div class="switch" role="group" aria-label="Choose news region">
+    <button type="button" data-region="local" aria-pressed="true">Pakistan<small>Local news from Pakistani channels</small></button>
+    <button type="button" data-region="international" aria-pressed="false">World<small>International news channels</small></button>
+  </div>
+
+  <section aria-labelledby="our-h">
+    <h2 class="sec" id="our-h">Our stories</h2>
+    <p class="sec-note" id="our-note"></p>
+    <div class="stories" id="stories"></div>
+    <details class="older" id="older" hidden>
+      <summary>Earlier stories from the last 3 days</summary>
+      <ul id="older-list"></ul>
+    </details>
+  </section>
+
+  <section aria-labelledby="live-h">
+    <h2 class="sec" id="live-h">Live headlines</h2>
+    <p class="sec-note">Each headline opens the full story on the original website.</p>
+    <div class="filters">
+      <button class="chip" type="button" data-cat="all" aria-pressed="true">All</button>
+      <button class="chip" type="button" data-cat="news" aria-pressed="false">News</button>
+      <button class="chip" type="button" data-cat="sports" aria-pressed="false">Sports</button>
+      <select id="source" aria-label="Filter by channel"><option value="">All channels</option></select>
+      <input id="search" type="search" placeholder="Search headlines" aria-label="Search headlines">
+    </div>
+    <ul class="feed" id="feed"></ul>
+    <button class="more" type="button" id="more" hidden>Show more headlines</button>
+  </section>
+
+  <footer>
+    <p>Headlines and links belong to their original publishers. Our stories are written with AI assistance using only the facts in the sources listed under each story. Content older than 3 days is removed automatically.</p>
+  </footer>
+</div>
+
+<dialog id="reader" aria-labelledby="r-title"><div class="reader" id="reader-body"></div></dialog>
+
+<script>
+const state = { region: "local", cat: "all", source: "", q: "", shown: 60, headlines: [], articles: [], status: null };
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const isUrdu = (s) => /[\u0600-\u06FF]/.test(s || "");
+const txtAttrs = (s) => isUrdu(s) ? ' class="ur" dir="rtl" lang="ur"' : "";
+
+function ago(iso) {
+  const m = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (m < 1) return "just now";
+  if (m < 60) return `${m} min ago`;
+  const h = Math.round(m / 60);
+  if (h < 24) return `${h} hr${h > 1 ? "s" : ""} ago`;
+  const d = Math.round(h / 24);
+  return `${d} day${d > 1 ? "s" : ""} ago`;
+}
+const clock = (iso) => new Date(iso).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
+const day = (iso) => new Date(iso).toLocaleString([], { weekday: "short", day: "numeric", month: "short", hour: "numeric", minute: "2-digit" });
+
+async function getJSON(path, fallback) {
+  try {
+    const r = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
+    return r.ok ? await r.json() : fallback;
+  } catch { return fallback; }
+}
+
+async function load() {
+  const [cfg, headlines, articles, status] = await Promise.all([
+    getJSON("config.json", {}), getJSON("data/headlines.json", []),
+    getJSON("data/articles.json", []), getJSON("data/status.json", null)
+  ]);
+  if (cfg.site_name) { $("#brand").textContent = cfg.site_name; document.title = cfg.site_name; }
+  $("#tagline").textContent = cfg.tagline || "";
+  Object.assign(state, { headlines, articles, status });
+  $("#updated").textContent = status?.updated ? `Headlines updated ${ago(status.updated)}` : "Waiting for the first update";
+  render();
+}
+
+function render() {
+  renderStories();
+  renderSources();
+  renderFeed();
+}
+
+function renderStories() {
+  const mine = state.articles.filter((a) => a.region === state.region);
+  const box = $("#stories");
+  if (!mine.length) {
+    box.innerHTML = `<div class="empty">No stories yet. They are written automatically at 8 AM and 8 PM Pakistan time.</div>`;
+    $("#our-note").textContent = "";
+    $("#older").hidden = true;
+    return;
+  }
+  const latest = mine[0].created;
+  const batch = mine.filter((a) => a.created === latest);
+  const news = batch.filter((a) => a.category === "news");
+  const sports = batch.filter((a) => a.category === "sports");
+  $("#our-note").textContent = `Written ${day(latest)} from ${new Set(batch.flatMap((a) => a.sources.map((s) => s.source))).size} news sources.`;
+  const card = (a, cls) => `
+    <button type="button" class="story ${cls}" data-id="${esc(a.id)}">
+      <span class="tag">${a.category === "sports" ? "Sports" : "News"}</span>
+      <h3>${esc(a.title)}</h3>
+      <p>${esc(a.summary)}</p>
+      <span class="meta">${a.sources.length} source${a.sources.length > 1 ? "s" : ""}: ${esc([...new Set(a.sources.map((s) => s.source))].join(", "))}</span>
+    </button>`;
+  const n = news.length;
+  box.innerHTML = news.map((a, i) => card(a, i === 0 ? "lead" : (n === 8 && i >= 6) ? "half" : "")).join("")
+    + (sports.length ? `<h3 class="sub">Sports</h3>` + sports.map((a) => card(a, "sports half")).join("") : "");
+  const older = mine.filter((a) => a.created !== latest);
+  $("#older").hidden = !older.length;
+  $("#older-list").innerHTML = older.map((a) => `<li><button type="button" data-id="${esc(a.id)}">${esc(a.title)}<span>${a.category === "sports" ? "Sports, " : ""}${day(a.created)}</span></button></li>`).join("");
+}
+
+function renderSources() {
+  const names = [...new Set(state.headlines.filter((h) => h.region === state.region).map((h) => h.source))].sort();
+  if (!names.includes(state.source)) state.source = "";
+  $("#source").innerHTML = `<option value="">All channels</option>` + names.map((n) => `<option${n === state.source ? " selected" : ""}>${esc(n)}</option>`).join("");
+}
+
+function filtered() {
+  const q = state.q.toLowerCase();
+  return state.headlines.filter((h) => h.region === state.region
+    && (state.cat === "all" || h.category === state.cat)
+    && (!state.source || h.source === state.source)
+    && (!q || `${h.title} ${h.summary}`.toLowerCase().includes(q)));
+}
+
+function renderFeed() {
+  const list = filtered();
+  const feed = $("#feed");
+  if (!list.length) {
+    feed.innerHTML = `<li class="empty" style="display:block">${state.headlines.length ? "No headlines match these filters. Try All channels or clear the search." : "Headlines appear here after the first update runs."}</li>`;
+    $("#more").hidden = true;
+    return;
+  }
+  feed.innerHTML = list.slice(0, state.shown).map((h) => `
+    <li>
+      <div class="when"><b>${esc(h.source)}</b>${ago(h.published)}</div>
+      <div>
+        <a href="${esc(h.link)}" target="_blank" rel="noopener noreferrer"${txtAttrs(h.title)}>${esc(h.title)}</a>${h.category === "sports" ? '<span class="sp">Sports</span>' : ""}
+        ${h.summary ? `<p${txtAttrs(h.summary)}>${esc(h.summary)}</p>` : ""}
+      </div>
+    </li>`).join("");
+  $("#more").hidden = list.length <= state.shown;
+}
+
+function openArticle(id) {
+  const a = state.articles.find((x) => x.id === id);
+  if (!a) return;
+  $("#reader-body").innerHTML = `
+    <button type="button" class="close" id="close">Close</button>
+    <span class="tag">${a.category === "sports" ? "Sports" : "News"}</span>
+    <h1 id="r-title">${esc(a.title)}</h1>
+    <div class="byline">${esc($("#brand").textContent)}, ${day(a.created)}</div>
+    <div class="body">${a.paragraphs.map((p) => `<p>${esc(p)}</p>`).join("")}</div>
+    <div class="refs">
+      <h2>Sources</h2>
+      <p class="note">This story uses only facts from these reports. Each one opens on the original website.</p>
+      <ol>${a.sources.map((s) => `
+        <li><a href="${esc(s.link)}" target="_blank" rel="noopener noreferrer"${txtAttrs(s.title)}>${esc(s.title)}</a>
+          <div>${esc(s.source)}, ${day(s.published)}</div>
+          ${s.used_text ? `<details><summary>Text used from this source</summary><p${txtAttrs(s.used_text)}>${esc(s.used_text)}</p></details>` : ""}
+        </li>`).join("")}</ol>
+    </div>`;
+  $("#reader").showModal();
+  $("#close").addEventListener("click", () => $("#reader").close());
+}
+
+document.querySelectorAll(".switch button").forEach((b) => b.addEventListener("click", () => {
+  state.region = b.dataset.region; state.shown = 60;
+  document.querySelectorAll(".switch button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+  render();
+}));
+document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => {
+  state.cat = b.dataset.cat; state.shown = 60;
+  document.querySelectorAll(".chip").forEach((x) => x.setAttribute("aria-pressed", x === b));
+  renderFeed();
+}));
+$("#source").addEventListener("change", (e) => { state.source = e.target.value; state.shown = 60; renderFeed(); });
+$("#search").addEventListener("input", (e) => { state.q = e.target.value.trim(); state.shown = 60; renderFeed(); });
+$("#more").addEventListener("click", () => { state.shown += 60; renderFeed(); });
+document.addEventListener("click", (e) => { const t = e.target.closest("[data-id]"); if (t) openArticle(t.dataset.id); });
+$("#reader").addEventListener("click", (e) => { if (e.target.id === "reader") e.target.close(); });
+
+load();
+setInterval(load, 5 * 60 * 1000); // check for new data every 5 minutes
+</script>
+</body>
+</html>
