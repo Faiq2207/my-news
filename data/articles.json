@@ -1,1 +1,324 @@
-[]
+[
+ {
+  "id": "a34a99837358f328",
+  "region": "local",
+  "category": "news",
+  "title": "Donald Trump Challenges US Midterm Election Outcomes",
+  "summary": "United States President Donald Trump has raised allegations of fraud regarding the midterm election results.",
+  "paragraphs": [
+   "United States President Donald Trump brought forward allegations of voting fraud on Monday to challenge the integrity of the midterm elections, Dawn reported. His remarks followed an outcome in which the Democratic Party captured both chambers of Congress, delivering a major loss to his Republican Party, according to Dawn.",
+   "The Express Tribune reported that Trump questioned whether the November 3 midterm elections were honest. He pointed to large ballot dumps during early voting and asserted that their numbers made overcoming the deficit impossible, according to the Express Tribune. Geo News also noted that Trump returned to election fraud allegations after an initial concession."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Trump casts doubt on US midterm results with new fraud claims",
+    "link": "https://www.dawn.com/news/2043312/trump-casts-doubt-on-us-midterm-results-with-new-fraud-claims",
+    "published": "2026-11-09T18:48:01Z",
+    "used_text": "United States President Donald Trump renewed baseless allegations of voter fraud on Monday, questioning the legitimacy of last week’s midterm elections after Democrats swept both chambers of Congress in a crushing defeat for his Republican Party. “Does anybody really believe that this ‘Election’…"
+   },
+   {
+    "source": "Geo News",
+    "title": "Trump returns to US election fraud claims after initial concession",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWJBV19pRXQ5ZGtfem9YcHhOWkk4TUotOS1zNzF4b0pVNzRocG50UmQ3TGdIYVh5NnVrb21DV29GOG1rU18wWUlkQjNrbVJlZGo4andXb3E4SXlPZFRqT3NFR1dhWTE1STVnd3h0ODh5SnJOODBJR0xtU3pZbTZBVmVVNEdSNWJVT0tjX0JRN0NRZUEwQWctUW5ONXJhbl91?oc=5",
+    "published": "2026-11-09T17:57:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Trump questions whether November 3 midterm elections were ‘honest’",
+    "link": "https://tribune.com.pk/story/2639472/trump-questions-whether-november-3-midterm-elections-were-honest",
+    "published": "2026-11-09T11:59:17Z",
+    "used_text": "He questioned unusually large early-voting ballot dumps, claiming their vote totals were impossible to overcome"
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "6b762fbb12c5e4f8",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan Denounces Houthi Attack on Aramco in Riyadh",
+  "summary": "Pakistan has issued a condemnation following a Houthi strike directed at a Saudi Aramco building in Riyadh.",
+  "paragraphs": [
+   "Pakistan has strongly condemned an attack by Houthis on the corporate office of Saudi oil firm Aramco in Riyadh, according to reports from Dawn, Aaj News, and ARY News. Dawn reported that the incident occurred on Sunday when an Aramco facility was targeted.",
+   "The Ministry of Foreign Affairs demanded that the Houthi group stop all strikes directed at Saudi Arabia unconditionally and immediately, Dawn reported. ARY News also recorded Pakistan's formal condemnation of the attempted attack on the facility."
+  ],
+  "sources": [
+   {
+    "source": "Aaj News",
+    "title": "Pakistan condemns Houthi attack on Aramco building",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObWRpS0Q1RllsUzhCa2hLUmFUcjc1YUJJQTVMZWI2VF9HS05qWjBPS3JEWVExLXpQMVZSN1NKa250MjBISjZsQUg4MXR5bll0bEc2VHR3OFBadXlVcnpjTnRtY0JjeldDX1lETnI1M3RVandyd0RsZlVhSnVvcXI2S0llVS1MWkVQWFRNU2lVNWtMdw?oc=5",
+    "published": "2026-11-09T15:25:25Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Pakistan condemns attempted Houthi attack on Saudi Aramco building",
+    "link": "https://arynews.tv/pakistan-condemns-attempted-houthi-attack-on-saudi-aramco-building",
+    "published": "2026-11-09T15:06:08Z",
+    "used_text": "Pakistan condemns attempted Houthi attack on Saudi Aramco building"
+   },
+   {
+    "source": "Dawn",
+    "title": "Pakistan condemns targeting of Aramco building, demands Houthis cease all attacks against Saudi Arabia",
+    "link": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia",
+    "published": "2026-11-09T14:45:08Z",
+    "used_text": "Pakistan on Monday condemned the Houthi attack on Saudi oil giant Aramco’s corporate office in Riyadh, demanding that the rebel group “immediately and unconditionally” cease all attacks against Saudi Arabia, the Foreign Office (FO) said. On Sunday, an Aramco building in Riyadh was tar­geted in an…"
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "f51c75fc86193752",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Reach 281-5 on Opening Day of Sri Lanka Test",
+  "summary": "Pakistan compiled 281-5 on the first day of their opening Test against Sri Lanka, supported by half-centuries from Babar Azam and two debutants.",
+  "paragraphs": [
+   "According to Dawn, Pakistan concluded day one of the first Test match against Sri Lanka with a total of 281-5 on Monday. Four batters managed to record half-centuries during the innings.",
+   "The team's captain, Babar Azam, reached 50 runs, Dawn reported. In addition, two players making their Test debuts contributed significantly, with opener Tayyab Arif scoring 57 and Mohammad Taha registering 51."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Pakistan post 281-5 to punish Sri Lanka in first Test",
+    "link": "https://www.dawn.com/news/2043268/pakistan-post-281-5-to-punish-sri-lanka-in-first-test",
+    "published": "2026-11-09T12:34:01Z",
+    "used_text": "Captain Babar Azam and two debutants were among four batters to hit half-centuries as Pakistan reached 281-5 on day one of the first Test against Sri Lanka on Monday. Opener Tayyab Arif scored an impressive 57 and Mohammad Taha a patient 51 — both playing their first Test — while Azam hit 50, with…"
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "d74ee83cbae97f1c",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Secure U-19 Asia Cup Semi-Final Spot",
+  "summary": "Pakistan's under-19 cricket team qualified for the Asia Cup semi-finals after defeating India by 3 wickets.",
+  "paragraphs": [
+   "Aaj News reported that Pakistan achieved a 3-wicket victory against India in the U-19 Asia Cup.",
+   "With this result, the Pakistani team has secured qualification for the semi-final stage of the tournament, according to Aaj News."
+  ],
+  "sources": [
+   {
+    "source": "Aaj News",
+    "title": "Pakistan beat India by 3 wickets to qualify for U-19 Asia Cup semi-finals",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXhwTVpnbE81MXZSVHBIWlFXX3ZINFFXTGJvYVdiOEVzbUEzTHNia181bVRKNWI5Wl9wZGNIa2xPVDF1QWxoWV9NU2hoMm52YWxNOG0wWnFLUzFNM3pXeUxCTTdEVVp5ODhxcThvVkFSQ2hkTEk1ZkdERkxpd1A0NXZ1WkZGMUw4Qlg3Nm4wSU9rOEVsQkhtS3lhV0VEY0tMcmpsaFNTSFV3SXNtRlZZZw?oc=5",
+    "published": "2026-11-09T11:26:15Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "43145c27850daae2",
+  "region": "international",
+  "category": "news",
+  "title": "Deadly Industrial Blast Hits Turkish Steel Plant",
+  "summary": "An industrial explosion at a steel factory in western Turkey has killed at least 16 people after a crane collapsed into a furnace.",
+  "paragraphs": [
+   "A major explosion took place at a steel factory near Izmir in western Turkey, according to Al Jazeera and BBC News. BBC News identified the facility as the Habas Demir Celik plant in Aliaga.",
+   "Casualty counts varied slightly across reports. Al Jazeera and DW reported that at least 16 people died, citing an announcement by President Recep Tayyip Erdogan following a cabinet meeting. Euronews reported that at least 17 individuals were killed and 13 others were injured. According to Euronews and Al Jazeera, the disaster was triggered when a crane carrying a boiler collapsed into an industrial furnace."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Deadly explosion at Iron and steel plant in Turkiye",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+    "published": "2026-11-09T20:19:18Z",
+    "used_text": "Deadly explosion at Iron and steel plant in Turkiye"
+   },
+   {
+    "source": "Euronews",
+    "title": "A huge explosion at a steel factory in Western Turkey has left at least 17 people dead and 13 injured",
+    "link": "https://www.euronews.com/2026/11/09/a-huge-explosion-at-a-steel-factory-in-western-turkey-has-left-at-least-17-people-dead-and",
+    "published": "2026-11-09T20:14:35Z",
+    "used_text": "The explosion occurred when a crane lifting a boiler collapsed into a large industrial furnace, causing a huge fire."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Explosion at Turkish steel plant kills at least 16 people",
+    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+    "published": "2026-11-09T19:58:40Z",
+    "used_text": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir."
+   },
+   {
+    "source": "BBC News",
+    "title": "Turkey steel factory blast kills at least 16 people",
+    "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-09T18:04:01Z",
+    "used_text": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
+   },
+   {
+    "source": "DW",
+    "title": "Turkey: Workers killed in Izmir steel plant blast",
+    "link": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-09T15:52:00Z",
+    "used_text": "At least 16 workers lost their lives in an explosion at a steel factory in Izmir. President Recep Tayyip Erdogan issued an updated casualty toll after a Cabinet meeting."
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "2dfd0efbaa431652",
+  "region": "international",
+  "category": "news",
+  "title": "France Blames Iranian Cyber Unit for Supermarket Fridge Attacks",
+  "summary": "French officials have accused an Iranian Revolutionary Guard cyber unit of hacking supermarket refrigerators across the country.",
+  "paragraphs": [
+   "The French government has formally accused Iran's Revolutionary Guards of carrying out cyberattacks against supermarket refrigerators and freezers last month, according to BBC News, France 24, and DW. Foreign Minister Jean-Noel Barrot described the hacking operation as unprecedented, DW and Euronews reported.",
+   "France 24 reported that the Paris prosecutor launched an investigation into Shahid Kaveh, identified as a cyber unit of the IRGC. The attacks occurred on October 11 and 12, affecting more than 1,000 stores and spoiling tons of chilled and frozen food, according to Al Jazeera, BBC News, and France 24. Euronews added that France plans to summon the Iranian ambassador over the incident."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "France accuses Iran of supermarket fridge hacking",
+    "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-09T20:20:08Z",
+    "used_text": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+   },
+   {
+    "source": "France 24",
+    "title": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
+    "link": "https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks",
+    "published": "2026-11-09T20:06:09Z",
+    "used_text": "The Paris prosecutor said she had opened an investigation into Shahid Kaveh, a shadowy cyber unit of the IRGC, the Islamic republic's ideological army, over the 'unprecedented' cyberattacks targeting French supermarkets' fridges in October. Little is known about the Shahid Kaveh unit, although…"
+   },
+   {
+    "source": "France 24",
+    "title": "France opens probe into Iranian cyber unit over fridge attacks",
+    "link": "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks",
+    "published": "2026-11-09T19:24:54Z",
+    "used_text": "France on Monday said Iran's Revolutionary Guards were behind \"unprecedented\" cyberattacks on supermarket fridges in the country last month, vowing sanctions on a European level against Tehran. Swathes of French supermarkets were hit in the October 11 and 12 cyberattacks, which raised the…"
+   },
+   {
+    "source": "DW",
+    "title": "French officials blame Iran for supermarket fridge hacking",
+    "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-09T18:33:00Z",
+    "used_text": "The recent cyberattack on refrigerators and freezers in supermarkets in France was organized by Iran's Revolutionary Guards, French Foreign Minister Jean-Noel Barrot has said, describing the hacking as \"unprecedented.\""
+   },
+   {
+    "source": "Sky News",
+    "title": "France blames Iran for massive cyber attack on supermarket fridges",
+    "link": "https://news.sky.com/story/france-accuses-iran-of-being-behind-massive-cyber-attack-on-supermarket-fridges-13610319",
+    "published": "2026-11-09T17:04:00Z",
+    "used_text": "France has accused Iran of being behind the massive cyber attack on supermarket fridges last month."
+   },
+   {
+    "source": "France 24",
+    "title": "🔴 Iran's Revolutionary Guards behind cyberattacks on supermarket fridges, says French FM",
+    "link": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot",
+    "published": "2026-11-09T16:44:44Z",
+    "used_text": ""
+   },
+   {
+    "source": "Euronews",
+    "title": "France says Iran behind cyberattacks on supermarket fridges",
+    "link": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges",
+    "published": "2026-11-09T16:39:34Z",
+    "used_text": "French Foreign Minister Barrot said that an investigation into the fridge hack was still underway and that Iran's ambassador to France would be summoned."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "France accuses Iran of cyberattack on supermarket fridges",
+    "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
+    "published": "2026-11-09T16:33:33Z",
+    "used_text": "Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores."
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "13c91bf17facade7",
+  "region": "international",
+  "category": "news",
+  "title": "Pope Leo XIV Warns Against Austerity During Argentina Visit",
+  "summary": "During a pastoral trip to Argentina, Pope Leo XIV voiced concerns over government welfare cuts led by President Javier Milei.",
+  "paragraphs": [
+   "Pope Leo XIV conducted a major mass in Buenos Aires that drew an estimated 2.5 million attendees, making it his largest gathering yet, according to DW. The pontiff's appearance comes in the midst of a 12-day tour across South America, Euronews reported.",
+   "During his trip, the Pope visited the Cottolengo Don Orione in Claypole, a facility supporting over 400 individuals, Euronews reported. Amid cuts enacted by President Javier Milei affecting disability care and broader social programs, DW and Euronews noted that the Pope urged the protection of society's most vulnerable populations, asserting that national progress should be measured by the treatment of those with the greatest needs."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Argentina: Pope Leo XIV urges Milei's government to protect the most vulnerable",
+    "link": "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable",
+    "published": "2026-11-09T18:54:15Z",
+    "used_text": "The Pontiff visited the Cottolengo Don Orione, which cares for over 400 people and has been hit by Javier Milei's cuts, and said a nation's progress should be judged by how it treats those most in need."
+   },
+   {
+    "source": "DW",
+    "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei's austerity",
+    "link": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-09T18:38:00Z",
+    "used_text": "Some 2.5 million people have attended Pope Leo's mass in Buenos Aires, his largest gathering yet. The pontiff once again called for protecting the vulnerable as President Milei cuts disability care and social services."
+   },
+   {
+    "source": "Euronews",
+    "title": "Argentina: Pope Leo XIV receives warm welcome in Claypole",
+    "link": "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole",
+    "published": "2026-11-09T17:03:33Z",
+    "used_text": "Pope Leo XIV was welcomed by crowds in Claypole, near Buenos Aires, as he visited the Don Orione care home. The pontiff greeted the faithful and unveiled a plaque during his 12-day South American tour."
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "af35a7d7e4063d82",
+  "region": "international",
+  "category": "sports",
+  "title": "Controversy Surrounds Russia's Return to Junior Ice Hockey Championship",
+  "summary": "Norway has reportedly been removed from the upcoming World Juniors tournament to accommodate the return of Russia, sparking international debate and a boycott.",
+  "paragraphs": [
+   "Norway stated that it has been kicked out of the upcoming major ice hockey tournament to create room for Russia, DW reported. Euronews detailed that the International Ice Hockey Federation moved Norway, which is ranked 10th, down to Division 1A to free up a spot for Russia at the event in Alberta. This adjustment followed an order from the Court of Arbitration for Sport requiring the reinstatement of Russian teams.",
+   "However, Euronews reported that the alteration is not yet officially confirmed, and Russia currently has no guarantee of receiving Canadian visas. Amid the ongoing dispute over Russia's reintroduction to global hockey, Switzerland has decided to join a boycott, according to DW."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Norway dropped from junior hockey championship to make room for Russia",
+    "link": "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia",
+    "published": "2026-11-09T16:28:06Z",
+    "used_text": "The IIHF has moved Norway, ranked 10th, to Division 1A to free a place for Russia at the tournament in Alberta, after the Court of Arbitration for Sport ordered Russian teams reinstated. The change is not yet confirmed, and Russia has not been guaranteed Canadian visas."
+   },
+   {
+    "source": "DW",
+    "title": "Ice hockey: Norway says it's been kicked out of World Juniors in favor of Russia",
+    "link": "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-09T16:02:00Z",
+    "used_text": "The wrangling over Russia's return to international ice hockey continues, with Norway saying it has been kicked out of the next major tournament to accommodate Russia. Switzerland has joined a \"boycott.\""
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ },
+ {
+  "id": "6bb93bbe1e85d2d0",
+  "region": "international",
+  "category": "sports",
+  "title": "Aberdeen Dismiss Stephen Robinson Following League Downturn",
+  "summary": "Scottish Premiership club Aberdeen have parted ways with head coach Stephen Robinson following poor league form.",
+  "paragraphs": [
+   "Aberdeen have sacked head coach Stephen Robinson, BBC News reported. The decision came after the team slid down to the second bottom position of the Scottish Premiership table.",
+   "Robinson's tenure at the club officially concluded after a heavy 4-0 defeat away against Hibernian, according to BBC News reports."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
+    "link": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-09T17:10:00Z",
+    "used_text": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge."
+   },
+   {
+    "source": "BBC News",
+    "title": "Aberdeen sack Robinson after league slump",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-09T16:46:11Z",
+    "used_text": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership."
+   }
+  ],
+  "created": "2026-11-09T20:38:58Z"
+ }
+]
