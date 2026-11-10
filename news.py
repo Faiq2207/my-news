@@ -32,6 +32,8 @@ with open(os.path.join(ROOT, "config.json"), encoding="utf-8") as f:
     CONFIG = json.load(f)
 
 KEEP_DAYS = int(CONFIG.get("keep_days", 3))
+ARCHIVE_DAYS = int(CONFIG.get("story_pages_keep_days", 365))
+ARCHIVE_FILE = os.path.join(DATA, "archive.json")
 N_NEWS = int(CONFIG.get("articles_news_per_section", 8))
 N_SPORTS = int(CONFIG.get("articles_sports_per_section", 2))
 SITE_NAME = CONFIG.get("site_name", "My News Channel")
@@ -284,7 +286,7 @@ def ask_gemini(prompt, key):
                 print(f"  {model}: connection problem ({type(ex).__name__}), retrying…")
                 time.sleep(10)
                 continue
-            if r.status_code == 400 and "thinking" in r.text.lower() and "thinkingConfig" in config:
+            if r.status_code == 400 and "thinkingConfig" in config:
                 config = {k: v for k, v in config.items() if k != "thinkingConfig"}
                 continue
             if r.status_code == 404:
@@ -399,110 +401,217 @@ def run_articles():
     for region in ("local", "international"):
         print(f"Writing {region} articles…")
         new += write_section(region, key, headlines, now)
+    for a in new:
+        a["url"] = f"a/{slug_for(a)}.html"
     old = load(ARTICLES_FILE, [])
     articles = prune(new + old, "created")
     articles.sort(key=lambda a: a["created"], reverse=True)
     save(ARTICLES_FILE, articles)
-    print(f"Saved {len(articles)} articles (last {KEEP_DAYS} days).")
-    build_site(articles)
+    print(f"Saved {len(articles)} articles (last {KEEP_DAYS} days) for the homepage.")
+    build_site(articles, new)
+
 
 # ---------------------------------------------------------------------------
-# Search-friendly pages: one page per story, sitemap, robots.txt, homepage SEO
+# Search-friendly pages: one page per story (kept for a year), section pages,
+# about page, sitemaps (normal + Google News), homepage SEO
 # ---------------------------------------------------------------------------
 PAGE_DIR = os.path.join(ROOT, "a")
+PKT = timezone(timedelta(hours=5))
+SECTIONS = {  # file name, heading, description, filter
+    "pakistan": ("Pakistan news", "Latest Pakistan news stories, written from reports by Dawn, Geo, ARY, Express Tribune and other channels.",
+                 lambda a: a["region"] == "local" and a["category"] == "news"),
+    "world": ("World news", "Latest international news stories, written from reports by BBC, Al Jazeera, DW, CNN and other channels.",
+              lambda a: a["region"] == "international" and a["category"] == "news"),
+    "sports": ("Sports news", "Latest cricket, football and other sports stories from Pakistan and around the world.",
+               lambda a: a["category"] == "sports"),
+}
 
 
 def esc(t):
     return html.escape(t or "", quote=True)
 
 
-def story_page(a):
-    when = parse_iso(a["created"]).astimezone(timezone(timedelta(hours=5))).strftime("%-d %B %Y, %-I:%M %p PKT")
-    refs = "".join(
-        f'<li><a href="{esc(s["link"])}" rel="nofollow noopener" target="_blank">{esc(s["title"])}</a>'
-        f'<div class="m">{esc(s["source"])}</div></li>' for s in a["sources"])
-    body = "".join(f"<p>{esc(p)}</p>" for p in a["paragraphs"])
-    ld = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": a["title"][:110],
-          "datePublished": a["created"], "dateModified": a["created"], "description": a.get("summary", ""),
-          "author": {"@type": "Organization", "name": SITE_NAME},
-          "publisher": {"@type": "Organization", "name": SITE_NAME},
-          "mainEntityOfPage": f"{SITE_URL}a/{a['id']}.html"}
+def slug_for(a):
+    words = re.sub(r"[^a-z0-9]+", "-", a["title"].lower()).strip("-")
+    words = "-".join(words.split("-")[:9])
+    return f"{a['created'][:10]}-{words}-{a['id'][:4]}"
+
+
+def pkt_time(s):
+    return parse_iso(s).astimezone(PKT).strftime("%-d %B %Y, %-I:%M %p PKT")
+
+
+CSS = """:root{--paper:#f4f7f4;--ink:#17212b;--muted:#5f6b74;--line:#d6ded8;--green:#0e6b4f;color-scheme:light;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root{--paper:#10171c;--ink:#e6ece8;--muted:#9aa8a1;--line:#26332d;--green:#5fc29c;color-scheme:dark}}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,serif;line-height:1.7}
+.w{max-width:720px;margin:0 auto;padding:24px 20px 60px} a{color:var(--green)}
+.nav{font-family:system-ui,sans-serif;font-size:.9rem;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline}
+.nav .home{font-weight:700;text-decoration:none;font-size:1rem;margin-right:auto}
+h1{font-family:system-ui,sans-serif;font-size:clamp(1.6rem,4vw,2.3rem);line-height:1.2;margin:18px 0 6px}
+h2{font-family:system-ui,sans-serif;font-size:1.1rem;margin:28px 0 8px}
+.by,.m,.note{font-family:system-ui,sans-serif;color:var(--muted);font-size:.85rem}
+.list{list-style:none;padding:0;margin:0} .list li{border-top:1px solid var(--line);padding:12px 0}
+.list a{font-family:system-ui,sans-serif;font-weight:600;text-decoration:none;color:var(--ink)} .list p{margin:4px 0 0;color:var(--muted)}
+.refs{border-top:1px solid var(--line);margin-top:28px;padding-top:12px} .refs li{margin:8px 0}
+footer{border-top:1px solid var(--line);margin-top:32px;padding-top:12px}
+:focus-visible{outline:2px solid var(--green);outline-offset:2px}"""
+
+
+def shell(title, desc, canonical, body, depth=0, extra_head="", og_type="website"):
+    up = "../" * depth
+    nav = (f'<nav class="nav" aria-label="Sections"><a class="home" href="{up}./">{esc(SITE_NAME)}</a>'
+           + "".join(f'<a href="{up}{k}.html">{esc(v[0])}</a>' for k, v in SECTIONS.items())
+           + f'<a href="{up}about.html">About</a></nav>')
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{esc(a["title"])} | {esc(SITE_NAME)}</title>
-<meta name="description" content="{esc(a.get("summary", ""))}">
-<link rel="canonical" href="{SITE_URL}a/{a["id"]}.html">
-<meta property="og:title" content="{esc(a["title"])}"><meta property="og:type" content="article">
-<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
-<style>
-:root{{--paper:#f4f7f4;--ink:#17212b;--muted:#5f6b74;--line:#d6ded8;--green:#0e6b4f;color-scheme:light;
-box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}}
-@media (prefers-color-scheme:dark){{:root{{--paper:#10171c;--ink:#e6ece8;--muted:#9aa8a1;--line:#26332d;--green:#5fc29c;color-scheme:dark}}}}
-*,*::before,*::after{{box-sizing:inherit}}
-body{{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,serif;line-height:1.7}}
-.w{{max-width:720px;margin:0 auto;padding:24px 20px 60px}} a{{color:var(--green)}}
-.home{{font-family:system-ui,sans-serif;font-weight:700;text-decoration:none}}
-h1{{font-family:system-ui,sans-serif;font-size:clamp(1.6rem,4vw,2.3rem);line-height:1.2;margin:18px 0 6px}}
-.by,.m,.note{{font-family:system-ui,sans-serif;color:var(--muted);font-size:.85rem}}
-.refs{{border-top:1px solid var(--line);margin-top:28px;padding-top:12px}} .refs li{{margin:8px 0}}
-footer{{border-top:1px solid var(--line);margin-top:32px;padding-top:12px}}
-</style></head>
+<title>{esc(title)}</title>
+<meta name="description" content="{esc(desc)}">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="canonical" href="{canonical}">
+<meta property="og:site_name" content="{esc(SITE_NAME)}"><meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:type" content="{og_type}">
+<meta name="twitter:card" content="summary">
+{extra_head}
+<style>{CSS}</style></head>
 <body><div class="w">
-<a class="home" href="../">{esc(SITE_NAME)}</a>
-<h1>{esc(a["title"])}</h1>
-<div class="by">{esc(SITE_NAME)} news desk, {when}</div>
+{nav}
 {body}
-<div class="refs"><h2 class="by">Sources</h2><p class="note">This story uses only facts from these reports.</p><ol>{refs}</ol></div>
-<footer class="note">Written with AI assistance from the sources listed above. <a href="../">More news</a></footer>
+<footer class="note">Stories are written with AI assistance using only facts from the reports listed under each one. Headlines and links belong to their publishers. <a href="{up}about.html">How we work</a></footer>
 </div></body></html>"""
 
 
-def build_site(articles):
+def story_page(a, related):
+    url = SITE_URL + a["url"]
+    refs = "".join(
+        f'<li><a href="{esc(s["link"])}" rel="nofollow noopener" target="_blank">{esc(s["title"])}</a>'
+        f'<div class="m">{esc(s["source"])}</div></li>' for s in a["sources"])
+    body_txt = "".join(f"<p>{esc(p)}</p>" for p in a["paragraphs"])
+    sec = "sports" if a["category"] == "sports" else ("pakistan" if a["region"] == "local" else "world")
+    ld = [{"@context": "https://schema.org", "@type": "NewsArticle", "headline": a["title"][:110],
+           "datePublished": a["created"], "dateModified": a["created"], "description": a.get("summary", ""),
+           "articleSection": SECTIONS[sec][0], "isAccessibleForFree": True,
+           "author": {"@type": "Organization", "name": SITE_NAME, "url": SITE_URL},
+           "publisher": {"@type": "Organization", "name": SITE_NAME, "url": SITE_URL},
+           "mainEntityOfPage": url},
+          {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+              {"@type": "ListItem", "position": 1, "name": SITE_NAME, "item": SITE_URL},
+              {"@type": "ListItem", "position": 2, "name": SECTIONS[sec][0], "item": f"{SITE_URL}{sec}.html"},
+              {"@type": "ListItem", "position": 3, "name": a["title"]}]}]
+    rel = "".join(f'<li><a href="../{esc(r["url"])}">{esc(r["title"])}</a></li>' for r in related)
+    body = f"""<p class="by"><a href="../{sec}.html">{esc(SECTIONS[sec][0])}</a></p>
+<article><h1>{esc(a["title"])}</h1>
+<div class="by">{esc(SITE_NAME)} news desk, <time datetime="{a["created"]}">{pkt_time(a["created"])}</time></div>
+{body_txt}
+<div class="refs"><h2>Sources</h2><p class="note">This story uses only facts from these reports.</p><ol>{refs}</ol></div></article>
+{f'<h2>More {esc(SECTIONS[sec][0].lower())}</h2><ul class="list">{rel}</ul>' if rel else ""}"""
+    head = f'<meta property="article:published_time" content="{a["created"]}">\n<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>'
+    return shell(f"{a['title']} | {SITE_NAME}", a.get("summary") or a["title"], url, body, depth=1,
+                 extra_head=head, og_type="article")
+
+
+def list_items(items, up=""):
+    return "".join(
+        f'<li><a href="{up}{esc(a["url"])}">{esc(a["title"])}</a><p>{esc(a.get("summary", ""))}</p>'
+        f'<div class="m">{pkt_time(a["created"])}</div></li>' for a in items)
+
+
+def build_site(articles, new=()):
+    archive = {a["id"]: a for a in load(ARCHIVE_FILE, [])}
+    for a in list(new) + list(articles):
+        a.setdefault("url", f"a/{slug_for(a)}.html")
+        archive.setdefault(a["id"], a)
+    cutoff = now_utc() - timedelta(days=ARCHIVE_DAYS)
+    stories = sorted((a for a in archive.values() if parse_iso(a["created"]) >= cutoff),
+                     key=lambda a: a["created"], reverse=True)
+    save(ARCHIVE_FILE, stories)
+
     os.makedirs(PAGE_DIR, exist_ok=True)
     keep = set()
-    for a in articles:
-        name = f"{a['id']}.html"
+    for a in stories:
+        sec_f = (lambda x: x["category"] == "sports") if a["category"] == "sports" else \
+            (lambda x, r=a["region"]: x["region"] == r and x["category"] == "news")
+        related = [r for r in stories if r["id"] != a["id"] and sec_f(r)][:6]
+        name = os.path.basename(a["url"])
         keep.add(name)
         with open(os.path.join(PAGE_DIR, name), "w", encoding="utf-8") as f:
-            f.write(story_page(a))
+            f.write(story_page(a, related))
     for name in os.listdir(PAGE_DIR):
         if name.endswith(".html") and name not in keep:
             os.remove(os.path.join(PAGE_DIR, name))
 
+    for key, (head, desc, test) in SECTIONS.items():
+        items = [a for a in stories if test(a)][:80]
+        body = f"<h1>{esc(head)}</h1><p class=\"by\">{esc(desc)}</p><ul class=\"list\">{list_items(items)}</ul>"
+        with open(os.path.join(ROOT, f"{key}.html"), "w", encoding="utf-8") as f:
+            f.write(shell(f"{head}: latest stories | {SITE_NAME}", desc, f"{SITE_URL}{key}.html", body))
+
+    contact = CONFIG.get("contact_email", "").strip()
+    about = f"""<h1>About {esc(SITE_NAME)}</h1>
+<p>{esc(SITE_NAME)} brings Pakistan and world news together in one place. Live headlines from Pakistani and international channels update every hour, and each headline links to the full report on the original website.</p>
+<h2>How our stories are written</h2>
+<p>Twice a day, at about 8 AM and 8 PM Pakistan time, we publish short news stories written with AI assistance. Each story uses only facts that appear in the reports it lists as sources, names who reported each claim, and links to every source. Stories that contain a number not found in their sources are rejected automatically before publishing.</p>
+<h2>Corrections</h2>
+<p>If you find a mistake, please tell us{f' at <a href="mailto:{esc(contact)}">{esc(contact)}</a>' if contact else ''}. We correct errors as quickly as we can.</p>
+<h2>Ownership of headlines</h2>
+<p>Headlines, snippets and links belong to their original publishers. We show only titles, short snippets and links, never full copied articles.</p>"""
+    with open(os.path.join(ROOT, "about.html"), "w", encoding="utf-8") as f:
+        f.write(shell(f"About us and how we work | {SITE_NAME}", f"How {SITE_NAME} collects headlines and writes its news stories.",
+                      f"{SITE_URL}about.html", about))
+
     today = now_utc().strftime("%Y-%m-%d")
     urls = [f"<url><loc>{SITE_URL}</loc><lastmod>{today}</lastmod><changefreq>hourly</changefreq></url>"]
-    urls += [f"<url><loc>{SITE_URL}a/{a['id']}.html</loc><lastmod>{a['created'][:10]}</lastmod></url>" for a in articles]
+    urls += [f"<url><loc>{SITE_URL}{k}.html</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq></url>" for k in SECTIONS]
+    urls += [f"<url><loc>{SITE_URL}about.html</loc></url>"]
+    urls += [f"<url><loc>{SITE_URL}{a['url']}</loc><lastmod>{a['created'][:10]}</lastmod></url>" for a in stories]
     with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                 + "\n".join(urls) + "\n</urlset>\n")
+    recent = [a for a in stories if now_utc() - parse_iso(a["created"]) <= timedelta(hours=48)]
+    news_urls = "".join(
+        f"<url><loc>{SITE_URL}{a['url']}</loc><news:news><news:publication><news:name>{esc(SITE_NAME)}</news:name>"
+        f"<news:language>en</news:language></news:publication><news:publication_date>{a['created']}</news:publication_date>"
+        f"<news:title>{esc(a['title'])}</news:title></news:news></url>\n" for a in recent)
+    with open(os.path.join(ROOT, "news-sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+                'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">\n' + news_urls + "</urlset>\n")
     with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f:
-        f.write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}sitemap.xml\n")
+        f.write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}sitemap.xml\nSitemap: {SITE_URL}news-sitemap.xml\n")
 
     path = os.path.join(ROOT, "index.html")
     with open(path, encoding="utf-8") as f:
         page = f.read()
     tagline = CONFIG.get("tagline", "")
-    page = re.sub(r"<title>.*?</title>", f"<title>{esc(SITE_NAME)}: {esc(tagline)}</title>", page, count=1, flags=re.S)
-    meta = f'<meta name="description" content="{esc(tagline)}. Live headlines from Pakistani and international channels, plus our own news stories twice a day.">'
-    if '<meta name="description"' in page:
-        page = re.sub(r'<meta name="description"[^>]*>', meta, page, count=1)
+    desc = f"{tagline}. Live headlines from Pakistani and international channels every hour, plus our own news stories twice a day."
+    page = re.sub(r"<title>.*?</title>", f"<title>{esc(SITE_NAME)}: Pakistan and World News Today</title>", page, count=1, flags=re.S)
+    page = re.sub(r'(<h1 class="brand" id="brand">).*?(</h1>)', lambda m: m.group(1) + esc(SITE_NAME) + m.group(2), page, count=1)
+    head = (f'<!--seo--><meta name="description" content="{esc(desc)}">\n<link rel="canonical" href="{SITE_URL}">\n'
+            f'<meta name="robots" content="index, follow, max-image-preview:large">\n'
+            f'<meta property="og:site_name" content="{esc(SITE_NAME)}"><meta property="og:title" content="{esc(SITE_NAME)}">'
+            f'<meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{SITE_URL}"><meta property="og:type" content="website">\n'
+            '<script type="application/ld+json">' + json.dumps([
+                {"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": SITE_URL},
+                {"@context": "https://schema.org", "@type": "NewsMediaOrganization", "name": SITE_NAME, "url": SITE_URL,
+                 "publishingPrinciples": f"{SITE_URL}about.html"}], ensure_ascii=False) + "</script><!--/seo-->")
+    page = re.sub(r'<meta name="description"[^>]*>\n?', "", page)
+    page = re.sub(r'<link rel="canonical"[^>]*>\n?', "", page)
+    if "<!--seo-->" in page:
+        page = re.sub(r"<!--seo-->.*?<!--/seo-->", lambda m: head, page, count=1, flags=re.S)
     else:
-        page = page.replace("<title>", meta + "\n<title>", 1)
-    if 'rel="canonical"' not in page:
-        page = page.replace("<title>", f'<link rel="canonical" href="{SITE_URL}">\n<title>', 1)
-    items = "".join(f'<li><a href="a/{a["id"]}.html">{esc(a["title"])}</a></li>' for a in articles[:40])
+        page = page.replace("<title>", head + "\n<title>", 1)
+    links = "".join(f'<a href="{k}.html">{esc(v[0])}</a> · ' for k, v in SECTIONS.items()) + '<a href="about.html">About us</a>'
     block = ('<!--stories--><nav class="sec-note" aria-label="All our stories"><h2 class="sec">All our stories</h2>'
-             f'<ul>{items}</ul></nav><!--/stories-->')
+             f'<p>{links}</p><ul>' + "".join(f'<li><a href="{esc(a["url"])}">{esc(a["title"])}</a></li>' for a in stories[:40])
+             + "</ul></nav><!--/stories-->")
     if "<!--stories-->" in page:
         page = re.sub(r"<!--stories-->.*?<!--/stories-->", lambda m: block, page, count=1, flags=re.S)
     else:
         page = page.replace("  <footer>", block + "\n\n  <footer>", 1)
     with open(path, "w", encoding="utf-8") as f:
         f.write(page)
-    print(f"Built {len(articles)} story pages and sitemap.")
-
-
+    print(f"Built {len(stories)} story pages, 3 section pages, about page and sitemaps.")
 
 if __name__ == "__main__":
     mode = sys.argv[1] if len(sys.argv) > 1 else "headlines"
