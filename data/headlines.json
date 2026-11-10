@@ -1,5 +1,181 @@
 [
  {
+  "id": "b913f5db039e540a",
+  "source": "CNBC",
+  "region": "international",
+  "category": "news",
+  "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+  "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+  "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+  "published": "2026-11-10T22:13:53Z",
+  "fetched": "2026-11-10T22:17:45Z"
+ },
+ {
+  "id": "adab1f5b87da8943",
+  "source": "BBC News",
+  "region": "international",
+  "category": "sports",
+  "title": "Man City thrash Inter to claim first CL win of season",
+  "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+  "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-10T22:05:15Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "f091d0b7fce2957b",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "UNIFIL patrol comes under fire in southern Lebanon",
+  "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+  "published": "2026-11-10T22:03:50Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "e61ff03e9da10e86",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "US poll shows death penalty lost majority support for first time since 1971",
+  "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+  "published": "2026-11-10T22:03:20Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "2966e28ebd7a46c5",
+  "source": "Fox News",
+  "region": "international",
+  "category": "news",
+  "title": "American girl, 7, killed during Mexican cartel operation; mother blames police helicopter: report",
+  "summary": "Aranza Aidelany Pardo's mother says a Tamaulipas state police helicopter fired the shot that killed her 7-year-old during a Gulf Cartel operation.",
+  "link": "https://www.foxnews.com/world/american-girl-7-killed-mexican-cartel-operation-mother-blames-police-helicopter-report",
+  "published": "2026-11-10T21:59:56Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "69f73e7bc524b237",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+  "summary": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivocal assessment, Townsend, taking place alongside…",
+  "link": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
+  "published": "2026-11-10T21:57:47Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "c89268657c7aa2e2",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+  "summary": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
+  "published": "2026-11-10T21:55:49Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "aa0538915b9681ca",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
+  "summary": "Gadi Eisenkot, the politician tasked with forming a new Israeli government, pledged on Tuesday to launch an official inquiry into Hamas's October 7, 2023 attacks and reverse many of Prime Minister Benjamin Netanyahu's policies as the new parliament was sworn in a tense opening session that saw…",
+  "link": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
+  "published": "2026-11-10T21:53:40Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "bbcb630c74e136c5",
+  "source": "Fox News",
+  "region": "international",
+  "category": "news",
+  "title": "Senior US Army soldier arrested in UK on suspicion of spying for Russia",
+  "summary": "U.K. police arrested a senior U.S. Army soldier in a Russia-linked espionage probe, drawing a sharp warning from FBI Director Kash Patel.",
+  "link": "https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia",
+  "published": "2026-11-10T21:51:09Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "bb3a726cc0c2b3c9",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
+  "summary": "Erin Ogunkeye is pleased to welcome Raphaëlle d’Ornano, Founder and Managing Partner of D’Ornano + Co. “Nvidia has an absolutely central role in the ecosystem,” she explains, “If something happens to Nvidia, it's going to be a catastrophe.” When the discussion turns to geopolitics, she warns,…",
+  "link": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
+  "published": "2026-11-10T21:40:18Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "560f3bf3ea74d8e3",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Anthropic eyes $1.4 trillion valuation in blockbuster IPO",
+  "summary": "US firm Anthropic, the company behind the Claude AI chatbot, has announced it will offer 825 million shares at a price between $70 and $78 apiece during its planned IPO. This will give the firm a valuation of around 1.4 trillion dollars. The blockbuster IPO will come at a time investors are…",
+  "link": "https://www.france24.com/en/tv-shows/business/20261110-anthropic-eyes-1-4-trillion-valuation-in-blockbuster-ipo",
+  "published": "2026-11-10T21:39:05Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "4534b19c9df3f252",
+  "source": "Fox News",
+  "region": "international",
+  "category": "news",
+  "title": "Mojtaba Khamenei aide's chilling '40 years' warning surfaces amid US push for Iran deal",
+  "summary": "Mohsen Rezaei once warned that ceasefire talks could last decades, as JD Vance reportedly reached out to him about resuming U.S.-Iran peace talks.",
+  "link": "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
+  "published": "2026-11-10T21:33:04Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "1a24f0d6ccee820a",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Asymmetric cyberwarfare: 'States increasingly use cyberattacks in support of their other objectives'",
+  "summary": "Erin Ogunkeye is pleased to welcome Rafe Pilling, Director of Threat Intelligence in the Sophos Counter Threat Unit (CTU). How can a minor cyber intrusion disrupt food supplies, expose the weaknesses of industrial infrastructure and become an instrument of geopolitical confrontation? The…",
+  "link": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+  "published": "2026-11-10T21:25:45Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
+  "id": "ced5427ce3794e14",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "Why does Australia want Brits to swap Sydney for the outback?",
+  "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+  "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-10T21:17:00Z",
+  "fetched": "2026-11-10T22:17:43Z"
+ },
+ {
+  "id": "57a524f35be559c0",
+  "source": "Euronews",
+  "region": "international",
+  "category": "news",
+  "title": "Pope Leo XIV draws huge crowds in Córdoba after record Buenos Aires mass",
+  "summary": "Faithful from all over Argentina, from the farthest north of the country to Patagonia in the south and points in between, drove hours to be on hand for the service led by the Pope.",
+  "link": "https://www.euronews.com/2026/11/10/pope-leo-xiv-draws-huge-crowds-in-cordoba-after-record-buenos-aires-mass",
+  "published": "2026-11-10T21:15:52Z",
+  "fetched": "2026-11-10T22:17:45Z"
+ },
+ {
+  "id": "062eb389d98e6190",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+  "summary": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
+  "link": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+  "published": "2026-11-10T21:00:55Z",
+  "fetched": "2026-11-10T22:17:44Z"
+ },
+ {
   "id": "4667c6d2426b608c",
   "source": "Euronews",
   "region": "international",
@@ -9,6 +185,17 @@
   "link": "https://www.euronews.com/2026/11/10/paraguays-new-president-vows-to-recover-pension-funds-at-risk-in-ueno-bank-crisis",
   "published": "2026-11-10T21:00:19Z",
   "fetched": "2026-11-10T21:04:33Z"
+ },
+ {
+  "id": "e2e75fdcf2d7f23a",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "White House announces funds for law enforcement programme in several cities",
+  "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+  "published": "2026-11-10T21:00:01Z",
+  "fetched": "2026-11-10T22:17:44Z"
  },
  {
   "id": "c8155dccf0da6a44",
@@ -53,6 +240,17 @@
   "link": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-summit",
   "published": "2026-11-10T20:49:06Z",
   "fetched": "2026-11-10T21:04:39Z"
+ },
+ {
+  "id": "89584a7f0f4d2ca8",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "Spain's king and queen attend memorial service for rail crash victims",
+  "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+  "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-10T20:46:40Z",
+  "fetched": "2026-11-10T22:17:43Z"
  },
  {
   "id": "c85990e2dcad1612",
@@ -330,6 +528,17 @@
   "fetched": "2026-11-10T21:04:39Z"
  },
  {
+  "id": "f4c63a6996da0482",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Govt announces drop in petrol, diesel prices for Nov 11",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3VwLThRdWROaXhNS1JhZXhDVmYwdVRfU0d5X2hIdHFzVDl2bHVBeGF5b3Yxc1Q1WWNYNmU4cWt3Vmd0RE4wS1d1bHJTRHRtdjlSS2RnaTlOUFdNd3BwTEE5UnhhRXFqYW02TEttdGZMajlGa1ExWjNIdUR6VWJQSUJUSENOcUk?oc=5",
+  "published": "2026-11-10T19:44:58Z",
+  "fetched": "2026-11-10T22:17:48Z"
+ },
+ {
   "id": "509528e8a3337291",
   "source": "ARY News",
   "region": "local",
@@ -493,6 +702,17 @@
   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yTVVial9KbUEwZmpycnctMjhydzU3WjJVdW9LdWduVWVDcVdSdDdiTlE3TU1RRnZfMTVJbXMzNjdENUp5a3p0YjZnSktPUVFUdm9pS1pn?oc=5",
   "published": "2026-11-10T19:04:22Z",
   "fetched": "2026-11-10T21:04:38Z"
+ },
+ {
+  "id": "b985873ea37ba29c",
+  "source": "GNN",
+  "region": "local",
+  "category": "news",
+  "title": "Watch: Important Meeting Under Mohsin Naqvi | Breaking News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBRFJRbUp1aXZQaHlEczB4NTc0RTZfWFRMTm5BbHphLWpsb2FUall3YnFBXzg1b0NLcEwtbFNFZkRQYjR0YkhTb1prU216R1BMSTFsVTlR?oc=5",
+  "published": "2026-11-10T19:04:18Z",
+  "fetched": "2026-11-10T22:17:49Z"
  },
  {
   "id": "bac044ef50dc0558",
@@ -691,6 +911,17 @@
   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVdjTm8yVThic21TNVN5NFhVN0EwM2dhNTk1OHZVTGFFWnNla3BBeEc4MWs2LWpQMWpsM2Z4czJsNldjNGZpLXE2dWxJOFpRY05ra09aZTdmR1UwNXZJckVmMDRHX19pSEZnZ2JsM01iT0FaVEZLU2ZlYVdoNzhIQUdzaw?oc=5",
   "published": "2026-11-10T18:32:05Z",
   "fetched": "2026-11-10T21:04:38Z"
+ },
+ {
+  "id": "ab3fb21ec5e10e9d",
+  "source": "Sky News",
+  "region": "international",
+  "category": "news",
+  "title": "Ex-investigator admits depriving war crimes probe of potentially valuable information",
+  "summary": "A former senior investigating officer for the Royal Military Police has admitted depriving a war crimes investigation of potentially valuable information.",
+  "link": "https://news.sky.com/story/ex-investigator-admits-depriving-war-crimes-investigation-of-potentially-valuable-information-13610746",
+  "published": "2026-11-10T18:32:00Z",
+  "fetched": "2026-11-10T22:17:44Z"
  },
  {
   "id": "ba6bfedf434eda60",
@@ -1263,6 +1494,28 @@
   "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
   "published": "2026-11-10T16:46:31Z",
   "fetched": "2026-11-10T18:28:59Z"
+ },
+ {
+  "id": "9ab1ac1b70c5c724",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "Rs5tr spent in defiance of law",
+  "summary": "Senate body bars further releases to 17 ministries, warns finance ministry",
+  "link": "https://tribune.com.pk/story/2639650/rs5tr-spent-in-defiance-of-law",
+  "published": "2026-11-10T16:45:28Z",
+  "fetched": "2026-11-10T22:17:48Z"
+ },
+ {
+  "id": "623dee8c1f25ee9b",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "9pm closure cuts retail sales by 42%",
+  "summary": "Energy savings unproven as only 41% cite lower bills; small shops rise to 31%",
+  "link": "https://tribune.com.pk/story/2639655/9pm-closure-cuts-retail-sales-by-42",
+  "published": "2026-11-10T16:45:28Z",
+  "fetched": "2026-11-10T22:17:48Z"
  },
  {
   "id": "386301c231e0447f",
@@ -2011,6 +2264,17 @@
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1sOUdWdDdqdUIzbUFxUVlDeE5BYktjNjgtc3ZGdjlqUlJ6dXREQjc4cGt0ZDdNOF92Y0JzeGt5Ui1MSy1GNXZJOENDRFFFRERsNWx1akVVQTlpQVNESXJ6c3QzRHp4UW9neUo1SUJqNEJkbU1WQmtzZnpFbUtrN0JJblNRTEQzOEUtbTI4S3dNS05fT0E4eUxOaw?oc=5",
   "published": "2026-11-10T15:18:00Z",
   "fetched": "2026-11-10T18:29:03Z"
+ },
+ {
+  "id": "9e44435cb767d9f8",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "‘Hatred should come to an end’: Gohar defends interaction with ex-army chief Bajwa amid criticism",
+  "summary": "Gohar says he exchanged greetings with Bajwa after handshake photo circulated widely on social media",
+  "link": "https://tribune.com.pk/story/2639649/hatred-should-come-to-an-end-gohar-defends-interaction-with-ex-army-chief-bajwa-amid-criticism",
+  "published": "2026-11-10T15:17:35Z",
+  "fetched": "2026-11-10T22:17:48Z"
  },
  {
   "id": "e8137538251eeba9",
@@ -4268,6 +4532,17 @@
   "fetched": "2026-11-10T18:29:05Z"
  },
  {
+  "id": "7035f4501b229ab3",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Sudden Attack Shakes the Middle East! Tensions Escalate | Breaking News | Dunya News.",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSkVsV1pZbHNiWEpFeDREZm1CVUtXUWtwc0JLTnZ3VzQ1aXdlY0UyMmN5cFFBaDIzX2lXcV9ZM1ZVelRQeWJDSjBFWUZuUzZzWVQ1ckZybVBOM3lPUnhDQnZmWnZFdTBlZmIxNkxKQkc2elZHTHRYY0RHQ1lZSEtydHZWVTVjSllwVEJzZHdGa28yNldORGh2Ul8zWTg2Sm1NUjJObzdrc2I0bEZtQm1qQWZiQjdNWTZhMTFVdC0zRUd0NDRGM2hUUXQ3d1dRcTJpVUJmeA?oc=5",
+  "published": "2026-11-10T10:01:29Z",
+  "fetched": "2026-11-10T22:17:47Z"
+ },
+ {
   "id": "68b8c1355b473b83",
   "source": "Geo News",
   "region": "local",
@@ -4497,6 +4772,17 @@
   "link": "https://www.euronews.com/2026/11/10/portugals-last-circus-elephant-adapts-to-life-in-new-sanctuary-gaining-100kg",
   "published": "2026-11-10T09:35:45Z",
   "fetched": "2026-11-10T10:33:25Z"
+ },
+ {
+  "id": "22f5fbd8945b92d6",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Tarbela Dam Water Level 90 Feet Above Dead Level, PM Seeks Report",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSGotYnFZb2RLVmRjWGE5RzV1bkNacDlVSjJNRk54T1RTUHBQb09Kd3BOdWRod3ZUZ3EybGJzSXBpR1J6emdtQ1Vob043a1hmdU5UT1MzRlBqeGJ6QVV6LXEwVEVhLTNPNzJyUndSLVJJUk1IY1ZyaHZOV1ZxOVl2a1psZTRBSFYwY0tzNW9ISTVieXZZM1g4TkdJWlJLOGlWTEVnRUoyN0tyN2JmcklEZg?oc=5",
+  "published": "2026-11-10T09:35:10Z",
+  "fetched": "2026-11-10T22:17:49Z"
  },
  {
   "id": "91d19827d4ec3768",
@@ -6127,6 +6413,17 @@
   "fetched": "2026-11-10T10:33:27Z"
  },
  {
+  "id": "94d585fc0f82f5ce",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Iran War Over! Trump Makes Major Announcement! Breaking News | Dunya News.",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1lzbXRJbWFrRHhvazVuRnQyTHBHaWl5Ulk5cmFSeWpCYzhhOEhXdURtR283ZE95alhMSTc5b1d2c2tLcFpXM0h6MXQya3Nwbm1IRDRJaWJpU1dSTkk2a3hqQmtJdUgxcDV1ckFGSzNDZmY3Zm9pTTkyNzh3djlOdHdDZjk0SG1IWDl5RjFtRVVnRG51Ull5ZXVDRlJ3WktLenBxaXZqOXRmZV9hNWwyNjNKUFl2NkxRZk5VN2NNVWlyQ2FjT0E?oc=5",
+  "published": "2026-11-10T06:11:29Z",
+  "fetched": "2026-11-10T22:17:47Z"
+ },
+ {
   "id": "0c5329372fc0370b",
   "source": "France 24",
   "region": "international",
@@ -6301,6 +6598,17 @@
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWZUM0lKSXQ5ZEM3SXlmaVBwb1FkQ1JZYllHSGtKMjVJYmZoU2xDMUtLTmIxZzRIVGxiOVBYSFlJUVJ5SDlod3ROclB3R2tvVHN5T2lCYkZDOXh1NHN0R1lDZzlKNldRbm8xYmppeEpHQUtiRkRYclpiTWQ2MVhnYXhOcUNtbEJEQTVFdmZCWGk?oc=5",
   "published": "2026-11-10T05:59:32Z",
   "fetched": "2026-11-10T10:33:28Z"
+ },
+ {
+  "id": "4e933f20c1212b65",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "PM Shehbaz Sharif lands in Turkiye for COP31 World Leaders' Summit in Antalya",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kR203OU5pbXFIMGJWR3ExclZPc2FkNHBDV1c5VEthZ1pWaDBxXzh0Vkt6X1dRc1p0aXBnZEJXU0w5QnhtVm9zck1rbjdKV2VsdnFDTnBn0gFWQVVfeXFMTmRHbTc5TmltcUgwYlZHcTFyVk9zYWQ0cENXVzlUS2FnWlZoMHFfOHRWS3pfV1FzWnRpcGdkQldTTDlCeG1Wb3NyTWtuN0pXZWx2cUNOcGc?oc=5",
+  "published": "2026-11-10T05:59:00Z",
+  "fetched": "2026-11-10T22:17:47Z"
  },
  {
   "id": "e3e42ff86eaa0a1d",
@@ -6807,6 +7115,17 @@
   "link": "https://tribune.com.pk/story/2639589/new-round-of-us-brokered-russia-ukraine-peace-talks-starts-in-abu-dhabi",
   "published": "2026-11-10T04:53:35Z",
   "fetched": "2026-11-10T10:33:28Z"
+ },
+ {
+  "id": "874acc4c8ec96567",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Latest News, Pakistan News, World News, Sports News and Videos",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BeHFjSmFHT0lTMHd3bEI5cDE1OUpvVVFTbXZQeFZEQWoxRXMzbGJFd004c3hnc25Ud3FEaVVkaHZNQ09VOThENEVzV01uMWZB?oc=5",
+  "published": "2026-11-10T04:50:17Z",
+  "fetched": "2026-11-10T22:17:47Z"
  },
  {
   "id": "7f1652a7ab76c210",
@@ -16432,16 +16751,5 @@
   "link": "https://www.dawn.com/news/2042920/city-slump-again-as-arsenal-extend-premier-league-lead",
   "published": "2026-11-07T23:02:21Z",
   "fetched": "2026-11-09T20:22:23Z"
- },
- {
-  "id": "3f65948fd95dce7b",
-  "source": "Fox News",
-  "region": "international",
-  "category": "news",
-  "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
-  "summary": "Gadi Eisenkot secured 67 Knesset endorsements over Benjamin Netanyahu, but deep coalition divisions over Arab parties and conscription cloud his path.",
-  "link": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
-  "published": "2026-11-07T22:17:37Z",
-  "fetched": "2026-11-09T20:22:16Z"
  }
 ]
