@@ -1,5 +1,313 @@
 [
  {
+  "id": "730cb71ade4a5887",
+  "region": "local",
+  "category": "news",
+  "title": "Donald Trump Nominates Natalie Baker as US Ambassador to Pakistan",
+  "summary": "United States President Donald Trump has named Natalie Baker to serve as the country's next ambassador to Pakistan.",
+  "paragraphs": [
+   "United States President Donald Trump has chosen Natalie Baker to be the next US envoy to Pakistan, according to reporting by ARY News, Geo News, Samaa, and Dawn. Baker currently serves as the charge d’affaires at the US embassy located in Islamabad.",
+   "Dawn reported that the official announcement came via a statement issued by the White House. The formal nomination has now been sent to the US Senate, where it will be taken up and reviewed by the foreign relations committee."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Trump names Natalie Baker as US envoy to Pakistan",
+    "link": "https://arynews.tv/natalie-baker-nominated-as-us-ambassador-to-pakistan",
+    "published": "2026-11-10T08:28:24Z",
+    "used_text": "Trump names Natalie Baker as US envoy to Pakistan"
+   },
+   {
+    "source": "Geo News",
+    "title": "Trump nominates Natalie Baker as next US ambassador to Pakistan",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnFxaVBqS0NkeDA5RldXX1NncVZXdlBxc2E1bEUwbld4bm82eUpQYkF6NWM2OVpCMlg1LVp0ZEowRzVVLVZTTU9VVXoxcGtXYVZtMDhBTm80VE83U2wzdXhNMWdxbmdNRDdjNHB1WW9mSDVsZWJYSUZHQXFJdVRza2Flajg5XzZpTHFvb2U0X2tCNDdMTkNSVWNVNjM?oc=5",
+    "published": "2026-11-10T08:04:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Trump nominates Natalie Baker for US ambassador to Pakistan",
+    "link": "https://www.dawn.com/news/2043495/trump-nominates-natalie-baker-for-us-ambassador-to-pakistan",
+    "published": "2026-11-10T07:59:13Z",
+    "used_text": "US President Donald Trump has nominated Natalie Baker, the current charge d’affaires at the US embassy in Islamabad, to be the ambassador to Pakistan, according to a statement by the White House. The nomination has been submitted to the US Senate, whose foreign relations committee will review it.…"
+   },
+   {
+    "source": "Samaa",
+    "title": "Trump nominates Natalie Baker as US envoy to Pakistan",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdG1SWjVJOGZ2NVZBc0ZDNmwwU2ZSX3VQYlVwSHhPWHpFUDdFbjV5UElia3pqS1I3MExYZW04NEtZSjhBeGdDeDYtUXdOSTNmZ00wcGNjUFIyVjM3UjdzemVMOXd3aG1adWFqZ3VzUGc0Um16X3dvTmRvU1NoUE5SV1ZYTlEtaE1MaG1xMzlR?oc=5",
+    "published": "2026-11-10T07:57:26Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-10T10:33:30Z"
+ },
+ {
+  "id": "eda373e480b692c1",
+  "region": "local",
+  "category": "news",
+  "title": "Prime Minister Shehbaz Sharif Travels to Turkiye for COP31 Summit",
+  "summary": "Prime Minister Shehbaz Sharif has traveled to Antalya, Turkiye, to attend the COP31 Leaders' Summit.",
+  "paragraphs": [
+   "Prime Minister Shehbaz Sharif left for Turkiye on Tuesday to take part in the 31st Conference of the Parties (COP31) to the United Nations Framework Convention on Climate Change, according to reporting by Dawn, Aaj News, Geo News, and Dunya News.",
+   "Dawn and Dunya News reported that the premier's visit to Antalya covers the dates Nov 10-12. According to Dawn, Sharif is scheduled to address the Leaders' Summit tomorrow and is accompanied on the journey by PPP leader Sherry Rehman."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "PM Shehbaz departs for Turkiye, to address COP31 tomorrow",
+    "link": "https://www.dawn.com/news/2043486/pm-shehbaz-departs-for-turkiye-to-address-cop31-tomorrow",
+    "published": "2026-11-10T09:51:00Z",
+    "used_text": "Prime Minister Shehbaz Sharif left for Antalya, Turkiye, on Tuesday for a visit from Nov 10-12 to attend the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). The premier is accompanied by PPP leader Sherry Rehman,…"
+   },
+   {
+    "source": "Aaj News",
+    "title": "PM Shehbaz set for three-day visit to Türkiye today",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDRjZG9NUTZXWlhfOWg3Qmt0Q0xDRnpsVTZWaU1aQU1sSzFuZVR2ZkI1aTVDMUdaY3lSa0M0QVdMWVo5VkN5LWwxdFl3QW1DWHRMQ2NWT3JLMmtScW9sSWVwU2dvLXFLUUJpZjI4bmJQR3JYR2FJTDFQRm9scUktSERVbHFoV1NOM29kTXExNG5CdnM?oc=5",
+    "published": "2026-11-10T07:29:35Z",
+    "used_text": ""
+   },
+   {
+    "source": "Geo News",
+    "title": "PM Shehbaz leaves for Turkiye today to attend COP31 summit",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGtLNVFHZUVsSktKU3ppU3ZySTA5SlNMcFhoTXlGdGlDSGZqWUViMDNrM01TUlhiVHV4bFd0MVU5OGw3UEdYY2tkN1JDb1BBU2ZESkx4LXNjYkZuWGVyeFk3alJRZEFaTU00ZXpKTXNRTnFjZUpWaE9NVWRwdzVIbmlwWFN4eDU5ekhfSGpxLUppbXlhSEE?oc=5",
+    "published": "2026-11-10T07:15:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "PM Shehbaz leaves for Antalya today to attend COP31 Leaders' Summit",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5M2xOUGVub3BfTGJqTXVNUzFINklLQjNWUHJLZkhhekxmaWNBTExVRHhSV2VmWDNPNmFQR0RFWEg4Y3M1NEZzRlJOSUZfWWZCMkF4T3BB0gFWQVVfeXFMUDkzbE5QZW5vcF9MYmpNdU1TMUg2SUtCM1ZQcktmSGF6TGZpY0FMTFVEeFJXZWZYM082YVBHREVYSDhjczU0RnNGUk5JRl9ZZkIyQXhPcEE?oc=5",
+    "published": "2026-11-10T06:43:00Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-10T10:33:30Z"
+ },
+ {
+  "id": "bdf0cd611f656fc8",
+  "region": "local",
+  "category": "news",
+  "title": "US-Brokered Peace Negotiations Between Russia and Ukraine Begin in Abu Dhabi",
+  "summary": "A fresh round of peace talks between Russia and Ukraine has started in Abu Dhabi under United States mediation.",
+  "paragraphs": [
+   "Diplomatic discussions between Russia and Ukraine have resumed in Abu Dhabi with the United States acting as mediator, according to coverage by Aaj News, ARY News, and Express Tribune.",
+   "Express Tribune reported that Kushner stated the United States has successfully identified the lingering differences separating Ukraine and Russia, and possesses concepts on how to bridge those gaps."
+  ],
+  "sources": [
+   {
+    "source": "Aaj News",
+    "title": "US-brokered Russia-Ukraine talks resume in Abu Dhabi",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXFPQmtQcTg1RlFqNWs5cHR2NVlsRVA4UzhQOTBNWjhEYjFGdS1sNHBGbVA4aTd5OUZJTHhXaXdJTk9zbTMwUjBZaFpzUmthUmswOWFVdFc4Q2lCb3ZwejVkeGpYVURQUFM0LVNoMTBkbjV1c0FxLVJKSkozRXF3ODVrY3lNNmxnaGl5V2t5THdIaGJW?oc=5",
+    "published": "2026-11-10T09:58:19Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi",
+    "link": "https://arynews.tv/us-mediated-talks-russia-and-ukraine-start-abu-dhabi",
+    "published": "2026-11-10T07:01:36Z",
+    "used_text": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi"
+   },
+   {
+    "source": "Express Tribune",
+    "title": "New round of US-brokered Russia-Ukraine peace talks starts in Abu Dhabi",
+    "link": "https://tribune.com.pk/story/2639589/new-round-of-us-brokered-russia-ukraine-peace-talks-starts-in-abu-dhabi",
+    "published": "2026-11-10T04:53:35Z",
+    "used_text": "Kushner says US has identified remaining gaps between Russia, Ukraine, has ideas how to bridge differences"
+   }
+  ],
+  "created": "2026-11-10T10:33:30Z"
+ },
+ {
+  "id": "baf5b1c7976b1e21",
+  "region": "local",
+  "category": "news",
+  "title": "Nvidia CEO Faces Scrutiny Over Alleged Espionage Ties",
+  "summary": "Donald Trump has stated that the FBI is looking into Nvidia CEO Jensen Huang over an affair with an alleged Chinese spy.",
+  "paragraphs": [
+   "United States President Donald Trump stated that the FBI is examining allegations surrounding Nvidia Chief Executive Officer Jensen Huang, according to reports by Samaa, Aaj News, and ARY News. Dawn reported that Trump commented on Monday that Huang was suffering greatly and was unaware that a woman he had an affair with was an alleged Chinese spy.",
+   "While US authorities review the matter, ARY News reported that China has formally denied the espionage claims connected to the Nvidia controversy."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Trump says Nvidia CEO Huang had 'no idea' lover was alleged Chinese spy",
+    "link": "https://www.dawn.com/news/2043502/trump-says-nvidia-ceo-huang-had-no-idea-lover-was-alleged-chinese-spy",
+    "published": "2026-11-10T09:32:02Z",
+    "used_text": "US President Donald Trump took a tech tone towards Jensen Huang on Monday, saying the Nvidia CEO was “suffering greatly” and didn’t know a woman he had an affair with was an alleged Chinese spy. Trump also danced around the question of when he personally was aware of intelligence linking the chip…"
+   },
+   {
+    "source": "Samaa",
+    "title": "Trump says FBI investigating Nvidia CEO over China spy allegations",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWExaFJHekNTZkpkRXZWS3lDY3NKWjlaS1hkRTBxNWthTXNIUUl3UEpkdWV6a1llejJzV2FjN1FQejBuVkVjVXVnTVMwSUp1Mmlnb25wN0dXVmpuRHdTT1NraHNFVVpnTlB5d3dsZVJYTkZTS1pjaW5OZUw2WFBIellqckU2MTBLcTVqamctRnVwZUlLdXVEaDkwRWhMeTg?oc=5",
+    "published": "2026-11-10T05:29:59Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "China denies espionage allegations amid Nvidia CEO controversy",
+    "link": "https://arynews.tv/china-denies-espionage-allegations-amid-nvidia-ceo-controversy",
+    "published": "2026-11-10T04:16:38Z",
+    "used_text": "China denies espionage allegations amid Nvidia CEO controversy"
+   },
+   {
+    "source": "Aaj News",
+    "title": "FBI looking into allegations involving Nvidia CEO, Trump says",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVZ4UW1NYlhBbnNTZ1pGdmthZGJ1eEF3aU1HTjd2SG9welBWSHBuZ1FFaTVrZTJtYVZ0cC03TnpIbUoyRjVheV9FcFdtNDhzYm53Z3NWQ3c4SmJRdUVuanhnRWtaTHgxZ25MNjdmNDQtcFRtRTM0eVpYc3ZXdVBFWG1KTWRJZlBmRHBZUXhnTzBYS0d2RkVpdmdVYktDNDQ?oc=5",
+    "published": "2026-11-10T04:14:52Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens",
+    "link": "https://arynews.tv/nvidia-fiasco-trump-says-fbi-probing-jensen-huang",
+    "published": "2026-11-10T04:07:49Z",
+    "used_text": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens"
+   }
+  ],
+  "created": "2026-11-10T10:33:30Z"
+ },
+ {
+  "id": "0817255d71c4a712",
+  "region": "international",
+  "category": "news",
+  "title": "US and Iran Exchange Conflicting Signals on War and Negotiations",
+  "summary": "Donald Trump claimed military action against Iran is largely over, while Iranian officials dismissed reports of bilateral talks as fabrication.",
+  "paragraphs": [
+   "United States President Donald Trump stated that the war with Iran is effectively over and described additional strikes as quite unlikely, according to Euronews and BBC News. Speaking following discussions with Qatar's prime minister, Trump maintained that the United States remains locked and loaded should circumstances alter, while CNBC quoted him noting that Iran is militarily spent after losing its navy and enduring rampant inflation.",
+   "However, Iranian officials rejected assertions that diplomatic discussions are underway. Euronews reported that Iranian security chief Mohsen Rezaei accused Washington of producing fake news concerning imaginary negotiations. This comes amid wider diplomatic maneuvering, with Al Jazeera noting that Trump perceived positive momentum toward concluding the conflict following a Qatari ceasefire initiative."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Trump says Iran war ‘effectively over’ as Tehran denies planned talks",
+    "link": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks",
+    "published": "2026-11-10T10:04:58Z",
+    "used_text": "Speaking after meeting Qatar’s prime minister, a key mediator, Trump said further strikes were “quite unlikely” but that the US was “locked and loaded”. Meanwhile, Iran’s security chief Mohsen Rezaei told Washington to stop “manufacturing fake news about imaginary talks”."
+   },
+   {
+    "source": "BBC News",
+    "title": "Trump says more US attacks on Iran 'highly unlikely'",
+    "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-10T09:40:31Z",
+    "used_text": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
+   },
+   {
+    "source": "CNBC",
+    "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+    "link": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+    "published": "2026-11-10T07:00:02Z",
+    "used_text": "“Iran militarily is effectively over,” Trump said, citing the destruction of its navy and surging inflation that he said has hollowed out Tehran's economy."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+    "published": "2026-11-10T01:00:00Z",
+    "used_text": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar"
+   }
+  ],
+  "created": "2026-11-10T10:33:30Z"
+ },
+ {
+  "id": "34909f96506486d6",
+  "region": "international",
+  "category": "news",
+  "title": "Nvidia CEO Faces Scrutiny Over Alleged Chinese Spy Ties",
+  "summary": "US authorities are investigating Nvidia chief executive Jensen Huang regarding a relationship with an alleged Chinese agent.",
+  "paragraphs": [
+   "United States President Donald Trump revealed that the FBI is examining Nvidia CEO Jensen Huang over an affair involving an alleged Chinese government agent, according to reporting from Euronews, Sky News, and BBC News. Trump explained that he discussed the matter directly with Huang, who maintained that he did not know the individual was a spy, CNBC and Euronews reported.",
+   "The revelations have stirred wider political and financial repercussions. Al Jazeera reported that American lawmakers are pushing for stricter limits on semiconductor exports to China as inquiries proceed. Meanwhile, CNBC reported that Nvidia's stock edged upward as market participants assess the fallout, with Trump continuing to affirm his confidence in the technology executive."
+  ],
+  "sources": [
+   {
+    "source": "CNBC",
+    "title": "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair with alleged spy",
+    "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+    "published": "2026-11-10T10:02:23Z",
+    "used_text": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Nvidia spy scandal fuels debate over chip exports to China",
+    "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
+    "published": "2026-11-10T09:42:04Z",
+    "used_text": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy."
+   },
+   {
+    "source": "Euronews",
+    "title": "Trump says Nvidia CEO Huang knew nothing about alleged Chinese spy",
+    "link": "https://www.euronews.com/video/2026/11/10/trump-says-nvidia-ceo-huang-knew-nothing-about-alleged-chinese-spy",
+    "published": "2026-11-10T08:19:21Z",
+    "used_text": "US President Donald Trump says the FBI is looking into a matter involving Nvidia CEO Jensen Huang and alleged links to a Chinese government agent. Trump said he had spoken to Huang, who denied knowing the person was a spy, and expressed confidence in the tech executive."
+   },
+   {
+    "source": "Sky News",
+    "title": "FBI investigating Nvidia CEO over affair with alleged Chinese spy",
+    "link": "https://news.sky.com/story/fbi-to-investigate-nvidia-ceo-over-affair-with-alleged-chinese-spy-trump-says-13610382",
+    "published": "2026-11-10T02:06:00Z",
+    "used_text": "Donald Trump has said the FBI is looking into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy - but insisted he is a \"very honourable man\"."
+   },
+   {
+    "source": "BBC News",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-10T01:44:53Z",
+    "used_text": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+   },
+   {
+    "source": "CNBC",
+    "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+    "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+    "published": "2026-11-10T01:43:47Z",
+    "used_text": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy."
+   }
+  ],
+  "created": "2026-11-10T10:33:30Z"
+ },
+ {
+  "id": "edb4acb97ed5713a",
+  "region": "international",
+  "category": "news",
+  "title": "France Accuses Iran of Cyberattacks on Supermarket Refrigerators",
+  "summary": "French officials have directly blamed an Iranian Revolutionary Guard cyber unit for widespread October attacks targeting commercial cooling systems.",
+  "paragraphs": [
+   "The French government has publicly accused the cyber unit of Iran's Islamic Revolutionary Guard Corps of conducting an unprecedented cyber campaign against supermarket refrigeration units, according to CNBC and France 24. The October sabotage operations caused millions of euros in damage across hundreds of retail stores, CNBC reported.",
+   "French Foreign Minister Jean-Noël Barrot confirmed the findings and stated that France will pursue coordinated European retaliatory measures and sanctions against Tehran, according to France 24 and Al Jazeera. The incident was also acknowledged in reporting by NHK World."
+  ],
+  "sources": [
+   {
+    "source": "CNBC",
+    "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+    "link": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+    "published": "2026-11-10T09:34:24Z",
+    "used_text": "France said the cyber unit of Iran's Islamic Revolutionary Guard Corps carried out an \"unprecedented campaign\" that caused millions of euros in damage."
+   },
+   {
+    "source": "NHK World",
+    "title": "France blames Iran for supermarket fridge cyberattack",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1T0JRSnFqOE03T2RRWFlBSkU2WDloRl8zTUxGNG80Zk80b3NBLTN0MDNNQk0xZG5vbll2TGtFRHAxczgyVTEyUEp1MHRrVTJFd0g2UmRacnNyS0pvVk9meFI2cw?oc=5",
+    "published": "2026-11-10T08:39:30Z",
+    "used_text": ""
+   },
+   {
+    "source": "France 24",
+    "title": "France threatens actions against Iran over supermarket cyberattacks",
+    "link": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
+    "published": "2026-11-10T07:43:55Z",
+    "used_text": "France will seek Europeans actions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-Noël Barrot said Tuesday, after accusing Tehran's Revolutionary Guards of orchestrating the October sabotage."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "France blames Iran for October supermarket cyberattack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+    "published": "2026-11-10T01:01:47Z",
+    "used_text": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack."
+   }
+  ],
+  "created": "2026-11-10T10:33:30Z"
+ },
+ {
   "id": "a34a99837358f328",
   "region": "local",
   "category": "news",
