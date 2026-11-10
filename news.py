@@ -2,7 +2,7 @@
 """
 News bot for your website.
 
-  python news.py headlines   -> fetch latest headlines from all channels (runs every 30 min)
+  python news.py headlines   -> fetch latest headlines from all channels (runs every hour)
   python news.py articles    -> write 10 local + 10 international articles (runs twice a day)
 
 Everything older than `keep_days` (default 3) is deleted automatically on every run.
@@ -15,7 +15,7 @@ import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 
 import feedparser
 import requests
@@ -35,7 +35,9 @@ KEEP_DAYS = int(CONFIG.get("keep_days", 3))
 N_NEWS = int(CONFIG.get("articles_news_per_section", 8))
 N_SPORTS = int(CONFIG.get("articles_sports_per_section", 2))
 SITE_NAME = CONFIG.get("site_name", "My News Channel")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
+GEMINI_MODELS = [m for m in os.environ.get(
+    "GEMINI_MODELS", "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash-lite").split(",") if m.strip()]
+SITE_URL = CONFIG.get("site_url", "https://faiq2207.github.io/my-news/").rstrip("/") + "/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsDeskBot/1.0; +https://github.com)"}
 MAX_PER_FEED = 40
 MAX_HEADLINES = 2000
@@ -47,7 +49,7 @@ MAX_HEADLINES = 2000
 # ---------------------------------------------------------------------------
 SOURCES = [
     # International
-    {"name": "BBC News", "region": "international", "domain": "bbc.com",
+    {"name": "BBC News", "region": "international", "domain": "bbc.com", "alt_domains": ["bbc.co.uk"],
      "feeds": ["https://feeds.bbci.co.uk/news/world/rss.xml",
                "https://feeds.bbci.co.uk/sport/rss.xml"]},
     {"name": "CNN", "region": "international", "domain": "cnn.com",
@@ -156,6 +158,12 @@ def gnews_url(domain):
     return f"https://news.google.com/rss/search?q={q}&hl=en-PK&gl=PK&ceid=PK:en"
 
 
+def on_site(link, src):
+    host = urlparse(link).netloc.lower()
+    allowed = [src["domain"]] + src.get("alt_domains", [])
+    return any(host == d or host.endswith("." + d) for d in allowed) and "utm_medium=cpc" not in link
+
+
 def parse_feed(url, src, sports_feed=False, google=False):
     resp = requests.get(url, headers=HEADERS, timeout=25)
     resp.raise_for_status()
@@ -169,6 +177,8 @@ def parse_feed(url, src, sports_feed=False, google=False):
         link = e.get("link", "")
         if not title or not link:
             continue
+        if not google and not on_site(link, src):
+            continue  # sponsored or off-site link (for example an ad inside a feed)
         if google:  # Google News titles end with " - Source Name"
             title = re.sub(r"\s+-\s+[^-]{2,60}$", "", title)
             summary = ""
@@ -231,11 +241,11 @@ def run_headlines():
 # Mode 2: articles
 # ---------------------------------------------------------------------------
 PROMPT = """You are a careful news writer for the website "{site}".
-Below are numbered {kind} items collected in the last few hours from other news websites ({scope}).
+Below are numbered news and sports items collected in the last few hours from other news websites ({scope}).
 
 TASK
-Pick the {n} most important DIFFERENT {kind} stories. Prefer stories reported by several sources.
-{avoid}Write one short original article for each.
+Pick the {n_news} most important DIFFERENT news stories and the {n_sports} most important DIFFERENT sports stories.
+{focus}Prefer stories reported by several sources. Write one short original article for each.
 
 STRICT RULES
 1. Use ONLY facts that appear in the items below. Never add facts, numbers, names, dates, quotes or background from your own knowledge.
@@ -244,14 +254,14 @@ STRICT RULES
 4. If sources disagree, give both versions and name who reported each.
 5. Write in your own words in English. Never copy a full sentence from an item.
 6. Neutral tone. No opinions, guesses or predictions.
-7. 100 to 200 words per article, in 2 to 4 short paragraphs.
+7. 120 to 220 words per article, in 2 to 4 short paragraphs.
 8. "sources" lists the IDs of every item you used. At least one; two or more when possible.
+9. "category" is "news" for stories built from N items and "sports" for stories built from S items.
 
 Return only JSON in this shape:
-{{"articles": [{{"title": "...", "summary": "one sentence",
+{{"articles": [{{"category": "news", "title": "...", "summary": "one sentence",
   "paragraphs": ["...", "..."], "sources": ["N3", "N17"]}}]}}
 
-ITEMS
 {items}
 """
 
@@ -259,38 +269,54 @@ NUM = re.compile(r"\d[\d,.]*\d|\d")
 
 
 def ask_gemini(prompt, key):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    config = {"temperature": 0.2, "responseMimeType": "application/json",
-              "thinkingConfig": {"thinkingBudget": 0}}  # no slow "thinking", just write
-    for attempt in range(4):
-        body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": config}
-        try:
-            r = requests.post(url, json=body, timeout=300,
-                              headers={"x-goog-api-key": key, "Content-Type": "application/json"})
-        except requests.exceptions.RequestException as ex:
-            print(f"  AI connection problem ({type(ex).__name__}), retrying…")
-            time.sleep(20)
-            continue
-        if r.status_code == 400 and "thinking" in r.text.lower() and "thinkingConfig" in config:
-            config = {k: v for k, v in config.items() if k != "thinkingConfig"}  # model doesn't support it
-            continue
-        if r.status_code in (429, 500, 502, 503, 504):
-            wait = 30 * (attempt + 1)
-            print(f"  AI busy ({r.status_code}), waiting {wait}s…")
-            time.sleep(wait)
-            continue
-        if r.status_code >= 400:
-            raise RuntimeError(f"AI error {r.status_code}: {r.text[:300]}")
-        parts = r.json()["candidates"][0]["content"]["parts"]
-        text = "".join(p.get("text", "") for p in parts if not p.get("thought")).strip()
-        text = re.sub(r"^```(?:json)?|```$", "", text).strip()
-        return json.loads(text)
-    raise RuntimeError("AI service did not answer, it will try again at the next scheduled run")
+    """Try each free model in turn. Short waits keep a run under about 10 minutes."""
+    for model in GEMINI_MODELS:
+        model = model.strip()
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        config = {"temperature": 0.2, "responseMimeType": "application/json",
+                  "thinkingConfig": {"thinkingBudget": 0}}
+        for attempt in range(3):
+            body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": config}
+            try:
+                r = requests.post(url, json=body, timeout=120,
+                                  headers={"x-goog-api-key": key, "Content-Type": "application/json"})
+            except requests.exceptions.RequestException as ex:
+                print(f"  {model}: connection problem ({type(ex).__name__}), retrying…")
+                time.sleep(10)
+                continue
+            if r.status_code == 400 and "thinking" in r.text.lower() and "thinkingConfig" in config:
+                config = {k: v for k, v in config.items() if k != "thinkingConfig"}
+                continue
+            if r.status_code == 404:
+                print(f"  {model}: not available, trying the next model")
+                break
+            if r.status_code == 429 and "quota" in r.text.lower() and "per day" in r.text.lower():
+                print(f"  {model}: daily free limit used up, trying the next model")
+                break
+            if r.status_code in (429, 500, 502, 503, 504):
+                wait = 20 * (attempt + 1)
+                print(f"  {model}: busy ({r.status_code}), waiting {wait}s…")
+                time.sleep(wait)
+                continue
+            if r.status_code >= 400:
+                print(f"  {model}: error {r.status_code}: {r.text[:200]}")
+                break
+            try:
+                parts = r.json()["candidates"][0]["content"]["parts"]
+                text = "".join(p.get("text", "") for p in parts if not p.get("thought")).strip()
+                text = re.sub(r"^```(?:json)?|```$", "", text).strip()
+                return json.loads(text)
+            except (KeyError, IndexError, ValueError) as ex:
+                print(f"  {model}: unreadable answer ({type(ex).__name__}), retrying…")
+                continue
+        print(f"  {model}: giving up, trying the next model")
+    raise RuntimeError("all AI models were busy, it will try again at the next scheduled run")
 
 
 def numbers_ok(article_text, ref_items):
     """Every number in the article must appear in at least one referenced item."""
-    ref_text = " ".join(f"{h['title']} {h['summary']} {h['published']}" for h in ref_items)
+    ref_text = " ".join(f"{h['title']} {h['summary']} {h['published']} {h['source']}" for h in ref_items)
+    ref_text += " " + " ".join(s["name"] for s in SOURCES)
     ref_nums = {n.replace(",", "").rstrip(".") for n in NUM.findall(ref_text)}
     missing = [n for n in NUM.findall(article_text)
                if n.replace(",", "").rstrip(".") not in ref_nums]
@@ -330,22 +356,12 @@ def write_section(region, key, headlines, now):
         recent = [h for h in headlines if h["region"] == region
                   and now - parse_iso(h["published"]) <= timedelta(hours=24)]
     scope = "Pakistan" if region == "local" else "international"
-    out = []
-    # Small jobs are faster and more reliable on the free AI tier:
-    # news in two rounds of up to 4, then sports.
-    half = (N_NEWS + 1) // 2
-    jobs = [("news", "N", half), ("news", "N", N_NEWS - half), ("sports", "S", N_SPORTS)]
-    for cat, prefix, n in jobs:
-        if n <= 0:
-            continue
-        group = [h for h in recent if h["category"] == cat][:120 if cat == "news" else 60]
-        if not group:
-            print(f"  No {region} {cat} headlines yet, skipping.")
-            continue
-        done = [a["title"] for a in out if a["category"] == cat]
-        avoid = ("Do NOT write about these stories, they are already covered:\n- "
-                 + "\n- ".join(done) + "\n") if done else ""
-        ref, lines = {}, []
+    focus = ("Only choose stories about Pakistan or directly involving Pakistan.\n" if region == "local"
+             else "Choose world stories; skip stories that are mainly about Pakistan.\n")
+    ref, blocks = {}, []
+    for cat, prefix, cap in (("news", "N", 120), ("sports", "S", 60)):
+        group = [h for h in recent if h["category"] == cat][:cap]
+        lines = []
         for i, h in enumerate(group, 1):
             rid = f"{prefix}{i}"
             ref[rid] = h
@@ -353,16 +369,23 @@ def write_section(region, key, headlines, now):
             if h["summary"]:
                 text += f" | {h['summary']}"
             lines.append(text)
-        prompt = PROMPT.format(site=SITE_NAME, kind=cat, scope=scope, n=n,
-                               avoid=avoid, items="\n".join(lines))
-        try:
-            got = build_articles(ask_gemini(prompt, key), ref, cat, n, now, region)
-        except Exception as ex:
-            print(f"  Could not write {region} {cat}: {ex}")
-            continue
-        out += got
+        blocks.append(f"{cat.upper()} ITEMS (IDs start with {prefix})\n" + ("\n".join(lines) or "(none)"))
+    if not ref:
+        print(f"  No {region} headlines yet, skipping.")
+        return []
+    prompt = PROMPT.format(site=SITE_NAME, scope=scope, n_news=N_NEWS, n_sports=N_SPORTS,
+                           focus=focus, items="\n\n".join(blocks))
+    try:
+        result = ask_gemini(prompt, key)
+    except Exception as ex:
+        print(f"  Could not write {region} stories: {ex}")
+        return []
+    out = []
+    for cat, limit in (("news", N_NEWS), ("sports", N_SPORTS)):
+        part = {"articles": [a for a in result.get("articles", []) if (a.get("category") or "news") == cat]}
+        got = build_articles(part, ref, cat, limit, now, region)
         print(f"  {region} {cat}: {len(got)} written")
-        time.sleep(5)  # be gentle with the free tier
+        out += got
     return out
 
 
@@ -381,6 +404,104 @@ def run_articles():
     articles.sort(key=lambda a: a["created"], reverse=True)
     save(ARTICLES_FILE, articles)
     print(f"Saved {len(articles)} articles (last {KEEP_DAYS} days).")
+    build_site(articles)
+
+# ---------------------------------------------------------------------------
+# Search-friendly pages: one page per story, sitemap, robots.txt, homepage SEO
+# ---------------------------------------------------------------------------
+PAGE_DIR = os.path.join(ROOT, "a")
+
+
+def esc(t):
+    return html.escape(t or "", quote=True)
+
+
+def story_page(a):
+    when = parse_iso(a["created"]).astimezone(timezone(timedelta(hours=5))).strftime("%-d %B %Y, %-I:%M %p PKT")
+    refs = "".join(
+        f'<li><a href="{esc(s["link"])}" rel="nofollow noopener" target="_blank">{esc(s["title"])}</a>'
+        f'<div class="m">{esc(s["source"])}</div></li>' for s in a["sources"])
+    body = "".join(f"<p>{esc(p)}</p>" for p in a["paragraphs"])
+    ld = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": a["title"][:110],
+          "datePublished": a["created"], "dateModified": a["created"], "description": a.get("summary", ""),
+          "author": {"@type": "Organization", "name": SITE_NAME},
+          "publisher": {"@type": "Organization", "name": SITE_NAME},
+          "mainEntityOfPage": f"{SITE_URL}a/{a['id']}.html"}
+    return f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{esc(a["title"])} | {esc(SITE_NAME)}</title>
+<meta name="description" content="{esc(a.get("summary", ""))}">
+<link rel="canonical" href="{SITE_URL}a/{a["id"]}.html">
+<meta property="og:title" content="{esc(a["title"])}"><meta property="og:type" content="article">
+<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
+<style>
+:root{{--paper:#f4f7f4;--ink:#17212b;--muted:#5f6b74;--line:#d6ded8;--green:#0e6b4f;color-scheme:light;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}}
+@media (prefers-color-scheme:dark){{:root{{--paper:#10171c;--ink:#e6ece8;--muted:#9aa8a1;--line:#26332d;--green:#5fc29c;color-scheme:dark}}}}
+*,*::before,*::after{{box-sizing:inherit}}
+body{{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,serif;line-height:1.7}}
+.w{{max-width:720px;margin:0 auto;padding:24px 20px 60px}} a{{color:var(--green)}}
+.home{{font-family:system-ui,sans-serif;font-weight:700;text-decoration:none}}
+h1{{font-family:system-ui,sans-serif;font-size:clamp(1.6rem,4vw,2.3rem);line-height:1.2;margin:18px 0 6px}}
+.by,.m,.note{{font-family:system-ui,sans-serif;color:var(--muted);font-size:.85rem}}
+.refs{{border-top:1px solid var(--line);margin-top:28px;padding-top:12px}} .refs li{{margin:8px 0}}
+footer{{border-top:1px solid var(--line);margin-top:32px;padding-top:12px}}
+</style></head>
+<body><div class="w">
+<a class="home" href="../">{esc(SITE_NAME)}</a>
+<h1>{esc(a["title"])}</h1>
+<div class="by">{esc(SITE_NAME)} news desk, {when}</div>
+{body}
+<div class="refs"><h2 class="by">Sources</h2><p class="note">This story uses only facts from these reports.</p><ol>{refs}</ol></div>
+<footer class="note">Written with AI assistance from the sources listed above. <a href="../">More news</a></footer>
+</div></body></html>"""
+
+
+def build_site(articles):
+    os.makedirs(PAGE_DIR, exist_ok=True)
+    keep = set()
+    for a in articles:
+        name = f"{a['id']}.html"
+        keep.add(name)
+        with open(os.path.join(PAGE_DIR, name), "w", encoding="utf-8") as f:
+            f.write(story_page(a))
+    for name in os.listdir(PAGE_DIR):
+        if name.endswith(".html") and name not in keep:
+            os.remove(os.path.join(PAGE_DIR, name))
+
+    today = now_utc().strftime("%Y-%m-%d")
+    urls = [f"<url><loc>{SITE_URL}</loc><lastmod>{today}</lastmod><changefreq>hourly</changefreq></url>"]
+    urls += [f"<url><loc>{SITE_URL}a/{a['id']}.html</loc><lastmod>{a['created'][:10]}</lastmod></url>" for a in articles]
+    with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                + "\n".join(urls) + "\n</urlset>\n")
+    with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}sitemap.xml\n")
+
+    path = os.path.join(ROOT, "index.html")
+    with open(path, encoding="utf-8") as f:
+        page = f.read()
+    tagline = CONFIG.get("tagline", "")
+    page = re.sub(r"<title>.*?</title>", f"<title>{esc(SITE_NAME)}: {esc(tagline)}</title>", page, count=1, flags=re.S)
+    meta = f'<meta name="description" content="{esc(tagline)}. Live headlines from Pakistani and international channels, plus our own news stories twice a day.">'
+    if '<meta name="description"' in page:
+        page = re.sub(r'<meta name="description"[^>]*>', meta, page, count=1)
+    else:
+        page = page.replace("<title>", meta + "\n<title>", 1)
+    if 'rel="canonical"' not in page:
+        page = page.replace("<title>", f'<link rel="canonical" href="{SITE_URL}">\n<title>', 1)
+    items = "".join(f'<li><a href="a/{a["id"]}.html">{esc(a["title"])}</a></li>' for a in articles[:40])
+    block = ('<!--stories--><nav class="sec-note" aria-label="All our stories"><h2 class="sec">All our stories</h2>'
+             f'<ul>{items}</ul></nav><!--/stories-->')
+    if "<!--stories-->" in page:
+        page = re.sub(r"<!--stories-->.*?<!--/stories-->", lambda m: block, page, count=1, flags=re.S)
+    else:
+        page = page.replace("  <footer>", block + "\n\n  <footer>", 1)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(page)
+    print(f"Built {len(articles)} story pages and sitemap.")
+
 
 
 if __name__ == "__main__":
@@ -389,5 +510,7 @@ if __name__ == "__main__":
         run_headlines()
     elif mode == "articles":
         run_articles()
+    elif mode == "site":
+        build_site(load(ARTICLES_FILE, []))
     else:
         sys.exit("Use: python news.py headlines | articles")
