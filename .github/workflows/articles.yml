@@ -31,7 +31,7 @@ jobs:
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
           git checkout -- data/headlines.json data/status.json
-          git add -A data/articles.json a sitemap.xml robots.txt index.html
+          git add -A data/articles.json data/archive.json a *.html sitemap.xml news-sitemap.xml robots.txt
           git diff --cached --quiet && exit 0
           git commit -m "Write articles"
           for i in 1 2 3 4 5; do
