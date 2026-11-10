@@ -2,28 +2,22 @@ name: Update headlines
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
-  workflow_dispatch:          # lets you run it by hand from the Actions tab
+    - cron: "17 * * * *"   # every hour at :17 (quieter than :00, so GitHub runs it on time)
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: news-data
+  group: headlines        # separate from articles, so a long article run never blocks headlines
   cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Unpack project files (first run only)
-        run: |
-          if [ -f news-site.zip ]; then
-            unzip -o -q news-site.zip -d /tmp/unz
-            rsync -a --exclude '.github' /tmp/unz/news-site/ ./
-            rm -f news-site.zip
-          fi
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -33,8 +27,11 @@ jobs:
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add -A
+          git add data/headlines.json data/status.json
           git diff --cached --quiet && exit 0
           git commit -m "Update headlines"
-          git pull --rebase
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep 10
+          done
+          exit 1
