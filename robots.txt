@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://faiq2207.github.io/my-news/sitemap.xml
