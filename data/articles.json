@@ -1,5 +1,595 @@
 [
  {
+  "id": "dda44a96f062e9be",
+  "region": "local",
+  "category": "news",
+  "title": "Asian Development Bank Approves $500 Million Facility for Pakistan",
+  "summary": "The Asian Development Bank has sanctioned up to $500 million in financing to support Pakistan's disaster response and climate resilience.",
+  "paragraphs": [
+   "The Asian Development Bank (ADB) has approved contingent disaster financing facilities reaching up to $500 million to help Pakistan strengthen its disaster preparedness and facilitate response efforts, according to Dawn, Dunya News, and ARY News.",
+   "The Manila-based financial institution stated that the approved funds will deliver prompt budget support, enabling the nation to withstand disasters and build climate resilience, Dawn reported."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Asian Development Bank approves $500m loan to help Pakistan strengthen disaster preparedness",
+    "link": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
+    "published": "2026-11-11T10:13:47Z",
+    "used_text": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved contingent disaster financing (CDF) facilities up to $500 million for Pakistan to withstand disasters and facilitate disaster response. In a statement, the Manila-based lending agency said the funds will provide prompt budget support…"
+   },
+   {
+    "source": "ARY News",
+    "title": "ADB approves $500 mln financing to boost Pakistan’s climate & disaster resilience",
+    "link": "https://arynews.tv/adb-approves-500-mln-financing-to-boost-pakistans-climate-disaster-resilience",
+    "published": "2026-11-11T10:10:30Z",
+    "used_text": "ADB approves $500 mln financing to boost Pakistan’s climate & disaster resilience"
+   },
+   {
+    "source": "Dunya News",
+    "title": "ADB approves $500m loan to help Pakistan cope with natural disasters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2V3QnUzMnI1MS1yVmlacXRDT1BpcTRRQkl5a0w5NDdsSkFzUmtKaDBQNzA1VlZWLXBoZm11NHJPbUNjR3pkdVRQcmR5S2xVbTVnblMyQVNnWUJxMWNycHdIdjlEZ29WWHRqVVdmdHczMGtfM1M1dy1qaXUybjN5d1Qwb3VSQ3k0eGg0QkRjQmhkd2ZCNHhXcGF2MDF4LVllNWdXZnozTU1tR0HSAVZBVV95cUxOcTVlTXZrY3pkcWRlLWExUS1qek5FUkhYRWVSZ1dwYXBFeUlhY1h6UzBuWlNocVYtcnRMdjF2UWhGMGNVcU1WMk5aaTg0cHUxVDA3Y1Mtdw?oc=5",
+    "published": "2026-11-11T09:17:31Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-asian-development-bank-approves-500-million-facility-for-pakistan-dda4.html"
+ },
+ {
+  "id": "d38a66acd568f07a",
+  "region": "local",
+  "category": "news",
+  "title": "Prime Minister Shehbaz Sharif Attends COP31 Summit in Turkiye",
+  "summary": "Prime Minister Shehbaz Sharif has arrived in Turkiye to attend the COP31 summit and present Pakistan's climate agenda.",
+  "paragraphs": [
+   "Prime Minister Shehbaz Sharif has reached the Mediterranean resort city of Antalya in Turkiye to attend the COP31 Antalya Leaders' Summit alongside global leaders, according to Dawn and Dunya News.",
+   "Delegates representing nearly 200 nations are gathering at the summit, where Shehbaz is set to present Pakistan's national statement, highlight national climate priorities and climate justice, and engage with international leaders on the transition to renewable energy, Dawn and Express Tribune reported."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "PM Shehbaz joins world leaders at COP31, will outline Pakistan’s climate priorities",
+    "link": "https://www.dawn.com/news/2043746/pm-shehbaz-joins-world-leaders-at-cop31-will-outline-pakistans-climate-priorities",
+    "published": "2026-11-11T10:16:07Z",
+    "used_text": "Prime Minister Shehbaz Sharif on Wednesday arrived at the COP31 Antalya Leaders’ Summit in Turkiye, where he is set to highlight Pakistan’s climate priorities, along with other world leaders. Delegates from nearly 200 countries are meeting in the Mediterranean resort city of Antalya as global…"
+   },
+   {
+    "source": "Dunya News",
+    "title": "PM Shehbaz Sharif Reaches T�rkiye for COP31 Summit | Breaking News | Dunya News.",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ3RpVE5xRUxRRzBZX2F5S1VlM09fTVF1UHVxZmZUN2pBdGhfb3JnRllRNG93cWRJc2dXTVltaW1GM09sTWtaNnNSS1pidmU3bjZBY0JhSXQ2cG0weXJieXZFUXhXRTV0NkZwcEYyenhGLXRkclc3UmxTLXpzb2tjVVVyZXJJM0ZRcVRGNUpkNGN5aWJTR0JGUlBGSkhrQy1ZX0lrbFZ2UjRrd0JxWFNNZHhMNlprVkU3V2ZVZ0xVbnV6NWdLUGtnS1dGY3F0dw?oc=5",
+    "published": "2026-11-11T09:01:54Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "PM Shehbaz to join other world leaders at COP31 today, will outline Pakistan’s climate priorities",
+    "link": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities",
+    "published": "2026-11-11T07:19:08Z",
+    "used_text": "Prime Minister Shehbaz Sharif is set to highlight Pakistan’s climate priorities at the COP31 Antalya Leaders’ Summit in Turkiye today, with other world leaders joining him in setting out their climate priorities. Delegates from nearly 200 countries are meeting in the Mediterranean resort city of…"
+   },
+   {
+    "source": "Aaj News",
+    "title": "Shehbaz to highlight Pakistan's climate priorities at COP31 summit",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXp1UGhnQUFYRHROZzdvZnZuMjNscGJwYTAtOGgwQ3VCZXE4eGZXTHhObV9zcERVMG9HdGcwakxHVHJyMnZRekpOdm1jeUt1UHBUMUlhZmdtVHJWOE1Vdmc3YUtGN3FxNHhVT2xEZ1Y0UTB1TDhaTzgtOWFpVFJ6T3V2YzhQQjFfUXZiZVVvRmF2cXFFMFFiVnNzc3ZXbFVkNm14TUxR?oc=5",
+    "published": "2026-11-11T04:47:16Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "PM Shehbaz to address COP31 summit in Turkiye, highlight climate justice",
+    "link": "https://tribune.com.pk/story/2639755/pm-shehbaz-to-address-cop31-summit-in-turkiye-highlight-climate-justice",
+    "published": "2026-11-11T03:08:59Z",
+    "used_text": "Premier to present Pakistan's national statement, meet world leaders and discuss renewable energy transition"
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-prime-minister-shehbaz-sharif-attends-cop31-summit-in-turkiye-d38a.html"
+ },
+ {
+  "id": "66d986c2c8306697",
+  "region": "local",
+  "category": "news",
+  "title": "Imran Khan Undergoes Eye Procedure and Medical Tests at PIMS",
+  "summary": "PTI founder Imran Khan was transferred from Adiala Jail to PIMS for medical tests and an eye procedure before returning to prison.",
+  "paragraphs": [
+   "Former prime minister and PTI founder Imran Khan was transported from Adiala Jail in Rawalpindi to the Pakistan Institute of Medical Sciences (PIMS) in Islamabad for follow-up medical care and an eye procedure, according to Dawn and ARY News.",
+   "Following the examination, PIMS declared his physical condition stable and satisfactory, with normal vital signs, as reported by ARY News, Samaa, and Aaj News. He was subsequently shifted back to Adiala Jail, according to Dunya News and ARY News."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "PIMS declares PTI founder’s physical condition satisfactory, stable",
+    "link": "https://arynews.tv/pims-declares-pti-founders-physical-condition-satisfactory-stable",
+    "published": "2026-11-11T09:47:01Z",
+    "used_text": "PIMS declares PTI founder’s physical condition satisfactory, stable"
+   },
+   {
+    "source": "Dawn",
+    "title": "PTI founder Imran Khan brought to Pims, undergoes eye procedure",
+    "link": "https://www.dawn.com/news/2043744/pti-founder-imran-khan-brought-to-pims-undergoes-eye-procedure",
+    "published": "2026-11-11T08:00:19Z",
+    "used_text": "ISLAMABAD: Former prime minister and PTI founder Imran Khan was again taken to the Pakistan Institute of Medical Sciences (Pims) for tests and follow-up treatment for his eye condition, a hospital official told Dawn on Wednesday. “Imran Khan was brought from the Adiala jail in Rawalpindi to Pims in…"
+   },
+   {
+    "source": "Samaa",
+    "title": "Imran Khan undergoes checkup at PIMS, condition declared satisfactory",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYktMSGRpQVdVUmtiRWdkTDBYODVSQmxvN0d3U19Tc09vOFBGbmlTbGhhMHh1T2h1Yk9RWmZpcVBGVXRDTXY2VWVkSE1MQndiYmZIYkVZMU5hX0ZCaTJYUEtyMlNDNWw4cjZGN01fd29waVpfeU8tazZWbUFoNEgxbkNCUllITkQxQmFGQ0FhLVRkeHlwV1paYWdEQWI0NEF4WXc?oc=5",
+    "published": "2026-11-11T05:55:18Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Imran Khan undergoes medical tests at PIMS",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRZN0hOdDRDWGNadFZFY1RFVlJOeXIxT29xcVdnWXFmbzliT2I1UFJ0eWZuNEYxQTVCSHFobmEwR2xva1Q3NXBoTGdpUkZ3cWlpYnVsZFhLTXFWcVVVVlpEUXJwczRKcU1CYkZxQjBTN3ZINjdEb3BtQjg3dGhWa1Ytb0RjbTA?oc=5",
+    "published": "2026-11-11T05:27:21Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Imran Khan's health stable, vital signs normal, says PIMS",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVR3QjlmNW8xd2xNdUtxZHlWN1B2X1JSUDJTNTZHWFFpaWZPaklCdzMwdEVKZUVlVVpOYjlVcjhLdTgyc2pPMkNvWXpHdktyYk5sMW9na1cyZFoyVDRRbWxRb0NhVVpBdWtRVGlDUHg4cERzQVhkY0dlOEhuZXBkM0dnRE1uRDJ2TmdHNE1OZEw5SlpiYk5r?oc=5",
+    "published": "2026-11-11T05:27:21Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "PTI founder returns to Adiala Jail after medical examination at PIMS: Sources",
+    "link": "https://arynews.tv/imran-khan-returns-to-adiala-jail-after-medical-examination-at-pims",
+    "published": "2026-11-11T04:20:30Z",
+    "used_text": "PTI founder returns to Adiala Jail after medical examination at PIMS: Sources"
+   },
+   {
+    "source": "Dunya News",
+    "title": "Imran Khan shifted back to Adiala Jail after medical check-up at PIMS",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTNkU0ZoUlVGWGkyaWt1LWNRQklWM2hLNHF6NXhfWmpZSXRMWVdhcTJlMmJIS25md2phVEpyRXIyVGpWSVhSR3RvVDVKREFOaEZjRDk2TlRiV3FXWXJYWURqNVFHSDlJZWlsZU1fSExtYlE1YTZ5MEpjaTNuNXp0MG9haXRrRkRTMmJ3d2FSMy1vb2JIWFE3UVFLelJHVGRuUHdCcjFpM1djQTZEZ3pEUFBNcFdHMlZjd25VddIBVkFVX3lxTE1WQ1pCTmVpaW5EbWdLbEw0S0RZY3Z2bzJNTmRFaHk5MU5JMTM1d1hBUFk1QWxuQk43eUY4X2RYMmlaNUFucXR2ZUlMWkRsdDJkbFFHNktn?oc=5",
+    "published": "2026-11-11T04:01:56Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-imran-khan-undergoes-eye-procedure-and-medical-tests-at-66d9.html"
+ },
+ {
+  "id": "351fb159abc9b5d8",
+  "region": "local",
+  "category": "news",
+  "title": "FBR Eliminates Surcharge for New Income Tax Filers",
+  "summary": "The Federal Board of Revenue has waived a Rs25,000 penalty surcharge for individuals registering as new tax filers.",
+  "paragraphs": [
+   "The Federal Board of Revenue (FBR) has eliminated a Rs25,000 surcharge previously charged to individuals joining the tax system, according to ARY News and Dunya News.",
+   "The waiver applies to new taxpayers aiming to be included on the active taxpayer list, Dunya News reported."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "FBR waives Rs25,000 surcharge for new tax filers",
+    "link": "https://arynews.tv/fbr-waives-rs25000-surcharge-for-new-tax-filers",
+    "published": "2026-11-11T08:59:39Z",
+    "used_text": "FBR waives Rs25,000 surcharge for new tax filers"
+   },
+   {
+    "source": "Dunya News",
+    "title": "FBR waives Rs25,000 surcharge for new taxpayers joining active taxpayer list",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlo1VTlOX1AxdEJjb3ZIOUhKUUo2MUNxS0ZvcnB5bzZ5OHhPTU9PUUlKMjZsOGVrV2c2VGk1OGJaX3dhcUZYam94TjBSM2pvTVNTeElxQmYxZE8xTGRVTGlnQ1NndS1KdEl5OU1XMl9sSTRKSGNKc1lVSUVDV2d0V0R5bFF1WjlWWHlFbkFSeElpNVFTdkszM3NfX0dWOE1mU1RxTGhSOGZ2WGxWdGfSAVZBVV95cUxNWGZiTlV2MDd5MmJuRnBQLTlvNlFHYld0VFVEcnl4dFotOUFSTTlhSU5kRUtfUXBGZXRiWS1udFRwX2JWLTUxcXVhT1p6cmtZZGhOdXBFdw?oc=5",
+    "published": "2026-11-11T07:51:53Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-fbr-eliminates-surcharge-for-new-income-tax-filers-351f.html"
+ },
+ {
+  "id": "b1c50edab2673f43",
+  "region": "local",
+  "category": "news",
+  "title": "Former Afghan Army Member Detained in Peshawar Over Terror Allegations",
+  "summary": "Security agencies in Peshawar have apprehended a former Afghan National Army member accused of terrorist acts.",
+  "paragraphs": [
+   "Law enforcement agencies and security forces have arrested an individual previously serving in the Afghan National Army (ANA) for alleged involvement in terrorist operations within Pakistan, Dawn reported.",
+   "The arrest was disclosed on Wednesday during a media briefing led by Khyber Pakhtunkhwa Additional Inspector General Abbas Ahsan, according to Dawn."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Former Afghan army member arrested for alleged terrorist activities in Pakistan",
+    "link": "https://www.dawn.com/news/2043766/former-afghan-army-member-arrested-for-alleged-terrorist-activities-in-pakistan",
+    "published": "2026-11-11T10:27:20Z",
+    "used_text": "PESHAWAR: Security forces and law enforcement agencies have arrested a man formerly associated with the Afghan National Army (ANA) for allegedly carrying out terrorist activities in Pakistan, it emerged on Wednesday. At a media briefing, Additional Inspector (AIG) General Abbas Ahsan of Khyber…"
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-former-afghan-army-member-detained-in-peshawar-over-terror-b1c5.html"
+ },
+ {
+  "id": "1ef95e455efd8e95",
+  "region": "local",
+  "category": "news",
+  "title": "New Hydrocarbon Reserves Discovered in Sindh",
+  "summary": "OGDCL has announced a new discovery of oil and gas reserves located in Sindh.",
+  "paragraphs": [
+   "The Oil and Gas Development Company Limited (OGDCL) has uncovered new hydrocarbon reserves in Sindh province, according to ARY News.",
+   "Samaa also reported the development, noting that significant oil and gas deposits were identified in the province."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "OGDCL announces new hydrocarbon discovery in Sindh",
+    "link": "https://arynews.tv/ogdcl-announces-new-hydrocarbon-discovery-sindh",
+    "published": "2026-11-11T08:40:39Z",
+    "used_text": "OGDCL announces new hydrocarbon discovery in Sindh"
+   },
+   {
+    "source": "Samaa",
+    "title": "Major oil and gas reserves discovered in Sindh",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGtvOXBZTkZWUWlPQlVmN3ZFYmJrTHMyT1lITFVkOHRFQUJLbzhUUXVob1V3Slc5aGx2U1hrX0FhWXVrSGlhQUtGRVZwVkVfTVg1enNmUzZDUjVfQ2F0WFozazVWV1p0d0ZxeDRvZWdGbzk3ZGpIbXlZQkVrR3h4Zmx2MkU?oc=5",
+    "published": "2026-11-11T08:35:55Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-new-hydrocarbon-reserves-discovered-in-sindh-1ef9.html"
+ },
+ {
+  "id": "1ec77ae82e6ed052",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan Stock Exchange Surges Past 180,000 Mark",
+  "summary": "Strong buying activity pushed the KSE-100 index beyond the 180,000-point threshold.",
+  "paragraphs": [
+   "The Pakistan Stock Exchange sustained a bullish run, with Dunya News initially noting a rise of more than 300 points.",
+   "Express Tribune reported that the benchmark KSE-100 index surged by 1,111 points to cross 180,000. Market activity recorded 214.29 million shares traded, amounting to a total turnover value of Rs20.27 billion."
+  ],
+  "sources": [
+   {
+    "source": "Dunya News",
+    "title": "Bullish momentum continues as PSX gains over 300 points",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUpfcHJsUTU4YjNYUEZjem04emhMcXQtMHc4eFBzbXZoLTdaMXZIODRYa0VvOHFTbkVjUUMzdkFuemk1VG45LS1yLUxGT1dtRE9RLWxBanBZWjFGaFFudDBfUVhicnNERl81M1YzSXN2eU8tSXE5cHl6ZXI3aHdlZDlzQkE2eUlCcVRjTFZqMFJnRS1NR19DVTI5MNIBVkFVX3lxTE9ydFlRV0NTS3RLUy02Yy0wMjZJOUxqTEotTWFlWERrWEZJa091dFJEY19qY3VUUXVCckhLNHJUeHVWcmNLbUM5UHhlX3FIajdmNWNySXhB?oc=5",
+    "published": "2026-11-11T05:17:27Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "KSE-100 gains 1,111 points to cross 180,000",
+    "link": "https://tribune.com.pk/story/2639763/psx-extends-gains-as-kse-100-crosses-180000-mark",
+    "published": "2026-11-11T04:46:53Z",
+    "used_text": "Trading volume reaches 214.29 million shares, while the value of shares traded stands at Rs20.27 billion"
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-pakistan-stock-exchange-surges-past-180-000-mark-1ec7.html"
+ },
+ {
+  "id": "a6e21d215fcba8a6",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistani World Champion Faces Travel Hurdles Over Visas",
+  "summary": "A Pakistani world champion athlete has raised concerns over prolonged visa processing struggles.",
+  "paragraphs": [
+   "Express Tribune reported on the ongoing administrative difficulties faced by an accomplished Pakistani athlete who remains without a visa.",
+   "The competitor expressed frustration regarding travel delays, remarking that the majority of their time is wasted chasing after visas, according to Express Tribune."
+  ],
+  "sources": [
+   {
+    "source": "Express Tribune",
+    "title": "A world champion without a visa",
+    "link": "https://tribune.com.pk/story/2639765/a-world-champion-without-a-visa",
+    "published": "2026-11-11T05:14:26Z",
+    "used_text": "‘Most of my time is wasted running after visas.’"
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-pakistani-world-champion-faces-travel-hurdles-over-visas-a6e2.html"
+ },
+ {
+  "id": "fa92260c571030bc",
+  "region": "international",
+  "category": "news",
+  "title": "US-Mediated Peace Talks Between Ukraine and Russia Resume in Abu Dhabi",
+  "summary": "Negotiators from Ukraine and Russia have gathered for a second day of discussions in Abu Dhabi.",
+  "paragraphs": [
+   "Russia and Ukraine have resumed peace negotiations in Abu Dhabi for a second day under United States mediation, according to reports from France 24 and Euronews. Kyiv's chief negotiator Rustem Umerov confirmed the continuation of discussions on Wednesday, while Ukrainian President Volodymyr Zelensky stated he was happy with shifts in the American mediators' approach.",
+   "Major points of discussion include territory, security arrangements, and ceasefire terms, Euronews reported. The first day was described by Kyiv as constructive, with prisoner exchanges and security guarantees addressed, though Euronews noted a full ceasefire is not considered close. Meanwhile, Al Jazeera highlighted that US President Donald Trump commented that post-war Ukraine would have a different shape."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Russia, Ukraine start second day of US-led talks: Kyiv lead negotiator",
+    "link": "https://www.france24.com/en/russia-ukraine-start-second-day-of-us-led-talks-kyiv-lead-negotiator",
+    "published": "2026-11-11T10:42:35Z",
+    "used_text": "Russia and Ukraine have resumed US-mediated talks in Abu Dhabi for a second day, Kyiv's chief negotiator Rustem Umerov said on Wednesday."
+   },
+   {
+    "source": "Euronews",
+    "title": "Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
+    "link": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu",
+    "published": "2026-11-11T09:19:43Z",
+    "used_text": "Ukraine and Russia resume US-mediated talks in Abu Dhabi on Wednesday, with Kyiv welcoming a shift in Washington's approach but major differences remaining over territory, security guarantees and the terms of a ceasefire."
+   },
+   {
+    "source": "Euronews",
+    "title": "‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near",
+    "link": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near",
+    "published": "2026-11-11T07:21:39Z",
+    "used_text": "Good morning. I’m Luca Bertuzzi, holding the pen for today’s newsletter. In this edition: a preview of the second day of peace talks in Abu Dhabi, the backlash to Merz’s budget gambit, and why aid to Ukraine is becoming a sore point for several EU countries."
+   },
+   {
+    "source": "Euronews",
+    "title": "Europe Today: Ukraine peace talks continue in Abu Dhabi after 'constructive' first day",
+    "link": "https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day",
+    "published": "2026-11-11T07:03:00Z",
+    "used_text": "Ukraine, Russia and the US begin a second day of peace talks in Abu Dhabi after a first round Kyiv described as constructive, with a prisoner swap and security guarantees on the table. We also look at Black Sea attacks, Europe's hybrid threats and Prince Harry's visit to the European Parliament."
+   },
+   {
+    "source": "France 24",
+    "title": "Live: Ukraine, Russia begin second day of US-mediated talks in Abu Dhabi",
+    "link": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi",
+    "published": "2026-11-11T03:22:45Z",
+    "used_text": "Washington called for a \"new\" security framework on the first day of US-led talks between Ukraine and Russia in Abu Dhabi, as Ukrainian President Volodymyr Zelensky said he was \"happy\" with the changes in approach by US mediators. Negotiations have resumed for a second day. Follow our liveblog for…"
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-us-mediated-peace-talks-between-ukraine-and-russia-resume-fa92.html"
+ },
+ {
+  "id": "7e92fddbfc67f75c",
+  "region": "international",
+  "category": "news",
+  "title": "US House Republicans Halt Impeachment Effort Against Pete Hegseth",
+  "summary": "Efforts in the United States Congress to impeach Defense Secretary Pete Hegseth have been blocked.",
+  "paragraphs": [
+   "United States House Republicans have moved to block an impeachment push directed at Defense Secretary Pete Hegseth, according to reports by DW, France 24, and NHK World. The effort, originally initiated by Republican lawmaker Thomas Massie, was shelved following a tight procedural vote, with Donald Trump praising the result, according to DW.",
+   "Al Jazeera reported that 11 Democrats were absent during the procedural ballot that halted the measure. Euronews noted that Hegseth defended his military actions in Yemen, Iran, and against alleged narcotics traffickers, affirming he stood behind each mission and characterizing the impeachment bid as an assault on American service members."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Did Democrats save Pete Hegseth from impeachment?",
+    "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+    "published": "2026-11-11T10:32:03Z",
+    "used_text": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary."
+   },
+   {
+    "source": "France 24",
+    "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
+    "link": "https://www.france24.com/en/house-republicans-quash-effort-to-impeach-defense-secretary-hegseth",
+    "published": "2026-11-11T09:55:04Z",
+    "used_text": "Rochelle Ferguson Bouyahi, our international affairs editor, has more."
+   },
+   {
+    "source": "NHK World",
+    "title": "Republicans vote to block Hegseth impeachment effort | NHK WORLD-JAPAN News",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wamVnaGFXT2lqcmhvM1d0RXItdXhxbTV2UEFTUGczdkp2QTFVY1lrVS0zWTZ2YU5tekJITWdzYXhfRFBMdVBTbmdGYjNRUTRpZ0pZQUtuaWRReEd4cU9fX2YzOA?oc=5",
+    "published": "2026-11-11T06:07:58Z",
+    "used_text": ""
+   },
+   {
+    "source": "Euronews",
+    "title": "US Republicans block efforts to impeach US Defence Secretary Pete Hegseth over Iran war",
+    "link": "https://www.euronews.com/2026/11/11/us-republicans-block-efforts-to-impeach-us-defence-secretary-pete-hegseth-over-iran-war",
+    "published": "2026-11-11T04:29:30Z",
+    "used_text": "US Defence chief Hegseth defended operations he led in Yemen, Iran and against alleged drug smugglers, stating, \"I stand behind every one of these operations. I was proud to execute them, and I would do it again tomorrow,\" while portraying the impeachment effort as an attack on US troops."
+   },
+   {
+    "source": "DW",
+    "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
+    "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-11T02:04:00Z",
+    "used_text": "Pentagon chief Pete Hegseth seems set to survive the impeachment bid launched by maverick Republican lawmaker Thomas Massie, with President Donald Trump praising the outcome of the vote."
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-us-house-republicans-halt-impeachment-effort-against-pete-hegseth-7e92.html"
+ },
+ {
+  "id": "32da24e147617d40",
+  "region": "international",
+  "category": "news",
+  "title": "Spain Faces First General Strike in 14 Years Over Housing Crisis",
+  "summary": "Workers in Spain have launched nationwide strikes demanding housing reforms ahead of national elections.",
+  "paragraphs": [
+   "Workers across Spain have commenced the country's first general strike in 14 years, as reported by DW, France 24, and Al Jazeera. The strike has disrupted transportation networks and business activities across the country just weeks ahead of the scheduled November 29 elections.",
+   "The national action has been driven by mounting anger over soaring rents and a worsening housing crunch, according to DW and France 24. Protesters have raised concerns about being compelled into cramped rentals, with Al Jazeera citing individuals paying $500 for spaces as small as 5 square metres."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Spain's first general strike in 14 years, 3 weeks before national polls",
+    "link": "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls",
+    "published": "2026-11-11T10:30:07Z",
+    "used_text": "Sarah Morris is live from Madrid."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Spain’s first general strike in 14 years begins",
+    "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+    "published": "2026-11-11T10:18:28Z",
+    "used_text": "Strike disrupts public transport and industries amid demands for housing reform ahead of November 29 elections."
+   },
+   {
+    "source": "DW",
+    "title": "Spain: Housing crisis prompts general strike",
+    "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-11T09:11:00Z",
+    "used_text": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain's November 29 elections."
+   },
+   {
+    "source": "France 24",
+    "title": "Spain’s general strike puts housing crisis at centre of upcoming elections",
+    "link": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
+    "published": "2026-11-11T08:29:33Z",
+    "used_text": "For the first time in 14 years, millions of Spanish workers are striking across the country Wednesday to demand action on a major housing crisis and the rising cost of living. The expected disruptions to public transport and the widespread closure of businesses come less than three weeks before a…"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
+    "link": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
+    "published": "2026-11-11T05:16:57Z",
+    "used_text": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control."
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-spain-faces-first-general-strike-in-14-years-over-32da.html"
+ },
+ {
+  "id": "91ebad79ee013962",
+  "region": "international",
+  "category": "news",
+  "title": "Portugal Braces for Storm Charles as Major Tech Summit Closes",
+  "summary": "Portuguese authorities have shut down schools and events as Storm Charles brings severe winds.",
+  "paragraphs": [
+   "Portuguese officials have placed the country on high alert and ordered the closure of schools, public services, and the Web Summit tech conference on Wednesday as Storm Charles approaches, according to France 24.",
+   "Organizers cancelled the summit's second day following warnings of tidal floods and significant disruption to transit systems. France 24 added that the tempest was forecast to reach peak intensity on Wednesday afternoon, packing winds blowing at speeds up to 120 km/h."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Second day of Web Summit cancelled as Storm Charles puts Portugal on high alert",
+    "link": "https://www.france24.com/en/tv-shows/business/20261111-second-day-of-web-summit-cancelled-as-storm-charles-puts-portugal-on-high-alert",
+    "published": "2026-11-11T10:37:13Z",
+    "used_text": "Portuguese authorities strongly advised organisers of the Web Summit to cancel events this Wednesday because of risks of tidal flooding and severe disruption to public transport. Storm Charles is expected to be at its most dangerous on Wednesday afternoon, with winds reaching up to 120 km/h and…"
+   },
+   {
+    "source": "France 24",
+    "title": "Portugal shuts schools, tech conference as it braces for storm",
+    "link": "https://www.france24.com/en/portugal-shuts-schools-tech-conference-as-it-braces-for-storm",
+    "published": "2026-11-11T10:02:00Z",
+    "used_text": "Portugal said it would shut schools, non-essential services and a top world tech conference on Wednesday, as it braces for gale-force winds of Storm Charles."
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-portugal-braces-for-storm-charles-as-major-tech-summit-91eb.html"
+ },
+ {
+  "id": "0848f882e13ec7d0",
+  "region": "international",
+  "category": "news",
+  "title": "US Soldier Arrested in Britain Under Suspicion of Russian Espionage",
+  "summary": "British authorities have detained an American soldier suspected of spying on behalf of Russia.",
+  "paragraphs": [
+   "A member of the United States army has been taken into custody in the United Kingdom over allegations of espionage for Russia, London police reported according to France 24 and Euronews. The arrest on Tuesday followed a joint inquiry conducted alongside American military and law enforcement officials.",
+   "CNBC reported that the individual is 41 years old and is being held in London under the UK's National Security Act. Euronews noted that the Federal Bureau of Investigation described the case as an issue of utmost concern to Washington and allied governments."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "UK authorities arrest US soldier suspected of spying for Russia",
+    "link": "https://www.france24.com/en/uk-authorities-arrests-us-soldier-suspected-of-spying-for-russia",
+    "published": "2026-11-11T09:41:06Z",
+    "used_text": "A member of the US army suspected of spying for Russia was arrested in Britain on Tuesday, London police said, following an investigation with support from the American military and law enforcement."
+   },
+   {
+    "source": "CNBC",
+    "title": "American soldier arrested on suspicion of spying for Russia",
+    "link": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+    "published": "2026-11-11T08:30:43Z",
+    "used_text": "The 41-year-old man is being detained in London under the U.K.'s National Security Act."
+   },
+   {
+    "source": "Euronews",
+    "title": "US soldier arrested in England on suspicion of spying for Russia",
+    "link": "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia",
+    "published": "2026-11-11T07:54:52Z",
+    "used_text": "The FBI says the case is of “the utmost concern” to Washington and its allies, while army counterintelligence chiefs warn that insider threats are “real and persistent”."
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-us-soldier-arrested-in-britain-under-suspicion-of-russian-0848.html"
+ },
+ {
+  "id": "269baa0c2c52d278",
+  "region": "international",
+  "category": "news",
+  "title": "AI Startup Anthropic Targets $64 Billion in Public Offering",
+  "summary": "Artificial intelligence company Anthropic has unveiled major IPO fundraising goals.",
+  "paragraphs": [
+   "Artificial intelligence firm Anthropic plans to raise up to $64 billion, or approximately €57.1bn, during its impending initial public offering, according to company regulatory filings reported by Euronews and NHK World. The planned listing could evaluate the enterprise at up to $1.4 trillion, or €1.25trn.",
+   "CNBC added that the company opened its Australian retail public offering on Wednesday, allowing individual retail investors to bid for shares ahead of the wider debut amidst intense scrutiny across the broader tech and AI sectors."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans",
+    "link": "https://www.euronews.com/2026/11/11/anthropic-targets-valuation-of-up-to-14-trillion-for-blockbuster-ipo",
+    "published": "2026-11-11T05:25:53Z",
+    "used_text": "Anthropic plans to raise up to $64 billion (€57.1bn) in its upcoming initial public offering, the artificial intelligence giant said in a filing on Tuesday, in a listing that could value the company at up to $1.4 trillion (€1.25trn)."
+   },
+   {
+    "source": "NHK World",
+    "title": "Anthropic seeking to raise about $64 billion in IPO | NHK WORLD-JAPAN News",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ed1gyaEN5MTBLRUNlaU1KRkdVa0JPZ0NYd0JtU2FoV21oUFVMc280VXBjUWlBS2JuTW9UampjUnlDRmRFendEd2JxektSSTZ0Ym5UZzhXU2lXM0ljSnhLeExRRQ?oc=5",
+    "published": "2026-11-11T03:04:08Z",
+    "used_text": ""
+   },
+   {
+    "source": "CNBC",
+    "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+    "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+    "published": "2026-11-11T01:52:56Z",
+    "used_text": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO."
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-ai-startup-anthropic-targets-64-billion-in-public-offering-269b.html"
+ },
+ {
+  "id": "12fe2b33af8c57ec",
+  "region": "international",
+  "category": "sports",
+  "title": "South African Olympic Swimmer Tatjana Smith Switches Allegiance to Netherlands",
+  "summary": "Tatjana Smith has announced an international swimming switch to represent the Netherlands.",
+  "paragraphs": [
+   "Tatjana Smith, South Africa's most decorated Olympic athlete, has confirmed that she is changing her sporting allegiance to the Netherlands, BBC News reported. The announcement was made through an emotional and tearful public statement.",
+   "According to Al Jazeera, the double Olympic gold medal winner cited financial and practical challenges associated with swimming as key factors behind her choice to change nations."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Tearful Smith switches allegiance to the Netherlands",
+    "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-11T08:19:59Z",
+    "used_text": "South Africa's most decorated Olympian Tatjana Smith was in tears as she announced that she has switched her international allegiance to the Netherlands."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+    "published": "2026-11-11T05:52:28Z",
+    "used_text": "Double Olympic gold medallist cites 'financial and practical challenges' of swimming."
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-south-african-olympic-swimmer-tatjana-smith-switches-allegiance-to-12fe.html"
+ },
+ {
+  "id": "7fca076e3e400dc2",
+  "region": "international",
+  "category": "sports",
+  "title": "Manchester United in Managerial Talks With Mauricio Pochettino",
+  "summary": "Manchester United has opened discussions with Mauricio Pochettino over their managerial role.",
+  "paragraphs": [
+   "Manchester United has launched discussions with Mauricio Pochettino regarding taking over the head coaching position from Michael Carrick, who is anticipated to leave his post, BBC News reported.",
+   "Pochettino, who is currently managing the United States men's national team, has been the subject of ongoing departure rumours. However, US defender Antonee Robinson told BBC News that speculation surrounding the manager's status has not disturbed the team's preparations for the Concacaf Nations League."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Robinson unfazed by Pochettino departure talk",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-11T09:54:38Z",
+    "used_text": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign."
+   },
+   {
+    "source": "BBC News",
+    "title": "Man Utd open talks with Pochettino about replacing Carrick",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-11T09:11:28Z",
+    "used_text": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job."
+   }
+  ],
+  "created": "2026-11-11T10:51:47Z",
+  "url": "a/2026-11-11-manchester-united-in-managerial-talks-with-mauricio-pochettino-7fca.html"
+ },
+ {
   "id": "9d01369966f5048a",
   "region": "local",
   "category": "news",
