@@ -1,5 +1,588 @@
 [
  {
+  "id": "d68c04ddaab4691d",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
+  "summary": "Egyptian journalist Lina Attalah, head of independent news outlet Mada Masr, faces a criminal court retrial Wednesday over charges of operating without a licence and publishing false news. The UN criticised Egypt’s “widening assaults on press freedom” Tuesday. Attalah was previously handed a…",
+  "link": "https://www.france24.com/en/middle-east/20261111-lina-attalah-egypt-trial-prison",
+  "published": "2026-11-11T01:53:51Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "3bbd319f62a658ac",
+  "source": "CNBC",
+  "region": "international",
+  "category": "news",
+  "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+  "summary": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+  "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+  "published": "2026-11-11T01:52:56Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "7290b0c33712b6f1",
+  "source": "CNBC",
+  "region": "international",
+  "category": "news",
+  "title": "Stock futures rise slightly as market tries to recover from Nvidia-led decline: Live updates",
+  "summary": "The Dow pulled back more than 150 points in regular trading, while the S&P 500 and Nasdaq Composite shed 0.4% and 0.7%, respectively.",
+  "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+  "published": "2026-11-11T01:52:11Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "8b5825ccad048db0",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Boat capsized off Senegal's northwest coast leaving 39 dead",
+  "summary": "At least 39 people have died after a migrant boat capsized off Senegal, one of the country's deadliest migration tragedies in recent years. We'll try to understand why so many are still willing to put their lives at risk, with our guest Aissata Kane from the International Organization for…",
+  "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
+  "published": "2026-11-11T01:50:25Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "0237c9981122dad5",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Haiti PM praises Bukele after Salvadoran troops help destroy gang headquarters",
+  "summary": "Haitian Prime Minister Alix Didier Fils-Aime praised Salvadoran President Nayib Bukele on Tuesday after Salvadoran troops destroyed a suspected gang leader’s home. Bukele’s deployment of more than 2,000 soldiers following four Salvadoran troops’ disappearance has raised concerns over rules of…",
+  "link": "https://www.france24.com/en/americas/20261111-haiti-pm-bukele-salvadoran-troops-gang-headquarters",
+  "published": "2026-11-11T01:41:43Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "4f0ce0385f140332",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Okinawan Cuisine for a Healthy Community - EKIBEN JAPAN | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZWVV3MVhwTDA1YTZtREhkRE0zQ2oyYU1JMnByZjNwMGVNc1JNWVBhRzJJSDh4bWkweFlISDJsWVNIMTVFTlpTWGptcG54UDU1dTNLTjc0LUJyMkp2ZlE?oc=5",
+  "published": "2026-11-11T01:40:45Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "a5e9e8b3bbf6774c",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Against the Clock: Developing a New Stroke Drug - Medical Frontiers | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wT1lvN0t5NGF1Q0tyemdPbVY5M051aWJrcDlrUTAtNEtZY2dNdjllaThodVJWME9zLTROU2pyZTJ3U2lNYVlNR21NUVlFMGJqZnV5alpJaW5zbkRlNnc?oc=5",
+  "published": "2026-11-11T01:40:45Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "322972e499a7b3e6",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Sleep Apnea: The Hidden Health Risks - Medical Frontiers | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OTThOTUhLbFN5YUc5QlgtQVpLZWJBRlhOV1d4UzFMU1JneDY5VXpUNkgwUERIRUt5Q1ExeVVlak16aTZkenkzX0ZvLVYybVVQeW1qV3VyV0pyREpPbUE?oc=5",
+  "published": "2026-11-11T01:40:45Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "f06b817e7d8e7ff1",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "SAMURAI CASTLES: Matsue - Time and Tide | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tZWthRTZfX09uMFJLMzB6Vjd0aFhfWDhlc0pZc1FjOWtvS2pieU1TS195REIyWEE1X1dUZ0NfbVpuRUkzekZyQ0QzNF9CZko2bkNNaEFOU2YzZlRLZFE?oc=5",
+  "published": "2026-11-11T01:40:45Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "13c0474fa5b68065",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Stylish Kabuki Melodrama: \"Scarface Yosaburo\" - KABUKI KOOL | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4MHdnVjZBd0ZyaS14Nm41Mjg2bGQ1UGJDMml4VnJwV0RhMndBX3pTT1ZaeEtOYmlncmVWR284OGlIeEx4bktqWEE2XzFnbFVSOWNtanZFdXVvNVBoeUE?oc=5",
+  "published": "2026-11-11T01:40:45Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "85a18a612035fbfb",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Dissolving Microneedles - Japan's Top Inventions | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vOFc2LXR3dndWWFZzX3JxMnRBWldLOVVaSE9pUXcxU0YzM0llcVlqQmM5SlNLZlItSmpRbzQzbXV2d1JSMEcxY1FCWXVIY0I5NnpLeWFKbjJ6TTVKcEE?oc=5",
+  "published": "2026-11-11T01:40:45Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "836f1aeb8f49d761",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Can Spherical Concretions Help Save Humanity? - Science View | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KUTFFOVFNZE9Tc2YyS3BLa2ZOdTdNUENhSEhUNV8yak5LelZYRnJ1cWtZNlNjc3FReWJIYlJPdXQwRzdCN3Y3aXlJYk9xR0JxTE9YRGpMNE5kanhrZkE?oc=5",
+  "published": "2026-11-11T01:40:45Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "c22a9204512d448f",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "November Tournament Day 9 - GRAND SUMO Highlights | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZHgwQ1dFS1RsamxCR1labnVxM1lIRjcwU1pBc2E3c3NXX3BPMDFNWnJOcWRYSFlNdWpCMVAtUTMzdFpQTkJQdmg3dk1sMmdPQldZeWxrWlhJR01CN3c?oc=5",
+  "published": "2026-11-11T01:40:44Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "b8c4794b41ee6adc",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Katsuo - Trails to Oishii Tokyo | NHK WORLD-JAPAN",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pSC1UZUp5UEgzcVhTU0VhUTdVUlNRVGNzVW5oTVhYMU5reE9scjZQaEpULVRtbEltdGZ3aFc2TmV1ZkpEcnJQbHNJR2pCM2lBU1N3dlhFdzRpZnNoTGc?oc=5",
+  "published": "2026-11-11T01:40:44Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "fb5573ea532cc266",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+  "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+  "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-11T01:14:40Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "fbe0abc159ce04cd",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+  "summary": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
+  "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+  "published": "2026-11-11T01:11:04Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "45d5c49f84dac88b",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+  "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+  "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-11T01:01:20Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "1659f2dd7a261e99",
+  "source": "Fox News",
+  "region": "international",
+  "category": "news",
+  "title": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
+  "summary": "More than a dozen U.S. Air Force aircraft left RAF Mildenhall after a reported Iran-linked threat triggered the second-highest military alert level.",
+  "link": "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm",
+  "published": "2026-11-11T00:53:31Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "eb66b67f31a57f20",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "Spain holds state funeral for 69 victims of deadly train crash",
+  "summary": "Spain’s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+  "published": "2026-11-11T00:42:41Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "38943b085a3f307d",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Three-way Ukrainian peace talks resume in UAE | NHK WORLD-JAPAN News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JMnBVWl9IWld1WUJTY1FsUzNBOWx2bFQ2Tmh6ZDJLeUwwMDdkSDdLV0YxMFBodmdxOGV2Q1l1TFlOdmhhWG4wdF9mc1hWQkxSLUp0U1dHeWlvSnJqNHdkRmZpVQ?oc=5",
+  "published": "2026-11-11T00:30:55Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "61c8704b89d7d1f5",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+  "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+  "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-11T00:26:02Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "054890063f134ee4",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
+  "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
+  "link": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
+  "published": "2026-11-11T00:24:27Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "83048dff04f9303f",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+  "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+  "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-11T00:19:42Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "7afea9ada6ddd32c",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+  "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+  "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-11T00:18:07Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "3c2a3cf3f5edccd3",
+  "source": "CNBC",
+  "region": "international",
+  "category": "news",
+  "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+  "summary": "Stocks dropped Tuesday as Nvidia fell again and hot inflation revived traders' rate-hike fears. Tune in to CNBC Wednesday for CoreWeave CEO Michael Intrator.",
+  "link": "https://www.cnbc.com/2026/11/10/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+  "published": "2026-11-11T00:18:00Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "399fcb8b1f5e812d",
+  "source": "Geo News",
+  "region": "local",
+  "category": "news",
+  "title": "Prince Harry hailed as ‘true champion' amid Thomas Markle's second arrest",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWRXSlpwdU1EaUtYaWJEdkNDUlNzWkpjTFBaelRJN0VPb1NMQ1BXdm9jZWpYaENleHo0MnI2RXp3T1B2a1FjZTVhTUctR1UzZm4yRW56ak9Xelhwb3NGMEk1cnBJY3ZSOThSTDlRb09ON0JsS3ROckpzaGROTjRkQ2UteFAxVkNRcGk5ZHZrTTJQa3hmUlFwYTVVN3c1c3RfU0xKY2tB?oc=5",
+  "published": "2026-11-11T00:11:00Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "4c5db243bb6bad5b",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+  "summary": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
+  "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+  "published": "2026-11-11T00:01:26Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "a9d893dbefd96a92",
+  "source": "BBC News",
+  "region": "international",
+  "category": "sports",
+  "title": "Brilliant Noskova dismantles Gauff to reach WTA Finals last four",
+  "summary": "Wimbledon champion Linda Noskova dismantles Coco Gauff to become the first player to reach the last four at the WTA Finals.",
+  "link": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-10T23:59:03Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "e13267a114dc3fb9",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "On The Front-part All-ep-35337-2026-11-10-On The Front: 10 N.",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeV9JNF9JMlpndThoRlZ3Z0xYWW1TQUJldzlBb0ZmVTdnbU5IclJRZklUcmNsU2EyWGpoMlpUWVVscmNxV1FYMnJ3LXhLelU0RmZyeGVId2JMQlpJRW9kTGxxLTdqQWxBb0hpRTNtTU9CSmpxOHMtTE96bjhDVFdGaTU5VTIzQmNzYU9xaQ?oc=5",
+  "published": "2026-11-10T23:47:32Z",
+  "fetched": "2026-11-11T02:00:04Z"
+ },
+ {
+  "id": "d56066ffc373b44a",
+  "source": "CNBC",
+  "region": "international",
+  "category": "news",
+  "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+  "summary": "\"The fact that this deal is on is bullish for tech and the AI trade,\" CNBC's Jim Cramer said Tuesday.",
+  "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+  "published": "2026-11-10T23:46:35Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "5efdc7312d3d5947",
+  "source": "CNBC",
+  "region": "international",
+  "category": "news",
+  "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
+  "summary": "Investors shouldn't let mounting market risks overshadow the potential for a rebound, CNBC's Jim Cramer said Tuesday.",
+  "link": "https://www.cnbc.com/2026/11/10/cramer-stocks-inflation-nvidia-anthropic.html",
+  "published": "2026-11-10T23:41:43Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "6b19c626a1220413",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Rubio: No major combat operations on Iran needed for now | NHK WORLD-JAPAN News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQU01akhPUFZNMjBLM2U0MWVXRlV4UFoxaFh0WncyZFdCR05kVk1VbkVvb2cyQi1IWXNhekQ5TWNmdUFWMHdqakVfNmVYNW5mSDVPWWV1VFZnNUZYbGYySHRESQ?oc=5",
+  "published": "2026-11-10T23:39:46Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "b576f5730f2a943e",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "Fire contained on platform in Iran’s South Pars gas field",
+  "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+  "published": "2026-11-10T23:38:02Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "51ed04411cf05ab6",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "Massive fire as Israeli settlers burn down business near Nablus",
+  "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+  "published": "2026-11-10T23:33:43Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "2cb1afdd7a099456",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Middle East",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbmdnVE5PY19ZOTZaZ3hLY3BCWjFnQVFMbHlDcmFhZzQ5R25oajZEUGhqd25ncHJGdDJOSG5xMTdzUUY4Qm1EcmFDVVBlS2E4RFgyVTFaSDBLaThFNlpUakZIaExaWF9PbXhpNjBnNGM1cmt1NmtwVU56ZEdHMWZ3S2FoNExNSmlZUVhyc1NDYm45RGNDcmI0SFNvaDhsbl9BOWZZWGZHUWJaQkc5bktGeG9TS1pMM1VEWVJ5VFZ5N0JSVnJUdHdBeS1YUQ?oc=5",
+  "published": "2026-11-10T23:33:18Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
+  "id": "f94b95c9fa184dea",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Baluchistan",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWmdjcFJpNks5UGhSWklMbjg0WXpOVEt5Vmx6RldGY1FQSlBGQmZPYzh1RXNLcW8zc1AtWE1LWTNVRVk0M0pWblJXQl9KaTVVSDV6cEUwUG10dHFpa2h0aGlYUXQ1d3BsTFZXRS1Wd0Y5NDYtZUZaYmJ2d2FtQlkzNEZNZF8yYXZnQktTcWNSdklLSTU1ZjlYVzdmMDkzSl9Cem03V25teHduXzBFeEt5QjFmendhclFnTjVRdzJJYi1IUlhlRHlWTjZmaw?oc=5",
+  "published": "2026-11-10T23:33:07Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
+  "id": "c517430dd6f149d9",
+  "source": "NHK World",
+  "region": "international",
+  "category": "news",
+  "title": "Hegseth calls impeachment 'a farce' | NHK WORLD-JAPAN News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12TU9najRWaFlyNEJzdHJzaHZDZ01Od25OZ1dOTmlNaUw3VlJ3WDU1Sktra3hGTm5ZUUR3SjNmQUl3NzFzSFl6M2NQZFBHOC1XRmxjZXpXUjlnYy1OaFh2ci13Zw?oc=5",
+  "published": "2026-11-10T23:28:22Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "f52aa4165c948dac",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "French far-right author Zemmour launches second bid for 2027 presidency",
+  "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+  "published": "2026-11-10T23:23:12Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "8b1714b5f5548b22",
+  "source": "Geo News",
+  "region": "local",
+  "category": "news",
+  "title": "Hegseth survives impeachment threat as Republicans block congressional effort",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWZRMjA5MmpjMjBLWGNaeGxXbGxWbEdQbVA0OW41T3h0X1l3NWVUdkZnNml0Vk1jdEtWcTVocUxiRFNlZ2QxcnlmVG4xTm1jckFpRVhDdnpvNkNQQjdBbjlFdk54U2hENlNYVlRKTXAwREVmWjJOMzhrVWQ2RW5wZGVjX0VYUVgyYlZfZks4T2paQzRybk1USk1pc25qQ0I2cG5lLUNPWkhoeHFv?oc=5",
+  "published": "2026-11-10T23:21:07Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "32af86489885fd8f",
+  "source": "DW",
+  "region": "international",
+  "category": "news",
+  "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
+  "summary": "US prosecutors claim the three men were planning a \"campaign of terror\" ish communities and a UK airbase. The Fairford incident prompted the withdrawal of US bombers stationed there for operations against Iran.",
+  "link": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf",
+  "published": "2026-11-10T23:18:00Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "503a6e9819be8e10",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Teddy Riner candidacy 'illustrative of this hunger for an alternative' to Le Pen or Mélenchon",
+  "summary": "As Teddy Riner throws his hat in the race for the French presidency, amid France's sociopolitical and economic crises. François Picard is pleased to welcome Lex Paulson, Director of Executive Programs at UM6P School of Collective Intelligence at at Mohammed VI Polytechnic University. The prospect…",
+  "link": "https://www.france24.com/en/video/20261110-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon",
+  "published": "2026-11-10T23:13:58Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "a4ac1ea0228ea27f",
+  "source": "CNBC",
+  "region": "international",
+  "category": "news",
+  "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+  "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+  "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+  "published": "2026-11-10T23:11:34Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "03784847e13bc740",
+  "source": "BBC News",
+  "region": "international",
+  "category": "sports",
+  "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+  "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
+  "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-10T23:08:35Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "bfc6aabea338c851",
+  "source": "Euronews",
+  "region": "international",
+  "category": "news",
+  "title": "Spain: 69 candles lit at Toledo Cathedral for train crash victims",
+  "summary": "Spain's King Felipe VI and Queen Letizia attended a state funeral at Toledo Cathedral on Tuesday 10 November for the 69 people killed in a devastating high-speed train collision near Urda on 28 October.",
+  "link": "https://www.euronews.com/video/2026/11/10/spain-69-candles-lit-at-toledo-cathedral-for-train-crash-victims",
+  "published": "2026-11-10T22:53:11Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
+  "id": "4c8713abd9dbecfb",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
+  "summary": "Jim Jordan, a hardline ally of President Donald Trump, was elected US House Republican leader on Tuesday, defeating Steve Scalise 106-73 in a secret ballot, US media reported. He replaces Mike Johnson after Republicans lost both chambers of Congress in last week’s midterm elections and will lead…",
+  "link": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat",
+  "published": "2026-11-10T22:42:42Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "f19028c7366b0364",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+  "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+  "published": "2026-11-10T22:41:07Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "a0a5f902d6ab5410",
+  "source": "Al Jazeera",
+  "region": "international",
+  "category": "news",
+  "title": "US House Republicans block Pete Hegseth impeachment effort",
+  "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
+  "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+  "published": "2026-11-10T22:36:14Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "c1167f2a181a27e0",
+  "source": "GNN",
+  "region": "local",
+  "category": "news",
+  "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTNPWWt6STBVbnpIMGZ6ZklzZWIyVFE0enRZSW9MZWdoUERwTnRzdnE0LWlTY3A0YWstTDloRjVJYndnT2ZteDRndkdUSFNnOGc1M2xrODJJMzFVZ1djNjFIVFFTVlRnaFhrYU1wM1VBc1A3LUFSZTBTbFE0T0tnUlFDaGUxZTFaNE4zUEUyTFljLW1IWjhYQ0FfOUFFZ0JINXBwdThjQjEyUUZB?oc=5",
+  "published": "2026-11-10T22:33:15Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
+  "id": "51b5dd2f8e55ca91",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "World",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVTEwcVQ0OE9DLUs3dDJTU19mQ0UxWEZuQWhNVFlicjFnOFRFZ1puQlh1YVI0R1hfY0gzbzBHUVJPSTlhS003bUlKX3dmbGRZMXpTRVU0NHNnOTVaVWNZSGktVGxWNlEwdmNHdUVzNEZHRWZDbjBYYVIyQWpqUmxoS2RLdG9SNWNJc01wamdZMloydEYtb2pPcmJJYjdZUVlyRmVRRTJzV2N0SlUxcjhhSTZOSTRiZ0drSmY3UUNBM2JZeWM?oc=5",
+  "published": "2026-11-10T22:33:06Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
+  "id": "6eb5e4fdb807ece8",
+  "source": "BBC News",
+  "region": "international",
+  "category": "sports",
+  "title": "Injured Feyi-Waboso is our Robinson - Sinfield",
+  "summary": "Immanuel Feyi-Waboso is the 2026 team's equivalent of Rugby World Cup winner Jason Robinson says assistant coach Kevin Sinfield.",
+  "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq9vw88v8p80o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-10T22:32:41Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
+  "id": "b0acf2519f6d79d0",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+  "summary": "The US Justice Department on Tuesday charged three men it described as Iranian operatives over an alleged September terrorist plot at Britain's RAF Fairford airbase in England. Prosecutors said one suspect directed individuals to drive vans, some carrying fuel barrels, to the base, which housed US…",
+  "link": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+  "published": "2026-11-10T22:26:36Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "9868f8195c6f0c03",
+  "source": "France 24",
+  "region": "international",
+  "category": "news",
+  "title": "West Bank: Population and healthcare actors, such as MSF, 'still facing movement restrictions'",
+  "summary": "Eve Irvine is pleased to welcome Frederica Venturi of Doctors Without Borders (MSF). The withdrawal of Israeli forces from Hebron has not brought an end to the humanitarian crisis. According to Venturi, some 3,300 Palestinians were forcibly displaced, 15 houses were reportedly demolished, and…",
+  "link": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
+  "published": "2026-11-10T22:25:48Z",
+  "fetched": "2026-11-11T02:00:02Z"
+ },
+ {
+  "id": "908829c5b16c30f8",
+  "source": "Euronews",
+  "region": "international",
+  "category": "news",
+  "title": "Argentina: Pope Leo XIV celebrates Mass before 650,000 in Córdoba",
+  "summary": "Pope Leo XIV celebrated Mass before an estimated 650,000 people in Córdoba, Argentina. The pontiff greeted crowds from his popemobile before urging worshippers to open their hearts and embrace their faith.",
+  "link": "https://www.euronews.com/video/2026/11/10/argentina-pope-leo-xiv-celebrates-mass-before-650000-in-cordoba",
+  "published": "2026-11-10T22:19:02Z",
+  "fetched": "2026-11-11T02:00:03Z"
+ },
+ {
   "id": "b913f5db039e540a",
   "source": "CNBC",
   "region": "international",
@@ -9,6 +592,17 @@
   "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
   "published": "2026-11-10T22:13:53Z",
   "fetched": "2026-11-10T22:17:45Z"
+ },
+ {
+  "id": "cde6d39531228284",
+  "source": "Geo News",
+  "region": "local",
+  "category": "news",
+  "title": "Ships remain ablaze, oil supplies under threat as war turns Hormuz into maritime war zone",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelVnVDBWSFZIN1hfcnpFYzRyQXZldmkxV2hzeTBOV2IxNGY1SUE4YXpGd3VSVzdWWXFtaXhPUm1HSGNYalRMTlZmMm40dzl3Z2s4SENZX2RObnlxX3Flc2d6X1lMTm5tcFpvSkJobDlVZUhVWGRUODJTNUE0aE0zSnQtZWJDbVRBVFFBT0ZUWXA5SkROSU1jbGt0RFlRWG5raHdfMWxTWWdTa0ZLQUVNZ1VyRWw?oc=5",
+  "published": "2026-11-10T22:12:51Z",
+  "fetched": "2026-11-11T02:00:03Z"
  },
  {
   "id": "adab1f5b87da8943",
@@ -198,6 +792,17 @@
   "fetched": "2026-11-10T22:17:44Z"
  },
  {
+  "id": "839529a83269eb1b",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Technology",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDNrSkJIemxrNF83N1Rqc1BOX0dBNkJ2NDBDc0k2WEFkclp5S2dFSzZTblFDTnZJV0pUN2VTUUlEclI4WXZjMjkzdEhGb0tJUk0tdWlqTTFOUDhBdFVOdnpkUllDQ0F6cTNuR25YaFRBdl93RlotWXNXRUhYS3prc2hDQWxXY1VWS2lSUEtwc2tNVDBrVTM0aVFENG9qV3lKZkVTajRMcXVOVjRuVHYwWkZ4cFFqR1lIUDZRRXlVbXBfYi1kYWpxUndn?oc=5",
+  "published": "2026-11-10T20:54:54Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
   "id": "c8155dccf0da6a44",
   "source": "BBC News",
   "region": "international",
@@ -385,6 +990,17 @@
   "fetched": "2026-11-10T21:04:31Z"
  },
  {
+  "id": "dd0db016b7b3725d",
+  "source": "BBC News",
+  "region": "international",
+  "category": "news",
+  "title": "US Army soldier suspected of spying for Russia arrested in UK",
+  "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+  "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+  "published": "2026-11-10T20:20:04Z",
+  "fetched": "2026-11-11T02:00:01Z"
+ },
+ {
   "id": "779c874831b0c5ea",
   "source": "France 24",
   "region": "international",
@@ -416,6 +1032,17 @@
   "link": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
   "published": "2026-11-10T20:14:34Z",
   "fetched": "2026-11-10T21:04:31Z"
+ },
+ {
+  "id": "9a6b7eeeab6e1a9a",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IcXNRVVFEcVRoU3RjbGRadXlxRHlnYVB4c2pXWVAwbFFTZTdXREcwMXBudHBFTGhUdmZDVE5Ca3BaT2RrcnhCSDl1X0gyM3RxVzFmbHRR0gFWQVVfeXFMT0hxc1FVUURxVGhTdGNsZFp1eXFEeWdhUHhzaldZUDBsUVNlN1dERzAxcG50cEVMaFR2ZkNUTkJrcFpPZGtyeEJIOXVfSDIzdHFXMWZsdFE?oc=5",
+  "published": "2026-11-10T20:10:00Z",
+  "fetched": "2026-11-11T02:00:04Z"
  },
  {
   "id": "039a73a09ecaad36",
@@ -460,6 +1087,17 @@
   "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
   "published": "2026-11-10T20:07:01Z",
   "fetched": "2026-11-10T21:04:31Z"
+ },
+ {
+  "id": "0fc36d4f983f3a89",
+  "source": "GNN",
+  "region": "local",
+  "category": "news",
+  "title": "US singer Chris Brown spared jail after pleading guilty over UK nightclub incident",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDl4TXVsclBOWEVHOXNYclJ2NjlOVlVuZzBxWTJJR3ZGZW8ySjFjUzc3Zk1randycmV6ZFY0WDBOanZHOU1fcmxybFdKMzF4bXd1N2I3dkVPN0tEWEFWREFPSXlIYUhnenplVXVVb0IyV1REQmhFc20ydDFESUl2bS1Gdnp0U0tnZmdZYVBzcGhCX3dTcFZlOUZlajhSS05XNloyZkFPNG1rejROWVJj?oc=5",
+  "published": "2026-11-10T20:06:29Z",
+  "fetched": "2026-11-11T02:00:07Z"
  },
  {
   "id": "49dc5962296c159d",
@@ -539,6 +1177,17 @@
   "fetched": "2026-11-10T22:17:48Z"
  },
  {
+  "id": "87123b0ef673094e",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Nvidia CEO's alleged ties with Alice facilitated $7.5bn chip shipments to China: report",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelRaUjNuTWtHRzYtc2N6LWY4N01TTWQ1VElvM29zNG9BN1I1MXdwdGlUSENZQzVWYVd0dW9OejRXMWtJTkFTcU9jYWEwUkJkaGEyVWo4cWZaODhxVl9naHpMd2pyMEM4YTF5U01VTDBMcTdTMTFQZ3NYLVpRdnByMTc2WklCQk1xdzVVYTVvSnlrWnhhMU02d3lOZFJaN1IyZGNTekxOS0VMQjNoTHc?oc=5",
+  "published": "2026-11-10T19:44:58Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
   "id": "509528e8a3337291",
   "source": "ARY News",
   "region": "local",
@@ -570,6 +1219,17 @@
   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
   "published": "2026-11-10T19:34:13Z",
   "fetched": "2026-11-10T21:04:31Z"
+ },
+ {
+  "id": "d366166af3947e1b",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Strong Iran | US Regional Security Concerns | Middle East Tensions | News Insight With Amir Zia",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDAzdWJicy1JZnIyN25rd0xRUmY1dHhvaVZ1UVFrYi03Mnl5UEE4LTRZNFpjZGI5MnU2S1FNN2pyMXVzNzdjV0g4MmlEM2p0c2Z3eF9uSFF2QndJcDZWaHlfQjhpUU5VMzVJZ0VsU2Z3NmlOLWRsR0NLZElCbnVZU1lHTUtHbmowSGt3RWJXSTFOcW1ONllONE1wZ2FmN3FUaTdZRXBORHp6TnBjT1N0bjdsMUtFU1pYdGVUbGNJaUw4MkF0aEE?oc=5",
+  "published": "2026-11-10T19:30:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
  },
  {
   "id": "224c656f446c15d7",
@@ -614,6 +1274,28 @@
   "link": "https://arynews.tv/rockstar-limits-gta6-to-30-fps-on-ps5-and-xbox-series",
   "published": "2026-11-10T19:25:24Z",
   "fetched": "2026-11-10T21:04:35Z"
+ },
+ {
+  "id": "d6054f90106d3a63",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Petrol Price in Pakistan | Petrol Rs338 Per Litre | Diesel Rs371 - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmcteEpMMmotamt0eUNhQld3OU9TTlFILTBwakxkanRTYXBQVzllalFNejNodG5wS254SGQ5MGNBVW5NLTFhd3E2dktoTHVZYWtxQmw0cUFxMDdMY2pSYUJ6LUNrbkZackRKSGxCUHlNcVBUTk9ubVN5QmY3WHB3NU9BWHlUZlhLbUN3QnFHZGtUS3ZuX2Q5R0NIcHJ2SVdqRERicm9oR3B6UE0?oc=5",
+  "published": "2026-11-10T19:25:10Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
+  "id": "144eb29813620d97",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan beat Nepal by 101 runs to complete unbeaten group-stage campaign",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTktJdk9IQ0tZdGItNWc4Z1ZYNWZYVThGNDFqV0dPQVpxMVBiWkxlcmdkcE1PdGtQQXF0X0dGdF9xNGNuT3ZJR2Mwa2pIQ2dhTGFsSHVtSkpaZzFiek5Zb0JobWdpZ2QxNm9NVTNJeUVMMFkzd3FROTZjNFM4S3AxVkpNWFA0U3NLRWEwNkJEeDg3MjNEcV82Zk91TGJkZ0Y3aGZGSUJBVDhBS0XSAVZBVV95cUxORU5zV3JmTGRPOG43U2dMYk9oT045LUpXMmllNGhVREtGcDJUSmVBMUhRd0hZb0JfQW9Kc1dWV29lVzVZdk5qUm9mRGFKdUJBX3pTcENFQQ?oc=5",
+  "published": "2026-11-10T19:22:41Z",
+  "fetched": "2026-11-11T02:00:04Z"
  },
  {
   "id": "ab7c10c17462db49",
@@ -779,6 +1461,17 @@
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjJ5QzU1QlVobEhOOHI1R0hfS2xoYXR2cHcxVUFGU0ZBM2RhOEpRcXNMN3lYaXhZSGNQa0c1RGF5Q0ttT0pyTklRY1FnMDdpaVpuZFlmcTl1VG85VklaODNiUlFBWkt0TUNydEtVcXlFSDVuTDV1dlJpM2pab0VlbzcxLVFpSWJUV2dlRkFQYnA2NG9VMjNBbTZHOVVzX0Y3dHNES1doYWh1b3E1?oc=5",
   "published": "2026-11-10T18:58:28Z",
   "fetched": "2026-11-10T21:04:36Z"
+ },
+ {
+  "id": "02b9087f146a4bed",
+  "source": "Samaa",
+  "region": "local",
+  "category": "news",
+  "title": "Lahore hosts special event blending art, technology and cuisine",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWE96TnNVa3YzR1lySjhWWlVyYUltQUFxWEFlWUUxSldOaGJiZG5wUF9oZHhheXBCR3BNb0o1U01WbFVDLTZwNkFmeHNXdWhqSTZYWFdyZ0h3ZmZRTjJXS0ktTkJIMDNlOXd3M2NObUtfcTZUN0VfRVZOUWRWNlNLRmN0Yy1WZVNZeHFUaC1kYlowUTd3SDNHNlpn?oc=5",
+  "published": "2026-11-10T18:58:28Z",
+  "fetched": "2026-11-11T02:00:05Z"
  },
  {
   "id": "d157261b629a71ec",
@@ -979,6 +1672,28 @@
   "fetched": "2026-11-10T18:29:08Z"
  },
  {
+  "id": "d3b7be0ea57a502e",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Lahore TikToker Noor | Traffic Rules Violation | Police Action - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1NXaUJ2bjA2cXFwMUY4dVdGbmpFUDNwWFUxaUVRVGhXelQtT01qZkhvUkQtbk1kUmt1QTZ3cG5tRlp5WkFpWXpqM0NLa3NKLTlMVUxRcUp0eXJwd3JtV3FxYUpmclhxRlNkZlJjS042eG9Tb3JDT1NDVHl3YVhLLThBSjlnUDRaSHJxbklRRWV4ZmFhSi1yOVVuTXNhc0UySHNfSGU3eXE?oc=5",
+  "published": "2026-11-10T18:25:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
+  "id": "121f69ebe5c0dfb8",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Tarbela Dam | Latest Update | New Developments | 11 PM HEADLINES 10 NOV 2026 Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGN4ekJpODlpYndHYjVWMzhlSjRQX1N5MlVOSlJ0a2F1Skh6UzRkd25qaWtSZm4yampCcEdFYkpsaUkweDNBaEJIdHc2OGlWRFFFSWVqWlhtZDFOSjdXR0o2WURJODQ2MkdteHluUmxpeVdDMVN0bmZfdWtxV1ItRjh2RU1BMThYRmpmNGJCM1dTT3N5VmhNZUtibVRVLUYtdFBuREhZWHprR1JhM1JOVjBDM0xNZzkx?oc=5",
+  "published": "2026-11-10T18:25:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
   "id": "a3a0607a503dc1f1",
   "source": "Samaa",
   "region": "local",
@@ -1012,6 +1727,17 @@
   "fetched": "2026-11-10T21:04:33Z"
  },
  {
+  "id": "aa000509a04dd7f3",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Lahore smog forces Pakistan-Sri Lanka second Test to shift to Rawalpindi",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTU5amNnN2owWDM1djRvbWp5WUQ2NHNxbHJQazNHY21DbkhHV0NwZnh6bXRCTmxkTG9BUWpOM0stUjg0a25QeF8tZ1d6VnRfVV9UVTl0aW1zUFBaemxrYmdIZmozT0JQWDFzVTk0RlN3eTdQUFVKTFozdk5XdXB4bThLT2dfa0JaTl9yVUtNczhPVjduTG53YmJVQzZhM21xOHdaQndWWG1WQmPSAVZBVV95cUxNQm9SVmh4ZW1lZkJjYmVYS1ltZEgyVklrdGNSd1VFUW1hSjZDTkZUMUN6M3huY2lOaXpSaHpRdVd3dlVCeENmOFFWV0htWlhyOS1YSGt5UQ?oc=5",
+  "published": "2026-11-10T18:22:11Z",
+  "fetched": "2026-11-11T02:00:04Z"
+ },
+ {
   "id": "d29a6adcec682127",
   "source": "ARY News",
   "region": "local",
@@ -1032,6 +1758,17 @@
   "link": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
   "published": "2026-11-10T18:20:10Z",
   "fetched": "2026-11-10T18:29:02Z"
+ },
+ {
+  "id": "2f7a450f4a8be751",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Chashma 5 Nuclear Power Plant | Dome Installation | Shehbaz Sharif - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWd5Yzc5d3M4czRLazIxOVVNdTlPa1lhQ21YOTJHaWEwcjNpVF9VTFM1bk5XaTNfd05zUk5EZ1VBUG42aENjcER5dGE5QTNSN2JXZUhQcklOeGVHanBkYS1sMlZTS2N3anVyMXpCY0Q1SG1qRkRvX0tVakpORDVOT293YU1FYko3SDNnSnJnb21HY0xVRzBjNGJ0RnNsX2d4UlZqcVMyX2dwUnF2Y3c?oc=5",
+  "published": "2026-11-10T18:20:09Z",
+  "fetched": "2026-11-11T02:00:07Z"
  },
  {
   "id": "84ca48133b97fbd9",
@@ -1089,6 +1826,17 @@
   "fetched": "2026-11-10T18:29:07Z"
  },
  {
+  "id": "f302c27389893858",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Maryam Nawaz warns Punjab ministers of strict action over corruption",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1RLV3VLMXR1NWtmN3Q1S0I2QndFWnhub2x2TG55LTZWT2tsd2NhVW95UGFXTTg4YlY4ZlhmX3ZXYjRUWmZkcTNYRFJlSlJWamNYRE5KckNUd2VnWUFLdzZfMVFTY19NOWprb2RWdmo5d3pFbE05b1FBci1INV8zN0UzN0Zta3hUczI0YTZmbnFJVU4zMlFwXzNn?oc=5",
+  "published": "2026-11-10T18:13:08Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
   "id": "270972e75713a96c",
   "source": "Samaa",
   "region": "local",
@@ -1131,6 +1879,28 @@
   "link": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
   "published": "2026-11-10T18:07:23Z",
   "fetched": "2026-11-10T18:29:00Z"
+ },
+ {
+  "id": "777670e8039adaec",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Pete Hegseth Impeachment | Thomas Massie Resolution | Iran War Debate - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDhCQ1FGZmluSGVJeUFzZ2Qtd2tEWk9rS09fLVo2TmIyOXVac1o3OHozYzNuelRnV1hCTXpHaHhnaW5ra0NvU19UaXN4T3ZvTTlSd0FMNVFZQ3lRT3dNMU82azZxTFJmbjFqZzJmM0xVLUpLRUdlMnFURWhjSzBOM1Z4RmFrNG9VQnpmY2pXS3hsZmpVU18xZ1pfVzFGc1c5X3U3WTdrN2RnTTZOUTRrd0JR?oc=5",
+  "published": "2026-11-10T18:05:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
+  "id": "faa07f22ac31189d",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "Faysal Quraishi responds to 'Mango Jutt' criticism",
+  "summary": "Actor says social media feedback is part of the process",
+  "link": "https://tribune.com.pk/story/2639661/faysal-quraishi-responds-to-mango-jutt-criticism",
+  "published": "2026-11-10T18:05:09Z",
+  "fetched": "2026-11-11T02:00:05Z"
  },
  {
   "id": "19e3e2a95921fe80",
@@ -1197,6 +1967,17 @@
   "link": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
   "published": "2026-11-10T18:01:03Z",
   "fetched": "2026-11-10T21:04:31Z"
+ },
+ {
+  "id": "f8af15b2a3ebb052",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Petroleum Levy Removal | Jamaat-e-Islami Meets Government | Public Relief Talks - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1BqQUZkRjdiTzIzdmJ2RGx3ajZyc0x6dVZPWW50c2dhSWZsOHhwb2ZQZGNHYXI3TXZJajdsdFkzZzVzc2hMclBXcUNVdndmalVNX296WE1OUFgyN094MFVUaFFBcGt6NEpLRTRHMDh3R19NTkN5WnVRMXg1YVY5NDZ5UFY5YUwyRVlPSFhxdUZOY2xNVUl2Q2dOTEdCU3pEekxVWVhKaldrdFNFbHpfaFBXQS1KM3hKWmxCM3FGTQ?oc=5",
+  "published": "2026-11-10T18:00:13Z",
+  "fetched": "2026-11-11T02:00:07Z"
  },
  {
   "id": "5615a0ab874f6919",
@@ -1353,6 +2134,17 @@
   "fetched": "2026-11-10T18:29:04Z"
  },
  {
+  "id": "3b151a997b37c438",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Murree Bus Accident | School Trip Bus Overturns | 30 Injured - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPck1abDg4Q2VRdWVLcTVFeTU4bWhueVhOMTdYM2xPd21jUnFfY0xWSHFucGI4UzVSNVhqbXcyekh5WXE5UG1pSkhqQmJaSG0taDJQZGE5akM5dzBNOE0xVWI1N3RNTXd4VXppZFdhbFNUd0hicHpsYTVrTUNhaDFLWW1PYnN6cDlzQkRSeGNJTndGdnFNVFZJeGNrb2VSamViMHdWaTJR?oc=5",
+  "published": "2026-11-10T17:25:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
   "id": "4160fdff6a1903ee",
   "source": "Al Jazeera",
   "region": "international",
@@ -1364,6 +2156,17 @@
   "fetched": "2026-11-10T18:29:00Z"
  },
  {
+  "id": "a60d21288715d64b",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "PTI Founder Imran Khan | No Deal or Relief | Tariq Fazal Chaudhry - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0hodEUzcmliUEoyMENhejN0Z0Y0ZVRPSC1mYjFnNTdKU24xNFNkN2ozZ242b1UwQ3BZeGNScmxuNEdzZHBJbEhEbUNBak81VkYycHVKX2QwWDJ5MkdvQ2o5X1k0aEtHM2NjM204Qnk0M3YxNTQ5Z0l4RUVFa3QyX3FhZFd6V2l4aEQ3bXd1V05XWFdXZTRiOUlSbGt3WkhpUU43UHdSNDJUdGdE?oc=5",
+  "published": "2026-11-10T17:20:13Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
   "id": "656e4de6b34ecd04",
   "source": "Al Jazeera",
   "region": "international",
@@ -1373,6 +2176,17 @@
   "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
   "published": "2026-11-10T17:16:15Z",
   "fetched": "2026-11-10T18:29:00Z"
+ },
+ {
+  "id": "b1063df063462812",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Imran Khan | Bushra Bibi | Islamabad High Court Orders Lawyer Meeting - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVlfd1EwT2l5T0EybjVMSk5CaFl0UWFWaUxuZXZuTlFaZkZyVHlONFA5YThEWWc2bjl2WWhWVTZPNEVhMWZGMzBUYlk5LWo3S3FkYWJGMUpLaXFydGF0aHNhQzdRWWtSUkRybG50VlFNM1ZjQlh4NUJtU0VrUklfbFVwanVvY0s1eWhmR1IyQ2dqU01oZWdiWUlKdmdPVmRlM2NPX3piNzRhTnNneEVCQi13?oc=5",
+  "published": "2026-11-10T17:05:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
  },
  {
   "id": "9a52a45ab8399dc8",
@@ -1516,6 +2330,50 @@
   "link": "https://tribune.com.pk/story/2639655/9pm-closure-cuts-retail-sales-by-42",
   "published": "2026-11-10T16:45:28Z",
   "fetched": "2026-11-10T22:17:48Z"
+ },
+ {
+  "id": "c90006a4af35220e",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "PSX jumps 5,449 points in spectacular rally",
+  "summary": "Remittances, oil price fall, easing ME tensions bolster investor interest",
+  "link": "https://tribune.com.pk/story/2639658/psx-jumps-5449-points-in-spectacular-rally",
+  "published": "2026-11-10T16:45:28Z",
+  "fetched": "2026-11-11T02:00:05Z"
+ },
+ {
+  "id": "22a909dea06f009f",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan backs global green freight push",
+  "summary": "Minister cites 96% road freight share, 20% rail target at COP31 roundtable",
+  "link": "https://tribune.com.pk/story/2639657/pakistan-backs-global-green-freight-push",
+  "published": "2026-11-10T16:45:28Z",
+  "fetched": "2026-11-11T02:00:05Z"
+ },
+ {
+  "id": "44012e1af58aa828",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "Import-centric auto policy under fire",
+  "summary": "Parts makers say policy puts 300,000 jobs at risk, undermines local manufacturing",
+  "link": "https://tribune.com.pk/story/2639656/import-centric-auto-policy-under-fire",
+  "published": "2026-11-10T16:45:28Z",
+  "fetched": "2026-11-11T02:00:05Z"
+ },
+ {
+  "id": "ef3424e540f13fdb",
+  "source": "Express Tribune",
+  "region": "local",
+  "category": "news",
+  "title": "Remittances nearly cover trade gap",
+  "summary": "$14.77b in four months against a $14.6b deficit, with October inflows at four-month high",
+  "link": "https://tribune.com.pk/story/2639653/remittances-nearly-cover-trade-gap",
+  "published": "2026-11-10T16:45:28Z",
+  "fetched": "2026-11-11T02:00:05Z"
  },
  {
   "id": "386301c231e0447f",
@@ -1714,6 +2572,17 @@
   "link": "https://news.sky.com/story/uk-court-overturns-trinidad-and-tobago-law-criminalising-homosexual-sex-13610702",
   "published": "2026-11-10T16:26:00Z",
   "fetched": "2026-11-10T18:29:00Z"
+ },
+ {
+  "id": "773523ba347e1013",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan Diplomacy | Major Diplomatic Breakthrough | Global Attention | Rubaru WIth Shaukat Piracha",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1AtN25qckZKTkU4SEppb1lKVXNWaE9TSlY0cnFJNjRIeU56Z1RuNXFYemF0UGtuWHRFOGtmeXROQkdkTzEtUVBURDRSbmpOQ3BpT0JZOEZtMVNxTmhWb0NTUi13Qmp0VHI4VEN6ZzA4R1g5em12Q0dZV21JNGl2NDJQdWZ6eTFRNU5QUkNvX2R1SHJockxzRk9sOVNDcXI0eWVTSk5hOWlSQmF1UEhhSWFIRjJWVG9mUXdIYTQ4U0hYQTVlaVZhbDVwMA?oc=5",
+  "published": "2026-11-10T16:25:12Z",
+  "fetched": "2026-11-11T02:00:07Z"
  },
  {
   "id": "3b68e0959b891106",
@@ -2178,6 +3047,17 @@
   "fetched": "2026-11-10T21:04:33Z"
  },
  {
+  "id": "213ccf8c75e7ccf9",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "Abdul Majeed Achakzai | Former MPA Sentenced to 10 Years in Prison - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY09rNXVxUVhseTdVLTQyTUoyM1NsdGIwSnBtbEg3Y01uQzFkMUFBd2QzZmpQLWNhNW1VN0FVOEVUX014OUNaT1ByQUhOTTBEUi1LQ2lVRTduaDdYb0NBTExTcjJld3RfcVZtbnQyUEMya3Jrdm1pc1BGbmd5UDJjck1sT2F1MkFuTDhNT2JHTVhqX2d1eWlDMmVLZjIyZ3JrQlVwaEtwY3dIZzhEV1RWRA?oc=5",
+  "published": "2026-11-10T15:25:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
+ },
+ {
   "id": "e15c0527aa25c04a",
   "source": "Dawn",
   "region": "local",
@@ -2231,6 +3111,17 @@
   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
   "published": "2026-11-10T15:21:11Z",
   "fetched": "2026-11-10T18:29:00Z"
+ },
+ {
+  "id": "54a5216118d6b63e",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVEtTDhSWDFkS3dHZTY1T2dIVVpVSF9sOTJZTEVNaTkwcDBLUUZMeU5XaXpMMjVoaTB6SG83d1BIRnc2c3oyNGJ3R2VXTWhkNlJSNkhtVVAzVmgwYVRaLXVlUzZUUFBhSDd1VC1JQVliZFM4MktvTE5CSjZNdEhUeGVuYndPcnNLSUFubnJNbEJSRHVka1F2eXJ1ZlNRcThZMjlqV1lfVDdYTktmakRCVGRqVDM4SHh3TWhBa1NQbWdfc1pNOFRDX0NwYm5vMW90ektN?oc=5",
+  "published": "2026-11-10T15:20:53Z",
+  "fetched": "2026-11-11T02:00:06Z"
  },
  {
   "id": "408ce4c0d1156bae",
@@ -2319,6 +3210,17 @@
   "link": "https://arynews.tv/cctv-captures-armed-robbers-snatching-bags-from-university-students-in-karachi",
   "published": "2026-11-10T15:07:23Z",
   "fetched": "2026-11-10T18:29:04Z"
+ },
+ {
+  "id": "cf2089826601c926",
+  "source": "Aaj News",
+  "region": "local",
+  "category": "news",
+  "title": "🔴 Prime Minister Addresses Kashmir Chowk Underpass Inauguration - Aaj News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3lNSEdTblY5SUNVUmFUNHBKRG44RlhoR1NtN0RNRDJUR1FUU0F5NGFMYjZMd2ZyQ1BlRkQ4SHVyWmJ5dWF0ZVktc3RSajFnNUpXUFcyeW9udDBaenkwaVF6ZTN1TEpMWlh4VmQ5OGg0cTlNSFpqZzJvOFhCVER5V2JIQVZ5bkpsWWdweUlESVVoaGZfN25GcHJCbmVJZldqbGkzTnA2bFBXSlRf?oc=5",
+  "published": "2026-11-10T15:05:11Z",
+  "fetched": "2026-11-11T02:00:07Z"
  },
  {
   "id": "97752c74e10b6179",
@@ -3234,6 +4136,17 @@
   "fetched": "2026-11-10T18:29:03Z"
  },
  {
+  "id": "b402598891f64f5b",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan Stock Exchange surges 5,448 points, reclaims 179,000 mark",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmpnM2ZtaHduQnFoZUV5UlRNMHdXc0JpSi1WN3JJNXBsSm9RR3lKYVpkSjk0ZlFCODJha0lDa2lNMDBUNXpKZlZHMl8yeTNpaXdwenVOcFVZRDBlV0l2dDNEd1ZJMHRncGZ3VGtxZG51MGJlTG1MZEFCWlRnWHJFWmx2MGJ5UDRyQXpCMy1hY0pBYnlydTRXTXRsUlE1dG0zakNKODM2UldsemZYVkJrUmRWONIBVkFVX3lxTE1FSkw2ZW5xNFNoSmZrWWRCdzF5NFFybjBzSG1jWXJXMjBCLXphd3kyRHVwZEprc1FaRkVZWEZVbVpRTnlrSXo3WF84VTEyOXlkRGE0VU5B?oc=5",
+  "published": "2026-11-10T13:12:28Z",
+  "fetched": "2026-11-11T02:00:04Z"
+ },
+ {
   "id": "b07271e659e09aca",
   "source": "Samaa",
   "region": "local",
@@ -3419,6 +4332,17 @@
   "link": "https://www.dawn.com/news/2043528/wapda-says-no-threat-to-tarbela-dams-integrity-critical-structures-after-rock-collapse-at-project-site",
   "published": "2026-11-10T12:42:33Z",
   "fetched": "2026-11-10T18:29:08Z"
+ },
+ {
+  "id": "a7282df75a75b0cf",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Rawalpindi Test: Sri Lanka 114/3 against Pakistan's 434/9 declared",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWxxc2JIV2lZa0psa1R0R19faU9KR1JidlNqaVlhRmkwdWdUOUdPMHN3WFgzc29nNEF4VjRVRUtNNERrblF2VFdVZVJBRmZ3a0s5YXZGdUxRTUswVEt6STV6a3hZSE9XdjBIbHROVkFxbFFyaDdnQ0VCOTZpYmNCQ2RlNlg5YWdiejNBUnpfLVZwYzctaDJET0ZKOUJVUWFPYVHSAVZBVV95cUxPaEp6bEpRUk12akRabnl1emcwckdxVW1IMHJfeEVDZlFxZFMwYXpoRGsyMXlrYnp5eWZFOU5vNnRySTNZUkhqU2lXYmRYdmVoeXhOUDNEQQ?oc=5",
+  "published": "2026-11-10T12:42:22Z",
+  "fetched": "2026-11-11T02:00:04Z"
  },
  {
   "id": "42262ee729a7381a",
@@ -3993,6 +4917,17 @@
   "fetched": "2026-11-10T18:29:07Z"
  },
  {
+  "id": "354f5cd3d914425e",
+  "source": "Samaa",
+  "region": "local",
+  "category": "news",
+  "title": "Iran denies meeting between Rezaei, Vance in Qatar",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUkxaVhnLTJMaTdFLXBDazdKRlQycXY3YVZwLS1qbElFSW9ReFB1Rm9Cbnp2ZTV2U2ZoT0VyOFZFQnZvb3ZVMmtLTi1STVBPSmFya3ZFUjl0QWZDN3RHSWFhNnhDQVJWOFR6UWU3RXpjZk1sT2Ria2dTOS1OX1JlRDQ0NTlhZkRa?oc=5",
+  "published": "2026-11-10T11:08:37Z",
+  "fetched": "2026-11-11T02:00:05Z"
+ },
+ {
   "id": "24861680b50dfbc1",
   "source": "Aaj News",
   "region": "local",
@@ -4191,6 +5126,17 @@
   "fetched": "2026-11-10T18:29:02Z"
  },
  {
+  "id": "c05bd9a1cde7a3fb",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "92 News Live TV,Hd Plus Channel of Pakistan !",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUGU4b2p1bkV4MVprcEw0WEFWSzJVUGVWdTBCbzhFaXNSZXVqNWtHa2JzbmZJV2VySldsYktFelZjRUVRQXpGMXlaQk9vTUUwZDhTTFZTUXVza0xaeHd5NDBJYmFBQUc0cFJvT3EyMVUwMVNBbVVIWGFkTGJ6dUJDYWoya253YjRuUGhTVUVBR1NnUzZVbmZ3bVZ5c3pEd3dzUmgyQ3I4anpCeGMtWnQyUG9IMHZtcTg4dlkyZnlDZ3RJWWRXTWtTdW1B?oc=5",
+  "published": "2026-11-10T10:48:14Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
   "id": "b5dd99722edab717",
   "source": "Euronews",
   "region": "international",
@@ -4266,6 +5212,17 @@
   "link": "https://arynews.tv/nccia-receives-over-10000-cybercrime-complaints-in-53-days",
   "published": "2026-11-10T10:33:04Z",
   "fetched": "2026-11-10T10:33:27Z"
+ },
+ {
+  "id": "c36ccc94b367823d",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "123 Drone Strikes Against Houthi Targets! Yemen�s Military Makes Major Claim | Breaking News",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXpaQ2tUQmk0VllNcmg0bzdMUlNBc0V0N0JjeEhMVkZ4V0ZlWVVwcGluZHN2dnRsaVdVMVMwR3JIcWJIWHN4V2RLZURwT3c2dUNTWWwtZ3NaNWlMVnhCbDA5WEFDTW1MdkoxdWRwXzR0TmUwN2RnWmJFd0FYN1pHQno0NllPOGZmcVFKSVVvc0o5VWU0SzM5cjItZFVFaXVaMXpLeVpaSF9VSFhoZ0xaY1ZVdFJXTzJ6ZmpOYXVHTHBfSmthQ3QwZnRGdmNBMXhLSWhkMWR5XzQzVFRqNFF3?oc=5",
+  "published": "2026-11-10T10:31:29Z",
+  "fetched": "2026-11-11T02:00:04Z"
  },
  {
   "id": "5b43f9f6562cdb54",
@@ -4675,6 +5632,17 @@
   "fetched": "2026-11-10T10:33:24Z"
  },
  {
+  "id": "b1b232e9c63c8ed5",
+  "source": "92 News",
+  "region": "local",
+  "category": "news",
+  "title": "Business",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS2c5SExvWWNRQTFDYWlfbmtBLXF1OFJxNm00Z0xfeW1hZUpEdnN3aTJBUWtSYVBCSHVYZ1dKWi1xZ1FURU9JVndBWmN0TzF3eTJrbUVnWWV4QUdFbkl5SDNZZE9ram0zT0pKeHVCdGpNa3dNZ19PQnZEQTFKakZwQ3dYdVdYa3JWbHhOM05fLUxSWlVkZEttbXF1WnVSeWZ0ZURWNURIajdCWWZwYWxucVdYSGVmaHotNGhyX055aW1jYWJjUk80SVhVb3J6MFFi?oc=5",
+  "published": "2026-11-10T09:45:37Z",
+  "fetched": "2026-11-11T02:00:06Z"
+ },
+ {
   "id": "a9c6be7c5776971f",
   "source": "Dawn",
   "region": "local",
@@ -4739,6 +5707,17 @@
   "link": "https://www.euronews.com/2026/11/10/more-computing-power-more-jobs-denmark-boosts-its-ai-supercomputer",
   "published": "2026-11-10T09:38:47Z",
   "fetched": "2026-11-10T10:33:25Z"
+ },
+ {
+  "id": "a32e988a25fbfd92",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "news",
+  "title": "Mustafa Kamal vows not to back down from demand for new provinces",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2dmLVVINEs1ZkFpTjdXS0JqX3A1U25ReW5Ud0xtQVJ0OEU3MGNva081OHgtQmNvVEd5ZFE3YWwyT2xqVm4xUXc0VHN0LWZnMmpqeEhzWXhvTDh0RDF5eG5QaE1WOW9RbGpJT2xjN216TG9IMG1ZaUhZcFJkYnB2dXh6TGxsN3N2UDBneFV0cURnYTFLMVAtOVdFSFpMRTlsV3FGZ25MbFRYZ19nZ0JIRTRwTVVrQdIBVkFVX3lxTE9VczVXdFlPaG0zN0ZkSDVaOVJzQVNYLVFvRVJrbnNTRG9qUXhKRjZLbE0yanJHNmlSaGs5eDZWWHFiVmREZFpNSHM0NG83S1pDSHM5U3Jn?oc=5",
+  "published": "2026-11-10T09:38:05Z",
+  "fetched": "2026-11-11T02:00:04Z"
  },
  {
   "id": "c96ca2246cf04e41",
@@ -4827,6 +5806,17 @@
   "link": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss",
   "published": "2026-11-10T09:29:54Z",
   "fetched": "2026-11-10T10:33:24Z"
+ },
+ {
+  "id": "9aee0b09e0c77e6c",
+  "source": "Dunya News",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan declare first innings at 434-9 against Sri Lanka in Rawalpindi Test",
+  "summary": "",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzNidzRVSkg4cUtMeEMzWl82blN1YnY2cGxNUi1BSWZLTXRhOUtyNmF4YmxRcUlzZUl3bHdna2lKRnBrN2RLYzdTQUxoVFV1cjFEZDlvWW9hSVUyRjVIZ2dBcFJBaFI1aVFQUUx3c1Y3aFBGQ1hVTlJURDVJeU8ydGJVN1RMbk1jSUV1M0JSQnNxbU1YSWhkYUpDOU1nMlZDSGlhdEFmMWVjbkXSAVZBVV95cUxPQ1o5bk42RW1oVU1tVVZXZ0JGNWpzSTFjUFJ4R3hoWENSN2VWSHoyNDVuelo4WHpvcUVHSV9famc3R0hpSVNOTXpuV2pDd3FQVUItTlJOQQ?oc=5",
+  "published": "2026-11-10T09:27:17Z",
+  "fetched": "2026-11-11T02:00:04Z"
  },
  {
   "id": "46173f1567c4e732",
@@ -16641,115 +17631,5 @@
   "link": "https://www.dawn.com/news/2042742/world-a-trump-wounded",
   "published": "2026-11-08T02:06:28Z",
   "fetched": "2026-11-10T10:33:30Z"
- },
- {
-  "id": "258877bc6732eb4b",
-  "source": "Express Tribune",
-  "region": "local",
-  "category": "news",
-  "title": "A LEGACY OUT OF TUNE",
-  "summary": "The Queen of Melody’s centenary passed with little official recognition, exposing how we forget our cultural icons",
-  "link": "https://tribune.com.pk/story/2639269/a-legacy-out-of-tune",
-  "published": "2026-11-08T01:14:39Z",
-  "fetched": "2026-11-09T20:22:21Z"
- },
- {
-  "id": "e45577e8171d396f",
-  "source": "Sky News",
-  "region": "international",
-  "category": "news",
-  "title": "Finland's navy chief says Russia's presence in the Baltic Sea may have peaked for now",
-  "summary": "Russia may have reached the limit of its \"peacetime\" ability to project force in the Baltic Sea, with the maritime situation \"tense\" but \"stable\", the head of Finland's navy has said.",
-  "link": "https://news.sky.com/story/finlands-navy-chief-says-russias-presence-in-the-baltic-sea-may-have-peaked-for-now-13609763",
-  "published": "2026-11-08T01:01:00Z",
-  "fetched": "2026-11-09T20:22:17Z"
- },
- {
-  "id": "37d974faced65adb",
-  "source": "BBC News",
-  "region": "international",
-  "category": "news",
-  "title": "The Trump coalition is shattered - what will Republicans do now?",
-  "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
-  "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-  "published": "2026-11-08T00:52:39Z",
-  "fetched": "2026-11-09T20:22:16Z"
- },
- {
-  "id": "4a5aba3dab3a0e15",
-  "source": "BBC News",
-  "region": "international",
-  "category": "news",
-  "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-  "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-  "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-  "published": "2026-11-08T00:48:59Z",
-  "fetched": "2026-11-09T20:22:16Z"
- },
- {
-  "id": "2697ece4e5c5b946",
-  "source": "Dawn",
-  "region": "local",
-  "category": "sports",
-  "title": "Alcaraz sets up Paris Masters final clash with Shelton",
-  "summary": "Carlos Alcaraz said on Saturday that taking on world number four Ben Shelton is “one of the best challenges” in tennis after the Spaniard beat Casper Ruud to set up a Paris Masters final clash with the American. It will be the first meeting between the pair since Shelton ended Alcaraz’s US Open…",
-  "link": "https://www.dawn.com/news/2042959/alcaraz-sets-up-paris-masters-final-clash-with-shelton",
-  "published": "2026-11-08T00:26:15Z",
-  "fetched": "2026-11-09T20:22:23Z"
- },
- {
-  "id": "b7f2b6c62830f1a9",
-  "source": "Dawn",
-  "region": "local",
-  "category": "sports",
-  "title": "High-scoring Roma move second in Serie A with 3-0 win over Sassuolo",
-  "summary": "AS Roma moved to second in the Serie A standings with a 3-0 win over struggling Sassuolo at the Stadio Olimpico on Saturday, where the league’s highest-scoring side underlined their title credentials and had little trouble seeing off the club with the worst defensive record. Roma maintained their…",
-  "link": "https://www.dawn.com/news/2042958/high-scoring-roma-move-second-in-serie-a-with-3-0-win-over-sassuolo",
-  "published": "2026-11-08T00:06:41Z",
-  "fetched": "2026-11-09T20:22:23Z"
- },
- {
-  "id": "963d2730fa5aa0e8",
-  "source": "Dawn",
-  "region": "local",
-  "category": "sports",
-  "title": "Real Madrid beat Valencia to level La Liga leaders Barca",
-  "summary": "Kylian Mbappe scored for the seventh match running as Real Madrid pulled provisionally level on points with La Liga leaders Barcelona after a 3-0 win at 10-man Valencia on Saturday. Reigning champions Barca visit Atletico Madrid, third, on Sunday, aiming to move back clear of the chasing pack. Jose…",
-  "link": "https://www.dawn.com/news/2042952/real-madrid-beat-valencia-to-level-la-liga-leaders-barca",
-  "published": "2026-11-07T23:54:58Z",
-  "fetched": "2026-11-09T20:22:23Z"
- },
- {
-  "id": "bfd4dccea001e5c0",
-  "source": "Dawn",
-  "region": "local",
-  "category": "sports",
-  "title": "Bayern, Dortmund win to stay tight at the top of Bundesliga",
-  "summary": "Bayern Munich and Borussia Dortmund remain neck and neck at the top of the German Bundesliga table after 2-1 wins over Mainz and Elversberg, respectively, on Saturday. Bayern and Dortmund, who drew 2-2 in Munich last Saturday, are locked on 21 points, with the defending champions ahead on goal…",
-  "link": "https://www.dawn.com/news/2042927/bayern-dortmund-win-to-stay-tight-at-the-top-of-bundesliga",
-  "published": "2026-11-07T23:40:35Z",
-  "fetched": "2026-11-09T20:22:23Z"
- },
- {
-  "id": "42df4db7367797f5",
-  "source": "Dawn",
-  "region": "local",
-  "category": "sports",
-  "title": "PSG march on in Ligue 1 with 11th straight win",
-  "summary": "Illia Zabarnyi scored the only goal of the game as a weakened Paris Saint-Germain claimed an unspectacular 1-0 win over Troyes in Ligue 1 on Saturday to make it 11 consecutive victories in all competitions. Ukraine defender Zabarnyi headed in Senny Mayulu’s cross to break the deadlock in the 39th…",
-  "link": "https://www.dawn.com/news/2042921/psg-march-on-in-ligue-1-with-11th-straight-win",
-  "published": "2026-11-07T23:23:15Z",
-  "fetched": "2026-11-09T20:22:23Z"
- },
- {
-  "id": "d591d3013567a19b",
-  "source": "Dawn",
-  "region": "local",
-  "category": "sports",
-  "title": "City slump again as Arsenal extend Premier League lead",
-  "summary": "Manchester City suffered a third consecutive Premier League defeat at the hands of Nottingham Forest on Saturday, allowing Arsenal to stretch their lead at the top of the table to six points. Enzo Maresca’s men desperately needed a win at the City Ground to keep pace with the in-form champions, who…",
-  "link": "https://www.dawn.com/news/2042920/city-slump-again-as-arsenal-extend-premier-league-lead",
-  "published": "2026-11-07T23:02:21Z",
-  "fetched": "2026-11-09T20:22:23Z"
  }
 ]
