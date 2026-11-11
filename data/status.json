@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:29:36Z",
+ "updated": "2026-11-11T17:55:06Z",
  "sources": [
   {
    "source": "BBC News",
@@ -100,7 +100,7 @@
   {
    "source": "92 News",
    "region": "local",
-   "items": 34,
+   "items": 37,
    "via": "google-news"
   },
   {
@@ -118,7 +118,7 @@
   {
    "source": "GNN",
    "region": "local",
-   "items": 18,
+   "items": 21,
    "via": "google-news"
   },
   {
