@@ -1,5 +1,728 @@
 [
  {
+  "id": "d502049818961424",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan to Become Competitive Destination for Mineral Investment, Says Field Marshal Asim Munir",
+  "summary": "Field Marshal Asim Munir addressed the Pakistan Minerals Investment Forum 2026, stating that the country aims to become a competitive destination for long-term investment in the mineral sector.",
+  "paragraphs": [
+   "According to reports from Dawn and other sources, Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir spoke at the Pakistan Minerals Investment Forum 2026 in Islamabad. He emphasized that Pakistan is positioning itself as a competitive destination for long-term mineral investment.",
+   "In related discussions at the forum, Prime Minister Shehbaz Sharif directed effective measures to ensure local benefits from Reko Diq and other mineral projects, while delegations such as the Barrick Mining Corporation expressed strong interest in establishing mineral processing industries in Karachi and Gwadar, as reported by ARY News, Samaa, and 92 News."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "CDF stresses value-added growth to unlock Pakistan’s mineral wealth",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRk9lSmY0VzBOR3pEVzJVektxZVY1dkxSSlg4czRvZHhaY3JBSjNJX3g1bXlpVk42eGNKY3lzajRfSDdyY3pJcHc2M0piNVdKNWIyOUJZWDFDVEFrNnFvXzJhM2pyTmFXb0F4YTZuLVdkLVRialFHaDVwLXMzZjNkN1VWUEJiekdFSTBQX1F5a0REUDBZejZV?oc=5",
+    "published": "2026-11-13T19:35:36Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "PM directs effective measures to ensure local benefits from Reko Diq, mineral projects",
+    "link": "https://arynews.tv/pm-directs-effective-measures-to-ensure-local-benefits-from-reko-diq-mineral-projects",
+    "published": "2026-11-13T19:28:55Z",
+    "used_text": "PM directs effective measures to ensure local benefits from Reko Diq, mineral projects"
+   },
+   {
+    "source": "Samaa",
+    "title": "Pakistan must focus on value addition in minerals sector: Ali Pervaiz",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0F2azZrSFZfRTVTeXh4V2Q3WmhkTEVrTEdGRUdaWHNuRENVRWQtSGg2RTN3ZW1wbkV3ZVZPMG5tSWUtN1lCbEh0NjF2TmZwZmV4S09CdnF3WnVIVmhVMF84MUpjNFV1SDZpU1BhZ3hyV3g0WG1qdWhJemZtVTBoTFk3WmN5N01wWXRleVhlMmo2MVAzNUp5bFEzUDJRQ2ktMUE?oc=5",
+    "published": "2026-11-13T19:26:55Z",
+    "used_text": ""
+   },
+   {
+    "source": "GNN",
+    "title": "Watch: Field Marshal Asim Munir Addresses Pakistan Minerals Investment Forum | Breaking News",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WMEtPNlZuMUxOakxzVm9DZ2lTWUlYTTVCVWp5S205bG5DaktCWGNrdjRsODgwLS1YTVV4NTl0ZkF0REdZYVVvamxzbGoxTlVZMGRZdGVB?oc=5",
+    "published": "2026-11-13T19:00:26Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar",
+    "link": "https://www.dawn.com/news/2044302/barrick-mining-expresses-interest-in-mineral-processing-industries-in-karachi-gwadar",
+    "published": "2026-11-13T15:00:31Z",
+    "used_text": "The delegation from the Barrick Mining Corporation on Friday expressed strong interest in investing in the establishment of mineral processing industries in Karachi and Gwadar. The development came as the delegation, led by Chairman John Thornton, held a meeting with Prime Minister Shehbaz Sharif…"
+   },
+   {
+    "source": "Dawn",
+    "title": "Pakistan aiming to become competitive destination for long-term investment, CDF Munir tells minerals moot",
+    "link": "https://www.dawn.com/news/2044267/pakistan-aiming-to-become-competitive-destination-for-long-term-investment-cdf-munir-tells-minerals-moot",
+    "published": "2026-11-13T13:37:23Z",
+    "used_text": "Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir said on Friday that Pakistan was aiming to become a competitive destination for long-term mineral investment. He made the remarks while addressing the participants of the Pakistan Minerals Investment Forum 2026 in Islamabad,…"
+   },
+   {
+    "source": "Samaa",
+    "title": "Shehbaz Sharif invites global investors to Pakistan’s minerals sector",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcERuNGtNUmM0LTB2YXNzZGFOc01OLUV0VERGbklfbGxYT1FPY0stN2V2VFNjdkQyblhIVzM4UmwyanVBNmkwVGNERDlQME9DdGstek5yYURJY3RtYUp0ODc5akdZQ0ItbzVOSzFXbFNNeDFWM2hFNEtmRU1LRWFMLWhtUmJUbmZPcXFVUm5mamFTeTcyWF9TNWxBbHhoZ1FOcUo4?oc=5",
+    "published": "2026-11-13T12:36:04Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Jam Kamal Calls Pakistan Minerals Investment Forum a Game Changer",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VdkpwV1FFeFdRNVE1b19LNUppWk53enhLSVZBOUJIRnJuZGtIWjR6M0k1X0RiQ1MySk9TbWNicFQ3OHBxdmlDbmJIUzA?oc=5",
+    "published": "2026-11-13T12:30:11Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Asim Munir Vows Security and Growth for Pakistan’s Mining Sector",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oM0hnRGt6a1ZydkpsblU5dzFGazVZX1NRVXE3YXo5LUJFOTVKUE5HNHBRN01CZUhKMjNXUWNrTnQ4dDU2VE1RMVNaemI5R2lCLS1j?oc=5",
+    "published": "2026-11-13T12:10:10Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-pakistan-to-become-competitive-destination-for-mineral-investment-says-d502.html"
+ },
+ {
+  "id": "d66deccf1a71dbfc",
+  "region": "local",
+  "category": "news",
+  "title": "Government Reduces Petrol Price by Rs2 While High-Speed Diesel Remains Unchanged",
+  "summary": "Authorities have decreased the price of petrol by Rs2 per litre, while the rate for high-speed diesel remains unchanged.",
+  "paragraphs": [
+   "According to Dawn, Samaa, and Express Tribune, the petrol price was cut by Rs2, bringing the new price of petrol to Rs330, while the high-speed diesel price remains unchanged at Rs360.",
+   "Aaj News and ARY News noted that the reduction follows a notification issued by OGRA, marking the sixth straight time the government has slashed petrol and diesel prices."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Petrol price cut by by Rs2; high-speed diesel price remains unchanged",
+    "link": "https://www.dawn.com/news/2044318/petrol-price-cut-by-by-rs2-high-speed-diesel-price-remains-unchanged",
+    "published": "2026-11-13T17:51:54Z",
+    "used_text": "& · ● ●"
+   },
+   {
+    "source": "Aaj News",
+    "title": "Govt cuts petrol price, keeps diesel rate unchanged",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdTdFZF9QSHZYQXlHd1NOY19BTThtU19zeDVtRWVtR2JwQ0lxdDNmOHluVV9JOUNNdlZZWU5EN202bUF5aWM3ZWVhc20xc25JaVY2aEVvVWcxODRLOGNiRFZ3enpvY1F1ZnhScnAxNkxtUHUwTDFwc3FKRU1HR0RWeUdFWXl6Z0JqeUhidjJBa1RHZw?oc=5",
+    "published": "2026-11-13T17:44:20Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Petrol price reduced as OGRA issues new notification",
+    "link": "https://arynews.tv/petrol-price-reduced-as-ogra-issues-new-notification",
+    "published": "2026-11-13T17:40:19Z",
+    "used_text": "Petrol price reduced as OGRA issues new notification"
+   },
+   {
+    "source": "Samaa",
+    "title": "Petrol price cut by Rs2 per litre, diesel rate unchanged",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjJoSldmdEhXb0Joanl5M3QzX0R3d0lKQ1dPTmJvMFM0ckQzNTlvS200bjFTNmxibnNVbm9PclM0ZldKNWE4TlpKaEQxdmpTbjRYeDI5ZXUzcXFrRloxajFxNWFaWnJ3Sld0OEdpSDh0ZEtfcFlRNzhsYmhESXFqTjIwZ1lBSjlJNnJ2cklxNXYzRXFPQUlPak94MXByekpGUmIw?oc=5",
+    "published": "2026-11-13T17:38:50Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Govt slashes petrol, diesel prices for sixth straight time",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdm84WXBOYnRoY1hJOGhGN2w2Q01uSWZnYVJYbXpUVjJhSDNCd1dpeTlEd2NyaVNqTjVlRXJxbkI2M3RBbjI1d1BTWjBPc1RPSVR0MU1OM3lhUklFdVNEQ29tb1pjZkpzQWVqRFpTNGZjaXI0TnFmZTdyX09kNTVLbU9zOGQwLUxuanRkR1JkQzliSWJZMFFmZkZnYw?oc=5",
+    "published": "2026-11-13T13:33:16Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Petrol drops by Rs2, diesel remains unchanged till Nov 16",
+    "link": "https://tribune.com.pk/story/2640162/petrol-drops-by-rs2-diesel-remains-unchanged-till-nov-16",
+    "published": "2026-11-13T12:27:54Z",
+    "used_text": "New petrol price is Rs330, HSD is Rs360"
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-government-reduces-petrol-price-by-rs2-while-high-speed-d66d.html"
+ },
+ {
+  "id": "2f3eaa750607ee42",
+  "region": "local",
+  "category": "news",
+  "title": "Islamabad High Court Suspends Upcoming Local Government Elections",
+  "summary": "The Islamabad High Court has suspended upcoming local government elections in the capital, putting the ECP schedule on hold.",
+  "paragraphs": [
+   "According to Dawn, the Islamabad High Court suspended the upcoming local government elections in the federal capital on Friday. The decision puts the Election Commission of Pakistan's latest election schedule on hold until the next hearing.",
+   "The suspension follows a writ petition filed last week by Chaudhry Amjad Ali."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "IHC suspends local government elections in Islamabad",
+    "link": "https://www.dawn.com/news/2044288/ihc-suspends-local-government-elections-in-islamabad",
+    "published": "2026-11-13T14:43:44Z",
+    "used_text": "ISLAMABAD: The Islamabad High Court (IHC) on Friday suspended the upcoming local government elections in the federal capital, putting the Election Commission of Pakistan’s (ECP) latest election schedule on hold until the next hearing. Last week, a writ petition was filed by Chaudhry Amjad Ali, who…"
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-islamabad-high-court-suspends-upcoming-local-government-elections-2f3e.html"
+ },
+ {
+  "id": "feaec3fecf79d739",
+  "region": "local",
+  "category": "news",
+  "title": "President House Denies Discussions on New Provinces During Zardari and Naqvi Meeting",
+  "summary": "The President House has refuted media reports claiming that matters related to new provinces were discussed between President Asif Ali Zardari and Interior Minister Mohsin Naqvi.",
+  "paragraphs": [
+   "According to Dawn and Aaj News, the President House on Friday refuted media reports concerning a meeting between President Asif Ali Zardari and Interior Minister Mohsin Naqvi.",
+   "The official clarification stated that matters related to provinces did not come under discussion, and that the talks strictly focused on national security and the regional situation."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
+    "link": "https://www.dawn.com/news/2044319/president-house-says-matters-related-to-provinces-did-not-come-under-discussion-during-zardari-naqvi-meeting",
+    "published": "2026-11-13T18:16:22Z",
+    "used_text": "The President House on Friday refuted media reports about yesterday’s meeting between President Asif Ali Zardari and Interior Minister Mohsin Naqvi, saying that discussions focused on national security and regional situation. The clarification comes after several media reports emerged claiming that…"
+   },
+   {
+    "source": "Aaj News",
+    "title": "President House denies Zardari, Naqvi discussed new provinces",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnBEclRqaDJodkdmS3NtLUxzcDZDRmJ5bF9hTU91LTZiQWljZXpRbVBVaGd2YTBOc21tSDlkT19BLWQzN0VfRTJqTkZDYU41U19IMmphLUpqQzczOWhjcks2bWdRMDUzNzZaVlBqTGItVXJGekE2eHFfd3c5eXhGX3lRTTZwbmswNDlRWGNJZEg3bW8ya1hOQk40MGFIRlU?oc=5",
+    "published": "2026-11-13T18:00:53Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-president-house-denies-discussions-on-new-provinces-during-zardari-feae.html"
+ },
+ {
+  "id": "b473241564f2d769",
+  "region": "local",
+  "category": "news",
+  "title": "Government Sets December 31 Deadline to Make Islamabad Pakistan's First Cashless City",
+  "summary": "The government has established a December 31 deadline for Islamabad to become Pakistan's first cashless city, urging banks to play an active role.",
+  "paragraphs": [
+   "According to ARY News and Geo News, the government has set a December 31 deadline for Islamabad to transition into Pakistan's first fully cashless city.",
+   "In support of the initiative, ARY News reported that banks have been urged to play a more active role in the Cashless Pakistan drive."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Pakistan’s first cashless city: Government sets December 31 deadline",
+    "link": "https://arynews.tv/pakistan-first-cashless-city-government-sets-december-31-deadline",
+    "published": "2026-11-13T15:13:33Z",
+    "used_text": "Pakistan’s first cashless city: Government sets December 31 deadline"
+   },
+   {
+    "source": "Geo News",
+    "title": "Islamabad to go fully cashless by December 31",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUxCR2M0Y3ZJdm9KNGFtWTB3TklGVkp6cXlacWhSdlpoN21SbFdYTlZfX09tX3lEcEpPeWlwSnlqS1Vna1lBaDZER0VGYnlRQkg4WTNIRW9qS0tDSHFJMjE2MThsTkQ5dTdRYkhNaGFxaHlUcGxseFBqMmpJR1BKaFhYSWs?oc=5",
+    "published": "2026-11-13T14:18:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Banks urged to play more active role for Cashless Pakistan initiative",
+    "link": "https://arynews.tv/banks-urged-to-play-more-active-role-for-cashless-pakistan-initiative",
+    "published": "2026-11-13T13:01:23Z",
+    "used_text": "Banks urged to play more active role for Cashless Pakistan initiative"
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-government-sets-december-31-deadline-to-make-islamabad-pakistan-b473.html"
+ },
+ {
+  "id": "53b2cd2a4153a2e5",
+  "region": "local",
+  "category": "news",
+  "title": "Karachi Faces Water Shortage Due to Dhabeji Maintenance Shutdown",
+  "summary": "Karachi is facing a 130 MGD water shortfall as K-Electric initiates a maintenance shutdown at Dhabeji.",
+  "paragraphs": [
+   "According to ARY News, Karachi is facing a 130 MGD water shortfall. The deficit comes as K-Electric began a maintenance shutdown at the Dhabeji installation."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Karachi faces 130 MGD water shortfall as KE begins Dhabeji maintenance shutdown",
+    "link": "https://arynews.tv/karachi-faces-130-mgd-water-shortfall-as-ke-begins-dhabeji-maintenance-shutdown",
+    "published": "2026-11-13T12:15:47Z",
+    "used_text": "Karachi faces 130 MGD water shortfall as KE begins Dhabeji maintenance shutdown"
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-karachi-faces-water-shortage-due-to-dhabeji-maintenance-shutdown-53b2.html"
+ },
+ {
+  "id": "3fe0e1b277fb254f",
+  "region": "local",
+  "category": "news",
+  "title": "Weekly Inflation Rises by 0.46 Percent, According to PBS Data",
+  "summary": "The Pakistan Bureau of Statistics reported a 0.46 percent increase in weekly inflation.",
+  "paragraphs": [
+   "According to Samaa, the Pakistan Bureau of Statistics (PBS) reported that weekly inflation rose by 0.46%."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "Weekly inflation rises by 0.46%: PBS",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQMXRxMzJuWTFaRnVjRnBpTmcxSkMtcklqcUVqSm1iM19qMzk1RDBvWUhLckRUWGhBSDVoUlBfXzFGVjNLMVZ5aUxwZ2NYLVNBeG9CS1NKbnFNNjlBNk4zMl96cDNiNjRlandVZ0VYYjJvbUMy?oc=5",
+    "published": "2026-11-13T13:56:48Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "Weekly inflation rises by 0.46 per cent: PBS",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURWLXR1UHp0cE1FazEza1pqaWtqRmdBNVpoTUktTUdqSldRLVVPMlloUXh1V3RRVDNqWjF6LVFVcFhuS1VBUmxGS05ZaVQ4UHdtVHNXYm51RTdMUUFUZDJzQmhrVm1kOGJ1bXM3UmdFNWxINUpINXo5X0pyRmxpWQ?oc=5",
+    "published": "2026-11-13T13:56:05Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-weekly-inflation-rises-by-0-46-percent-according-to-3fe0.html"
+ },
+ {
+  "id": "e22a8d508c6e3931",
+  "region": "local",
+  "category": "news",
+  "title": "PSX Closes Higher as KSE-100 Index Gains Over 500 Points",
+  "summary": "The Pakistan Stock Exchange closed higher as the KSE-100 index gained more than 500 points.",
+  "paragraphs": [
+   "According to ARY News, stocks closed higher at the Pakistan Stock Exchange (PSX), with the KSE-100 index gaining over 500 points during the trading session."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "PSX: Stocks close higher as KSE-100 index gains over 500 points",
+    "link": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-500-points",
+    "published": "2026-11-13T13:10:34Z",
+    "used_text": "PSX: Stocks close higher as KSE-100 index gains over 500 points"
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-psx-closes-higher-as-kse-100-index-gains-over-e22a.html"
+ },
+ {
+  "id": "a62c950846ba3e65",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan and Sri Lanka Play Out a Draw in First Test Affected by Bad Weather",
+  "summary": "The first Test between Pakistan and Sri Lanka ended in a draw in Rawalpindi, aided by Saud Shakeel's performance and bad weather.",
+  "paragraphs": [
+   "According to Dawn and Express Tribune, Pakistan foiled Sri Lanka's bid for victory as the first Test ended in a draw on the fifth and final day in Rawalpindi. Led by Saud Shakeel and aided by bad weather, Pakistan held on after Sri Lanka sensed victory when reducing Pakistan to 151-5 at lunch with a lead of 139.",
+   "Samaa and ARY News similarly reported that Pakistan and Sri Lanka shared honours after the drawn Rawalpindi Test, while 92 News noted that Babar Azam's century drought continued during the match."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "Pakistan, Sri Lanka share honours after drawn Rawalpindi Test",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGVpaTlqU2hBWjNCSDJwV0x1ejgya1RReGo0UlJvbDZqODVtcENIZU5SdU1jNE1EMHVZSHVZOE1LODUxa3piUXBOakY0cGJwdldpZWRyeXI5YkE0SFJacXBINHc2TzRrNE1Cakgwb1BWc3pYMjV6TmRzT0NfNGZGcTJTNG1CbExoaDFoaDd1bmhFa2hfbTB1aFdwa0VncGJkN2FJR1pDT2VNUQ?oc=5",
+    "published": "2026-11-13T13:23:27Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan, bad weather hold Sri Lanka to draw in first Test",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXkxaEhpOWNHMmxwUEFRWmJwcDBKOWJyaV9sdUoxYUtqQjRSdWdsazVJWnBBU3h6NXdURWxKcGNxZHMyeVhsZ19wbzY0azdYRUNwbVhKQ0hIbkFua3VoeHhPS2hBZ2I2QVhHd1NDVFRIOUwwWWhTb0xMZTM5TjAyT25TOTREX01UVFZkMzRlUHhobHh0c2REOFk2SQ?oc=5",
+    "published": "2026-11-13T12:26:43Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Pakistan, bad weather hold Sri Lanka to draw in first Test",
+    "link": "https://arynews.tv/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
+    "published": "2026-11-13T12:06:03Z",
+    "used_text": "Pakistan, bad weather hold Sri Lanka to draw in first Test"
+   },
+   {
+    "source": "Dawn",
+    "title": "Pakistan, bad weather hold Sri Lanka to draw in first Test",
+    "link": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
+    "published": "2026-11-13T12:29:11Z",
+    "used_text": "Led by Saud Shakeel and aided by bad weather, Pakistan foiled Sri Lanka’s bid for victory as the first Test ended in a draw on the fifth and final day in Rawalpindi on Friday. Sri Lanka had sniffed victory with four wickets in the first session, with Pakistan 151-5 at lunch and a lead of 139. But…"
+   },
+   {
+    "source": "92 News",
+    "title": "Babar Azam’s century drought continues as Sri Lanka put Pakistan under pressure",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnhuU1VNNjl1WXIwRDc5cjl4bTBkTkk2dXNMekl2LVZzZi1vOUhiZVJTUG9fd1YySGZTNVppQ1lkakVRejZKS0ZGRDQwbDFTOS1OMTNncmRFLWhFcFoxWHVyRWY1VXpkZ3B4YUdBREZWSXM3cFV3Mko3UHpJMGlCakdESjc3MVJSUEFDLUNkTTNtTTVBVkhZckg2Z2M5U1AwcDlna3ViTQ?oc=5",
+    "published": "2026-11-13T11:35:49Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Babar's century drought continues as Sri Lanka tighten grip on first Test",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTNkT0Rna2pYUlIxbDRTZzhTRlRaQUhxdm9jd0FFWUJmTkEyLXF6WGhib2ZTejJyOVllZWc3dzFtTU8xcmI0dlJTeE94ZnNtUGp5VjJhWGFkbWxIVHRIYlcxQmhDOUdnZWF0Q09ER3B0b3VCTURlcGtJRWFvZWxNU3Z2Z1NrQmNQRUR6ZUtPOEN0UFJWR1NvQ3ZZUE1pQmthNGxuZ0UxRzN5V0lJd0Nj?oc=5",
+    "published": "2026-11-13T09:30:07Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-pakistan-and-sri-lanka-play-out-a-draw-in-a62c.html"
+ },
+ {
+  "id": "f728a67edd4ed0d9",
+  "region": "international",
+  "category": "news",
+  "title": "US Federal Aviation Administration Issues Nationwide Ground Stop",
+  "summary": "The US Federal Aviation Administration ordered a nationwide ground stop at all US airports due to extraordinary circumstances and safety reasons.",
+  "paragraphs": [
+   "According to DW and CNBC, the US Federal Aviation Administration ordered a ground stop at all US airports. Departing traffic must remain groundstopped until further notice.",
+   "The Federal Aviation Administration stated the action was taken due to extraordinary circumstances and for reasons of safety. US Transportation Secretary Sean Duffy reported that technicians are currently investigating the issue."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "FAA orders ground stop at all US airports due to 'extraordinary circumstance and reasons for safety'",
+    "link": "https://www.dw.com/en/faa-orders-ground-stop-at-all-us-airports-due-to-extraordinary-circumstance-and-reasons-for-safety/a-79945062?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-13T21:16:00Z",
+    "used_text": "\"All ​departing traffic should remain groundstopped until further notice,\" the US Federal Aviation Administration said. US Transportation Secretary Sean Duffy said technicians are investigating the issue."
+   },
+   {
+    "source": "CNBC",
+    "title": "FAA issues nationwide ground stop",
+    "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "published": "2026-11-13T21:15:29Z",
+    "used_text": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\""
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-us-federal-aviation-administration-issues-nationwide-ground-stop-f728.html"
+ },
+ {
+  "id": "f0ef2e07deb4b865",
+  "region": "international",
+  "category": "news",
+  "title": "Microsoft Issues Apology as Global Outage Extends Into Second Day",
+  "summary": "Microsoft apologized for a widespread global outage affecting government services, businesses, and individuals.",
+  "paragraphs": [
+   "According to BBC News, Microsoft expressed that it is deeply sorry for a global outage that caused nearly 24 hours of disruption. Al Jazeera reported that server failures stretched into a second day, impacting governments, businesses, and individuals globally.",
+   "Experts noted that the event serves as a stark reminder of the heavy global reliance on a small group of major tech providers, while workers worldwide have found humor in the disruptions to Outlook, Teams, and Copilot."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T21:14:22Z",
+    "used_text": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Microsoft says services still returning amid widespread outage",
+    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
+    "published": "2026-11-13T20:16:13Z",
+    "used_text": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "No emails, no problem? Workers joke about Microsoft outage",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+    "published": "2026-11-13T17:55:05Z",
+    "used_text": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-microsoft-issues-apology-as-global-outage-extends-into-second-f0ef.html"
+ },
+ {
+  "id": "a95f3233ffb66a49",
+  "region": "international",
+  "category": "news",
+  "title": "Turkey and Qatar Sign Mutual Defence Agreement in Istanbul",
+  "summary": "Turkey and Qatar signed a mutual defense agreement in Istanbul, pledging a unified response to any attack.",
+  "paragraphs": [
+   "According to Al Jazeera and France 24, Turkey and Qatar signed a mutual defence pact following a meeting between leaders in Istanbul on Friday. The agreement pledges a unified response to any attack on either country.",
+   "The new defence pact follows the Mecca Joint Defence Agreement signed by Turkey, Pakistan, and Saudi Arabia in August, according to joint statements reported by France 24."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
+    "published": "2026-11-13T20:48:02Z",
+    "used_text": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability."
+   },
+   {
+    "source": "France 24",
+    "title": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
+    "link": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
+    "published": "2026-11-13T20:06:40Z",
+    "used_text": "Turkey and Qatar signed a mutual defence agreement Friday, pledging a unified response to any attack on either country, the two leaders said in a joint statement. The defence pact follows the Mecca Joint Defence Agreement signed by Turkey, Pakistan and Saudi Arabia in August."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Turkiye and Qatar sign mutual defence agreement",
+    "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+    "published": "2026-11-13T15:49:51Z",
+    "used_text": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌‌bin Hamad ​Al Thani in Istanbul on ⁠⁠Friday."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-turkey-and-qatar-sign-mutual-defence-agreement-in-istanbul-a95f.html"
+ },
+ {
+  "id": "e4037aa64263dd27",
+  "region": "international",
+  "category": "news",
+  "title": "Pope Leo XIV Welcomed by Massive Crowds in Peru",
+  "summary": "An estimated 1.5 million people welcomed Pope Leo XIV back to the Peruvian city where he previously served as bishop.",
+  "paragraphs": [
+   "According to Al Jazeera, an estimated 1.5 million people welcomed Pope Leo XIV back to the city in Peru where he once served as bishop. DW reported that over a million people gathered for Mass with the Chicago-born pope on Friday in Chiclayo.",
+   "The event in northern Peru forms the centerpiece of the pope's South American tour, taking place just weeks after he underwent surgery for lung cancer."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+    "published": "2026-11-13T20:52:31Z",
+    "used_text": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+    "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+    "published": "2026-11-13T20:28:20Z",
+    "used_text": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour."
+   },
+   {
+    "source": "DW",
+    "title": "Pope Leo celebrates Mass in his former diocese of Chiclayo, Peru",
+    "link": "https://www.dw.com/en/pope-leo-celebrates-mass-in-his-former-diocese-of-chiclayo-peru/a-79944167?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-13T18:58:00Z",
+    "used_text": "Over a million people have gathered for Mass with Pope Leo XIV on Friday. The event in northern Peru, where he served as bishop before becoming head of the Catholic Church, is the centerpiece of his South American tour."
+   },
+   {
+    "source": "BBC News",
+    "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T18:34:45Z",
+    "used_text": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-pope-leo-xiv-welcomed-by-massive-crowds-in-peru-e403.html"
+ },
+ {
+  "id": "78e798f6ba33ef52",
+  "region": "international",
+  "category": "news",
+  "title": "EU Leaders Agree on Negotiating Team for Potential Ukraine Peace Talks",
+  "summary": "European leaders chose a joint team including Germany, France, the UK, Italy, and Poland to represent Europe in prospective peace talks.",
+  "paragraphs": [
+   "According to DW and Euronews, Germany, France, the UK, Italy, and Poland, alongside the EU itself and NATO, will jointly represent Europe in possible peace talks. Euronews and Al Jazeera noted that the team was chosen after months of wavering, though leaders declined to appoint a single envoy.",
+   "Meanwhile, BBC Russia Editor Steve Rosenberg noted that Moscow views the inclusion of European security in discussions as a victory, as reported by BBC News."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "Ukraine updates: EU to send united front to potential peace talks",
+    "link": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-13T19:39:00Z",
+    "used_text": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more."
+   },
+   {
+    "source": "Euronews",
+    "title": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
+    "link": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
+    "published": "2026-11-13T18:55:24Z",
+    "used_text": "Europe has decided on a joint team for the peace talks led by France, Germany, the UK, Italy, Poland, the EU institutions and NATO. Despite mounting pressure, leaders declined to appoint a single envoy."
+   },
+   {
+    "source": "Sky News",
+    "title": "EU leaders choose team for Ukraine peace talks after months of wavering",
+    "link": "https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008",
+    "published": "2026-11-13T18:04:00Z",
+    "used_text": "British representatives will be part of a team representing Europe in Ukraine peace talks."
+   },
+   {
+    "source": "BBC News",
+    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T16:40:31Z",
+    "used_text": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "EU agrees on five countries to represent Europe in Ukraine peace talks",
+    "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+    "published": "2026-11-13T15:43:39Z",
+    "used_text": "European leaders believe a US-backed process will allow Moscow and Washington to decide the fate of the conflict."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-eu-leaders-agree-on-negotiating-team-for-potential-ukraine-78e7.html"
+ },
+ {
+  "id": "7514038bd4885e2f",
+  "region": "international",
+  "category": "news",
+  "title": "Bus and Truck Crash in India's Assam State Kills at Least 24 People",
+  "summary": "A collision between a bus and a truck in India's Assam state left at least 24 people dead, with the death toll expected to rise.",
+  "paragraphs": [
+   "According to Al Jazeera and BBC News, at least 24 people were killed after a bus and a truck collided in India's Assam state. Several children and the bus driver were among the dead.",
+   "Local official Atul Bora stated that several of the deceased are college students, though they have not yet been publicly identified, and the death toll is expected to rise."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+    "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+    "published": "2026-11-13T16:01:45Z",
+    "used_text": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise."
+   },
+   {
+    "source": "BBC News",
+    "title": "At least 24 killed after bus collides with truck in north-east India",
+    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T15:16:50Z",
+    "used_text": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-bus-and-truck-crash-in-india-s-assam-state-7514.html"
+ },
+ {
+  "id": "cbef32c65d7bea7c",
+  "region": "international",
+  "category": "news",
+  "title": "Fallout Widens Following Jensen Huang's Resignation and Nvidia Scandal",
+  "summary": "The fallout from Nvidia CEO Jensen Huang's resignation continues to widen amid political scrutiny in Washington and European market reactions.",
+  "paragraphs": [
+   "According to BBC News and France 24, US Treasury Secretary Scott Bessent suggested that Commerce Secretary Howard Lutnick's department failed to prevent the export of Nvidia chips to a firm linked to China. Jensen Huang recently resigned following scrutiny regarding extramarital affairs.",
+   "CNBC reported that a Republican-led Congress wants Jensen Huang to testify in Washington before Democrats take control in January, while Euronews noted that Nvidia has lost nearly $2tn in market value since October."
+  ],
+  "sources": [
+   {
+    "source": "CNBC",
+    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+    "published": "2026-11-13T21:04:43Z",
+    "used_text": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January."
+   },
+   {
+    "source": "BBC News",
+    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T19:53:57Z",
+    "used_text": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+   },
+   {
+    "source": "CNBC",
+    "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+    "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+    "published": "2026-11-13T19:11:13Z",
+    "used_text": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker."
+   },
+   {
+    "source": "France 24",
+    "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
+    "link": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
+    "published": "2026-11-13T17:02:40Z",
+    "used_text": "Jensen Huang’s departure from Nvidia exposes the vulnerabilities behind the AI boom. As equities reel in response to his resignation following extramarital affairs, alleged Chinese espionage and a summons to testify before US lawmakers, questions mount over who is really in charge of tech and…"
+   },
+   {
+    "source": "CNBC",
+    "title": "Bessent points to Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+    "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+    "published": "2026-11-13T14:53:35Z",
+    "used_text": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy."
+   },
+   {
+    "source": "Euronews",
+    "title": "Nvidia has lost nearly $2tn in value. What could it be worth without Jensen Huang?",
+    "link": "https://www.euronews.com/2026/11/13/nvidia-has-lost-nearly-2tn-in-value-what-could-it-be-worth-without-jensen-huang",
+    "published": "2026-11-13T13:53:08Z",
+    "used_text": "Nvidia has lost about $1.8tn (€1.6tn) in market value since its record close on 6 October. After Jensen Huang’s exit, investors are weighing whether the chipmaker can keep growing at the pace that made it the biggest name in AI."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-fallout-widens-following-jensen-huang-s-resignation-and-nvidia-cbef.html"
+ },
+ {
+  "id": "8183ac3ed54e29d6",
+  "region": "international",
+  "category": "news",
+  "title": "German Intelligence Services Granted Expanded Powers to Counter Hybrid Threats",
+  "summary": "Germany has introduced sweeping reforms giving its intelligence and police services greater powers to combat foreign espionage and sabotage.",
+  "paragraphs": [
+   "According to BBC News and DW, German reforms mean foreign and domestic intelligence services will receive greater powers to combat espionage, terrorism, and sabotage. The legislative changes come in response to growing concerns over hybrid threats, cyberattacks, and drone sightings.",
+   "DW reported that police and intelligence services are preparing to meet these challenges from both domestic and foreign sources following heightened security concerns in the region."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T15:42:52Z",
+    "used_text": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
+   },
+   {
+    "source": "DW",
+    "title": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services",
+    "link": "https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-13T15:26:00Z",
+    "used_text": "Drone sightings and cyberattacks have heightened security concerns. How are the police preparing to meet these challenges? And how do intelligence services plan to counter threats from both domestic and foreign sources?"
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-german-intelligence-services-granted-expanded-powers-to-counter-hybrid-8183.html"
+ },
+ {
+  "id": "fadd774b85958054",
+  "region": "international",
+  "category": "sports",
+  "title": "Mauricio Pochettino Breaks Down Over Decision to Leave USA for Manchester United",
+  "summary": "An emotional Mauricio Pochettino explained his difficult decision to leave his role with the USA to become the manager of Manchester United.",
+  "paragraphs": [
+   "According to BBC News, an emotional Mauricio Pochettino broke down as he discussed his departure from the USA national team. Pochettino described the decision to take the Manchester United job as very difficult.",
+   "BBC News also analyzed whether Pochettino can succeed where others have failed and clear the tactical hurdles at Old Trafford, as the club separately faced contract negotiations with captain Bruno Fernandes."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+    "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
+    "published": "2026-11-13T20:12:34Z",
+    "used_text": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever."
+   },
+   {
+    "source": "BBC News",
+    "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T12:09:48Z",
+    "used_text": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't."
+   },
+   {
+    "source": "BBC News",
+    "title": "Fernandes rejects second Man Utd contract offer",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T09:55:01Z",
+    "used_text": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-mauricio-pochettino-breaks-down-over-decision-to-leave-usa-fadd.html"
+ },
+ {
+  "id": "2142b6d5a0c2278c",
+  "region": "international",
+  "category": "sports",
+  "title": "England Claims Back-to-Back Titles at Wheelchair Rugby League World Cup",
+  "summary": "England defeated France 50-38 in the final in Australia to capture their third Wheelchair Rugby League World Cup title.",
+  "paragraphs": [
+   "According to BBC News, England beat France 50-38 in the Wheelchair Rugby League World Cup final held in Australia. With the victory, England secured their third world championship title and became back-to-back world champions.",
+   "BBC News reported that the team's triumph was built on an aggressive approach implemented by head coach Tom Coyd, who encouraged his players to adopt the mindset of sharks."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Sharks, ladders and a four-year plan - how England won World Cup",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T15:09:52Z",
+    "used_text": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks."
+   },
+   {
+    "source": "BBC News",
+    "title": "England beat France to become back-to-back world champions",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cqy4jdxven1go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T11:40:42Z",
+    "used_text": "England become world champions for the third time after beating France 50-38 in the wheelchair Rugby League World Cup final in Australia."
+   }
+  ],
+  "created": "2026-11-13T21:25:41Z",
+  "url": "a/2026-11-13-england-claims-back-to-back-titles-at-wheelchair-rugby-2142.html"
+ },
+ {
   "id": "593896e4548a8964",
   "region": "local",
   "category": "news",
