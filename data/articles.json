@@ -1,5 +1,843 @@
 [
  {
+  "id": "560d151f2fd6a1ae",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan to Attend SCO Civilisational Dialogue in New Delhi",
+  "summary": "Pakistan has chosen Climate Change Minister Musadik Malik to attend an upcoming SCO meeting in New Delhi.",
+  "paragraphs": [
+   "According to the Foreign Office, as reported by Dawn, Climate Change Minister Musadik Malik has been nominated to represent Pakistan at the Shanghai Cooperation Organisation Civilisational Dialogue. Dawn stated that the gathering is scheduled to take place in New Delhi from Nov 20-22.",
+   "ARY News, Samaa, and Aaj News also reported on Pakistan's planned participation in the New Delhi event, with Dawn noting that representatives from various member states will attend."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "FO says Climate Minister Musadik Malik nominated to represent Pakistan at SCO moot in New Delhi",
+    "link": "https://www.dawn.com/news/2044492/fo-says-climate-minister-musadik-malik-nominated-to-represent-pakistan-at-sco-moot-in-new-delhi",
+    "published": "2026-11-14T13:19:03Z",
+    "used_text": "The Foreign Office (FO) said on Saturday that Climate Change Minister Musadik Malik had been nominated to represent Pakistan at the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue in New Delhi from Nov 20-22. In a statement, the FO said the gathering would bring representatives from…"
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan to Participate in SCO Conference on Dialogue Among Civilizations in Delhi",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01MWVTSE9QelE0MEdxRTJBMU9scEJGWEoyY21BdGZ4SHpBc1E2amJ2LW81WFF3UzZnWHVmRjg4Q25UMUdnbkdNYVhrcGc?oc=5",
+    "published": "2026-11-14T12:55:08Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Pakistan to participate in SCO Civilisational Dialogue in New Delhi",
+    "link": "https://arynews.tv/pakistan-to-participate-in-sco-civilisational-dialogue-in-new-delhi",
+    "published": "2026-11-14T12:16:46Z",
+    "used_text": "Pakistan to participate in SCO Civilisational Dialogue in New Delhi"
+   },
+   {
+    "source": "Samaa",
+    "title": "Pakistan to attend SCO dialogue in New Delhi",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlCV0Q0T3lMWl95aHBqeHF0dEhCdWtUT19fZkFuVVE3d3V1amZ3ZUFVVUZYM3dsVVBIc09OU2F1cFhHc0FJT0M0cE0xMzhOWlR6dDNqLXVaNGN6Z1dTNmlOTVgzZnQzd01hc1VFdjZETGc3YTVVbkhIYm5VNEZNVzFR?oc=5",
+    "published": "2026-11-14T12:09:14Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-pakistan-to-attend-sco-civilisational-dialogue-in-new-delhi-560d.html"
+ },
+ {
+  "id": "f385a2ef08d40073",
+  "region": "local",
+  "category": "news",
+  "title": "Security Operations in KP and Balochistan Leave Militants and Soldiers Dead",
+  "summary": "Military operations conducted across Khyber Pakhtunkhwa and Balochistan have led to the deaths of numerous terrorists alongside military casualties.",
+  "paragraphs": [
+   "Dawn reported that Inter-Services Public Relations stated four troops, including a major, were martyred while 24 terrorists were killed during multiple intelligence-based operations carried out in Balochistan and Khyber Pakhtunkhwa's North Waziristan.",
+   "Regarding the specific operations, 92 News and ARY News reported that 16 Khawarij were killed and two soldiers were martyred in North Waziristan. In an earlier account from North Waziristan, Dawn noted that 14 terrorists were killed alongside two fallen soldiers, while ARY News also reported that eight militants were neutralized and two soldiers martyred in a Balochistan operation."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "Two soldiers martyred, 16 Khawarij killed in North Waziristan operations",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVjdKVXBVZ1g3YkJjVmxJT1RnUzJtb3VyZ20zVGFCT2RBWnJFaEhWQmZkd1VFUlltRzBxbDltNzZGZTBlWU1uNFp2enBEQnZsaF9hSGlWdzVLYU02eEc5ZXRkYkltQUVuaU9CQkNGYm1NaWJORlh3bWNMLXZTbUwtWUFDeHhib2piSm90QnlabFNZWnljN1dUYkRXRVJWMl9CRlE?oc=5",
+    "published": "2026-11-14T15:48:37Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Major among 4 troops martyred, 24 terrorists killed during operations in KP and Balochistan: ISPR",
+    "link": "https://www.dawn.com/news/2044488/major-among-4-troops-martyred-24-terrorists-killed-during-operations-in-kp-and-balochistan-ispr",
+    "published": "2026-11-14T15:04:34Z",
+    "used_text": "Four troops, including a major, were martyred while 24 terrorists were killed in multiple intelligence-based operations (IBOs) in Balochistan and Khyber Pakhtunkhwa’s North Waziristan, the military’s media wing said on Saturday. In a statement , Inter-Services Public Relations (ISPR) said that…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Eight militants neutralized in security operation in Balochistan, 2 soldiers martyred: ISPR",
+    "link": "https://arynews.tv/eight-militants-neutralized-in-security-operation-in-balochistan-2-soldiers-martyred-ispr",
+    "published": "2026-11-14T14:20:23Z",
+    "used_text": "Eight militants neutralized in security operation in Balochistan, 2 soldiers martyred: ISPR"
+   },
+   {
+    "source": "ARY News",
+    "title": "16 khwarij killed, two soldiers martyred in North Waziristan operations",
+    "link": "https://arynews.tv/16-khwarij-killed-two-soldiers-martyred-in-north-waziristan-operations",
+    "published": "2026-11-14T10:55:58Z",
+    "used_text": "16 khwarij killed, two soldiers martyred in North Waziristan operations"
+   },
+   {
+    "source": "Dawn",
+    "title": "2 soldiers martyred, 14 terrorists killed in North Waziristan operations: ISPR",
+    "link": "https://www.dawn.com/news/2044488/2-soldiers-martyred-14-terrorists-killed-in-north-waziristan-operations-ispr",
+    "published": "2026-11-14T10:06:37Z",
+    "used_text": "Two soldiers were martyred and 14 terrorists were killed in North Waziristan district of Khyber Pakhtunkhwa, the military’s media wing said on Saturday. According to a statement issued by Inter-Services Public Relations (ISPR), in continuation of a series of IBOs being conducted by security forces,…"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-security-operations-in-kp-and-balochistan-leave-militants-and-f385.html"
+ },
+ {
+  "id": "969cda249e62f3f2",
+  "region": "local",
+  "category": "news",
+  "title": "Khyber Pakhtunkhwa Governor Suspends Gold Mining Activities",
+  "summary": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi has declared a complete suspension of gold mining operations in the province.",
+  "paragraphs": [
+   "Dawn reported that Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced a ban on gold mining across the province, alongside the revocation of every mining lease, in an effort to curb illegal mining practices. The announcement was made during a press conference in Peshawar.",
+   "According to Dawn, Governor Kundi also condemned an attack in Kohat. The provincial suspension of all gold extraction operations was additionally confirmed by reports from 92 News and Aaj News."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "Governor Kundi announces suspension of all gold mining activities across KP",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkRHemxrVUI0NHR2VTg0a25QWWxsNmlIZWtBWGNXU2QzcWpKR1lVSGY4c2JfVEIwZVdFcVpVQ1RuTjUxRjRVSmVVWGsteGF0aXJtNUpUWF9HaVRFYkVINzM2aUZTZ05tTzNwZzFZSXlCckctUUlFUU42MlUyUnZjdDNTWWZjQmMxSHpGamQ1MV9zdkxwWWlIOXBzcmVCVkhOWno3OWt3bw?oc=5",
+    "published": "2026-11-14T15:48:28Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "KP Governor | Gold Mining Suspended | Khyber Pakhtunkhwa | 3PM HEADLINES 14 NOV 2026",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOElGTlJUSGhhY0h1RlR2cklmNzlfXzRTSGd3Y29QNjlLQllTMnVnMWpoNHhNenlkZFRabDgtZW0wdkFxeXZmOUt5QldaZl9PcVdET09vb2RvRXNNdDFDRlJZZEUzWTZCSFFiZTJvekVmQ2M2eFhnVlhxSWJyWEZOUlpIMkdVNXJQY0hFeDF5R2htcUluSmRDdnRVeWFSWmExbUhqaFpSMk0ySGxaVUdFcHowVlo2Mkk?oc=5",
+    "published": "2026-11-14T10:55:11Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "KP Governor Kundi announces suspension of gold mining across province",
+    "link": "https://www.dawn.com/news/2044485/kp-governor-kundi-announces-suspension-of-gold-mining-across-province",
+    "published": "2026-11-14T10:29:02Z",
+    "used_text": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi on Saturday announced a ban on gold mining across the province and the revocation of all mining leases as part of measures to curb illegal mining. Addressing a press conference in Peshawar, Governor Kundi condemned the attack in Kohat that claimed the…"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-khyber-pakhtunkhwa-governor-suspends-gold-mining-activities-969c.html"
+ },
+ {
+  "id": "b87212df116f0eca",
+  "region": "local",
+  "category": "news",
+  "title": "Opposition Leaders Challenge Detention of Lawmakers in Constitutional Court",
+  "summary": "Parliamentary opposition figures have approached the Federal Constitutional Court to demand the release of detained Khyber Pakhtunkhwa lawmakers.",
+  "paragraphs": [
+   "Dawn reported that the leaders of the opposition in both Houses of Parliament approached the Federal Constitutional Court on Saturday to demand the immediate release of Sohail Afridi, the non-functional Khyber Pakhtunkhwa chief minister, as well as eight other elected provincial members.",
+   "Aaj News similarly reported that the detention of nine assembly members has been challenged in the constitutional court by parliamentary leaders Achakzai and Abbas."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Achakzai, Abbas move FCC for release of Sohail Afridi, detained lawmakers",
+    "link": "https://www.dawn.com/news/2044493/achakzai-abbas-move-fcc-for-release-of-sohail-afridi-detained-lawmakers",
+    "published": "2026-11-14T12:45:16Z",
+    "used_text": "ISLAMABAD: The leaders of the opposition in both Houses of Parliament on Saturday approached the Federal Constitutional Court (FCC), seeking the immediate release of Sohail Afridi, the non-functional Khyber Pakhtunkhwa chief minister, along with eight other elected members of the provincial…"
+   },
+   {
+    "source": "Aaj News",
+    "title": "Detention of Nine Assembly Members Challenged in Constitutional Court",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pYXQ0c2lWRzhwWkQ0aFhkSGFLQkpNMUkzTV9GNzFrNTFKQWhCVnFoWmxRb0lxTU5GTVNBYzJJbFpGdmVaSERQMzNMRXg?oc=5",
+    "published": "2026-11-14T10:20:09Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-opposition-leaders-challenge-detention-of-lawmakers-in-constitutional-court-b872.html"
+ },
+ {
+  "id": "9e2110db98afe8e0",
+  "region": "local",
+  "category": "news",
+  "title": "Absconder Proceedings Launched Against Sohail Afridi in May 9 Case",
+  "summary": "An anti-terrorism court in Peshawar has initiated absconder proceedings against Sohail Afridi over the Radio Pakistan attack.",
+  "paragraphs": [
+   "The Express Tribune reported that an anti-terrorism court in Peshawar initiated absconder proceedings against Sohail Afridi in connection with the Radio Pakistan case. The court issued Section 87 notices after police authorities reported that they failed to arrest individuals tied to violence that occurred on May 9-10.",
+   "Dunya News confirmed that proclamation proceedings were officially initiated against Sohail Afridi regarding the May 9 Radio Pakistan attack incident."
+  ],
+  "sources": [
+   {
+    "source": "Express Tribune",
+    "title": "Peshawar ATC initiates absconder proceedings against Sohail Afridi in Radio Pakistan case",
+    "link": "https://tribune.com.pk/story/2640314/peshawar-atc-initiates-absconder-proceedings-against-sohail-afridi-in-radio-pakistan-case",
+    "published": "2026-11-14T11:21:31Z",
+    "used_text": "Court issues Section 87 notices after police report failure to arrest pair linked to May 9-10 violence"
+   },
+   {
+    "source": "Dunya News",
+    "title": "Proclamation proceedings initiated against Sohail Afridi in May 9 Radio Pakistan attack case",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0ktT1pKZTA1bVp3LVRjUzdqSlRWWVBheDJCTGZhOG16dVlSNFpaYjZTUTh2bVRqTE1JNWpWVkhMdmVTak05SHoxX0Z6RlRlelNzWVphZncyd3l0alN1S0JSY2pKaEpFbkxiRTFWRUlFY0FleFRKdkdrODJDMzU5VDN0amp2THZTX2E1ZE9jWm9kYVlEaEhDWFVJTmR0eVBMc24wRnNwWEQ2b292bVN30gFWQVVfeXFMUEJNdWVvdkw5RDFkazVKa2UzbWVhMElEdzN6TVpVOTJOWmY4U2p5UXdMenE3YTVCY3JhX1pJWk5XY2Mzc1ZkVkYtMkVrSFBEazBod1UyNmc?oc=5",
+    "published": "2026-11-14T10:08:20Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-absconder-proceedings-launched-against-sohail-afridi-in-may-9-9e21.html"
+ },
+ {
+  "id": "b04bfb4e1f01bcd2",
+  "region": "local",
+  "category": "news",
+  "title": "Former Police Officer Dismissed Over Mir Raza Ali Murder Case Misconduct",
+  "summary": "Former SHO Kamran Qureshi has been dismissed from service due to misconduct and negligence in the Mir Raza Ali case.",
+  "paragraphs": [
+   "According to Dawn, former Gulistan-i-Jauhar station house officer Kamran Qureshi was dismissed from service on Saturday for misconduct in the Mir Raza Ali murder case. Dawn reported that a judicial commission set up by the Sindh government previously advised an inquiry against him following an earlier suspension.",
+   "ARY News also reported on the dismissal of the Gulistan-e-Johar SHO, stating that the action was taken due to negligence in handling the Mir Raza Ali case."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Mir Raza murder case: Ex-SHO dismissed over misconduct, mishandling of evidence",
+    "link": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence",
+    "published": "2026-11-14T17:00:47Z",
+    "used_text": "Former Gulistan-i-Jauhar station house officer (SHO), Kamran Qureshi, was dismissed from service on Saturday over charges of misconduct in the Mir Raza Ali murder case. Last month, a judicial commission constituted by the Sindh government recommended an inquiry against Qureshi, who was suspended…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Mir Raza Ali case: SHO Gulistan-e-Johar dismissed over negligence",
+    "link": "https://arynews.tv/mir-raza-ali-case-sho-gulistan-e-johar-dismissed-over-negligence",
+    "published": "2026-11-14T14:56:35Z",
+    "used_text": "Mir Raza Ali case: SHO Gulistan-e-Johar dismissed over negligence"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-former-police-officer-dismissed-over-mir-raza-ali-murder-b04b.html"
+ },
+ {
+  "id": "e70f11305239c258",
+  "region": "local",
+  "category": "news",
+  "title": "President Zardari and Prime Minister Shehbaz Hold Key Discussions in Lahore",
+  "summary": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif met in Lahore to evaluate national security, economic, and political matters.",
+  "paragraphs": [
+   "Dawn reported that Prime Minister Shehbaz Sharif hosted President Asif Ali Zardari at his residence in Lahore's Model Town on Saturday. According to the Prime Minister's Office, the two leaders held extensive discussions covering Pakistan's economic, political, and security situation.",
+   "Samaa also covered the meeting between President Zardari and Prime Minister Shehbaz, noting that their discussions focused on mutual cooperation and national economic stability."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "President Zardari, PM Shehbaz discuss country's political, economic and security situation",
+    "link": "https://www.dawn.com/news/2044497/president-zardari-pm-shehbaz-discuss-countrys-political-economic-and-security-situation",
+    "published": "2026-11-14T13:36:00Z",
+    "used_text": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Saturday discussed the country’s political, economic and security situation in detail, the premier’s office said. PM Shehbaz warmly welcomed the president upon his arrival at the former’s residence in Lahore’s Model Town, the Prime…"
+   },
+   {
+    "source": "Samaa",
+    "title": "Zardari meets Shehbaz, discusses cooperation and economic stability",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTAwcENGeDU4dkg1blM4R0NtQy1sS3FrUXNJSlYzTHIyVWFzMGlGbDY0VnNYN0FMTlpNV1dMUUVfS1FrTVJSOTdCMjhhUDVqSWs1S0h4NEtaVjNaZm9UemJyVEpsQVcxUnF1VDZneC14Rm91SGl0WVN0aV9nOVhKMnFucE5lN2M2Z1JvU1UwYk9aY2tS?oc=5",
+    "published": "2026-11-14T12:59:38Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-president-zardari-and-prime-minister-shehbaz-hold-key-discussions-e70f.html"
+ },
+ {
+  "id": "c9b4a3dc19fadf08",
+  "region": "local",
+  "category": "news",
+  "title": "Domestic Gold Prices Decline by Rs700 per Tola Across Pakistan",
+  "summary": "The price of gold recorded a Rs700 decrease per tola in the Pakistani bullion market on Saturday.",
+  "paragraphs": [
+   "According to 92 News, the price of gold in Pakistan declined by Rs700 per tola on Saturday.",
+   "Dunya News also reported that domestic gold prices dropped by Rs700 per tola, while Samaa noted the updated pricing rates in its market report on November 14, 2026."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "Gold price falls Rs700 per tola in country",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DYmp4eFdzWnk5bFRNNHJCSVc0cHphMFljZmJ2emw2b0Q5T3NValFUU2ZUcUlkS01JU2NleDJPaFdrZEt1b1JNdVZqNl9QSGpuZjJaN1l0SlRJS2pzR0tqc3RvODZkTzNSa2dmMVczalhXUUF2TC1oeUFXQQ?oc=5",
+    "published": "2026-11-14T15:48:30Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Gold prices fall by Rs700 per tola in Pakistan",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNXRFVXI5VlVFRHhuNEZ1RHBXWGZJSG95d1ZfR0JHVzlfTFR5STdWcmRaaHpDR180Wkd4OEJUTkQxNndUX3BpQ1NCcDRpS3ZlRjFGaEJCYkw2YnVrY3RZZDMtd3lkS25iUHdiVlJhbEFPTmhienU0cHVrV2NVUHFwRHhwZEpQUGctV0ZwMEhEMlpGTlZ1WGpoWDhBWkvSAVZBVV95cUxNVVoxZXVkU3AwZ2NYZWdhdmt5dzNKY0hLU2phT2hhYy1DSi1SWFRSZ0R3WkpFRkNrS09CejZkQlNLaFJFTW9GdWJXT1NvbVdhejAzNDBWZw?oc=5",
+    "published": "2026-11-14T13:44:11Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "Gold price in Pakistan latest - November 14, 2026",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEpvWG5ybkNqbU56NDZNUDNFSTllYmVWTDl0Y1ZOaEtaT2o0ODZYVWNvbnBuY3d2N3dHUzYwRy0xcG83eFpoRmtPWHFYbVhSOU0xQnpBR285SnBmV21rb281dVNibVROaHNiNVJJbGIycXBkbzRvd25sdVBPQmdDVDVPc2ROU3NqOFJGNw?oc=5",
+    "published": "2026-11-14T11:27:58Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-domestic-gold-prices-decline-by-rs700-per-tola-across-c9b4.html"
+ },
+ {
+  "id": "42d0ca66bbec8efc",
+  "region": "local",
+  "category": "sports",
+  "title": "India Edge Pakistan by One Wicket in Last-Ball U19 Asia Cup Final",
+  "summary": "India claimed the U19 Asia Cup title after defeating Pakistan by one wicket on the final delivery in Muscat.",
+  "paragraphs": [
+   "According to Dawn, India secured a dramatic one-wicket win over Pakistan on the final ball of the ACC Men's U-19 Asia Cup final at the Al Amerat Cricket Ground in Muscat. Pakistan set a target of 338 runs after batting first, aided by a century from Usman Khan as noted by ARY News and Geo News.",
+   "Dawn reported that India was reeling at 252 for eight before Mohit Ulva and Chigurupati Venkata held their nerve to finish the chase. The thrilling last-over finish was also reported by 92 News, Aaj News, and ARY News."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Usman hits ton as Pakistan set 338-run target against India",
+    "link": "https://arynews.tv/usman-hits-ton-as-pakistan-set-338-run-target-against-india",
+    "published": "2026-11-14T11:42:53Z",
+    "used_text": "Usman hits ton as Pakistan set 338-run target against India"
+   },
+   {
+    "source": "92 News",
+    "title": "India defeat Pakistan by one wicket in thrilling U19 Asia Cup final",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdW1hRFVfandjRjR3VnlSQTNkcVQtdmxoRi1zOEEwcVFjS0Ryck8tU1ZNOUtoSFdSblBmc1M1YjFGLTNoTmhFRkNMWjZMT1VuLXNDYUlKU21HTFBRTlE1NzdUVmpBaHhKLVhkeHZPaWJKVllzQWxqQUZiYWFnQ1Fsd2VXZFlYQlNHQXlqNWpKX3ZWUWtQUjNMZnEwOFU?oc=5",
+    "published": "2026-11-14T15:48:31Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "India stun Pakistan by one wicket in last-ball U-19 Asia Cup final thriller",
+    "link": "https://www.dawn.com/news/2044502/india-stun-pakistan-by-one-wicket-in-last-ball-u-19-asia-cup-final-thriller",
+    "published": "2026-11-14T14:19:43Z",
+    "used_text": "Mohit Ulva and Chigurupati Venkata held their nerve to guide India to a dramatic one-wicket victory over Pakistan in the ACC Men’s U-19 Asia Cup final, chasing down a target of 338 on the final ball at the Al Amerat Cricket Ground in Muscat on Saturday. India were staring at defeat at 252 for eight…"
+   },
+   {
+    "source": "Aaj News",
+    "title": "India Snatches U19 Asia Cup Title From Pakistan in Last-Over Thriller - Aaj News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjFJYTFSNl8wVk5oYklqZF8tM1ROcmFXZjdmN09YU1g2U0VnN1RtSU5GallNb3lGeUk2S1pMOFhWM2VhYmlIbFlmeWFSbE5xOE9SeDJCZk1PdDRpSWVNODRqc0FVMnR2SHBqMFVjeTk0dV8wc19IUlN5dWF2T3lfTjVyT1hMUjZOQnJaaUZwNVp0bUZpS2RnUVhiV1hIbG9yZ3lZMVNWN3JqSE1WTDhaU2dGRzlock0?oc=5",
+    "published": "2026-11-14T13:40:10Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "U19 Asia Cup final: India edge Pakistan in last-ball thriller",
+    "link": "https://arynews.tv/u19-asia-cup-final-india-edge-pakistan-in-last-ball-thriller",
+    "published": "2026-11-14T13:25:06Z",
+    "used_text": "U19 Asia Cup final: India edge Pakistan in last-ball thriller"
+   },
+   {
+    "source": "Geo News",
+    "title": "U19 Asia Cup final: Ton-up Usman Khan leads Pakistan to massive total against India",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMngwLVpjNDFmRkhNTlY3OVNNNHBndjFGWk1FaGNGVElmWVl6VnZTWXk0RDlPSnRqSmdFZDZsRllQTlpTckFwcDNOMzQxRFZSRGVkZVpUWnJjUm5PeDJ1WWJDR3RaYzg0T1hXQzNHUkx2azJUZk5aYVByWTFqOVNYaklXelVGblVaWnd0UXJqNzEwa2ZxS1pTbGhDT2ItWWRQcnc?oc=5",
+    "published": "2026-11-14T08:41:38Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-india-edge-pakistan-by-one-wicket-in-last-ball-42d0.html"
+ },
+ {
+  "id": "c55ec062a1b6ce6f",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Defeat Bangladesh 1-0 to Qualify for Historic SAFF Championship Final",
+  "summary": "Pakistan reached the final of the SAFF Championship for the first time by overcoming hosts Bangladesh 1-0.",
+  "paragraphs": [
+   "Dawn reported that Abdul Samad Arshad scored a late winner to give Nolberto Solano's Pakistan a 1-0 semi-final win against tournament hosts Bangladesh at the National Stadium on Saturday.",
+   "According to Geo News, Samaa, ARY News, and The Express Tribune, the result marks the first time in history that Pakistan has reached the SAFF Championship final. The Express Tribune further noted that the victory sets up a championship clash against India."
+  ],
+  "sources": [
+   {
+    "source": "Geo News",
+    "title": "Pakistan beat Bangladesh 1-0 to reach SAFF Championship final for first time",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGRydkxyTmhhVk5KUTlLY2pIYkhPMWMxVzhDQXJQMmpGcDVuVi1IVDVkWV9VenFhTVJTdFozTGVFMERUUU84TzBzSEh0QWZRWDZ0TjhiOGp5bGZVckxKREpUYjJtZkdUVDdXSG8zNldtaExfZUh4UjMzMGRxUnJuZGJFeWF0YU15Vkc2Mjc4cjg3MmkwbnhTS2pkVVl5cVQwT1hiYThCeUR4MUx2NGc?oc=5",
+    "published": "2026-11-14T18:06:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Abdul Samad’s late strike sends Pakistan into historic SAFF Championship final",
+    "link": "https://www.dawn.com/news/2044516/abdul-samads-late-strike-sends-pakistan-into-historic-saff-championship-final",
+    "published": "2026-11-14T17:54:18Z",
+    "used_text": "Abdul Samad Arshad struck a sensational late winner to guide Pakistan into their first-ever SAFF Championship final, as Nolberto Solano’s side held off sustained pressure from hosts Bangladesh to secure a dramatic 1-0 semi-final victory at the National Stadium on Saturday. With Bangladesh…"
+   },
+   {
+    "source": "Samaa",
+    "title": "Pakistan reach SAFF Championship final for first time",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWR1WDVPNE10MlRGWFpLWTlJbGxZbm5pd1NvXzU1bEhEQTV6cXJEZVNrSUkwTWlieFhPRlVPZkVXWk1xUEdLWXQyT3VmemtlVDMybGxvbl82RlllNUhscndmTk9semNBYjcyVC10Qng5LUM2LThvZHdpSmxQRHBac3Vzc05QWXhReGM5Ump4eGRic19ZLXl0SkN4ZElBT085?oc=5",
+    "published": "2026-11-14T17:32:56Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Pakistan stun Bangladesh to reach SAFF final",
+    "link": "https://arynews.tv/pakistan-stun-bangladesh-to-reach-saff-final",
+    "published": "2026-11-14T16:58:01Z",
+    "used_text": "Pakistan stun Bangladesh to reach SAFF final"
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Pakistan create SAFF Cup history",
+    "link": "https://tribune.com.pk/story/2640316/pakistan-create-saff-cup-history",
+    "published": "2026-11-14T11:45:05Z",
+    "used_text": "Green-shirts beat Bangladesh to set up final clash with India"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-pakistan-defeat-bangladesh-1-0-to-qualify-for-historic-c55e.html"
+ },
+ {
+  "id": "ebebe338b281d969",
+  "region": "international",
+  "category": "news",
+  "title": "US Flights Resume After Major Ground Stop",
+  "summary": "A failure in aging telecommunications equipment forced the longest nationwide FAA ground stop in the US since 9/11.",
+  "paragraphs": [
+   "According to France 24 and the BBC, a failure in aging telecommunications equipment caused a nationwide flight suspension in the US, leading to the longest FAA ground stop since September 11, 2001. CNBC and Al Jazeera reported that US Transport Secretary Sean Duffy stated the agency is working to find out whether the chaos was caused by incompetence or faulty equipment and that they are going to hold people accountable.",
+   "France 24 noted that more than 8,200 flights, or over 31% of those scheduled, were canceled during the nearly five-hour ground stoppage. Transport Secretary Sean Duffy also asked Congress for $30 bn to upgrade aviation infrastructure, while Homeland Security Secretary Markwayne Mullin stated that officials have found no evidence so far of a cyberattack, though they are not ruling it out, according to France 24."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T19:12:25Z",
+    "used_text": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "US blames outdated technology for nationwide flight disruption",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
+    "published": "2026-11-14T18:32:40Z",
+    "used_text": "US blames outdated technology for nationwide flight disruption"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+    "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
+    "published": "2026-11-14T18:02:53Z",
+    "used_text": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'."
+   },
+   {
+    "source": "France 24",
+    "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
+    "link": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
+    "published": "2026-11-14T16:35:52Z",
+    "used_text": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the incident. Transport Secretary Sean Duffy explained the crisis was due to a failure in ageing telecommunications…"
+   },
+   {
+    "source": "France 24",
+    "title": "US Transport Secretary asks Congress for $30 bn to upgrade aviation infrastructure",
+    "link": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
+    "published": "2026-11-14T16:32:52Z",
+    "used_text": "A failure in aging telecommunications equipment Friday forced a nationwide halt to departures from US airports. Homeland Security Secretary Markwayne Mullin says officials have found no evidence so far of a cyberattack, but that they're not ruling it out. Details by Jack Pownall."
+   },
+   {
+    "source": "France 24",
+    "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
+    "link": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+    "published": "2026-11-14T10:14:09Z",
+    "used_text": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed…"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-us-flights-resume-after-major-ground-stop-ebeb.html"
+ },
+ {
+  "id": "d07dfdb65f093dca",
+  "region": "international",
+  "category": "news",
+  "title": "Italy Fines Meta Over User Photo Access",
+  "summary": "Italy has fined Meta hundreds of millions of dollars over access to Android users' photos and videos.",
+  "paragraphs": [
+   "According to DW and Al Jazeera, Italian regulators have slapped Meta with an €805mn (or $880m) fine over access to photos and multimedia content from Italian users via the Facebook application for Android devices. CNBC reported the fine as $887 million for allegedly accessing Android users' photographs and videos without obtaining consent or informing them.",
+   "The BBC reported that the social media giant is accused of failing to inform about 20 million users that it had access to their photos. Al Jazeera added that the regulator cited Meta's lack of cooperation and the large number of people affected as factors contributing to the size of the fine, while Meta has not yet commented on the allegations according to DW."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "Italy slaps Meta with €805mn fine over access to Android photos",
+    "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T18:41:00Z",
+    "used_text": "Italian regulators say Meta accessed photos and multimedia content from Italian users via the Facebook application for Android devices. Meta has not yet commented on the fine or the allegations."
+   },
+   {
+    "source": "BBC News",
+    "title": "Italy fines Meta €805m over accessing users' photos",
+    "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T16:29:48Z",
+    "used_text": "The social media giant is accused of not informing about 20 million users it had access to their photos."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Italy fines Meta $880m over photo privacy",
+    "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+    "published": "2026-11-14T16:16:15Z",
+    "used_text": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine."
+   },
+   {
+    "source": "CNBC",
+    "title": "Italy fines Meta $887 million over Android users' data access",
+    "link": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
+    "published": "2026-11-14T13:38:23Z",
+    "used_text": "Italy fined ⁠Meta Platforms $887 million ‌for allegedly ​accessing Android users' photographs ⁠and ‌videos ‌without obtaining ⁠consent ⁠or informing ⁠them."
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-italy-fines-meta-over-user-photo-access-d07d.html"
+ },
+ {
+  "id": "6188fc5d385c48a0",
+  "region": "international",
+  "category": "news",
+  "title": "Zelenskyy Discusses Potential Donbas Cession for NATO Membership",
+  "summary": "President Zelenskyy revealed that the US floated the idea of Ukraine ceding parts of Donbas in exchange for NATO membership.",
+  "paragraphs": [
+   "According to Al Jazeera and France 24, Ukrainian President Volodymyr Zelenskyy stated that the US asked for the first time whether Ukraine would withdraw from parts of the Donbas region in exchange for being admitted to NATO. Euronews and DW reported that Zelenskyy indicated he would put the question of a security deal to a referendum if it included security guarantees, the right to a well-funded army, and reconstruction funds.",
+   "Al Jazeera and France 24 noted that Zelenskyy rejected the possibility of committing to neutrality or ceding territory to Russia. Meanwhile, Euronews reported that Russian President Vladimir Putin has indicated Russia will not back down on territorial demands regarding control over parts of Ukraine and has rejected foreign peacekeeping troops."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+    "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+    "published": "2026-11-14T16:53:39Z",
+    "used_text": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia."
+   },
+   {
+    "source": "BBC News",
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T15:15:57Z",
+    "used_text": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+   },
+   {
+    "source": "Sky News",
+    "title": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
+    "link": "https://news.sky.com/story/us-asks-if-ukraine-would-give-up-parts-of-donbas-for-nato-membership-zelenskyy-says-13612188",
+    "published": "2026-11-14T13:12:00Z",
+    "used_text": "The US has asked for the first time whether Ukraine would withdraw from parts of the Donbas region if Kyiv were admitted to NATO, Volodymyr Zelenskyy said."
+   },
+   {
+    "source": "CNBC",
+    "title": "U.S. floated idea of Ukraine ceding Donbas for NATO membership, Zelenskyy says",
+    "link": "https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html",
+    "published": "2026-11-14T12:44:27Z",
+    "used_text": "Zelenskyy said that if it received security guarantees, the right to a well-funded army and funds to rebuild, he would put the question to a referendum."
+   },
+   {
+    "source": "DW",
+    "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+    "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T11:40:00Z",
+    "used_text": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said."
+   },
+   {
+    "source": "Euronews",
+    "title": "US floats Ukraine ceding land to Russia in exchange for NATO membership: Zelenskyy",
+    "link": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy",
+    "published": "2026-11-14T10:35:08Z",
+    "used_text": "Putin has indicated that Russia will not back down on territorial demands to control parts of Ukraine and has rejected the idea of foreign peacekeeping troops being deployed in the country."
+   },
+   {
+    "source": "France 24",
+    "title": "US negotiators suggest Ukraine cedes territory in exchange for NATO membership",
+    "link": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+    "published": "2026-11-14T10:30:04Z",
+    "used_text": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the…"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-zelenskyy-discusses-potential-donbas-cession-for-nato-membership-6188.html"
+ },
+ {
+  "id": "69210ca0ac7e8c75",
+  "region": "international",
+  "category": "news",
+  "title": "Microsoft Restores Services After Global Outage",
+  "summary": "Microsoft confirmed all services are working again following a massive global outage.",
+  "paragraphs": [
+   "According to Sky News and DW, Microsoft has confirmed that all of its services have been fully restored and are working again after a global outage. The glitch severely disrupted online communications and affected businesses and governments for more than 24 hours.",
+   "Sky News reported that the widespread disruption impacted the NHS, police, schools, and other services across the UK. France 24 noted that the incident knocked out Microsoft platforms including Outlook and Teams, affecting hundreds of millions of people globally, with the healthcare industry among those impacted."
+  ],
+  "sources": [
+   {
+    "source": "Sky News",
+    "title": "Microsoft confirms all services are restored after global outage",
+    "link": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
+    "published": "2026-11-14T14:56:00Z",
+    "used_text": "Microsoft has said that all services have been fully restored after a global outage which affected the NHS, police, schools and other services across the UK."
+   },
+   {
+    "source": "France 24",
+    "title": "Microsoft's widespread outages caused global chaos, including in the healthcasre industry",
+    "link": "https://www.france24.com/en/microsoft-s-widespread-outages-caused-global-chaos-including-in-the-healthcasre-industry",
+    "published": "2026-11-14T11:07:33Z",
+    "used_text": "Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected hundreds of millions of people across the globe. The healthcare industry was among those impacted, as Ophelie Jacobson…"
+   },
+   {
+    "source": "DW",
+    "title": "Microsoft says all services working again",
+    "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T09:06:00Z",
+    "used_text": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours."
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-microsoft-restores-services-after-global-outage-6921.html"
+ },
+ {
+  "id": "9284a20a37bd117a",
+  "region": "international",
+  "category": "news",
+  "title": "Hungary Seizes Millions in Graft Investigation",
+  "summary": "Hungarian authorities uncovered large amounts of cash hidden in forests and buildings during an anti-corruption probe.",
+  "paragraphs": [
+   "According to Euronews, DW, and Al Jazeera, Hungarian authorities uncovered millions of dollars in hidden cash during an investigation into a former minister accused of accepting bribes under the Orbán administration. Investigators found bundles of banknotes buried in forests, concealed in agricultural buildings and warehouses, stashed inside residential properties, and stored in a remote safe.",
+   "Euronews and Al Jazeera reported that the seized amounts totaled between $18 million and $20 million. BBC News noted that Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Hungary seizes millions in cash found buried in forests amid corruption investigation",
+    "link": "https://www.euronews.com/2026/11/14/hungary-seizes-millions-in-cash-found-buried-in-forests-amid-corruption-investigation",
+    "published": "2026-11-14T11:31:19Z",
+    "used_text": "Investigators uncovered large amounts of cash hidden in a variety of spots: buried in forests, concealed in agricultural buildings and warehouses, stashed inside residential properties and stored in a high-value safe in a remote location."
+   },
+   {
+    "source": "BBC News",
+    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T10:42:20Z",
+    "used_text": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
+   },
+   {
+    "source": "DW",
+    "title": "Hungary: Millions in hidden cash found in Orban graft probe",
+    "link": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T09:19:00Z",
+    "used_text": "Investigators discovered bundles of banknotes buried in forests and concealed in buildings. The money was seized during an investigation into a former minister accused of accepting millions in bribes."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+    "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+    "published": "2026-11-14T09:08:21Z",
+    "used_text": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+    "published": "2026-11-14T08:39:07Z",
+    "used_text": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash."
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-hungary-seizes-millions-in-graft-investigation-9284.html"
+ },
+ {
+  "id": "597df62d6c995824",
+  "region": "international",
+  "category": "news",
+  "title": "SpaceX Aborts Starship Booster Recovery",
+  "summary": "Technical issues forced SpaceX to abort the booster recovery during its 15th test flight.",
+  "paragraphs": [
+   "According to France 24, Elon Musk's SpaceX was conducting the 15th test-flight of its Starship rocket and hoped to achieve a first-ever double catch with both the booster and the ship coming safely back to earth. However, unspecified technical issues forced the company to abort the booster recovery.",
+   "France 24 reported that during the flight, the rocket successfully launched into orbit to release 15 satellites for its Starlink network, but the booster meant to return to the pad splashed down in the Gulf of Mexico instead of being caught."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
+    "link": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
+    "published": "2026-11-14T17:33:37Z",
+    "used_text": "Elon Musk's SpaceX is in the midst of a 15th test-flight of its Starship rocket. The company was hoping to pull off the first-ever \"double catch\" - with both the booster and the ship itself coming safely back down to earth. Instead, an unspecified problem forced the company to abort recovery of the…"
+   },
+   {
+    "source": "France 24",
+    "title": "SpaceX's Starship encounters problems during 15th test flight",
+    "link": "https://www.france24.com/en/spacex-s-starship-encounters-problems-during-15th-test-flight",
+    "published": "2026-11-14T10:21:09Z",
+    "used_text": "Elon Musk’s SpaceX successfully launched its Starship, the world's largest spaceship, into orbit where it should release 15 satellites for its Starlink network. A few minutes after lift off however, the rocket's booster which was meant to return to the pad splashed down in the Gulf of Mexico.…"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-spacex-aborts-starship-booster-recovery-597d.html"
+ },
+ {
+  "id": "1b808da41bdc10ee",
+  "region": "international",
+  "category": "news",
+  "title": "White House Announces Unprecedented Trilateral Meeting",
+  "summary": "The White House announced that the leaders of the US, China, and Russia will hold an unprecedented meeting.",
+  "paragraphs": [
+   "According to Euronews and Sky News, the White House has announced that US, Chinese, and Russian leaders will hold an unprecedented meeting on the sidelines of a major economic summit. Al Jazeera reported that the trilateral meeting at APEC will include a nuclear treaty and the US war on Iran among priority topics for the leaders."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+    "published": "2026-11-14T12:14:14Z",
+    "used_text": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders."
+   },
+   {
+    "source": "Euronews",
+    "title": "Trump, Xi and Putin to meet in China, White House says",
+    "link": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
+    "published": "2026-11-14T09:00:58Z",
+    "used_text": "Trump is set to depart Washington on Monday for the Philippines, where he is due to attend a meeting of the Association of Southeast Asian Nations before making his way to Shenzhen in China."
+   },
+   {
+    "source": "Sky News",
+    "title": "Trump, Xi and Putin to hold unprecedented meeting, White House says",
+    "link": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
+    "published": "2026-11-14T08:19:00Z",
+    "used_text": "The leaders of the US, China and Russia will hold an unprecedented meeting on the sidelines of a major economic summit, the White House has said."
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-white-house-announces-unprecedented-trilateral-meeting-1b80.html"
+ },
+ {
+  "id": "0841cb9a633bcf64",
+  "region": "international",
+  "category": "news",
+  "title": "Protesters and UN Urge Climate Deal at COP31",
+  "summary": "Protesters and UN officials have urged a swift climate deal at the COP31 summit in Turkey.",
+  "paragraphs": [
+   "According to DW, the UN climate chief warned that tactical delays at the COP31 climate talks in Turkey could prevent a deal to slow global warming. Protesters also joined the calls for a rapid agreement.",
+   "France 24 reported that a delegation of 18 Democratic lawmakers attended the COP31 summit in Turkey to reaffirm the US commitment to tackling global warming following their midterm election victory, after the summit was initially shunned by Trump."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "COP31: Protesters, UN urge swift climate deal",
+    "link": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T17:19:00Z",
+    "used_text": "The UN climate chief has warned that \"tactical delays\" at the COP31 climate talks in Turkey could prevent a deal to slow global warming."
+   },
+   {
+    "source": "France 24",
+    "title": "'Climate action is alive': Triumphant Democrats attend COP31 summit shunned by Trump",
+    "link": "https://www.france24.com/en/environment/20261114-climate-action-is-alive-triumphant-democrats-take-on-cop31-shunned-by-trump",
+    "published": "2026-11-14T10:25:22Z",
+    "used_text": "A delegation of 18 Democratic lawmakers arrived at the COP31 climate summit in Turkey on Saturday to reaffirm the US commitment to tackling global warming following their sweeping midterm election victory."
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-protesters-and-un-urge-climate-deal-at-cop31-0841.html"
+ },
+ {
+  "id": "53bc052245cc95ca",
+  "region": "international",
+  "category": "sports",
+  "title": "Wales Claims Historic Rugby Victory Over New Zealand",
+  "summary": "Wales secured a historic victory against New Zealand in Cardiff, ending a decades-long winless streak.",
+  "paragraphs": [
+   "According to France 24 and the BBC, Wales claimed a historic 35-28 victory over New Zealand in Cardiff, securing their first win against the All Blacks since 1953. BBC News reported that Welsh captain Dewi Lake stated he always believed his team could defeat New Zealand and end their 73-year hoodoo.",
+   "In the same reports, New Zealand captain Beauden Barrett praised the brick wall defense put up by Wales after the All Blacks were stunned in Cardiff."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Wales claim historic victory against All Blacks for first time since 1953",
+    "link": "https://www.france24.com/en/sport/20261114-wales-claim-historic-victory-against-all-blacks-for-first-time-since-1953",
+    "published": "2026-11-14T16:27:21Z",
+    "used_text": "Wales claimed a historic 35-28 victory over New Zealand in Cardiff on Saturday, securing their first win over the All Blacks since 1953."
+   },
+   {
+    "source": "CNBC",
+    "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+    "link": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html",
+    "published": "2026-11-14T18:31:24Z",
+    "used_text": "Video from the scene showed the much larger Atlantic Asphalt tanker hit the American Heritage cruise boat while it was docked."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+    "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
+    "published": "2026-11-14T18:02:53Z",
+    "used_text": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'."
+   },
+   {
+    "source": "BBC News",
+    "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T18:00:10Z",
+    "used_text": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
+   },
+   {
+    "source": "BBC News",
+    "title": "Wales believed they could create history - Lake",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c820q64ezyn7o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T18:30:58Z",
+    "used_text": "Captain Dewi Lake says he always believed Wales could defeat New Zealand and end the 73-year hoodoo against the All Blacks."
+   },
+   {
+    "source": "BBC News",
+    "title": "All Blacks ran into a Welsh brick wall - Barrett",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmly5dwnpvdzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T18:19:10Z",
+    "used_text": "New Zealand captain Beauden Barrett praises Wales' brick wall defence after the All Blacks are stunned in Cardiff."
+   },
+   {
+    "source": "BBC News",
+    "title": "Magnificent Wales beat New Zealand for first time since 1953",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T16:38:04Z",
+    "used_text": "Wales celebrate a first victory against New Zealand in 73 years with a brilliant 35-28 win to provide astonishing scenes in Cardiff. Wales celebrate a first victory against New Zealand in 73 years with a brilliant performance to provide astonishing scenes in Cardiff."
+   },
+   {
+    "source": "BBC News",
+    "title": "Highlights: Wales beat New Zealand for first time in 73 years",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/videos/ckdd10y25mm1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T16:35:13Z",
+    "used_text": "Watch the best of the action as Wales beat New Zealand for the first time in 73 years"
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-wales-claims-historic-rugby-victory-over-new-zealand-53bc.html"
+ },
+ {
+  "id": "853cd1a7d2fe6242",
+  "region": "international",
+  "category": "sports",
+  "title": "Will Joseph Stars as England Routs Japan",
+  "summary": "Will Joseph scored five tries in his return to international rugby as England defeated Japan.",
+  "paragraphs": [
+   "According to BBC News, Will Joseph marked his return to international rugby after four years away by scoring a record-equalling five tries as England humiliated Japan at Twickenham. The team scored 13 tries in total during the match.",
+   "BBC News reported that England secured a dominant 78-15 victory over Japan in the Nations Championship encounter."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Tens of thousands march in latest Portugal housing protests",
+    "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
+    "published": "2026-11-14T19:27:55Z",
+    "used_text": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago."
+   },
+   {
+    "source": "BBC News",
+    "title": "Joseph enjoys dream return as England thrash Japan at Twickenham",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cmn0d1w0ry0no?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T19:32:45Z",
+    "used_text": "After four years away from international rugby, Will Joseph marks his return in style by scoring a record-equalling five tries as England humiliate Japan at Twickenham, scoring 13 tries in a 78-15 victory in the Nations Championship."
+   },
+   {
+    "source": "BBC News",
+    "title": "Joseph scores record-equalling five tries as England rout Japan",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg208nlw04o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T18:31:30Z",
+    "used_text": "Will Joseph marked his comeback after four years out the Test game with a record-equalling five tries as England tore through Japan."
+   }
+  ],
+  "created": "2026-11-14T19:55:23Z",
+  "url": "a/2026-11-14-will-joseph-stars-as-england-routs-japan-853c.html"
+ },
+ {
   "id": "215513229c32a0ed",
   "region": "local",
   "category": "news",
@@ -3173,595 +4011,5 @@
   ],
   "created": "2026-11-11T21:55:05Z",
   "url": "a/2026-11-11-emma-raducanu-set-to-make-competitive-return-at-january-b008.html"
- },
- {
-  "id": "dda44a96f062e9be",
-  "region": "local",
-  "category": "news",
-  "title": "Asian Development Bank Approves $500 Million Facility for Pakistan",
-  "summary": "The Asian Development Bank has sanctioned up to $500 million in financing to support Pakistan's disaster response and climate resilience.",
-  "paragraphs": [
-   "The Asian Development Bank (ADB) has approved contingent disaster financing facilities reaching up to $500 million to help Pakistan strengthen its disaster preparedness and facilitate response efforts, according to Dawn, Dunya News, and ARY News.",
-   "The Manila-based financial institution stated that the approved funds will deliver prompt budget support, enabling the nation to withstand disasters and build climate resilience, Dawn reported."
-  ],
-  "sources": [
-   {
-    "source": "Dawn",
-    "title": "Asian Development Bank approves $500m loan to help Pakistan strengthen disaster preparedness",
-    "link": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
-    "published": "2026-11-11T10:13:47Z",
-    "used_text": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved contingent disaster financing (CDF) facilities up to $500 million for Pakistan to withstand disasters and facilitate disaster response. In a statement, the Manila-based lending agency said the funds will provide prompt budget support…"
-   },
-   {
-    "source": "ARY News",
-    "title": "ADB approves $500 mln financing to boost Pakistan’s climate & disaster resilience",
-    "link": "https://arynews.tv/adb-approves-500-mln-financing-to-boost-pakistans-climate-disaster-resilience",
-    "published": "2026-11-11T10:10:30Z",
-    "used_text": "ADB approves $500 mln financing to boost Pakistan’s climate & disaster resilience"
-   },
-   {
-    "source": "Dunya News",
-    "title": "ADB approves $500m loan to help Pakistan cope with natural disasters",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2V3QnUzMnI1MS1yVmlacXRDT1BpcTRRQkl5a0w5NDdsSkFzUmtKaDBQNzA1VlZWLXBoZm11NHJPbUNjR3pkdVRQcmR5S2xVbTVnblMyQVNnWUJxMWNycHdIdjlEZ29WWHRqVVdmdHczMGtfM1M1dy1qaXUybjN5d1Qwb3VSQ3k0eGg0QkRjQmhkd2ZCNHhXcGF2MDF4LVllNWdXZnozTU1tR0HSAVZBVV95cUxOcTVlTXZrY3pkcWRlLWExUS1qek5FUkhYRWVSZ1dwYXBFeUlhY1h6UzBuWlNocVYtcnRMdjF2UWhGMGNVcU1WMk5aaTg0cHUxVDA3Y1Mtdw?oc=5",
-    "published": "2026-11-11T09:17:31Z",
-    "used_text": ""
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-asian-development-bank-approves-500-million-facility-for-pakistan-dda4.html"
- },
- {
-  "id": "d38a66acd568f07a",
-  "region": "local",
-  "category": "news",
-  "title": "Prime Minister Shehbaz Sharif Attends COP31 Summit in Turkiye",
-  "summary": "Prime Minister Shehbaz Sharif has arrived in Turkiye to attend the COP31 summit and present Pakistan's climate agenda.",
-  "paragraphs": [
-   "Prime Minister Shehbaz Sharif has reached the Mediterranean resort city of Antalya in Turkiye to attend the COP31 Antalya Leaders' Summit alongside global leaders, according to Dawn and Dunya News.",
-   "Delegates representing nearly 200 nations are gathering at the summit, where Shehbaz is set to present Pakistan's national statement, highlight national climate priorities and climate justice, and engage with international leaders on the transition to renewable energy, Dawn and Express Tribune reported."
-  ],
-  "sources": [
-   {
-    "source": "Dawn",
-    "title": "PM Shehbaz joins world leaders at COP31, will outline Pakistan’s climate priorities",
-    "link": "https://www.dawn.com/news/2043746/pm-shehbaz-joins-world-leaders-at-cop31-will-outline-pakistans-climate-priorities",
-    "published": "2026-11-11T10:16:07Z",
-    "used_text": "Prime Minister Shehbaz Sharif on Wednesday arrived at the COP31 Antalya Leaders’ Summit in Turkiye, where he is set to highlight Pakistan’s climate priorities, along with other world leaders. Delegates from nearly 200 countries are meeting in the Mediterranean resort city of Antalya as global…"
-   },
-   {
-    "source": "Dunya News",
-    "title": "PM Shehbaz Sharif Reaches T�rkiye for COP31 Summit | Breaking News | Dunya News.",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ3RpVE5xRUxRRzBZX2F5S1VlM09fTVF1UHVxZmZUN2pBdGhfb3JnRllRNG93cWRJc2dXTVltaW1GM09sTWtaNnNSS1pidmU3bjZBY0JhSXQ2cG0weXJieXZFUXhXRTV0NkZwcEYyenhGLXRkclc3UmxTLXpzb2tjVVVyZXJJM0ZRcVRGNUpkNGN5aWJTR0JGUlBGSkhrQy1ZX0lrbFZ2UjRrd0JxWFNNZHhMNlprVkU3V2ZVZ0xVbnV6NWdLUGtnS1dGY3F0dw?oc=5",
-    "published": "2026-11-11T09:01:54Z",
-    "used_text": ""
-   },
-   {
-    "source": "Dawn",
-    "title": "PM Shehbaz to join other world leaders at COP31 today, will outline Pakistan’s climate priorities",
-    "link": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities",
-    "published": "2026-11-11T07:19:08Z",
-    "used_text": "Prime Minister Shehbaz Sharif is set to highlight Pakistan’s climate priorities at the COP31 Antalya Leaders’ Summit in Turkiye today, with other world leaders joining him in setting out their climate priorities. Delegates from nearly 200 countries are meeting in the Mediterranean resort city of…"
-   },
-   {
-    "source": "Aaj News",
-    "title": "Shehbaz to highlight Pakistan's climate priorities at COP31 summit",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXp1UGhnQUFYRHROZzdvZnZuMjNscGJwYTAtOGgwQ3VCZXE4eGZXTHhObV9zcERVMG9HdGcwakxHVHJyMnZRekpOdm1jeUt1UHBUMUlhZmdtVHJWOE1Vdmc3YUtGN3FxNHhVT2xEZ1Y0UTB1TDhaTzgtOWFpVFJ6T3V2YzhQQjFfUXZiZVVvRmF2cXFFMFFiVnNzc3ZXbFVkNm14TUxR?oc=5",
-    "published": "2026-11-11T04:47:16Z",
-    "used_text": ""
-   },
-   {
-    "source": "Express Tribune",
-    "title": "PM Shehbaz to address COP31 summit in Turkiye, highlight climate justice",
-    "link": "https://tribune.com.pk/story/2639755/pm-shehbaz-to-address-cop31-summit-in-turkiye-highlight-climate-justice",
-    "published": "2026-11-11T03:08:59Z",
-    "used_text": "Premier to present Pakistan's national statement, meet world leaders and discuss renewable energy transition"
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-prime-minister-shehbaz-sharif-attends-cop31-summit-in-turkiye-d38a.html"
- },
- {
-  "id": "66d986c2c8306697",
-  "region": "local",
-  "category": "news",
-  "title": "Imran Khan Undergoes Eye Procedure and Medical Tests at PIMS",
-  "summary": "PTI founder Imran Khan was transferred from Adiala Jail to PIMS for medical tests and an eye procedure before returning to prison.",
-  "paragraphs": [
-   "Former prime minister and PTI founder Imran Khan was transported from Adiala Jail in Rawalpindi to the Pakistan Institute of Medical Sciences (PIMS) in Islamabad for follow-up medical care and an eye procedure, according to Dawn and ARY News.",
-   "Following the examination, PIMS declared his physical condition stable and satisfactory, with normal vital signs, as reported by ARY News, Samaa, and Aaj News. He was subsequently shifted back to Adiala Jail, according to Dunya News and ARY News."
-  ],
-  "sources": [
-   {
-    "source": "ARY News",
-    "title": "PIMS declares PTI founder’s physical condition satisfactory, stable",
-    "link": "https://arynews.tv/pims-declares-pti-founders-physical-condition-satisfactory-stable",
-    "published": "2026-11-11T09:47:01Z",
-    "used_text": "PIMS declares PTI founder’s physical condition satisfactory, stable"
-   },
-   {
-    "source": "Dawn",
-    "title": "PTI founder Imran Khan brought to Pims, undergoes eye procedure",
-    "link": "https://www.dawn.com/news/2043744/pti-founder-imran-khan-brought-to-pims-undergoes-eye-procedure",
-    "published": "2026-11-11T08:00:19Z",
-    "used_text": "ISLAMABAD: Former prime minister and PTI founder Imran Khan was again taken to the Pakistan Institute of Medical Sciences (Pims) for tests and follow-up treatment for his eye condition, a hospital official told Dawn on Wednesday. “Imran Khan was brought from the Adiala jail in Rawalpindi to Pims in…"
-   },
-   {
-    "source": "Samaa",
-    "title": "Imran Khan undergoes checkup at PIMS, condition declared satisfactory",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYktMSGRpQVdVUmtiRWdkTDBYODVSQmxvN0d3U19Tc09vOFBGbmlTbGhhMHh1T2h1Yk9RWmZpcVBGVXRDTXY2VWVkSE1MQndiYmZIYkVZMU5hX0ZCaTJYUEtyMlNDNWw4cjZGN01fd29waVpfeU8tazZWbUFoNEgxbkNCUllITkQxQmFGQ0FhLVRkeHlwV1paYWdEQWI0NEF4WXc?oc=5",
-    "published": "2026-11-11T05:55:18Z",
-    "used_text": ""
-   },
-   {
-    "source": "Aaj News",
-    "title": "Imran Khan undergoes medical tests at PIMS",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRZN0hOdDRDWGNadFZFY1RFVlJOeXIxT29xcVdnWXFmbzliT2I1UFJ0eWZuNEYxQTVCSHFobmEwR2xva1Q3NXBoTGdpUkZ3cWlpYnVsZFhLTXFWcVVVVlpEUXJwczRKcU1CYkZxQjBTN3ZINjdEb3BtQjg3dGhWa1Ytb0RjbTA?oc=5",
-    "published": "2026-11-11T05:27:21Z",
-    "used_text": ""
-   },
-   {
-    "source": "Aaj News",
-    "title": "Imran Khan's health stable, vital signs normal, says PIMS",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVR3QjlmNW8xd2xNdUtxZHlWN1B2X1JSUDJTNTZHWFFpaWZPaklCdzMwdEVKZUVlVVpOYjlVcjhLdTgyc2pPMkNvWXpHdktyYk5sMW9na1cyZFoyVDRRbWxRb0NhVVpBdWtRVGlDUHg4cERzQVhkY0dlOEhuZXBkM0dnRE1uRDJ2TmdHNE1OZEw5SlpiYk5r?oc=5",
-    "published": "2026-11-11T05:27:21Z",
-    "used_text": ""
-   },
-   {
-    "source": "ARY News",
-    "title": "PTI founder returns to Adiala Jail after medical examination at PIMS: Sources",
-    "link": "https://arynews.tv/imran-khan-returns-to-adiala-jail-after-medical-examination-at-pims",
-    "published": "2026-11-11T04:20:30Z",
-    "used_text": "PTI founder returns to Adiala Jail after medical examination at PIMS: Sources"
-   },
-   {
-    "source": "Dunya News",
-    "title": "Imran Khan shifted back to Adiala Jail after medical check-up at PIMS",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTNkU0ZoUlVGWGkyaWt1LWNRQklWM2hLNHF6NXhfWmpZSXRMWVdhcTJlMmJIS25md2phVEpyRXIyVGpWSVhSR3RvVDVKREFOaEZjRDk2TlRiV3FXWXJYWURqNVFHSDlJZWlsZU1fSExtYlE1YTZ5MEpjaTNuNXp0MG9haXRrRkRTMmJ3d2FSMy1vb2JIWFE3UVFLelJHVGRuUHdCcjFpM1djQTZEZ3pEUFBNcFdHMlZjd25VddIBVkFVX3lxTE1WQ1pCTmVpaW5EbWdLbEw0S0RZY3Z2bzJNTmRFaHk5MU5JMTM1d1hBUFk1QWxuQk43eUY4X2RYMmlaNUFucXR2ZUlMWkRsdDJkbFFHNktn?oc=5",
-    "published": "2026-11-11T04:01:56Z",
-    "used_text": ""
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-imran-khan-undergoes-eye-procedure-and-medical-tests-at-66d9.html"
- },
- {
-  "id": "351fb159abc9b5d8",
-  "region": "local",
-  "category": "news",
-  "title": "FBR Eliminates Surcharge for New Income Tax Filers",
-  "summary": "The Federal Board of Revenue has waived a Rs25,000 penalty surcharge for individuals registering as new tax filers.",
-  "paragraphs": [
-   "The Federal Board of Revenue (FBR) has eliminated a Rs25,000 surcharge previously charged to individuals joining the tax system, according to ARY News and Dunya News.",
-   "The waiver applies to new taxpayers aiming to be included on the active taxpayer list, Dunya News reported."
-  ],
-  "sources": [
-   {
-    "source": "ARY News",
-    "title": "FBR waives Rs25,000 surcharge for new tax filers",
-    "link": "https://arynews.tv/fbr-waives-rs25000-surcharge-for-new-tax-filers",
-    "published": "2026-11-11T08:59:39Z",
-    "used_text": "FBR waives Rs25,000 surcharge for new tax filers"
-   },
-   {
-    "source": "Dunya News",
-    "title": "FBR waives Rs25,000 surcharge for new taxpayers joining active taxpayer list",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlo1VTlOX1AxdEJjb3ZIOUhKUUo2MUNxS0ZvcnB5bzZ5OHhPTU9PUUlKMjZsOGVrV2c2VGk1OGJaX3dhcUZYam94TjBSM2pvTVNTeElxQmYxZE8xTGRVTGlnQ1NndS1KdEl5OU1XMl9sSTRKSGNKc1lVSUVDV2d0V0R5bFF1WjlWWHlFbkFSeElpNVFTdkszM3NfX0dWOE1mU1RxTGhSOGZ2WGxWdGfSAVZBVV95cUxNWGZiTlV2MDd5MmJuRnBQLTlvNlFHYld0VFVEcnl4dFotOUFSTTlhSU5kRUtfUXBGZXRiWS1udFRwX2JWLTUxcXVhT1p6cmtZZGhOdXBFdw?oc=5",
-    "published": "2026-11-11T07:51:53Z",
-    "used_text": ""
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-fbr-eliminates-surcharge-for-new-income-tax-filers-351f.html"
- },
- {
-  "id": "b1c50edab2673f43",
-  "region": "local",
-  "category": "news",
-  "title": "Former Afghan Army Member Detained in Peshawar Over Terror Allegations",
-  "summary": "Security agencies in Peshawar have apprehended a former Afghan National Army member accused of terrorist acts.",
-  "paragraphs": [
-   "Law enforcement agencies and security forces have arrested an individual previously serving in the Afghan National Army (ANA) for alleged involvement in terrorist operations within Pakistan, Dawn reported.",
-   "The arrest was disclosed on Wednesday during a media briefing led by Khyber Pakhtunkhwa Additional Inspector General Abbas Ahsan, according to Dawn."
-  ],
-  "sources": [
-   {
-    "source": "Dawn",
-    "title": "Former Afghan army member arrested for alleged terrorist activities in Pakistan",
-    "link": "https://www.dawn.com/news/2043766/former-afghan-army-member-arrested-for-alleged-terrorist-activities-in-pakistan",
-    "published": "2026-11-11T10:27:20Z",
-    "used_text": "PESHAWAR: Security forces and law enforcement agencies have arrested a man formerly associated with the Afghan National Army (ANA) for allegedly carrying out terrorist activities in Pakistan, it emerged on Wednesday. At a media briefing, Additional Inspector (AIG) General Abbas Ahsan of Khyber…"
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-former-afghan-army-member-detained-in-peshawar-over-terror-b1c5.html"
- },
- {
-  "id": "1ef95e455efd8e95",
-  "region": "local",
-  "category": "news",
-  "title": "New Hydrocarbon Reserves Discovered in Sindh",
-  "summary": "OGDCL has announced a new discovery of oil and gas reserves located in Sindh.",
-  "paragraphs": [
-   "The Oil and Gas Development Company Limited (OGDCL) has uncovered new hydrocarbon reserves in Sindh province, according to ARY News.",
-   "Samaa also reported the development, noting that significant oil and gas deposits were identified in the province."
-  ],
-  "sources": [
-   {
-    "source": "ARY News",
-    "title": "OGDCL announces new hydrocarbon discovery in Sindh",
-    "link": "https://arynews.tv/ogdcl-announces-new-hydrocarbon-discovery-sindh",
-    "published": "2026-11-11T08:40:39Z",
-    "used_text": "OGDCL announces new hydrocarbon discovery in Sindh"
-   },
-   {
-    "source": "Samaa",
-    "title": "Major oil and gas reserves discovered in Sindh",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGtvOXBZTkZWUWlPQlVmN3ZFYmJrTHMyT1lITFVkOHRFQUJLbzhUUXVob1V3Slc5aGx2U1hrX0FhWXVrSGlhQUtGRVZwVkVfTVg1enNmUzZDUjVfQ2F0WFozazVWV1p0d0ZxeDRvZWdGbzk3ZGpIbXlZQkVrR3h4Zmx2MkU?oc=5",
-    "published": "2026-11-11T08:35:55Z",
-    "used_text": ""
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-new-hydrocarbon-reserves-discovered-in-sindh-1ef9.html"
- },
- {
-  "id": "1ec77ae82e6ed052",
-  "region": "local",
-  "category": "news",
-  "title": "Pakistan Stock Exchange Surges Past 180,000 Mark",
-  "summary": "Strong buying activity pushed the KSE-100 index beyond the 180,000-point threshold.",
-  "paragraphs": [
-   "The Pakistan Stock Exchange sustained a bullish run, with Dunya News initially noting a rise of more than 300 points.",
-   "Express Tribune reported that the benchmark KSE-100 index surged by 1,111 points to cross 180,000. Market activity recorded 214.29 million shares traded, amounting to a total turnover value of Rs20.27 billion."
-  ],
-  "sources": [
-   {
-    "source": "Dunya News",
-    "title": "Bullish momentum continues as PSX gains over 300 points",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUpfcHJsUTU4YjNYUEZjem04emhMcXQtMHc4eFBzbXZoLTdaMXZIODRYa0VvOHFTbkVjUUMzdkFuemk1VG45LS1yLUxGT1dtRE9RLWxBanBZWjFGaFFudDBfUVhicnNERl81M1YzSXN2eU8tSXE5cHl6ZXI3aHdlZDlzQkE2eUlCcVRjTFZqMFJnRS1NR19DVTI5MNIBVkFVX3lxTE9ydFlRV0NTS3RLUy02Yy0wMjZJOUxqTEotTWFlWERrWEZJa091dFJEY19qY3VUUXVCckhLNHJUeHVWcmNLbUM5UHhlX3FIajdmNWNySXhB?oc=5",
-    "published": "2026-11-11T05:17:27Z",
-    "used_text": ""
-   },
-   {
-    "source": "Express Tribune",
-    "title": "KSE-100 gains 1,111 points to cross 180,000",
-    "link": "https://tribune.com.pk/story/2639763/psx-extends-gains-as-kse-100-crosses-180000-mark",
-    "published": "2026-11-11T04:46:53Z",
-    "used_text": "Trading volume reaches 214.29 million shares, while the value of shares traded stands at Rs20.27 billion"
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-pakistan-stock-exchange-surges-past-180-000-mark-1ec7.html"
- },
- {
-  "id": "a6e21d215fcba8a6",
-  "region": "local",
-  "category": "sports",
-  "title": "Pakistani World Champion Faces Travel Hurdles Over Visas",
-  "summary": "A Pakistani world champion athlete has raised concerns over prolonged visa processing struggles.",
-  "paragraphs": [
-   "Express Tribune reported on the ongoing administrative difficulties faced by an accomplished Pakistani athlete who remains without a visa.",
-   "The competitor expressed frustration regarding travel delays, remarking that the majority of their time is wasted chasing after visas, according to Express Tribune."
-  ],
-  "sources": [
-   {
-    "source": "Express Tribune",
-    "title": "A world champion without a visa",
-    "link": "https://tribune.com.pk/story/2639765/a-world-champion-without-a-visa",
-    "published": "2026-11-11T05:14:26Z",
-    "used_text": "‘Most of my time is wasted running after visas.’"
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-pakistani-world-champion-faces-travel-hurdles-over-visas-a6e2.html"
- },
- {
-  "id": "fa92260c571030bc",
-  "region": "international",
-  "category": "news",
-  "title": "US-Mediated Peace Talks Between Ukraine and Russia Resume in Abu Dhabi",
-  "summary": "Negotiators from Ukraine and Russia have gathered for a second day of discussions in Abu Dhabi.",
-  "paragraphs": [
-   "Russia and Ukraine have resumed peace negotiations in Abu Dhabi for a second day under United States mediation, according to reports from France 24 and Euronews. Kyiv's chief negotiator Rustem Umerov confirmed the continuation of discussions on Wednesday, while Ukrainian President Volodymyr Zelensky stated he was happy with shifts in the American mediators' approach.",
-   "Major points of discussion include territory, security arrangements, and ceasefire terms, Euronews reported. The first day was described by Kyiv as constructive, with prisoner exchanges and security guarantees addressed, though Euronews noted a full ceasefire is not considered close. Meanwhile, Al Jazeera highlighted that US President Donald Trump commented that post-war Ukraine would have a different shape."
-  ],
-  "sources": [
-   {
-    "source": "France 24",
-    "title": "Russia, Ukraine start second day of US-led talks: Kyiv lead negotiator",
-    "link": "https://www.france24.com/en/russia-ukraine-start-second-day-of-us-led-talks-kyiv-lead-negotiator",
-    "published": "2026-11-11T10:42:35Z",
-    "used_text": "Russia and Ukraine have resumed US-mediated talks in Abu Dhabi for a second day, Kyiv's chief negotiator Rustem Umerov said on Wednesday."
-   },
-   {
-    "source": "Euronews",
-    "title": "Ukraine-Russia peace talks enter second day with territory and security guarantees in focus",
-    "link": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu",
-    "published": "2026-11-11T09:19:43Z",
-    "used_text": "Ukraine and Russia resume US-mediated talks in Abu Dhabi on Wednesday, with Kyiv welcoming a shift in Washington's approach but major differences remaining over territory, security guarantees and the terms of a ceasefire."
-   },
-   {
-    "source": "Euronews",
-    "title": "‘Constructive’ Abu Dhabi talks resume, but a ceasefire is nowhere near",
-    "link": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near",
-    "published": "2026-11-11T07:21:39Z",
-    "used_text": "Good morning. I’m Luca Bertuzzi, holding the pen for today’s newsletter. In this edition: a preview of the second day of peace talks in Abu Dhabi, the backlash to Merz’s budget gambit, and why aid to Ukraine is becoming a sore point for several EU countries."
-   },
-   {
-    "source": "Euronews",
-    "title": "Europe Today: Ukraine peace talks continue in Abu Dhabi after 'constructive' first day",
-    "link": "https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day",
-    "published": "2026-11-11T07:03:00Z",
-    "used_text": "Ukraine, Russia and the US begin a second day of peace talks in Abu Dhabi after a first round Kyiv described as constructive, with a prisoner swap and security guarantees on the table. We also look at Black Sea attacks, Europe's hybrid threats and Prince Harry's visit to the European Parliament."
-   },
-   {
-    "source": "France 24",
-    "title": "Live: Ukraine, Russia begin second day of US-mediated talks in Abu Dhabi",
-    "link": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi",
-    "published": "2026-11-11T03:22:45Z",
-    "used_text": "Washington called for a \"new\" security framework on the first day of US-led talks between Ukraine and Russia in Abu Dhabi, as Ukrainian President Volodymyr Zelensky said he was \"happy\" with the changes in approach by US mediators. Negotiations have resumed for a second day. Follow our liveblog for…"
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-us-mediated-peace-talks-between-ukraine-and-russia-resume-fa92.html"
- },
- {
-  "id": "7e92fddbfc67f75c",
-  "region": "international",
-  "category": "news",
-  "title": "US House Republicans Halt Impeachment Effort Against Pete Hegseth",
-  "summary": "Efforts in the United States Congress to impeach Defense Secretary Pete Hegseth have been blocked.",
-  "paragraphs": [
-   "United States House Republicans have moved to block an impeachment push directed at Defense Secretary Pete Hegseth, according to reports by DW, France 24, and NHK World. The effort, originally initiated by Republican lawmaker Thomas Massie, was shelved following a tight procedural vote, with Donald Trump praising the result, according to DW.",
-   "Al Jazeera reported that 11 Democrats were absent during the procedural ballot that halted the measure. Euronews noted that Hegseth defended his military actions in Yemen, Iran, and against alleged narcotics traffickers, affirming he stood behind each mission and characterizing the impeachment bid as an assault on American service members."
-  ],
-  "sources": [
-   {
-    "source": "Al Jazeera",
-    "title": "Did Democrats save Pete Hegseth from impeachment?",
-    "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
-    "published": "2026-11-11T10:32:03Z",
-    "used_text": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary."
-   },
-   {
-    "source": "France 24",
-    "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
-    "link": "https://www.france24.com/en/house-republicans-quash-effort-to-impeach-defense-secretary-hegseth",
-    "published": "2026-11-11T09:55:04Z",
-    "used_text": "Rochelle Ferguson Bouyahi, our international affairs editor, has more."
-   },
-   {
-    "source": "NHK World",
-    "title": "Republicans vote to block Hegseth impeachment effort | NHK WORLD-JAPAN News",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wamVnaGFXT2lqcmhvM1d0RXItdXhxbTV2UEFTUGczdkp2QTFVY1lrVS0zWTZ2YU5tekJITWdzYXhfRFBMdVBTbmdGYjNRUTRpZ0pZQUtuaWRReEd4cU9fX2YzOA?oc=5",
-    "published": "2026-11-11T06:07:58Z",
-    "used_text": ""
-   },
-   {
-    "source": "Euronews",
-    "title": "US Republicans block efforts to impeach US Defence Secretary Pete Hegseth over Iran war",
-    "link": "https://www.euronews.com/2026/11/11/us-republicans-block-efforts-to-impeach-us-defence-secretary-pete-hegseth-over-iran-war",
-    "published": "2026-11-11T04:29:30Z",
-    "used_text": "US Defence chief Hegseth defended operations he led in Yemen, Iran and against alleged drug smugglers, stating, \"I stand behind every one of these operations. I was proud to execute them, and I would do it again tomorrow,\" while portraying the impeachment effort as an attack on US troops."
-   },
-   {
-    "source": "DW",
-    "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
-    "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
-    "published": "2026-11-11T02:04:00Z",
-    "used_text": "Pentagon chief Pete Hegseth seems set to survive the impeachment bid launched by maverick Republican lawmaker Thomas Massie, with President Donald Trump praising the outcome of the vote."
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-us-house-republicans-halt-impeachment-effort-against-pete-hegseth-7e92.html"
- },
- {
-  "id": "32da24e147617d40",
-  "region": "international",
-  "category": "news",
-  "title": "Spain Faces First General Strike in 14 Years Over Housing Crisis",
-  "summary": "Workers in Spain have launched nationwide strikes demanding housing reforms ahead of national elections.",
-  "paragraphs": [
-   "Workers across Spain have commenced the country's first general strike in 14 years, as reported by DW, France 24, and Al Jazeera. The strike has disrupted transportation networks and business activities across the country just weeks ahead of the scheduled November 29 elections.",
-   "The national action has been driven by mounting anger over soaring rents and a worsening housing crunch, according to DW and France 24. Protesters have raised concerns about being compelled into cramped rentals, with Al Jazeera citing individuals paying $500 for spaces as small as 5 square metres."
-  ],
-  "sources": [
-   {
-    "source": "France 24",
-    "title": "Spain's first general strike in 14 years, 3 weeks before national polls",
-    "link": "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls",
-    "published": "2026-11-11T10:30:07Z",
-    "used_text": "Sarah Morris is live from Madrid."
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "Spain’s first general strike in 14 years begins",
-    "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
-    "published": "2026-11-11T10:18:28Z",
-    "used_text": "Strike disrupts public transport and industries amid demands for housing reform ahead of November 29 elections."
-   },
-   {
-    "source": "DW",
-    "title": "Spain: Housing crisis prompts general strike",
-    "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
-    "published": "2026-11-11T09:11:00Z",
-    "used_text": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain's November 29 elections."
-   },
-   {
-    "source": "France 24",
-    "title": "Spain’s general strike puts housing crisis at centre of upcoming elections",
-    "link": "https://www.france24.com/en/europe/20261111-spain-general-strike-puts-housing-crisis-centre-upcoming-elections",
-    "published": "2026-11-11T08:29:33Z",
-    "used_text": "For the first time in 14 years, millions of Spanish workers are striking across the country Wednesday to demand action on a major housing crisis and the rising cost of living. The expected disruptions to public transport and the widespread closure of businesses come less than three weeks before a…"
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
-    "link": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
-    "published": "2026-11-11T05:16:57Z",
-    "used_text": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control."
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-spain-faces-first-general-strike-in-14-years-over-32da.html"
- },
- {
-  "id": "91ebad79ee013962",
-  "region": "international",
-  "category": "news",
-  "title": "Portugal Braces for Storm Charles as Major Tech Summit Closes",
-  "summary": "Portuguese authorities have shut down schools and events as Storm Charles brings severe winds.",
-  "paragraphs": [
-   "Portuguese officials have placed the country on high alert and ordered the closure of schools, public services, and the Web Summit tech conference on Wednesday as Storm Charles approaches, according to France 24.",
-   "Organizers cancelled the summit's second day following warnings of tidal floods and significant disruption to transit systems. France 24 added that the tempest was forecast to reach peak intensity on Wednesday afternoon, packing winds blowing at speeds up to 120 km/h."
-  ],
-  "sources": [
-   {
-    "source": "France 24",
-    "title": "Second day of Web Summit cancelled as Storm Charles puts Portugal on high alert",
-    "link": "https://www.france24.com/en/tv-shows/business/20261111-second-day-of-web-summit-cancelled-as-storm-charles-puts-portugal-on-high-alert",
-    "published": "2026-11-11T10:37:13Z",
-    "used_text": "Portuguese authorities strongly advised organisers of the Web Summit to cancel events this Wednesday because of risks of tidal flooding and severe disruption to public transport. Storm Charles is expected to be at its most dangerous on Wednesday afternoon, with winds reaching up to 120 km/h and…"
-   },
-   {
-    "source": "France 24",
-    "title": "Portugal shuts schools, tech conference as it braces for storm",
-    "link": "https://www.france24.com/en/portugal-shuts-schools-tech-conference-as-it-braces-for-storm",
-    "published": "2026-11-11T10:02:00Z",
-    "used_text": "Portugal said it would shut schools, non-essential services and a top world tech conference on Wednesday, as it braces for gale-force winds of Storm Charles."
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-portugal-braces-for-storm-charles-as-major-tech-summit-91eb.html"
- },
- {
-  "id": "0848f882e13ec7d0",
-  "region": "international",
-  "category": "news",
-  "title": "US Soldier Arrested in Britain Under Suspicion of Russian Espionage",
-  "summary": "British authorities have detained an American soldier suspected of spying on behalf of Russia.",
-  "paragraphs": [
-   "A member of the United States army has been taken into custody in the United Kingdom over allegations of espionage for Russia, London police reported according to France 24 and Euronews. The arrest on Tuesday followed a joint inquiry conducted alongside American military and law enforcement officials.",
-   "CNBC reported that the individual is 41 years old and is being held in London under the UK's National Security Act. Euronews noted that the Federal Bureau of Investigation described the case as an issue of utmost concern to Washington and allied governments."
-  ],
-  "sources": [
-   {
-    "source": "France 24",
-    "title": "UK authorities arrest US soldier suspected of spying for Russia",
-    "link": "https://www.france24.com/en/uk-authorities-arrests-us-soldier-suspected-of-spying-for-russia",
-    "published": "2026-11-11T09:41:06Z",
-    "used_text": "A member of the US army suspected of spying for Russia was arrested in Britain on Tuesday, London police said, following an investigation with support from the American military and law enforcement."
-   },
-   {
-    "source": "CNBC",
-    "title": "American soldier arrested on suspicion of spying for Russia",
-    "link": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
-    "published": "2026-11-11T08:30:43Z",
-    "used_text": "The 41-year-old man is being detained in London under the U.K.'s National Security Act."
-   },
-   {
-    "source": "Euronews",
-    "title": "US soldier arrested in England on suspicion of spying for Russia",
-    "link": "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia",
-    "published": "2026-11-11T07:54:52Z",
-    "used_text": "The FBI says the case is of “the utmost concern” to Washington and its allies, while army counterintelligence chiefs warn that insider threats are “real and persistent”."
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-us-soldier-arrested-in-britain-under-suspicion-of-russian-0848.html"
- },
- {
-  "id": "269baa0c2c52d278",
-  "region": "international",
-  "category": "news",
-  "title": "AI Startup Anthropic Targets $64 Billion in Public Offering",
-  "summary": "Artificial intelligence company Anthropic has unveiled major IPO fundraising goals.",
-  "paragraphs": [
-   "Artificial intelligence firm Anthropic plans to raise up to $64 billion, or approximately €57.1bn, during its impending initial public offering, according to company regulatory filings reported by Euronews and NHK World. The planned listing could evaluate the enterprise at up to $1.4 trillion, or €1.25trn.",
-   "CNBC added that the company opened its Australian retail public offering on Wednesday, allowing individual retail investors to bid for shares ahead of the wider debut amidst intense scrutiny across the broader tech and AI sectors."
-  ],
-  "sources": [
-   {
-    "source": "Euronews",
-    "title": "Inside Anthropic’s blockbuster IPO: What we know about the AI giant’s plans",
-    "link": "https://www.euronews.com/2026/11/11/anthropic-targets-valuation-of-up-to-14-trillion-for-blockbuster-ipo",
-    "published": "2026-11-11T05:25:53Z",
-    "used_text": "Anthropic plans to raise up to $64 billion (€57.1bn) in its upcoming initial public offering, the artificial intelligence giant said in a filing on Tuesday, in a listing that could value the company at up to $1.4 trillion (€1.25trn)."
-   },
-   {
-    "source": "NHK World",
-    "title": "Anthropic seeking to raise about $64 billion in IPO | NHK WORLD-JAPAN News",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ed1gyaEN5MTBLRUNlaU1KRkdVa0JPZ0NYd0JtU2FoV21oUFVMc280VXBjUWlBS2JuTW9UampjUnlDRmRFendEd2JxektSSTZ0Ym5UZzhXU2lXM0ljSnhLeExRRQ?oc=5",
-    "published": "2026-11-11T03:04:08Z",
-    "used_text": ""
-   },
-   {
-    "source": "CNBC",
-    "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-    "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
-    "published": "2026-11-11T01:52:56Z",
-    "used_text": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO."
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-ai-startup-anthropic-targets-64-billion-in-public-offering-269b.html"
- },
- {
-  "id": "12fe2b33af8c57ec",
-  "region": "international",
-  "category": "sports",
-  "title": "South African Olympic Swimmer Tatjana Smith Switches Allegiance to Netherlands",
-  "summary": "Tatjana Smith has announced an international swimming switch to represent the Netherlands.",
-  "paragraphs": [
-   "Tatjana Smith, South Africa's most decorated Olympic athlete, has confirmed that she is changing her sporting allegiance to the Netherlands, BBC News reported. The announcement was made through an emotional and tearful public statement.",
-   "According to Al Jazeera, the double Olympic gold medal winner cited financial and practical challenges associated with swimming as key factors behind her choice to change nations."
-  ],
-  "sources": [
-   {
-    "source": "BBC News",
-    "title": "Tearful Smith switches allegiance to the Netherlands",
-    "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-11T08:19:59Z",
-    "used_text": "South Africa's most decorated Olympian Tatjana Smith was in tears as she announced that she has switched her international allegiance to the Netherlands."
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
-    "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
-    "published": "2026-11-11T05:52:28Z",
-    "used_text": "Double Olympic gold medallist cites 'financial and practical challenges' of swimming."
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-south-african-olympic-swimmer-tatjana-smith-switches-allegiance-to-12fe.html"
- },
- {
-  "id": "7fca076e3e400dc2",
-  "region": "international",
-  "category": "sports",
-  "title": "Manchester United in Managerial Talks With Mauricio Pochettino",
-  "summary": "Manchester United has opened discussions with Mauricio Pochettino over their managerial role.",
-  "paragraphs": [
-   "Manchester United has launched discussions with Mauricio Pochettino regarding taking over the head coaching position from Michael Carrick, who is anticipated to leave his post, BBC News reported.",
-   "Pochettino, who is currently managing the United States men's national team, has been the subject of ongoing departure rumours. However, US defender Antonee Robinson told BBC News that speculation surrounding the manager's status has not disturbed the team's preparations for the Concacaf Nations League."
-  ],
-  "sources": [
-   {
-    "source": "BBC News",
-    "title": "Robinson unfazed by Pochettino departure talk",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-11T09:54:38Z",
-    "used_text": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign."
-   },
-   {
-    "source": "BBC News",
-    "title": "Man Utd open talks with Pochettino about replacing Carrick",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-11T09:11:28Z",
-    "used_text": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job."
-   }
-  ],
-  "created": "2026-11-11T10:51:47Z",
-  "url": "a/2026-11-11-manchester-united-in-managerial-talks-with-mauricio-pochettino-7fca.html"
  }
 ]
