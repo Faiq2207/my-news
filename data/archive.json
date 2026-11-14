@@ -1,5 +1,669 @@
 [
  {
+  "id": "215513229c32a0ed",
+  "region": "local",
+  "category": "news",
+  "title": "North Waziristan Operations Claim Lives",
+  "summary": "Security operations in North Waziristan resulted in the deaths of multiple terrorists and soldiers.",
+  "paragraphs": [
+   "According to Dawn, two soldiers were martyred and 14 terrorists were killed during operations in the North Waziristan district of Khyber Pakhtunkhwa. The military's media wing, the Inter-Services Public Relations (ISPR), issued a statement on Saturday detailing the intelligence-based operations.",
+   "Geo News similarly reported that 16 terrorists were killed and two army soldiers were martyred in intelligence-based operations within the KP region."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "2 soldiers martyred, 14 terrorists killed in North Waziristan operations: ISPR",
+    "link": "https://www.dawn.com/news/2044488/2-soldiers-martyred-14-terrorists-killed-in-north-waziristan-operations-ispr",
+    "published": "2026-11-14T10:06:37Z",
+    "used_text": "Two soldiers were martyred and 14 terrorists were killed in North Waziristan district of Khyber Pakhtunkhwa, the military’s media wing said on Saturday. According to a statement issued by Inter-Services Public Relations (ISPR), in continuation of a series of IBOs being conducted by security forces,…"
+   },
+   {
+    "source": "Geo News",
+    "title": "16 terrorists killed, 2 army soldiers martyred in intelligence-based KP operations: ISPR",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmg3WlZlMGUzV2RoUkZEVGhaUnVBcXlteFdENm45c0lUZXVFajF3REI2MURlb24xSThEMnJtY0pLa044ajF0amJGcGpId2VmeU83YWFoV1FwenFKZUVKWm95cm9IUy0zQy1aQnl2RTJ1dU1PblJCbFd3dlhEX2xmLWdTQTAxWGJzN0Z5Y0RTNnAyUkhkQmJyeXBmbkJuaE9qeFNmSA?oc=5",
+    "published": "2026-11-14T09:42:00Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-north-waziristan-operations-claim-lives-2155.html"
+ },
+ {
+  "id": "ecfba01f67e2b6b6",
+  "region": "local",
+  "category": "news",
+  "title": "KP Governor Bans Gold Mining",
+  "summary": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced a total ban on gold mining and the cancellation of all mining leases across the province.",
+  "paragraphs": [
+   "According to Dawn and ARY News, Khyber Pakhtunkhwa Governor Faisal Karim Kundi announced a complete suspension of gold mining across the entire province during a press conference in Peshawar on Saturday. He also stated that all existing mining leases would be revoked as part of new measures designed to curb illegal mining activities.",
+   "Governor Kundi used the address to strongly condemn a recent attack in Kohat that had resulted in casualties, linking the administrative measures to broader security and governance efforts in the region."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "KP Governor Kundi announces suspension of gold mining across province",
+    "link": "https://www.dawn.com/news/2044485/kp-governor-kundi-announces-suspension-of-gold-mining-across-province",
+    "published": "2026-11-14T10:04:06Z",
+    "used_text": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi on Saturday announced a ban on gold mining across the province and the revocation of all mining leases as part of measures to curb illegal mining. Addressing a press conference in Peshawar, Governor Kundi condemned the attack in Kohat that claimed the…"
+   },
+   {
+    "source": "ARY News",
+    "title": "KP governor announces suspension of gold mining, cancellation of leases across province",
+    "link": "https://arynews.tv/kp-governor-announces-suspension-of-gold-mining-cancellation-of-leases-across-province",
+    "published": "2026-11-14T09:48:40Z",
+    "used_text": "KP governor announces suspension of gold mining, cancellation of leases across province"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-kp-governor-bans-gold-mining-ecfb.html"
+ },
+ {
+  "id": "aaf2fd4698eac5d3",
+  "region": "local",
+  "category": "news",
+  "title": "World Bank Finances Sindh Water Project",
+  "summary": "The World Bank has approved significant financing for water and sanitation projects in Sindh.",
+  "paragraphs": [
+   "According to Samaa and ARY News, the World Bank has approved $300 million in financing for clean water, water supply, and sanitation projects across rural areas of the Sindh province.",
+   "Dunya News also confirmed the financial approval of the $300 million package aimed at supporting developmental initiatives in Sindh."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "World Bank approves $300m loan for Sindh clean water project",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFkxLXd5Vjllb2JIWGJMMmRKcWE0U0szRkhrWGh2c3c1SHpiMFNHdjVINlFXdnZ6Yy1EU2lSbS12c1UyOTgzYWlabTZzVEdGV2RkMGZ0ckEwem5NN01reEVMZW9kUEFDOFU0WlZLWTNZZ3lMbGxuWU95NmpQcjYxdFJjYzF0WTJ5U0ZUeUdQR0xoTVYtYlE?oc=5",
+    "published": "2026-11-14T09:28:50Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "World Bank approves $300mn for water, sanitation projects in rural Sindh",
+    "link": "https://arynews.tv/world-bank-approves-300mn-for-water-sanitation-projects-in-rural-sindh",
+    "published": "2026-11-14T08:55:46Z",
+    "used_text": "World Bank approves $300mn for water, sanitation projects in rural Sindh"
+   },
+   {
+    "source": "Dunya News",
+    "title": "World Bank approves $300 million financing for Sindh",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEktbUpsTVhhd0JZc0FHVkZEU0NWenhkUFBmLXZSY25UbFdZZHROMHo5VE90cVlNV0t0SWJVNURhdkRJTzcyNFR5aG5fbkFkX3R0RkUwRVJFWFJwRWE0d1pIV3VsSjM2ZXE3RklEWFZxSWlPanNCby1fRnV0ZGZ6ak5uQVBVTExJNmVZR1VEZXR1VHI0dDRFUEJrWS1QSEttNFRr0gFWQVVfeXFMTldfamtERFdnVVBxUW5JcjlWS2J6MG1TMEtqUldyWFFhY1NTYmpWV3pEMldDQ0FrcjFDMW1pdUYybDVwOTVuZzZQR3hDbUxSZElrR3hCdWc?oc=5",
+    "published": "2026-11-14T07:02:36Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-world-bank-finances-sindh-water-project-aaf2.html"
+ },
+ {
+  "id": "c1155a7ae368801b",
+  "region": "local",
+  "category": "news",
+  "title": "Islamabad to Host ECO Council Meeting",
+  "summary": "Pakistan will host the 30th meeting of the Economic Cooperation Organization Council of Ministers in Islamabad.",
+  "paragraphs": [
+   "According to Dawn and the Express Tribune, Pakistan is set to host the 30th meeting of the Economic Cooperation Organization (ECO) Council of Ministers in Islamabad on November 15 and 16. The Foreign Office reported that the high-level ministerial sessions will be chaired by Deputy Prime Minister and Foreign Minister Ishaq Dar.",
+   "The gathering will bring together foreign ministers and heads of delegations from member states, and will be preceded by preparatory meetings involving senior officials."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16",
+    "link": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16",
+    "published": "2026-11-14T08:06:52Z",
+    "used_text": "The 30th meeting of the Economic Cooperation Organization (ECO) Council of Ministers will be held in Islamabad on Nov 15 and 16, the Foreign Office (FO) said on Saturday. The meeting will be chaired by Deputy Prime Minister and Foreign Minister Ishaq Dar and attended by foreign ministers and heads…"
+   },
+   {
+    "source": "Dunya News",
+    "title": "30th meeting of ECO Council of Foreign Ministers to be held in Islamabad on Nov 15: FO",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oTV9NLXR3VWJtc3lxcVU2Mmk1TWEzZWhPVkVxVWR2ZkpHZ1dxUlpZQjNldHlLVmdIc0pDQmxWbV9RTjdEUmVLYnZiUHB0YVFjbnVDSzJR0gFWQVVfeXFMT2hNX00tdHdVYm1zeXFxVTYyaTVNYTNlaE9WRXFVZHZmSkdnV3FSWllCM2V0eUtWZ0hzSkNCbFZtX1FON0RSZUtidmJQcHRhUWNudUNLMlE?oc=5",
+    "published": "2026-11-14T05:20:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Pakistan to host 30th ECO Council of Foreign Ministers meeting on Nov 15-16",
+    "link": "https://tribune.com.pk/story/2640261/pakistan-to-host-30th-eco-council-of-foreign-ministers-meeting-on-nov-15-16",
+    "published": "2026-11-14T01:35:34Z",
+    "used_text": "Ministerial meeting will be preceded by a gathering of senior officials from ECO member states"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-islamabad-to-host-eco-council-meeting-c115.html"
+ },
+ {
+  "id": "1472c234bc7d11ff",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan Urges Gulf De-escalation at UN",
+  "summary": "Pakistan called for an immediate end to military provocations in the Gulf during a UN Security Council session.",
+  "paragraphs": [
+   "According to Dawn and the Express Tribune, Pakistan urged an immediate halt to military provocations in the Gulf and advocated for renewed regional diplomacy during a UN Security Council meeting. The discussions followed sharply conflicting accusations traded by the United States, Iran, and Gulf Cooperation Council countries regarding recent attacks on commercial vessels and regional infrastructure.",
+   "The Pakistani envoy emphasized that the region's critical waterways sustain essential international commerce and carry vital energy supplies, making civilian shipping safety paramount."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Pakistan urges Gulf de-escalation as US, Iran trade accusations at UN",
+    "link": "https://www.dawn.com/news/2044470/pakistan-urges-gulf-de-escalation-as-us-iran-trade-accusations-at-un",
+    "published": "2026-11-14T05:20:36Z",
+    "used_text": "UNITED NATIONS: Pakistan on Friday called for an immediate end to military provocations in the Gulf and renewed regional diplomacy as the United States, Iran and Gulf Cooperation Council (GCC) countries exchanged sharply conflicting accusations at a UN Security Council meeting on attacks against…"
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Pakistan urges end to attacks on Gulf states, calls for regional de-escalation",
+    "link": "https://tribune.com.pk/story/2640258/pakistan-urges-end-to-attacks-on-gulf-states-calls-for-regional-de-escalation",
+    "published": "2026-11-14T00:54:07Z",
+    "used_text": "Pakistani envoy says region’s critical waterways sustain international commerce, carry essential supplies of energy"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-pakistan-urges-gulf-de-escalation-at-un-1472.html"
+ },
+ {
+  "id": "00b680ef27c73912",
+  "region": "local",
+  "category": "news",
+  "title": "Police Foil Attack on Bannu Checkpost",
+  "summary": "Law enforcement agencies successfully repelled a terrorist assault on a police checkpost in Bannu.",
+  "paragraphs": [
+   "According to Dawn and ARY News, police successfully foiled a terrorist attack on the Kingar Pul Police Checkpost in Khyber Pakhtunkhwa's Bannu district late Friday night. A spokesperson for the police stated that heavily armed assailants launched a sudden strike against the post.",
+   "Security personnel retaliated swiftly, eliminating four terrorists during the engagement."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Police foil attack on checkpost in KP's Bannu, eliminate four terrorists",
+    "link": "https://www.dawn.com/news/2044476/police-foil-attack-on-checkpost-in-kps-bannu-eliminate-four-terrorists",
+    "published": "2026-11-14T07:06:44Z",
+    "used_text": "BANNU: Police foiled a terrorist attack on Kingar Pul Police Checkpost in Khyber Pakhtunkhwa’s Bannu district on Friday night, eliminating four terrorists in retaliation, a police spokesperson said. According to the police spokesperson, heavily armed terrorists launched a sudden attack on the…"
+   },
+   {
+    "source": "ARY News",
+    "title": "KP police foil fitna al-khawarij attack; four killed",
+    "link": "https://arynews.tv/kp-police-foil-fitna-al-khawarij-attack-four-killed",
+    "published": "2026-11-14T06:43:01Z",
+    "used_text": "KP police foil fitna al-khawarij attack; four killed"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-police-foil-attack-on-bannu-checkpost-00b6.html"
+ },
+ {
+  "id": "866f9488440bbc75",
+  "region": "local",
+  "category": "news",
+  "title": "Lahore Transport Conductor Sacked Over Passenger Incident",
+  "summary": "A transport company fired a green bus conductor after a viral video showed him mistreating a female passenger.",
+  "paragraphs": [
+   "According to Dawn and ARY News, a private transport company terminated a Lahore green bus conductor after a video of him pushing a woman off a bus went viral online. The incident occurred as the passenger was trying to board the vehicle at a terminal.",
+   "The public footage drew the direct attention of the Punjab government, prompting swift punitive action against the employee for mistreating the traveler."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Lahore green bus conductor fired for mistreating female passenger",
+    "link": "https://arynews.tv/lahore-green-bus-conductor-fired-for-mistreating-female-passenger",
+    "published": "2026-11-14T05:59:00Z",
+    "used_text": "Lahore green bus conductor fired for mistreating female passenger"
+   },
+   {
+    "source": "Dawn",
+    "title": "Conductor punished for pushing woman off bus in Lahore",
+    "link": "https://www.dawn.com/news/2044406/conductor-punished-for-pushing-woman-off-bus-in-lahore",
+    "published": "2026-11-14T04:20:52Z",
+    "used_text": "LAHORE: A private transport company had to sack a conductor who pushed a woman off a bus when she was trying to board the vehicle at a terminal here on Friday, after a video of the episode went viral, grabbing the attention of the Punjab government. Some passersby recorded video of the incident and…"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-lahore-transport-conductor-sacked-over-passenger-incident-866f.html"
+ },
+ {
+  "id": "204792d4eb7fb23c",
+  "region": "local",
+  "category": "news",
+  "title": "Mustafa Kamal Advocates for New Provinces",
+  "summary": "Mustafa Kamal stated that the creation of new administrative provinces is an urgent necessity for Pakistan.",
+  "paragraphs": [
+   "According to ARY News and the Express Tribune, Mustafa Kamal asserted that the creation of new provinces is a vital necessity for the country rather than just a political desire. He reiterated support for establishing new administrative units to improve governance.",
+   "Kamal argued during public remarks that decentralizing administrative structures ensures that public funds and resources are managed more effectively."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "New provinces are a vital necessity for Pakistan: Mustafa Kamal",
+    "link": "https://arynews.tv/new-provinces-are-a-vital-necessity-for-pakistan-mustafa-kamal",
+    "published": "2026-11-14T09:09:27Z",
+    "used_text": "New provinces are a vital necessity for Pakistan: Mustafa Kamal"
+   },
+   {
+    "source": "Express Tribune",
+    "title": "New provinces not anyone's wish but Pakistan's need: Mustafa Kamal",
+    "link": "https://tribune.com.pk/story/2640271/new-provinces-not-anyones-wish-but-pakistans-need-mustafa-kamal",
+    "published": "2026-11-14T02:29:22Z",
+    "used_text": "Health minister reiterates support for new administrative units, argues money for provinces doesn't go to villages"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-mustafa-kamal-advocates-for-new-provinces-2047.html"
+ },
+ {
+  "id": "c0c62155332d05bf",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Posts Massive Total in U19 Asia Cup Final",
+  "summary": "Usman Khan scored a century to help Pakistan set a formidable target against India in the U19 Asia Cup final.",
+  "paragraphs": [
+   "According to Geo News, Samaa, and the Express Tribune, Pakistan won the toss and elected to bat first against India in the Under-19 Asia Cup final. Century-maker Usman Khan led the batting lineup with a powerful performance, helping build a massive total.",
+   "The Express Tribune reported that Usman and Qadir lifted Pakistan to a total of 337-9, though India fought back in the death overs by restricting the team to only 32 runs during the final five overs of the innings."
+  ],
+  "sources": [
+   {
+    "source": "Geo News",
+    "title": "U19 Asia Cup final: Ton-up Usman Khan leads Pakistan to massive total against India",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMngwLVpjNDFmRkhNTlY3OVNNNHBndjFGWk1FaGNGVElmWVl6VnZTWXk0RDlPSnRqSmdFZDZsRllQTlpTckFwcDNOMzQxRFZSRGVkZVpUWnJjUm5PeDJ1WWJDR3RaYzg0T1hXQzNHUkx2azJUZk5aYVByWTFqOVNYaklXelVGblVaWnd0UXJqNzEwa2ZxS1pTbGhDT2ItWWRQcnc?oc=5",
+    "published": "2026-11-14T08:41:38Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "Pakistan vs India U-19 Asia Cup final: Latest update",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOHJjNUxxMzJqczVLQWZTUy1vQldRYXJRY05IOUZWZVZkamc5dXRZcHZ5Z3VGOUNkSHJsbkFsdkJ4S2h0MkFITGNBNnd2MFlxUlhJNXc5VFdvN0t6TWpJVTNDNHNCald1ZG9nTGtXbmFwTER2NFRxcnRFRXY4Rmg4dllfUDM5dzNWRWJ4MzgxNHRBN1U2R3ExOEVBenA2cmhQQy1BMDdadzNVRFY5UGc?oc=5",
+    "published": "2026-11-14T08:13:02Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "Under-19 Asia Cup final: Pakistan win toss against India",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXJ4ZEpiYkNkQlBtMjJXWG5QS0RMUUpMWHNEVWZXZTVva0thaGNqSmNCVm94a09BNER0eGNRMXZ3QkdLU2pyWDhoZk9kZ0pUa2JDaHYxUnViRE9yazJnc0w5VW1yY3VMUWEzNGFlZUhNX3NYUnJzOXdTOXN0cTFJMFU2ak5vVDU4aFRaYkdFMTE?oc=5",
+    "published": "2026-11-14T05:42:36Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Pakistan win toss, elect to bat against India in U19 Asia Cup final",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLU9WdkJDNGtkS29ET2pjTTUySi1HdkhjUkc5VVk3cWNycE1RY3hGRW5RZzJyMDNFUlpWXzBMNWIxZWVqemMtTWd6RE52bXM2OF9XQ05tNzBScVd5U1UxYjJ4SkxPNVRMNGN3Vy04UXlLUjc1aXFRVXR0ckQ4RjY5YjZORUszeVdJMmZzSGhEeW0xR21kUmNHSnNtVjVwS2VQdWx5MURhQdIBVkFVX3lxTE16aWN4djdaY3RaeWFUNVFXNHZMWWNSazNZanBRTERaUTRTNGM2QjlIUHNuWENIWkdFU2ljSk43Wmx2S2twZWQzaWp0N0hvTi1tRnRRNF9R?oc=5",
+    "published": "2026-11-14T05:08:35Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Usman, Qadir lift Pakistan to 337-9 in Asia Cup final against India",
+    "link": "https://tribune.com.pk/story/2640260/pakistan-reach-186-1-against-india-in-under-19-asia-cup-final",
+    "published": "2026-11-14T01:35:26Z",
+    "used_text": "India fight back at death, restrict Green-shirts to only 32 runs in final five overs"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-pakistan-posts-massive-total-in-u19-asia-cup-final-c0c6.html"
+ },
+ {
+  "id": "01ed45bc685f2c91",
+  "region": "local",
+  "category": "sports",
+  "title": "Wasim Akram Questions Cummins' Sandpapergate Claim",
+  "summary": "Wasim Akram voiced skepticism over Pat Cummins' denial regarding the 2018 ball-tampering scandal.",
+  "paragraphs": [
+   "According to Dawn, Pakistan pace legend Wasim Akram publicly questioned Australian captain Pat Cummins' assertion that he was completely unaware of sandpaper being used during the infamous 2018 ball-tampering scandal in South Africa.",
+   "Akram argued that any experienced professional bowler would immediately recognize the distinct difference between natural wear and tear on a cricket ball and deliberate physical tampering."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Wasim Akram questions Cummins’ Sandpapergate denial, says bowlers would spot tampering",
+    "link": "https://www.dawn.com/news/2044478/wasim-akram-questions-cummins-sandpapergate-denial-says-bowlers-would-spot-tampering",
+    "published": "2026-11-14T06:48:46Z",
+    "used_text": "Pakistan pace legend Wasim Akram has questioned Australia captain Pat Cummins’ claim that he was unaware of the use of sandpaper during the 2018 ball-tampering scandal in South Africa, arguing that any experienced bowler would immediately recognise the difference between natural wear and deliberate…"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-wasim-akram-questions-cummins-sandpapergate-claim-01ed.html"
+ },
+ {
+  "id": "e8c4bf5b81539fa5",
+  "region": "international",
+  "category": "news",
+  "title": "US Flights Resume After Nationwide Ground Stop Caused by Data Overload",
+  "summary": "U.S. flights are gradually resuming following a rare and lengthy nationwide ground stop caused by overloaded routers.",
+  "paragraphs": [
+   "According to France 24 and the BBC, the Federal Aviation Administration issued a nationwide ground stop on Friday after routers became overloaded with data. More than 8,200 flights, representing over 31% of scheduled departures in the United States, were canceled during the disruption, which lasted nearly five hours and marked the longest such stoppage since September 11, 2001.",
+   "Transport Secretary Sean Duffy blamed the incident on an incredibly old and outdated air traffic control system, noting that systems were overloaded and that normal operations would take time to resume. Officials emphasized that the stoppage was not the result of a cyberattack or a Microsoft outage, as flights slowly began to get back on track."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
+    "link": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+    "published": "2026-11-14T10:14:09Z",
+    "used_text": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed…"
+   },
+   {
+    "source": "BBC News",
+    "title": "What we know about the ground stop and what to do if you're affected",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T07:42:11Z",
+    "used_text": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+   },
+   {
+    "source": "Euronews",
+    "title": "Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
+    "link": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
+    "published": "2026-11-14T06:56:20Z",
+    "used_text": "US Transport Secretary Sean Duffy blamed the stoppage on what he called an \"incredibly old\" air traffic control system and warned that it would take time for normal operations to resume."
+   },
+   {
+    "source": "France 24",
+    "title": "US flights resume after nationwide ground stop lifted",
+    "link": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+    "published": "2026-11-14T02:35:48Z",
+    "used_text": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and blamed \"old…"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-us-flights-resume-after-nationwide-ground-stop-caused-by-e8c4.html"
+ },
+ {
+  "id": "f9cea218a4f64a00",
+  "region": "international",
+  "category": "news",
+  "title": "Microsoft Services Fully Recover After Global Outage",
+  "summary": "Microsoft confirmed that all its services have completely recovered following a massive global outage.",
+  "paragraphs": [
+   "According to DW and Al Jazeera, the U.S. technology giant Microsoft announced that all services are working again after a major global glitch severely disrupted online communications for businesses and governments for more than 24 hours.",
+   "The company confirmed on Saturday morning that applications including Teams, Outlook, and Copilot had fully recovered, ending the extensive technical disruptions that had affected users worldwide."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "Microsoft says all services working again",
+    "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T09:06:00Z",
+    "used_text": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours."
+   },
+   {
+    "source": "France 24",
+    "title": "Microsoft says all services 'fully recovered' after global outage",
+    "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+    "published": "2026-11-14T06:07:56Z",
+    "used_text": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed…"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Microsoft services begin recovering after global outage",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+    "published": "2026-11-14T00:17:59Z",
+    "used_text": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-microsoft-services-fully-recover-after-global-outage-f9ce.html"
+ },
+ {
+  "id": "5e33b29ad43cd65c",
+  "region": "international",
+  "category": "news",
+  "title": "Trump, Xi, and Putin Plan First Three-Way Summit in China",
+  "summary": "The White House announced that President Trump will meet with leaders Xi Jinping and Vladimir Putin in China.",
+  "paragraphs": [
+   "According to Al Jazeera and DW, U.S. President Donald Trump is scheduled to meet Chinese President Xi Jinping and Russian President Vladimir Putin for a historic three-way summit in Shenzhen next week. The White House stated that the discussions on the sidelines of APEC will focus on topics including the reduction of nuclear weapons and the Iran war.",
+   "A senior U.S. official indicated that no formal agreement is expected from the huddle. Meanwhile, CNBC reported that Beijing has urged Washington to implement a $60 billion tariff-reduction deal ahead of the presidential meeting as a prerequisite for increasing purchases of U.S. farm goods."
+  ],
+  "sources": [
+   {
+    "source": "CNBC",
+    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+    "link": "https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html",
+    "published": "2026-11-14T08:16:44Z",
+    "used_text": "Beijing has repeatedly urged Washington to implement the $60 billion tariff-reduction deal, calling it a prerequisite for increasing purchases of US farm goods."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Trump, Xi and Putin to hold first three-way summit in China",
+    "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+    "published": "2026-11-14T04:55:58Z",
+    "used_text": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week."
+   },
+   {
+    "source": "DW",
+    "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+    "link": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T04:11:00Z",
+    "used_text": "The White House has said President Donald Trump will urge Xi Jinping and Vladimir Putin to discuss cutting nuclear arsenals in Shenzhen next week, though a senior US official expects no agreement."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-trump-xi-and-putin-plan-first-three-way-summit-5e33.html"
+ },
+ {
+  "id": "6030f3516248abdb",
+  "region": "international",
+  "category": "news",
+  "title": "Hungary Anti-Corruption Authorities Seize Millions in Hidden Cash",
+  "summary": "Investigators in Hungary discovered bundles of hidden cash totaling millions during a graft probe.",
+  "paragraphs": [
+   "According to DW and Al Jazeera, Hungarian anti-corruption authorities probing a former government minister discovered around $18 million to nearly $20 million in hidden cash. Investigators found bundles of banknotes concealed inside buildings and buried in forests.",
+   "The cash seizures are part of a broader investigation into alleged bribery and corruption linked to an ex-minister from the Orban era as the new government investigates past actions."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "Hungary: Millions in hidden cash found in Orban graft probe",
+    "link": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T09:19:00Z",
+    "used_text": "Investigators discovered bundles of banknotes buried in forests and concealed in buildings. The money was seized during an investigation into a former minister accused of accepting millions in bribes."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+    "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+    "published": "2026-11-14T09:08:21Z",
+    "used_text": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+    "published": "2026-11-14T08:39:07Z",
+    "used_text": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-hungary-anti-corruption-authorities-seize-millions-in-hidden-cash-6030.html"
+ },
+ {
+  "id": "1539b2144dc8547a",
+  "region": "international",
+  "category": "news",
+  "title": "France Deploys Thousands of Police Ahead of Massive Weekend Protests",
+  "summary": "France is mobilizing 70,000 police officers as multiple protest movements converge in Paris.",
+  "paragraphs": [
+   "According to France 24, French authorities are deploying approximately 70,000 police officers and gendarmes to handle a new wave of anti-government demonstrations. Interior Minister Laurent Nuñez noted that between 50 and 60 marches are anticipated across the country.",
+   "Demonstrators including campaigners, students, and Yellow Vest protesters plan to unite in Paris to voice demands concerning wages, living costs, education, civil liberties, and heavy-handed policing, amid growing frustration from school principals over student blockades and surging violence."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "France's school principals say threats and violence have become unbearable",
+    "link": "https://www.france24.com/en/france-s-school-principals-say-threats-and-violence-have-become-unbearable",
+    "published": "2026-11-14T10:17:21Z",
+    "used_text": "Headteachers gathered across France this Friday, to demonstrate their frustration after nearly two months of student protests that have blockaded high schools. Many of the teachers support the students, but say they feel exhausted and isolated as the violence has surged. They are calling the…"
+   },
+   {
+    "source": "France 24",
+    "title": "France protests for fifth Saturday against living costs and heavy-handed policing",
+    "link": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
+    "published": "2026-11-14T10:15:42Z",
+    "used_text": "Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing together demands on wages, education and civil liberties. But after weeks of demonstrations, union leaders warn that…"
+   },
+   {
+    "source": "France 24",
+    "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
+    "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+    "published": "2026-11-14T07:09:32Z",
+    "used_text": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In Paris, the march will commence at 1pm from Place de la République heading towards Place de la…"
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-france-deploys-thousands-of-police-ahead-of-massive-weekend-1539.html"
+ },
+ {
+  "id": "622656f73ddca1c5",
+  "region": "international",
+  "category": "news",
+  "title": "SpaceX Launches Massive Starship Rocket in Texas Test Flight",
+  "summary": "SpaceX launched its massive Starship rocket in a test flight, experiencing a booster explosion.",
+  "paragraphs": [
+   "According to DW and BBC News, Elon Musk's company SpaceX launched its Starship rocket on a key test flight from its launch site in Starbase, Texas. The mission included an attempt to catch both the Super Heavy booster and the upper stage spacecraft.",
+   "However, the company suffered a setback when the booster exploded over the Gulf of Mexico instead of being successfully caught at the launch site, while the upper stage spacecraft continued onward into orbit."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "SpaceX launches Starship rocket, fails to recover booster",
+    "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T02:24:00Z",
+    "used_text": "SpaceX had planned to catch and reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit."
+   },
+   {
+    "source": "CNBC",
+    "title": "SpaceX launches Starship in key test flight of massive rocket",
+    "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+    "published": "2026-11-14T01:18:51Z",
+    "used_text": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas."
+   },
+   {
+    "source": "BBC News",
+    "title": "Setback for SpaceX Starship rocket's double-catch test",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T00:01:01Z",
+    "used_text": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-spacex-launches-massive-starship-rocket-in-texas-test-flight-6226.html"
+ },
+ {
+  "id": "5541010740e5dc1e",
+  "region": "international",
+  "category": "news",
+  "title": "US Loses Measles-Elimination Status Amid Worst Outbreaks",
+  "summary": "The United States has reportedly lost its measles-elimination status after over two decades.",
+  "paragraphs": [
+   "According to DW, the Pan American Health Organization has stripped the United States of its measles-elimination status after 26 years. The decision comes as the nation grapples with its most severe disease outbreaks in more than three decades.",
+   "The reported change highlights mounting public health challenges in the country regarding vaccine-preventable illnesses and ongoing infection control efforts."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "US loses measles-elimination status after 26 years, WSJ reports",
+    "link": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-14T09:15:00Z",
+    "used_text": "The Pan American Health Organization has reportedly stripped the US of its measles-elimination status after 26 years, as the country battles its worst outbreaks in more than three decades."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-us-loses-measles-elimination-status-amid-worst-outbreaks-5541.html"
+ },
+ {
+  "id": "5a4e4103b1f2e4a1",
+  "region": "international",
+  "category": "news",
+  "title": "Missin River Collision Leaves Passengers Injured in New Orleans",
+  "summary": "A tanker collision with a riverboat on the Mississippi River resulted in dozens of injuries.",
+  "paragraphs": [
+   "According to Al Jazeera and BBC News, a tanker ship collided with a docked riverboat on the Mississippi River in New Orleans, leaving the American Heritage paddleboat partially submerged. All passengers were safely rescued from the scene.",
+   "BBC News reported that 32 people were taken to hospital with non-critical injuries following what officials described as the Mississippi incident, with no individuals left unaccounted for."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Tanker collision leaves riverboat passengers clinging to railings",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+    "published": "2026-11-14T01:37:08Z",
+    "used_text": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans."
+   },
+   {
+    "source": "BBC News",
+    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T23:40:45Z",
+    "used_text": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+    "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+    "published": "2026-11-13T22:47:16Z",
+    "used_text": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-missin-river-collision-leaves-passengers-injured-in-new-orleans-5a4e.html"
+ },
+ {
+  "id": "6d2a7f494bed93b2",
+  "region": "international",
+  "category": "sports",
+  "title": "Sabalenka Exits WTA Finals After Defeat to Svitolina",
+  "summary": "Aryna Sabalenka's tennis season ended after she failed to reach the WTA Finals semifinals.",
+  "paragraphs": [
+   "According to Al Jazeera and BBC News, world number two Aryna Sabalenka suffered a disappointing end to her season after losing to Elina Svitolina at the WTA Finals.",
+   "Svitolina's victory over the former world number one secured her own place in the tournament's knockout stage and dashed Sabalenka's hopes of advancing further in the season-ending event."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
+    "published": "2026-11-14T10:03:12Z",
+    "used_text": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals."
+   },
+   {
+    "source": "BBC News",
+    "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-14T00:51:25Z",
+    "used_text": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-sabalenka-exits-wta-finals-after-defeat-to-svitolina-6d2a.html"
+ },
+ {
+  "id": "6ee7b7aeb5f03d9a",
+  "region": "international",
+  "category": "sports",
+  "title": "Goalkeeper Receives 12-Game Ban Following Fatal Collision",
+  "summary": "Andorra goalkeeper Jesus Owono has been suspended for 12 matches following a fatal on-field incident.",
+  "paragraphs": [
+   "According to Sky News and BBC News, Andorra goalkeeper Jesus Owono was handed a 12-game ban by the Spanish football federation's disciplinary committee following a tragic on-field collision.",
+   "The fatal accident occurred during a Spanish second-tier match between FC Andorra and Tenerife on November 2, resulting in the death of Tenerife striker Jesus de Miguel."
+  ],
+  "sources": [
+   {
+    "source": "Sky News",
+    "title": "Goalkeeper given 12-game ban for fatal collision with Tenerife striker",
+    "link": "https://news.sky.com/story/goalkeeper-jesus-owono-given-12-game-ban-for-fatal-collision-with-tenerife-striker-jesus-de-miguel-13612126",
+    "published": "2026-11-14T08:12:00Z",
+    "used_text": "Andorra goalkeeper Jesus Owono has been suspended for 12 games after an on-field collision that resulted in the death of Tenerife striker Jesus de Miguel."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
+    "published": "2026-11-14T05:59:49Z",
+    "used_text": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2."
+   },
+   {
+    "source": "BBC News",
+    "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-13T22:37:30Z",
+    "used_text": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel."
+   }
+  ],
+  "created": "2026-11-14T10:18:49Z",
+  "url": "a/2026-11-14-goalkeeper-receives-12-game-ban-following-fatal-collision-6ee7.html"
+ },
+ {
   "id": "d502049818961424",
   "region": "local",
   "category": "news",
