@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:59:48Z",
+ "updated": "2026-11-14T02:28:14Z",
  "sources": [
   {
    "source": "BBC News",
@@ -100,7 +100,7 @@
   {
    "source": "92 News",
    "region": "local",
-   "items": 28,
+   "items": 32,
    "via": "google-news"
   },
   {
@@ -118,14 +118,14 @@
   {
    "source": "GNN",
    "region": "local",
-   "items": 19,
+   "items": 18,
    "via": "google-news"
   },
   {
    "source": "PTV News",
    "region": "local",
-   "items": 1,
-   "via": "google-news"
+   "items": 0,
+   "via": "failed"
   },
   {
    "source": "Dawn",
