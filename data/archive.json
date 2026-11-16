@@ -1,5 +1,734 @@
 [
  {
+  "id": "673cc551435c74a7",
+  "region": "local",
+  "category": "news",
+  "title": "Fuel Prices Reduced Across Pakistan",
+  "summary": "The government has cut petrol and diesel prices for November 17.",
+  "paragraphs": [
+   "According to 92 News, the government has reduced diesel and petrol prices effective for November 17. ARY News, Samaa, and the Express Tribune similarly reported that the prices of petrol and high-speed diesel were cut by Rs2 per litre, with the Express Tribune specifying that the new price for petrol is set at Rs328 while high-speed diesel stands at Rs358."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "Govt cuts diesel, petrol prices for Nov 17",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15LVhPSVo3OFdidkhxbVM5b2VhNS03a1VMV1FsZ2YxM3dPRWJ5QVRiVUVjSUNMVTg4N3RXOEI1ZFc2aDFzdE5nYjY4dzhnU2o1QzlzQVI3dG1iMU0zdFB1TGxtYTVfRExFUXFfbzFmTjFTWXVBN2c?oc=5",
+    "published": "2026-11-16T19:39:36Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Govt reduces petrol, diesel prices by Rs2 per litre",
+    "link": "https://www.dawn.com/news/2044962/govt-reduces-petrol-diesel-prices-by-rs2-per-litre",
+    "published": "2026-11-16T18:01:59Z",
+    "used_text": "& · ● ●"
+   },
+   {
+    "source": "ARY News",
+    "title": "Petrol, diesel prices drop again in Pakistan",
+    "link": "https://arynews.tv/petrol-prices-in-pakistan",
+    "published": "2026-11-16T18:00:23Z",
+    "used_text": "Petrol, diesel prices drop again in Pakistan"
+   },
+   {
+    "source": "Samaa",
+    "title": "Petrol, diesel prices cut by Rs2 per litre",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kVU9NcnNCZzgyQi1Gd1RVb3RYLU9YS0ZqZUVfS1BjUnJTb29PdnBIcXUxb3hJQkhST1RDN2RGUV9QQXhUVjlJUEYyd2VvellIUDRNM2lhQ0NFXzVuN1hkdWJxcmtSZDd6ekdQREZFWDFNUHoyMmJhenhtOWZ3UQ?oc=5",
+    "published": "2026-11-16T17:55:59Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Govt cuts petrol, high-speed diesel price by Rs2",
+    "link": "https://tribune.com.pk/story/2640653/govt-cuts-petrol-high-speed-diesel-price-by-rs2",
+    "published": "2026-11-16T12:51:31Z",
+    "used_text": "New petrol price is Rs328 while HSD is Rs358"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-fuel-prices-reduced-across-pakistan-673c.html"
+ },
+ {
+  "id": "9ad0679a80bdb0d5",
+  "region": "local",
+  "category": "news",
+  "title": "Gold Prices Drop in Domestic Market",
+  "summary": "Gold prices in Pakistan decreased following a global price slide.",
+  "paragraphs": [
+   "According to 92 News, the gold price in the country dropped by Rs2,000 per tola. ARY News reported that gold prices fell in Pakistan due to the weight of a strong US dollar on the global market.",
+   "The Express Tribune also noted that gold lost Rs2,000 per tola as a result of a global price slide and upcoming US Federal Reserve rate hikes."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "Gold price drops by Rs2,000 per tola in country",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10My1ZZEhuS1UwU2ZrS1FjSzdUNXRJdXZ1aTJ2NDVMMHpVcVhaWG5tWTBwOElpMG84ZEN0eko0WWRma3loQUZXb1IwZktJVFY4Z1FSc3dsMTluWWZwODVRZnh5S0hOQlZTYXNVdlNJVnlkUzdja2pPYkkxX0w?oc=5",
+    "published": "2026-11-16T19:39:36Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Gold falls as upcoming Fed rate hike weighs",
+    "link": "https://tribune.com.pk/story/2640682/gold-falls-as-upcoming-fed-rate-hike-weighs",
+    "published": "2026-11-16T15:47:55Z",
+    "used_text": "Loses Rs2,000/tola on global price slide; rupee inches up"
+   },
+   {
+    "source": "ARY News",
+    "title": "Gold prices fall in Pakistan as strong US dollar weighs on global market",
+    "link": "https://arynews.tv/gold-prices-fall-in-pakistan-as-strong-us-dollar-weighs-on-global-market",
+    "published": "2026-11-16T12:00:45Z",
+    "used_text": "Gold prices fall in Pakistan as strong US dollar weighs on global market"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-gold-prices-drop-in-domestic-market-9ad0.html"
+ },
+ {
+  "id": "e33aa1726a6cef20",
+  "region": "local",
+  "category": "news",
+  "title": "Prime Minister Approves District-Level SME Facilitation Centres",
+  "summary": "Prime Minister Shehbaz Sharif has approved district-level SME facilitation centres to boost exports.",
+  "paragraphs": [
+   "According to ARY News and Samaa, Prime Minister Shehbaz Sharif approved district-level small and medium-sized enterprise (SME) facilitation centres aimed at boosting the country's exports. ARY News additionally noted that the Finance Minister reviewed progress on related export finance initiatives and the SME Connect Portal."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "PM approves district-level SME facilitation centres to boost exports",
+    "link": "https://arynews.tv/pm-approves-district-level-sme-facilitation-centres-to-boost-exports",
+    "published": "2026-11-16T15:02:19Z",
+    "used_text": "PM approves district-level SME facilitation centres to boost exports"
+   },
+   {
+    "source": "ARY News",
+    "title": "Finance Minister reviews progress on SME Connect Portal and export finance initiatives",
+    "link": "https://arynews.tv/finance-minister-reviews-progress-on-sme-connect-portal-and-export-finance-initiatives",
+    "published": "2026-11-16T12:33:09Z",
+    "used_text": "Finance Minister reviews progress on SME Connect Portal and export finance initiatives"
+   },
+   {
+    "source": "Samaa",
+    "title": "PM Shehbaz approves SME facilitation centres across districts",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNERMWG5QSkRsQjBDbGxfZlMtRXJwT2JQTzBiY1pEdEprb3U2cEc2cXZFdW9IZHB1VXhTQ3R6OFRHcmJ5cno4cmZYY040UXJ5dWZHSk84WVU2RU1jeWdHNEZKeTluX3RKS0daWGdpTTRmSDhrTXR5YkNPZjF6VnlBYTJQdmRpeEJyakU3X0RqRlh5Tlo4dDJhag?oc=5",
+    "published": "2026-11-16T12:20:05Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-prime-minister-approves-district-level-sme-facilitation-centres-e33a.html"
+ },
+ {
+  "id": "36cfab1a9fb04958",
+  "region": "local",
+  "category": "news",
+  "title": "State Bank of Pakistan Forecasts Inflation and Growth",
+  "summary": "The State Bank of Pakistan released a yearly report projecting an easing of inflation in 2027.",
+  "paragraphs": [
+   "According to Samaa and Dawn, the State Bank of Pakistan (SBP) stated that the economy is showing improvement and that consumer price inflation will ease toward the medium-term target range of 5 to 7 percent during the 2027 financial year.",
+   "Dawn further reported that the central bank's yearly report projects real GDP growth to remain within the range of 3.5 to 4.5 percent."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "Economy shows improvement, inflation to decline in 2027: SBP",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2tBVG9FQzhpU3QyeWhKbTFNSlNyTnFjaG10eG9wRlhwOUREMWluOEctRGhLU2tjN2l2N05oV2RycHVjVjNfVmR3V3NxYkxVZU5HT2xRY2pkM3lacDJZSXpUY1RlMERobV9CQ29TMVFNQ1MwbUtSM09La08xeUFITmRTcmJjamdTRG1GU1J0Z1hfc1Nz?oc=5",
+    "published": "2026-11-16T12:43:59Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "SBP says inflation to ease to 5-7pc target range during FY2027",
+    "link": "https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027",
+    "published": "2026-11-16T12:25:02Z",
+    "used_text": "The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027. Real GDP growth would remain in the range of 3.5-4.5pc, the bank said in a yearly report, which…"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-state-bank-of-pakistan-forecasts-inflation-and-growth-36cf.html"
+ },
+ {
+  "id": "6f96c828ab61e943",
+  "region": "local",
+  "category": "news",
+  "title": "Ishaq Dar Closes ECO Meeting and Announces Makkah Alliance Summit",
+  "summary": "Deputy Prime Minister Ishaq Dar concluded the ECO meeting in Islamabad and announced upcoming diplomatic events.",
+  "paragraphs": [
+   "According to Dawn and Samaa, Deputy Prime Minister and Foreign Minister Ishaq Dar spoke at the 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers in Islamabad, calling for nations to translate collective commitments into concrete action and stressing the need for joint action to address shared challenges.",
+   "In addition, Dawn reported that Dar announced Pakistan will host the next meeting of the Makkah Defence Alliance's apex committee later this month."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "At ECO moot, Dar calls for translating 'collective commitments into concrete action'",
+    "link": "https://www.dawn.com/news/2044898/at-eco-moot-dar-calls-for-translating-collective-commitments-into-concrete-action",
+    "published": "2026-11-16T19:04:30Z",
+    "used_text": "Deputy Prime Minister and Foreign Minister Ishaq Dar closed out the 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers (COM) in Islamabad on Monday with a call for countries to translate their commitments into action. Pakistan, which holds the ECO chairmanship for…"
+   },
+   {
+    "source": "Dawn",
+    "title": "Dar says Pakistan to host next Makkah alliance summit later this month",
+    "link": "https://www.dawn.com/news/2044957/dar-says-pakistan-to-host-next-makkah-alliance-summit-later-this-month",
+    "published": "2026-11-16T16:18:15Z",
+    "used_text": "Pakistan will host the next meeting of the Makkah Defence Alliance’s apex committee, likely later this month, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Monday. He made the remarks while answering a query during a press briefing regarding a ministerial meeting of the Economic…"
+   },
+   {
+    "source": "Samaa",
+    "title": "ECO members need joint action to address shared challenges, says Dar",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1hydDhDOU1QaWlBV0drMVJVUWd2bnRlRzNYZzQ0N0NIUWJjZXhQLVZzSWY1WmhBeGdvc2F0TmY4NlA5Z1p5Z0JoQlRRTEpLa2paOEJsb0pJdXh6Q0xMdE9Qcld1dDFLZTMxczR1dmJHNmd2a1h3bGxtZndybTNSSGN5TmkzX3NNemxEWTV5Zzh2NTdSLTMxZ2Yzd241bGZm?oc=5",
+    "published": "2026-11-16T14:28:45Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "PM Shehbaz vows to strengthen regional cooperation through ECO",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2U1NERpOUd6UUNZU2k5Tnk0T2V4RWN4dklKdkJiY29tMmNSamtPX29DY1BlQ3VndzNmVEFWY2Nad1FmeFEzNlVaamx6Z2tZMGs3UHpJUjdEZ0FnNHp2dWdSTmxIUDB4LWc0bGcySmJHTExhZFIyRVBXUG56cFp4amtkajRKblViVVV1X1dIeGUxQktyLWNuRUh3?oc=5",
+    "published": "2026-11-16T13:35:45Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-ishaq-dar-closes-eco-meeting-and-announces-makkah-alliance-6f96.html"
+ },
+ {
+  "id": "8d8baae02c845fca",
+  "region": "local",
+  "category": "news",
+  "title": "Imran Khan and Bushra Bibi Plead for Medical Treatment in Letters and Petitions",
+  "summary": "Imran Khan appealed for medical treatment in an open letter, while Bushra Bibi moved the IHC regarding prison conditions.",
+  "paragraphs": [
+   "According to Dawn, jailed former prime minister Imran Khan wrote an open letter to top judges, including the chief justices of the Federal Constitutional Court, Supreme Court, and Islamabad High Court, pleading for medical treatment for himself and his wife, Bushra Bibi, and stating he might not return alive.",
+   "ARY News reported that Bushra Bibi separately moved the Islamabad High Court (IHC) to request a hospital transfer, claiming that snakes were found in her prison cell."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Bushra Bibi moves IHC for hospital transfer, claims snakes found in prison cell",
+    "link": "https://arynews.tv/bushra-bibi-moves-ihc-for-hospital-transfer-claims-snakes-found-in-prison-cell",
+    "published": "2026-11-16T15:25:59Z",
+    "used_text": "Bushra Bibi moves IHC for hospital transfer, claims snakes found in prison cell"
+   },
+   {
+    "source": "Dawn",
+    "title": "'I may not return alive': In open letter to top judges, Imran pleads for medical treatment for him and Bushra Bibi",
+    "link": "https://www.dawn.com/news/2044922/i-may-not-return-alive-in-open-letter-to-top-judges-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+    "published": "2026-11-16T14:15:48Z",
+    "used_text": "ISLAMABAD: Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and the Islamabad High Court (IHC). The…"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-imran-khan-and-bushra-bibi-plead-for-medical-treatment-8d8b.html"
+ },
+ {
+  "id": "5d9ce4687e531e45",
+  "region": "local",
+  "category": "news",
+  "title": "IHC Issues Directives Regarding Bari Imam House Case",
+  "summary": "The Islamabad High Court disposed of a petition concerning the sealing of Bari Imam House.",
+  "paragraphs": [
+   "According to Dawn, the Islamabad High Court (IHC) disposed of a petition challenging the sealing of the Bari Imam House in Nurpur Shahan, directing the petitioner to approach the Capital Development Authority (CDA) with documented proof of ownership.",
+   "The Express Tribune reported that the court directed the caretaker to prove land ownership within five days, warning of potential CDA action if the documents are not furnished."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "IHC directs petitioner to prove ownership of Bari Imam House to CDA",
+    "link": "https://www.dawn.com/news/2044945/ihc-directs-petitioner-to-prove-ownership-of-bari-imam-house-to-cda",
+    "published": "2026-11-16T13:48:33Z",
+    "used_text": "ISLAMABAD: The Islamabad High Court (IHC) on Monday disposed of a writ petition challenging the sealing of Bari Imam House in Nurpur Shahan, directing the petitioner to approach the Capital Development Authority (CDA) with documented proof of ownership, while leaving the authority free to proceed…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Bari Imam house case: IHC orders applicant to prove land ownership",
+    "link": "https://arynews.tv/bari-imam-house-case-ihc-orders-applicant-to-prove-land-ownership",
+    "published": "2026-11-16T12:49:03Z",
+    "used_text": "Bari Imam house case: IHC orders applicant to prove land ownership"
+   },
+   {
+    "source": "Express Tribune",
+    "title": "IHC directs Bari Imam House caretaker to prove land ownership in five days",
+    "link": "https://tribune.com.pk/story/2640650/ihc-directs-bari-imam-house-caretaker-to-prove-land-ownership-in-five-days",
+    "published": "2026-11-16T12:10:11Z",
+    "used_text": "Warns of CDA action if he fails to furnish documents"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-ihc-issues-directives-regarding-bari-imam-house-case-5d9c.html"
+ },
+ {
+  "id": "2051bf2afd9c7236",
+  "region": "local",
+  "category": "news",
+  "title": "Malana Nazar-ur-Rehman Passes Away at 97",
+  "summary": "Maulana Nazar-ur-Rehman, the head of Tablighi Jamaat, has passed away.",
+  "paragraphs": [
+   "According to 92 News, funeral prayers for Maulana Nazar-ur-Rehman were offered. ARY News reported that Maulana Nazar-ur-Rehman, who served as the head of Tablighi Jamaat, passed away at the age of 97."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "Maulana Nazar-ur-Rehman’s funeral prayers offered",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FbVVhdWR0Wl9OYjJQZVZlcHZ5Rmx6MzRnOUhxQ0c2U3VCejVNUjI5STh3YWg4LUhrX28yemhYQUhTdVdvci1ETTMzU2Z2aEMtNmpPc3VhendOc29tWUZRX0o3STVqLV9hWHdQSXQyNF9QSG5jNE5zdHlnblVVNGs?oc=5",
+    "published": "2026-11-16T19:39:36Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Maulana Nazar-ur-Rehman, head of Tablighi Jamaat, passes away at 97",
+    "link": "https://arynews.tv/maulana-nazar-ur-rehman-head-of-tablighi-jamaat-passes-away-at-97",
+    "published": "2026-11-16T13:28:07Z",
+    "used_text": "Maulana Nazar-ur-Rehman, head of Tablighi Jamaat, passes away at 97"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-malana-nazar-ur-rehman-passes-away-at-97-2051.html"
+ },
+ {
+  "id": "c81fd6054cd37789",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Cricket Coach and Players Look Forward to SAFF Final and Second Test",
+  "summary": "Pakistan's sports teams prepare for upcoming high-stakes fixtures.",
+  "paragraphs": [
+   "According to Dawn, Pakistan football head coach Nolberto Solano stated ahead of the SAFF Championship final against India that his side knows how to hurt their arch-rivals and must focus on their own strengths.",
+   "In cricket, Dawn reported that Pakistan bowling coach Shaun Tait and Sri Lankan captain Kusal Mendis both urged their respective teams to push hard for a result in the second and final Test match in Rawalpindi."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "We know how to hurt India, says Pakistan coach Solano ahead of SAFF Championship final",
+    "link": "https://www.dawn.com/news/2044966/we-know-how-to-hurt-india-says-pakistan-coach-solano-ahead-of-saff-championship-final",
+    "published": "2026-11-16T17:30:11Z",
+    "used_text": "Pakistan head coach Nolberto Solano believes his side has what it takes to trouble India in the SAFF Championship final , insisting that his players must focus on their own strengths rather than become preoccupied with their opponents as the two arch-rivals prepare for a historic showdown on…"
+   },
+   {
+    "source": "Dawn",
+    "title": "Shaun Tait, Kusal Mendis want extra push for Pakistan-Sri Lanka series result",
+    "link": "https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result",
+    "published": "2026-11-16T14:28:40Z",
+    "used_text": "Sri Lankan skipper Kusal Mendis and Pakistan bowling coach Shaun Tait urged their teams to push hard for a result in the second and final Test starting on Tuesday in Rawalpindi. A combination of bad weather and less penetrative bowling on a seemingly grassy pitch left the first Test without a…"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-pakistan-cricket-coach-and-players-look-forward-to-saff-c81f.html"
+ },
+ {
+  "id": "396276760536f231",
+  "region": "local",
+  "category": "sports",
+  "title": "Haris Rauf Claims Stunning Hat-Trick in Quaid-e-Azam Trophy",
+  "summary": "Haris Rauf made headlines with a hat-trick in domestic cricket.",
+  "paragraphs": [
+   "According to ARY News, fast bowler Haris Rauf claimed a stunning hat-trick while competing in the Quaid-e-Azam Trophy."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Haris Rauf claims stunning hat trick in Quaid-e-Azam Trophy",
+    "link": "https://arynews.tv/haris-rauf-claims-stunning-hat-trick-in-quaid-e-azam-trophy",
+    "published": "2026-11-16T19:57:21Z",
+    "used_text": "Haris Rauf claims stunning hat trick in Quaid-e-Azam Trophy"
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-haris-rauf-claims-stunning-hat-trick-in-quaid-e-3962.html"
+ },
+ {
+  "id": "b4345516f1137adf",
+  "region": "international",
+  "category": "news",
+  "title": "Ukraine Strikes Key Crimea Bridge With Drones",
+  "summary": "Ukraine carried out a major drone attack targeting the Crimea bridge.",
+  "paragraphs": [
+   "According to France 24 and Fox News, Ukraine launched a drone attack hitting the Crimea bridge, which was described by Russian officials as the largest drone assault of the conflict so far.",
+   "Gulliver Cragg reported for France 24 from Kyiv that the strike was intended to send a message to Russia regarding attacked bridges. Fox News noted that the blast set industrial facilities ablaze."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Ukraine hits key Crimea bridge with drones",
+    "link": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+    "published": "2026-11-16T23:13:06Z",
+    "used_text": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv."
+   },
+   {
+    "source": "Fox News",
+    "title": "Ukraine hits Putin's prized bridge in record drone blitz as Kremlin tells lawmakers to prepare for 'victory'",
+    "link": "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
+    "published": "2026-11-16T18:15:50Z",
+    "used_text": "Ukraine struck Vladimir Putin's prized Crimea bridge in what Russia called the war's largest drone attack, setting industrial facilities ablaze."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-ukraine-strikes-key-crimea-bridge-with-drones-b434.html"
+ },
+ {
+  "id": "0614e4880cb14533",
+  "region": "international",
+  "category": "news",
+  "title": "United Airlines Resolves Widespread System Outage",
+  "summary": "United Airlines experienced a tech outage that delayed flights before resolving the issue.",
+  "paragraphs": [
+   "According to DW and CNBC, United Airlines suffered a widespread technical outage that resulted in hundreds of delayed departing flights.",
+   "CNBC reported that the airline successfully resolved the system issue, confirming that flights in progress were unaffected and that there was no indication of a cyberattack."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "United Airlines reports widespread tech outage affecting departures",
+    "link": "https://www.dw.com/en/united-airlines-reports-widespread-tech-outage-affecting-departures/a-79964387?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-16T23:13:00Z",
+    "used_text": "Hundreds of departing flights were delayed. The issue comes just days after an air traffic control outage caused major disruption to US airlines."
+   },
+   {
+    "source": "CNBC",
+    "title": "United Airlines resolves system outage that affected departing flights",
+    "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+    "published": "2026-11-16T23:08:01Z",
+    "used_text": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-united-airlines-resolves-widespread-system-outage-0614.html"
+ },
+ {
+  "id": "a77af3392a891e2e",
+  "region": "international",
+  "category": "news",
+  "title": "Five EU Countries Announce Rwanda Migration Deal",
+  "summary": "Five European nations plan to send rejected asylum seekers to a deportation hub in Rwanda.",
+  "paragraphs": [
+   "According to France 24 and Euronews, five European nations—including Germany, Denmark, Austria, Greece, and the Netherlands—unveiled a partnership to establish a migrant deportation hub in Rwanda.",
+   "Al Jazeera and Euronews reported that the plan aims to handle rejected asylum seekers by 2027, despite facing joint opposition and warnings from numerous aid and rights groups."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Rwanda to host hub for rejected EU migrants",
+    "link": "https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants",
+    "published": "2026-11-16T21:21:14Z",
+    "used_text": "In tonight's edition, five European countries are negotiating a deal to deport rejected asylum seekers to Rwanda. Also, the Democratic Republic of Congo and Rwanda's political animosity spills over at the Francophonie Summit in Cambodia. And in Tunisia, young women are increasingly turning towards…"
+   },
+   {
+    "source": "Euronews",
+    "title": "Europe Tonight: MEPs debate Rwanda deportation scheme announced by five EU countries",
+    "link": "https://www.euronews.com/2026/11/16/europe-tonight-meps-debate-rwanda-deportation-scheme-announced-by-five-eu-countries",
+    "published": "2026-11-16T21:05:54Z",
+    "used_text": "On Euronews' first edition of Europe Tonight, presenter Mared Gwyn Jones led a debate on Europe's latest migration crackdown, after five EU countries announced a partnership with Rwanda to establish deportation hubs for irregular migrants."
+   },
+   {
+    "source": "France 24",
+    "title": "EU nations unveil Rwanda deal for migrant return hub",
+    "link": "https://www.france24.com/en/eu-nations-unveil-rwanda-deal-for-migrant-return-hub",
+    "published": "2026-11-16T20:01:34Z",
+    "used_text": "Five EU countries including Germany and Denmark on Monday unveiled a deal to establish a migrant deportation centre in Rwanda -- the first such facility outside the bloc. The group, also comprising Austria, Greece and the Netherlands, has been gunning to open a \"return-hub\" despite rights groups'…"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+    "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+    "published": "2026-11-16T19:26:40Z",
+    "used_text": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan."
+   },
+   {
+    "source": "Euronews",
+    "title": "Europe Tonight: Five EU states announce Rwanda deportation hubs as EU warns Russia is ‘weaponising winter’",
+    "link": "https://www.euronews.com/2026/11/16/europe-tonight-five-eu-states-announce-rwanda-deportation-hubs-as-eu-warns-russia-is-weapo",
+    "published": "2026-11-16T17:02:17Z",
+    "used_text": "Five EU nations announce Rwanda deportation hubs by mid-2027. Plus, EU aid chief Hadja Lahbib warns Russia is weaponising winter in Ukraine, Lithuania’s FM Kęstutis Budrys opposes Moscow talks before a ceasefire, and Robert Pattinson is revealed as the next James Bond."
+   },
+   {
+    "source": "BBC News",
+    "title": "Five EU countries announce migrant deportation centre in Rwanda",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-16T16:27:24Z",
+    "used_text": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
+   },
+   {
+    "source": "Euronews",
+    "title": "Five EU countries unveil Rwanda deportation plan in migration crackdown",
+    "link": "https://www.euronews.com/2026/11/16/five-eu-countries-unveil-rwanda-deportation-plan-in-migration-crackdown",
+    "published": "2026-11-16T15:51:29Z",
+    "used_text": "Denmark, Austria, Germany, the Netherlands and Greece aim to begin deporting rejected asylum seekers to Rwanda in 2027, despite concerns over human rights and potential legal challenges."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-five-eu-countries-announce-rwanda-migration-deal-a77a.html"
+ },
+ {
+  "id": "57aad20cb8bea43c",
+  "region": "international",
+  "category": "news",
+  "title": "California Files Lawsuit Against OpenAI Over Safety",
+  "summary": "California sued OpenAI over safety safeguards following cyberattacks.",
+  "paragraphs": [
+   "According to Al Jazeera and France 24, the US state of California has filed a lawsuit against OpenAI, alleging the company failed to implement proper safeguards and knowingly tested advanced AI models dangerously.",
+   "CNBC and Al Jazeera noted that Attorney General Rob Bonta pointed to incidents involving unauthorized access to Hugging Face systems as predictable outcomes of rapid growth pressures."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+    "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+    "published": "2026-11-16T21:35:51Z",
+    "used_text": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth."
+   },
+   {
+    "source": "France 24",
+    "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+    "link": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
+    "published": "2026-11-16T21:27:15Z",
+    "used_text": "The US state of California has filed a lawsuit against OpenAI over the \"Hugging Face\" and other cyberattacks, accusing the ChatGPT maker of knowingly testing dangerous advanced AI models without adequate safeguard. Meanwhile, the US Commerce Department has tightened rules over the export of US…"
+   },
+   {
+    "source": "CNBC",
+    "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+    "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+    "published": "2026-11-16T20:24:57Z",
+    "used_text": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-california-files-lawsuit-against-openai-over-safety-57aa.html"
+ },
+ {
+  "id": "983bcbeb574e516d",
+  "region": "international",
+  "category": "news",
+  "title": "Robert Pattinson Named as the New James Bond",
+  "summary": "British actor Robert Pattinson has been cast as the seventh 007.",
+  "paragraphs": [
+   "According to Al Jazeera, Euronews, and France 24, British actor Robert Pattinson has officially been chosen as the next James Bond, succeeding Daniel Craig in the long-running film franchise.",
+   "BBC News and France 24 reported that the official announcement was made by Amazon MGM Studios, confirming months of speculation surrounding the casting."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "British actor Robert Pattinson named as new James Bond",
+    "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
+    "published": "2026-11-16T18:13:14Z",
+    "used_text": "The actor called the studio's decision a 'dream come true'."
+   },
+   {
+    "source": "CNBC",
+    "title": "Robert Pattinson cast as next James Bond",
+    "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+    "published": "2026-11-16T17:25:51Z",
+    "used_text": "Pattinson has been in major films this year including Christopher Nolan's \"The Odyssey\" and will soon appear in \"Dune: Part Three.\""
+   },
+   {
+    "source": "BBC News",
+    "title": "When will we see Robert Pattinson as Bond in cinemas?",
+    "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-16T17:18:54Z",
+    "used_text": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007."
+   },
+   {
+    "source": "Euronews",
+    "title": "Europe Tonight: Five EU states announce Rwanda deportation hubs as EU warns Russia is ‘weaponising winter’",
+    "link": "https://www.euronews.com/2026/11/16/europe-tonight-five-eu-states-announce-rwanda-deportation-hubs-as-eu-warns-russia-is-weapo",
+    "published": "2026-11-16T17:02:17Z",
+    "used_text": "Five EU nations announce Rwanda deportation hubs by mid-2027. Plus, EU aid chief Hadja Lahbib warns Russia is weaponising winter in Ukraine, Lithuania’s FM Kęstutis Budrys opposes Moscow talks before a ceasefire, and Robert Pattinson is revealed as the next James Bond."
+   },
+   {
+    "source": "France 24",
+    "title": "Robert Pattinson: British actor will be the next James Bond",
+    "link": "https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
+    "published": "2026-11-16T16:39:36Z",
+    "used_text": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset."
+   },
+   {
+    "source": "France 24",
+    "title": "Robert Pattinson named as new James Bond",
+    "link": "https://www.france24.com/en/video/20261116-robert-pattinson-named-as-new-james-bond",
+    "published": "2026-11-16T16:22:25Z",
+    "used_text": "British actor ​Robert Pattinson will be the next James Bond, Amazon MGM Studios announced on Monday, ​taking on the role after Daniel Craig's departure from the long-running spy series."
+   },
+   {
+    "source": "France 24",
+    "title": "Robert Pattinson named as new James Bond",
+    "link": "https://www.france24.com/en/culture/20261116-robert-pattinson-named-as-new-james-bond",
+    "published": "2026-11-16T15:43:18Z",
+    "used_text": "British actor Robert Pattinson, star of three mega-franchises, \"The Batman\", \"Harry Potter\" and \"Twilight\", has been named as the seventh 007. The announcement ends years of speculation about who would inherit the beloved role from Daniel Craig and comes five years after the last Bond release, \"No…"
+   },
+   {
+    "source": "DW",
+    "title": "British actor Robert Pattinson confirmed as new James Bond",
+    "link": "https://www.dw.com/en/british-actor-robert-pattinson-confirmed-as-new-james-bond/a-79961789?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-16T15:41:00Z",
+    "used_text": "James Bond 007 ranks among the longest-running and highest-grossing movie franchises in Hollywood's ​history."
+   },
+   {
+    "source": "Euronews",
+    "title": "Meet the new James Bond: It's Pattinson, Robert Pattinson",
+    "link": "https://www.euronews.com/2026/11/16/meet-the-new-james-bond-its-pattinson-robert-pattinson",
+    "published": "2026-11-16T15:20:56Z",
+    "used_text": "Daniel Craig’s successor has been confirmed after a long casting process, making Pattinson the seventh actor to play the role of 007."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-robert-pattinson-named-as-the-new-james-bond-983b.html"
+ },
+ {
+  "id": "4767edfc1653aa16",
+  "region": "international",
+  "category": "news",
+  "title": "Pope Leo XIV Concludes South American Tour",
+  "summary": "Pope Leo XIV finished his South American tour after recovering from surgery.",
+  "paragraphs": [
+   "According to Euronews and France 24, Pope Leo XIV concluded his 12-day tour spanning Uruguay, Argentina, and Peru, shortly after undergoing lung cancer surgery in Rome.",
+   "Euronews and Fox News reported that during a farewell Mass in Lima, Peru, the pontiff was struck near the eye by a flying rosary, though he remained uninjured and continued his schedule."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Pope Leo XIV struck in eye by rosary during tour of South America",
+    "link": "https://www.euronews.com/2026/11/16/pope-leo-xiv-struck-in-eye-by-rosary-during-tour-of-south-america",
+    "published": "2026-11-16T21:02:23Z",
+    "used_text": "The pontiff was able to continue with his schedule and appeared to be uninjured. Leo's tour of South America has also seen him visit Uruguay and Argentina and came just weeks after he underwent lung cancer surgery in Rome."
+   },
+   {
+    "source": "France 24",
+    "title": "Pope concludes South America homecoming, reassures faithful after cancer scare",
+    "link": "https://www.france24.com/en/americas/20261116-pope-concludes-south-america-homecoming-reassures-faithful-after-cancer-scare",
+    "published": "2026-11-16T20:50:05Z",
+    "used_text": "Pope Leo XIV finished Monday his 12-day tour of Uruguay, Argentina and Peru reiterating his advocacy for social justice, environmental protection and the importance of community. Just a month after undergoing lung cancer surgery, the 71-year-old pontiff drew millions of faithful across South…"
+   },
+   {
+    "source": "Fox News",
+    "title": "Pope Leo XIV hit in the face by flying rosary during farewell Mass in Peru, video shows",
+    "link": "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows",
+    "published": "2026-11-16T20:33:32Z",
+    "used_text": "Pope Leo XIV was struck near the eye by a rosary tossed at his popemobile in Lima, Peru, video shows, but the pontiff continued the farewell Mass."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-pope-leo-xiv-concludes-south-american-tour-4767.html"
+ },
+ {
+  "id": "f282e45d79ff9651",
+  "region": "international",
+  "category": "news",
+  "title": "US Major Banks Face Online Outages",
+  "summary": "Customers across major US banks reported online banking and Zelle payment issues.",
+  "paragraphs": [
+   "According to France 24 and Al Jazeera, American users experienced widespread outages affecting online portals and mobile apps for institutions including JPMorgan Chase, Bank of America, and Wells Fargo.",
+   "CNBC reported from JPMorgan Chase that the issue stemmed from a temporary software bug rather than malicious actors, with no indication that multiple banks were simultaneously impacted by the same bug."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Chase outage disrupts online banking and Zelle payments in United States",
+    "link": "https://www.france24.com/en/americas/20261116-chase-outage-disrupts-online-banking-and-zelle-payments-in-united-states-us-software",
+    "published": "2026-11-16T22:40:51Z",
+    "used_text": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages were Bank of America, JPMorgan Chase and the popular money…"
+   },
+   {
+    "source": "CNBC",
+    "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "published": "2026-11-16T22:14:47Z",
+    "used_text": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Thousands report difficulties accessing accounts online at major US banks",
+    "link": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+    "published": "2026-11-16T19:18:10Z",
+    "used_text": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-us-major-banks-face-online-outages-f282.html"
+ },
+ {
+  "id": "d7debd073e1ff88e",
+  "region": "international",
+  "category": "news",
+  "title": "Prague Protests Target Czech Media Funding Changes",
+  "summary": "Thousands of Czechs protested against government plans to alter media funding.",
+  "paragraphs": [
+   "According to France 24 and Euronews, tens of thousands of demonstrators gathered in Prague to protest government proposals to replace public broadcasting licence fees with direct state funding.",
+   "France 24 reported that critics and organizers warned the changes would harm the independence and operational viability of public media organizations."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Czech mass protests: Media is the first casualty 'when you want to attack democracy'",
+    "link": "https://www.france24.com/en/czech-mass-protests-media-is-the-first-casualty-when-you-want-to-attack-democracy",
+    "published": "2026-11-16T18:33:00Z",
+    "used_text": "As hundreds of thousands of people gather in Prague to protest the Czech government's proposal to replace public broadcasting licence fees with direct state funding, Delano D'Souza is pleased to welcome Bára Stárek, Executive Director of Díky, že můžem. Stárek warns that the proposed changes offer…"
+   },
+   {
+    "source": "France 24",
+    "title": "Prague: Thousands of Czechs rally against government media funding plan",
+    "link": "https://www.france24.com/en/video/20261116-prague-thousands-of-czechs-rally-against-government-media-funding-plan",
+    "published": "2026-11-16T15:49:29Z",
+    "used_text": "Tens of thousands of Czechs rallied in Prague on Sunday, November 15, against a government plan to cut a public media fee and move funding to the state budget, a policy critics say would dent the broadcasters' independence and viability."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-prague-protests-target-czech-media-funding-changes-d7de.html"
+ },
+ {
+  "id": "04d55199245a28fd",
+  "region": "international",
+  "category": "sports",
+  "title": "UEFA Backs Philippe Diallo to Challenge FIFA Presidency",
+  "summary": "UEFA has given its unanimous backing to Philippe Diallo to run against Gianni Infantino.",
+  "paragraphs": [
+   "According to France 24 and Euronews, European football's governing body UEFA announced its unanimous backing for French Football Federation chief Philippe Diallo to run in the upcoming FIFA presidential election.",
+   "DW and Al Jazeera noted that Diallo will challenge incumbent Gianni Infantino, joining critics who have voiced strong opposition to the current FIFA leadership."
+  ],
+  "sources": [
+   {
+    "source": "Fox News",
+    "title": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
+    "link": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts",
+    "published": "2026-11-16T22:44:05Z",
+    "used_text": "President Emmanuel Macron's France reportedly runs covert \"Volia\" mission training Ukrainian troops as Zelenskyy holds fresh peace talks with the US."
+   },
+   {
+    "source": "France 24",
+    "title": "Chase outage disrupts online banking and Zelle payments in United States",
+    "link": "https://www.france24.com/en/americas/20261116-chase-outage-disrupts-online-banking-and-zelle-payments-in-united-states-us-software",
+    "published": "2026-11-16T22:40:51Z",
+    "used_text": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages were Bank of America, JPMorgan Chase and the popular money…"
+   },
+   {
+    "source": "France 24",
+    "title": "La Francophonie 'waning in global influence': Linguistic institutions becoming 'less important'",
+    "link": "https://www.france24.com/en/tv-shows/spotlight/20261116-la-francophonie-waning-in-global-influence-linguistic-institutions-becoming-less-important",
+    "published": "2026-11-16T22:29:45Z",
+    "used_text": "François Picard is pleased to welcome Phil Clark, professor of international politics at SOAS University of London. The diplomatic crisis between Rwanda and the Democratic Republic of Congo spilling out at the Francophonie summit in Phnom Penh for all to see has exposed an unexpected shift in their…"
+   },
+   {
+    "source": "BBC News",
+    "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-16T21:40:07Z",
+    "used_text": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+    "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+    "published": "2026-11-16T21:35:51Z",
+    "used_text": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+    "published": "2026-11-16T21:16:02Z",
+    "used_text": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG."
+   }
+  ],
+  "created": "2026-11-16T23:44:48Z",
+  "url": "a/2026-11-16-uefa-backs-philippe-diallo-to-challenge-fifa-presidency-04d5.html"
+ },
+ {
   "id": "0b82c5496b561287",
   "region": "local",
   "category": "news",
