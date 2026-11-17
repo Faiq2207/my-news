@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:31:22Z",
+ "updated": "2026-11-17T03:56:23Z",
  "sources": [
   {
    "source": "BBC News",
@@ -58,14 +58,14 @@
   {
    "source": "NHK World",
    "region": "international",
-   "items": 0,
-   "via": "failed"
+   "items": 28,
+   "via": "google-news"
   },
   {
    "source": "Geo News",
    "region": "local",
-   "items": 0,
-   "via": "failed"
+   "items": 40,
+   "via": "google-news"
   },
   {
    "source": "ARY News",
@@ -82,8 +82,8 @@
   {
    "source": "Samaa",
    "region": "local",
-   "items": 0,
-   "via": "failed"
+   "items": 40,
+   "via": "google-news"
   },
   {
    "source": "Express Tribune",
@@ -100,8 +100,8 @@
   {
    "source": "92 News",
    "region": "local",
-   "items": 0,
-   "via": "failed"
+   "items": 23,
+   "via": "google-news"
   },
   {
    "source": "Hum News",
@@ -112,25 +112,25 @@
   {
    "source": "Aaj News",
    "region": "local",
-   "items": 0,
-   "via": "failed"
+   "items": 40,
+   "via": "google-news"
   },
   {
    "source": "GNN",
    "region": "local",
-   "items": 10,
+   "items": 6,
    "via": "google-news"
   },
   {
    "source": "PTV News",
    "region": "local",
-   "items": 0,
-   "via": "failed"
+   "items": 1,
+   "via": "google-news"
   },
   {
    "source": "Dawn",
    "region": "local",
-   "items": 58,
+   "items": 56,
    "via": "rss"
   }
  ]
