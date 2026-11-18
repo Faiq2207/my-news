@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-17T22:26:41Z",
+ "updated": "2026-11-18T04:26:26Z",
  "sources": [
   {
    "source": "BBC News",
    "region": "international",
-   "items": 67,
+   "items": 68,
    "via": "rss"
   },
   {
@@ -28,7 +28,7 @@
   {
    "source": "Sky News",
    "region": "international",
-   "items": 4,
+   "items": 5,
    "via": "rss"
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "NHK World",
    "region": "international",
-   "items": 37,
+   "items": 26,
    "via": "google-news"
   },
   {
@@ -106,8 +106,8 @@
   {
    "source": "Hum News",
    "region": "local",
-   "items": 1,
-   "via": "google-news"
+   "items": 0,
+   "via": "failed"
   },
   {
    "source": "Aaj News",
@@ -118,7 +118,7 @@
   {
    "source": "GNN",
    "region": "local",
-   "items": 5,
+   "items": 7,
    "via": "google-news"
   },
   {
@@ -130,8 +130,8 @@
   {
    "source": "Dawn",
    "region": "local",
-   "items": 40,
-   "via": "google-news"
+   "items": 59,
+   "via": "rss"
   }
  ]
 }
