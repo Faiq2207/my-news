@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26T00:25:19Z",
+ "updated": "2026-11-26T09:35:15Z",
  "sources": [
   {
    "source": "BBC News",
    "region": "international",
-   "items": 72,
+   "items": 67,
    "via": "rss"
   },
   {
@@ -100,14 +100,14 @@
   {
    "source": "92 News",
    "region": "local",
-   "items": 0,
-   "via": "failed"
+   "items": 28,
+   "via": "google-news"
   },
   {
    "source": "Hum News",
    "region": "local",
-   "items": 0,
-   "via": "failed"
+   "items": 1,
+   "via": "google-news"
   },
   {
    "source": "Aaj News",
@@ -118,7 +118,7 @@
   {
    "source": "GNN",
    "region": "local",
-   "items": 11,
+   "items": 16,
    "via": "google-news"
   },
   {
