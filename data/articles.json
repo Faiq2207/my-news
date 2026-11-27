@@ -1,5 +1,802 @@
 [
  {
+  "id": "1c2cc3f756dee028",
+  "region": "local",
+  "category": "news",
+  "title": "ADB Approves $468 Million in Loans for Pakistan",
+  "summary": "The Asian Development Bank has approved loans totaling $468 million to fund water, agriculture, irrigation, and flood management projects in Pakistan.",
+  "paragraphs": [
+   "According to 92 News and Dunya News, the Asian Development Bank (ADB) has approved $468 million in loans dedicated to water, agriculture, irrigation, and flood management projects in KP and Punjab. ARY News and Aaj News similarly reported that the ADB cleared the $468 million financial package for Pakistan.",
+   "The funding is specifically targeted at boosting the country's agricultural sector and improving infrastructure related to water management."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "ADB approves $468mn in loans for water, agriculture projects in KP, Punjab",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnZMY1dRcXRGRGhuWFFyNGNRS0c1NVFGV3ZNYjVmbUJQalp4RUp5bHA2STgyQXBfSXhEN21laEV3UkotV1lTTTNaUWVLRWctbEZha2E4MVpWUzc2VnRfcENqcEUyR2sxb0RQTWxIMFBQRWNaTm9ydVBMQUNXLWJSdUxaeU85WmN6MU54X1F3NnhCUTZFa1hwQkVVZllXdw?oc=5",
+    "published": "2026-11-27T19:57:12Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "ADB approves $468 million in loans for irrigation, flood management projects in Pakistan",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVRNVGt5OVc1dHFrU2tWY25sN3lLQy15VTg1OFB0RFFpTHdiZkRGeG1tNjlLeVdWQnJxMWRWQUdBR2V4Y1dpOUJSSVpxeVh4Vnd2dTBzZVpmVjVxVklyMTNSTHdhSHpEbVNBUFprSkRjOU5UYnYxYmRtWXBrOEdFMUtzOVdHdnJtNGFXQUVYMzBxa2hSaHhCOVdoX1BFNFNDS0VJNWdLYy05S0p6QlE3UmExQXrSAVZBVV95cUxPU2kzVldzektybmE3dlQ1c1M5M0w0Y0xDZzFYTUlVZ0pUWlBERUp4X1JEbUVqZl96bzZta3ZhT0pFWllUV3p5T1U2VjBVZVpuaVpRVUR2dw?oc=5",
+    "published": "2026-11-27T15:34:22Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "ADB approves $468 million in loans for Pakistan",
+    "link": "https://arynews.tv/adb-approves-468-million-in-loans-for-pakistan",
+    "published": "2026-11-27T14:10:29Z",
+    "used_text": "ADB approves $468 million in loans for Pakistan"
+   },
+   {
+    "source": "Aaj News",
+    "title": "ADB approves $468m to boost Pakistan’s agriculture",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2IyWGotWUI4TEtXVGZZQzl4TXQ4bkowRTJWOVJ4WnlvYnNOcXo5bkdwdG9GVjVCYkFneFZqWExZbGh0SjdQVnFrMHk4SVZWVG1zMDMzbE1mcnNRSnhsU2VFVGNaZ1M4YVdWNm04a3RYLW11TzFfSDVNbFJJbTd0a2FxMktST1ppWmxaYThvQQ?oc=5",
+    "published": "2026-11-27T12:58:30Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "ADB approves $468m in loans for Pakistan's water, agriculture projects",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc2tMNUkxMFV5dXJwbG5lS29CYzBQc1RibUNMZEkwaU9uWC11cWx1Y2tuZVNyZjAtcDZNZVExVDBMRVZPRm9HMjZiTlZOekxBTGh1blMtdmNkdi1abEZDWHBGSUxSWDBjRU1VVk96SjRpMGhYeWhRbVV5aWpKQzBoY1dvVzBJRVdRQTdFNnBwekwzQllhem5yc1FXc1V0a0t6ckJpV3VHYzFzSk1oX2F3Uk9mSEY?oc=5",
+    "published": "2026-11-27T12:38:57Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-adb-approves-468-million-in-loans-for-pakistan-1c2c.html"
+ },
+ {
+  "id": "f3736d41e8aaaaaf",
+  "region": "local",
+  "category": "news",
+  "title": "Government Raises Wheat Import Ceiling to 2.5 Million Tonnes",
+  "summary": "The government has increased the wheat import ceiling by 150 percent to 2.5 million tonnes to curb rising market prices.",
+  "paragraphs": [
+   "According to Dawn, the government decided at a hurriedly called virtual meeting of the Economic Coordination Committee to increase the wheat import ceiling by 150 per cent to 2.5 million tonnes. The measure was taken to check continuously rising prices of wheat and wheat flour in the market.",
+   "Samaa reported that the ECC approved this increase in the wheat import limit to 2.5 million tonnes."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Govt increases wheat import ceiling to curb price increases",
+    "link": "https://www.dawn.com/news/2047509/govt-increases-wheat-import-ceiling-to-curb-price-increases",
+    "published": "2026-11-27T18:51:24Z",
+    "used_text": "ISLAMABAD: The government on Friday decided to increase the wheat import ceiling by 150 per cent to 2.5 million tonnes to check continuously rising prices of wheat and wheat flour in the market. The decision was taken at a hurriedly called and virtually conducted meeting of the Economic…"
+   },
+   {
+    "source": "Samaa",
+    "title": "ECC approves increase in wheat import limit to 2.5 million tonnes",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDNUSDNCMzk3WHZhTjRzVnF3aTZGMEhDbXNhLWxRcksxVkRZM0FkVzkxZUlIamRfV0ZqS0RfUmtMOVdSZ3RmTWl4TU1veFBvY1l0eS1Uem5NLTNuckJSbHNFNlV2Z1owSGhobnhKYTV4VS1abGRiQjFKZXVST3MtUlNSV2lOaXROaWlYQUllRXRRQVFkZXd6NWtSVTJaOHJ0M1ZmVHMxQ2dRa3dPMTRfZQ?oc=5",
+    "published": "2026-11-27T17:50:07Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-government-raises-wheat-import-ceiling-to-2-5-million-f373.html"
+ },
+ {
+  "id": "3d8eb7a7bd78485e",
+  "region": "local",
+  "category": "news",
+  "title": "Petrol Price Cut by Re1 While Diesel Remains Unchanged",
+  "summary": "Authorities have announced a reduction in the price of petrol by Re1 per litre, keeping diesel rates unchanged.",
+  "paragraphs": [
+   "According to ARY News, Samaa, and Aaj News, petrol has received another price cut with new rates announced, reducing the price by Re1 per litre while the diesel rate was kept unchanged. Dawn and the Express Tribune also noted that the petrol price was reduced by Re1, with the Express Tribune specifying that petrol decreased to Rs312 per litre while HSD remained at Rs346."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Petrol gets another price cut as new rates announced",
+    "link": "https://arynews.tv/petrol-price-in-pakistan",
+    "published": "2026-11-27T18:07:53Z",
+    "used_text": "Petrol gets another price cut as new rates announced"
+   },
+   {
+    "source": "Samaa",
+    "title": "Petrol price cut by Re1; diesel rate unchanged",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONlVXZlZXWlRQZFltTWhLUUJ3eUdtTkdjOFBBblNuVlJtNjlMWEVkQmZHQzl3LWxfaC1ILW1tN25rYUNBWGxDS0Q1cE1xQXNrSDFlZTBnZU4tdVNyV05LT2wxd2FyZ1dQaHZqSGxlSU05eUp5ejBsNlpjQmM3c2wwMzV5NHNiLXpjTEZ2SURqdDREdkloSGc?oc=5",
+    "published": "2026-11-27T17:27:44Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Petrol price reduced by Re1 per litre, diesel price kept unchanged",
+    "link": "https://www.dawn.com/news/2047500/petrol-price-reduced-by-re1-per-litre-diesel-price-kept-unchanged",
+    "published": "2026-11-27T17:15:23Z",
+    "used_text": "& · ● ●"
+   },
+   {
+    "source": "Aaj News",
+    "title": "Govt cuts petrol price, keeps diesel unchanged",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFZQcFNORDZZd1pqYUxucHdjZHdsRGJ0WVJmV1RtYmpTUGNjV1JJNXU1YXdSeV82QjFWaUgxcEx3cWhJR0VIa0p2emFqc3pLRGlPQzQwMkZIXzFjZ3lvOE84X0xBYlVhaDhFcmUwaF9wVzJoeUlBX2NCSWhHRnFjVnkwbWFDa0JfOVJB?oc=5",
+    "published": "2026-11-27T17:13:02Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "Government reduces petrol price by Re1, keeps diesel unchanged",
+    "link": "https://tribune.com.pk/story/2642693/government-reduces-petrol-price-by-re1-keeps-diesel-unchanged",
+    "published": "2026-11-27T12:30:28Z",
+    "used_text": "Petrol decreases to Rs312 per litre, while HSD will remain available at Rs346 under daily pricing mechanism"
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-petrol-price-cut-by-re1-while-diesel-remains-unchanged-3d8e.html"
+ },
+ {
+  "id": "e51b60716902ab54",
+  "region": "local",
+  "category": "news",
+  "title": "President Zardari Holds Discussions with Chaudhry Shujaat in Lahore",
+  "summary": "President Asif Ali Zardari visited Lahore on a two-day trip and met with PML-Q chief Chaudhry Shujaat Hussain to discuss political affairs.",
+  "paragraphs": [
+   "According to 92 News, President Zardari arrived in Lahore on a two-day visit. Samaa and the Express Tribune reported that President Zardari met with PML-Q chief Chaudhry Shujaat Hussain at his Lahore residence to discuss national affairs and the country's political situation.",
+   "Dawn added that the Presidency released a statement confirming the meeting took place at Shujaat's residence, where Zardari also enquired after the former prime minister's health and wished him a speedy recovery."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "President Zardari arrives in Lahore on two-day visit",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTl4MHpGSldCZ3JIMkJiMVFWREVoakJiUFQ4LWpTbzhZNXI4RHh3cFNRSDIxNEJlNkEwVUUxRWpJLVBKV2tBSThhN0Y3RTA1Rk1LaFpFYXdENDRjX0VXSWgyWi1seGF4LV9WSzlPT3FraFVOVVkzbUUxQWlwRUtiVFcwTDE?oc=5",
+    "published": "2026-11-27T19:57:12Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "President Zardari, Shujaat discuss national affairs, political situation",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTVHM0RrSEs4WktkWWc4SHdaM3JiXzZNSy1jd0Y1TWVoMGdDQ2FJN01OSTM5QktpUm8wSDdhRDgxT3FfSVJzanQtM2Jpcjk0YVJhOHpMVXI0QzV5cnVuQnVQNGRlWGNzUUlHUF9HUWlUa2V5U2laTjJjblVqT0RWcll4OTVDamtuem95cGpWd0ltUVZuVzZxcXNjM0haRG05dHZ3WXp4Q3dwaFlmWTlPaVdkNnNrRG8?oc=5",
+    "published": "2026-11-27T18:40:40Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "President Zardari, Shujaat discuss national affairs, political situation",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjFUU1BYVEd3YjR5UEg0LTJXYm5hM2RBbk9Qb013N1d2ZHphOFAwVVVZcEg2WVp3VlZreXZUWTFJYVFzekhxcGxlSmRkcVJpc3ptSWJZTUFLS2hoUXNlaDZSOXFjUHV6dEJxeTFkMGFjV0lqUFZ0d2tRMXNrRjRpZFViNzZvcW51ZnNGMUtmU2x6U1JHRlJnOHVnQnBTX0hOMTUxQw?oc=5",
+    "published": "2026-11-27T18:40:40Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "President Zardari, PML-Q chief Shujaat discuss country's political situation",
+    "link": "https://www.dawn.com/news/2047504/president-zardari-pml-q-chief-shujaat-discuss-countrys-political-situation",
+    "published": "2026-11-27T17:35:51Z",
+    "used_text": "President Asif Ali Zardari on Friday discussed the country’s political situation in a meeting with former prime minister and Pakistan Muslim League-Quaid (PML-Q) chief Chaudhry Shujaat Hussain. In a statement, the Presidency said that President Zardari held the meeting with Shujaat at the latter’s…"
+   },
+   {
+    "source": "Samaa",
+    "title": "President Zardari enquires after Chaudhry Shujaat's health",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2pZWTlwV2pmc0w4bTBSU0I2TmtrU2N2ZkRLUVlfLUFha1M2TnBjck4yLUp4X1BId2dYNUctaEVacTdubDlHNEU3WHBvQ0EtaFR2eVNmand4czU1aE5WTjZzTmpoM1UxaGM0MFg1Nkk0MTJIU0VhTWhDTmpjc1pOZUNRb2xWbk5EZkNkTThzZWtKdEJmbGRZbkR3WndCQjRHZHRYMG1nNA?oc=5",
+    "published": "2026-11-27T17:07:05Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "President Zardari, Shujaat discuss national affairs, political situation",
+    "link": "https://tribune.com.pk/story/2642699/president-zardari-shujaat-discuss-national-affairs-political-situation",
+    "published": "2026-11-27T14:26:18Z",
+    "used_text": "President meets PML-Q chief at his Lahore residence, wishes former prime minister speedy recovery during meeting"
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-president-zardari-holds-discussions-with-chaudhry-shujaat-in-lahore-e51b.html"
+ },
+ {
+  "id": "4f21276c8fda206f",
+  "region": "local",
+  "category": "news",
+  "title": "Makkah Defence Alliance Convenes in Islamabad to Discuss Security",
+  "summary": "The Makkah Joint Defence Agreement's top committee met in Islamabad to review regional security and boost defense cooperation.",
+  "paragraphs": [
+   "According to Dawn, a meeting of the Makkah Joint Defence Agreement's top decision-making body, the Strategic Political and Defence Committee, was held in the federal capital to review regional security and condemn Houthi attacks on Saudi Arabia. Aaj News, 92 News, and ARY News reported similar developments, noting that Pakistan, Saudi Arabia, and Türkiye agreed to boost defence cooperation and issued a joint communiqué following the Islamabad meetings."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Makkah pact nations review regional security, condemn Houthi attacks on Saudi Arabia",
+    "link": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
+    "published": "2026-11-27T18:28:04Z",
+    "used_text": "A meeting of the Makkah Joint Defence Agreement’s top decision-making body on Friday reviewed the regional security situation and condemned “persistent and heinous” Houthi attacks on Saudi Arabia. A meeting of the Strategic Political and Defence Committee (SPDC) was held in the federal capital,…"
+   },
+   {
+    "source": "Samaa",
+    "title": "Pakistan, Saudi Arabia and Türkiye pledge stronger collective defence coordination",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RFNkdBbXltTjVEV002YU16Ykwyck52eVNoLVZfdUthV2Z6OFREcmdoYUdTam9kREpEYk9XbmtwQUJwWkF3aUphRWhUSERjYWM4b0M1aEFjM3ZWcjgxSjlzdzQ3WmJWSk1uZkF2aU5Oa2ItT1VBWTB6czE3dzMtdjdLSnNGcEZVdmVwTU5TV3ZXQlNURXFBR1FKczdvZkZGbFNFb19LYUNMU3dKc2xFV2ZHRmV1bnJHcmw3NF9CcExSTFUxWEE?oc=5",
+    "published": "2026-11-27T18:26:11Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Islamabad Meeting | Pakistan Saudi Arabia Türkiye | Major Defense Talks | 11 PM HEADLINES 27 NOV",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vWDRMck9reUp2Qlg4MkxzUGxfX1o4RzduMXY2bUxlS05sZDhaN0wtcnZUQko4ejlNOTljTE0tWFBsc0dCRGZ0Z3JDcW4?oc=5",
+    "published": "2026-11-27T18:22:04Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Makkah Defence Alliance issues joint communiqué after Islamabad meeting",
+    "link": "https://arynews.tv/makkah-defence-alliance-issues-joint-communique-after-islamabad-meeting",
+    "published": "2026-11-27T17:53:56Z",
+    "used_text": "Makkah Defence Alliance issues joint communiqué after Islamabad meeting"
+   },
+   {
+    "source": "92 News",
+    "title": "Erdogan formally approves Makkah defence pact after parliament’s ratification",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkVvOUdkaVlJS2lDM3FLR1gzSFdaMlhtcndqd3U2Sm5qaTlJRk5SNU5QaThVaVpqNWxQelVaeFFwT294eXRZVXU1UWtidTR0aGpmRDZYQlpYLXlyQTZzTGJ2VE5jVVlCMDNNRkxaTDNoVlQ2dlV2TVoxTnJYNlZIU040aFVGQ2VIcGhDT0s1UWpSWHIyZzJSb1ZyOFRGeUg5TUZhXw?oc=5",
+    "published": "2026-11-27T17:09:41Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan, Saudi Arabia, Turkiye agree to boost defence cooperation",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUhhU0d3MEFRQy1oRmxmV1RISkRGZ2hGV3htMHo3UnUtVGRuVU9maW9iQWgycUMtU1ktclVpVmR3cHlOM09Pd3l5b1gySXl0VTNZd25sU2JpVjAyYzNadmF0TUJQZHY3Szh3ZWgzVS1UaXdpU1N3N2xfTldiSHpFQ1Nic3V5ZVp1MXBKd2NVaGtFbG9TcHItV3dqZ0IxNDE0el9vYQ?oc=5",
+    "published": "2026-11-27T16:09:52Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Makkah alliance nations agree to boost defence ties",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjA1aUs4TkI2VkRUdmp2dkhlOGVQNTlULU1qTmh5THBrUzBJWUJqWEFSTEFsSlA2WTJRbGxYaEJJTkhtLTFMYVVXT0E3VVlMZ0R0bmVqbC00cjJKS1YzREtSYVVHMnZ1dlRkQWY2RGsxbkFVZlZBNWxDcTJLMWxiMWQyX1BELVJhaUd4VWpVTF9ET1U?oc=5",
+    "published": "2026-11-27T16:09:52Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Makkah Defence Alliance meeting begins in Islamabad",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkM3dmZMNFhUUzJKUTVHcUZtNmJlQmo5bFowLVRvQjVWaDRucGl2M3hxYWlCR25OTDhocDgzdDhPNExxWWJxZ1VjbndQT3FaOVl5S01lTWs2c2dZS0FuZS13TlhrcnFlV0Z2XzYyTkJweGFXWlBGckZfaGpaUzV1Y2I4UVg3OG1mSTY0c1dXb1RiUjg?oc=5",
+    "published": "2026-11-27T12:33:33Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-makkah-defence-alliance-convenes-in-islamabad-to-discuss-security-4f21.html"
+ },
+ {
+  "id": "a6cca468810766c6",
+  "region": "local",
+  "category": "news",
+  "title": "Man Rescued Alive After Days Under Collapsed Building in Karachi",
+  "summary": "Rescue operations in Karachi saved a man who survived for days trapped under the rubble of a collapsed building.",
+  "paragraphs": [
+   "According to 92 News and Dawn, a man buried under the rubble of a collapsed under-stranded six-storey building near Karachi's Baloch Colony was rescued alive after being trapped for 55 hours or two days following Wednesday's incident. ARY News also reported that a man was found alive after being trapped under the debris."
+  ],
+  "sources": [
+   {
+    "source": "92 News",
+    "title": "Two men rescued alive after 55 hours under collapsed Karachi building",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0RDNWU2Sk5LRE9HSmpFRFU0Um9xYUxobkpSTkhYbTd0dUFLQUVVS0R4dTN5c29iSUNQdlBHTG5lbmNFdVJOM1d3cWNzX2lvcjBudDNuNVdWMWpINUhTX3cwRllBN2JtVlJhNTg4d0s4MGduYVNwMkFRamxpN3psUEstR1RhaTlyakdSS2VhVXRaWFQ3cVpkeHBmQQ?oc=5",
+    "published": "2026-11-27T19:57:12Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Karachi Admin Society building collapse: Man found alive after 48 hours",
+    "link": "https://arynews.tv/karachi-admin-society-building-collapse-man-found-alive-after-48-hours",
+    "published": "2026-11-27T15:44:59Z",
+    "used_text": "Karachi Admin Society building collapse: Man found alive after 48 hours"
+   },
+   {
+    "source": "Dawn",
+    "title": "Man buried under rubble rescued alive 2 days after building collapse in Karachi’s Baloch Colony",
+    "link": "https://www.dawn.com/news/2047440/man-buried-under-rubble-rescued-alive-2-days-after-building-collapse-in-karachis-baloch-colony",
+    "published": "2026-11-27T15:34:42Z",
+    "used_text": "KARACHI: A man buried under the rubble from the collapse of an under-construction six-storey building near Karachi’s Baloch Colony was rescued alive on Friday, two days after the incident occurred. On Wednesday, three people were killed and 14 others injured when the under-construction building —…"
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-man-rescued-alive-after-days-under-collapsed-building-in-a6cc.html"
+ },
+ {
+  "id": "bde1f3ac2d3c71cb",
+  "region": "local",
+  "category": "news",
+  "title": "Gold Prices Surge Across Pakistan",
+  "summary": "Gold prices in Pakistan continued to rise significantly over consecutive trading sessions.",
+  "paragraphs": [
+   "According to GNN, gold prices in Pakistan continued to rise for a second consecutive day. 92 News and Dunya News reported that gold prices surged by Rs11,500 per tola, with Dunya News adding that silver also became costlier. ARY News similarly reported that gold prices skyrocketed in the country."
+  ],
+  "sources": [
+   {
+    "source": "GNN",
+    "title": "Gold prices in Pakistan continue to rise on second consecutive day",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0hPSElRRG5zRFJsWWwxREpqR3loNXRndUplR28wcmRxWGhyT0pyN1RIOEoyeDkwWjVldTU1c19RZC1sbFREc0ZITVRUQm03X1hjQWxvYktkWE9xVzRBaGp2MlNyZGFDN3JpM0lvbFFyYW1IeGgtS3NZcVVTXzV0a0pUclQxbWhoR3lNVnZJNmFUYTBmX09ORFhB?oc=5",
+    "published": "2026-11-27T17:37:30Z",
+    "used_text": ""
+   },
+   {
+    "source": "92 News",
+    "title": "Gold price surges by Rs11,500 per tola",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WejNOVnRLVWZRTmV1UXFKVV9XQ1Y3YU1wZHQ1UHZsX1FkR3VXcnJPNWh3SzBlTGZRVVV1bkdJczhnUFFFUUdYcGlnejc4SzhLdXFpMlVQYXpuZzJ6bkNPTjFwMmRqMEFoNXVKX3hBNA?oc=5",
+    "published": "2026-11-27T15:57:18Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Gold prices surge by Rs11,500 per tola, silver also gets costlier",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenAwVHE2ZHNRUm53X2o5enVZa2UtZVl4TkVHMlJZcjZuMldRNkR2enlQNG9NcU9WbUpZYWtJRjNFa3dMd281YU0tNVF1SkhDNVA1aUQwc1lYYUhHQTFTVFdvMXRJREpObHJOZktuM0hyYlVwQWY2b2ZUQWRtZEJCc2Zid05jeTJaN1lFNENFVWM4MXItc1hQQlg4NlZzMFNjMHViRU82UkNMRzZwX1HSAVZBVV95cUxNNUM5X3dWVXhtX3VRb1pwSmU0al9STGpSY29QbnhOMXVNVVU3YVBXdTdDSjFNNVJaRjNtdzhOaWJOUU5rR0VBcDBVN0VpTGVMUF9HWEQ2QQ?oc=5",
+    "published": "2026-11-27T15:34:22Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Gold prices skyrocket in Pakistan",
+    "link": "https://arynews.tv/gold-prices-skyrocket-in-pakistan",
+    "published": "2026-11-27T14:45:40Z",
+    "used_text": "Gold prices skyrocket in Pakistan"
+   },
+   {
+    "source": "Dunya News",
+    "title": "Gold prices surge by Rs11,500 per tola, silver also gets costlier",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHM1X1FELUFRY3FQX1pDT0Y5dFFkUWt0WG9KQlIxZGJTb0FGal95Nlp0cjI4VDJid3lmTFF5SlRxdzRkNFdlVC1CRTBBREl2UlVyNm9Db2ctclVVWHVYclhxOXRRelhpbkZJRFk1ZXktZy1DcGFLbzA5VEcwcDczbmprTXYwVEJJdmhwd0pDaE1iTkthV2FNX19KbXlMcXBkX3ZpSmx30gFWQVVfeXFMTTVDOV93VlV4bV91UW9acEplNGpfUkxqUmNvUG54TjF1TVVVN2FQV3U3Q0oxTTVSWkYzbXc4TmliTlFOa0dFQXAwVTdFaUxlTFBfR1hENkE?oc=5",
+    "published": "2026-11-27T13:11:19Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-gold-prices-surge-across-pakistan-bde1.html"
+ },
+ {
+  "id": "a6635e7eceb9b136",
+  "region": "local",
+  "category": "news",
+  "title": "State Bank of Pakistan Issues Commemorative Coin for Mata Sahib Hasi Devi",
+  "summary": "The State Bank of Pakistan has released a Rs200 commemorative coin honoring the bicentenary of Mata Sahib Hasi Devi.",
+  "paragraphs": [
+   "According to Aaj News and Dawn, the State Bank of Pakistan (SBP) issued a Rs200 commemorative coin to mark the 200th birth anniversary of Pujya Mata Sahib Hasi Devi. The SBP stated that Mata Sahib Hasi Devi was the fifth head of the historic Shadani Darbar located in the Hayat Pitafi area of Sukkur."
+  ],
+  "sources": [
+   {
+    "source": "Aaj News",
+    "title": "SBP issues Rs200 commemorative coin honouring Mata Sahib Hasi Devi",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWZ3REhWYkNHTXVyb0F2Y1FYMTRIenZDQ0NocDVWUkxfczhReFZybktaSUpSaTBKU0FWYUg0eFNCOFRVc2d3V2xPRFZHWG1BU2V6dzhEWXBLMGh5VHdUcTlQWG9fNFZtUTlaQkpzRmc5eGNtcXkySDdKMEpfTHFCZmZ1aFpxY0pYLVYxOU45NzBUWWxtQXFxbndNSURXQkdsekZhcmxZcw?oc=5",
+    "published": "2026-11-27T17:04:24Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary",
+    "link": "https://www.dawn.com/news/2047495/sbp-issues-rs200-commemorative-coin-to-mark-mata-sahib-hasi-devis-200th-birth-anniversary",
+    "published": "2026-11-27T14:25:58Z",
+    "used_text": "The State Bank of Pakistan (SBP) has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Pujya Mata Sahib Hasi Devi, the bank said in a statement on Friday. Mata Sahib Hasi Devi was the fifth head of the historic Shadani Darbar located in the Hayat Pitafi area of Sukkur…"
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-state-bank-of-pakistan-issues-commemorative-coin-for-mata-a663.html"
+ },
+ {
+  "id": "c5b70da0cb4225fd",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Shaheens Advance to Asia Cup Rising Stars Final",
+  "summary": "The Pakistan Shaheens secured a five-wicket victory over Bangladesh 'A' to reach the Asia Cup Rising Stars final.",
+  "paragraphs": [
+   "According to Dawn, Samaa, ARY News, and Aaj News, the Pakistan Shaheens defeated Bangladesh 'A' by five wickets in the semi-final of the Asia Cup Rising Stars. Bangladesh 'A' had set a target of 233 runs, which the defending champions chased down with 28 balls to spare.",
+   "Dunua News and other reports highlighted that stellar performances by players including Hasan Nawaz and Shazaib guided the team into Sunday's final against Sri Lanka 'A'."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "Pakistan Shaheens cruise into Asia Cup Rising Stars final with five-wicket win over Bangladesh ‘A’",
+    "link": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
+    "published": "2026-11-27T18:56:18Z",
+    "used_text": "Pakistan Shaheens produced a composed five-wicket victory over Bangladesh ‘A’ in the second semi-final of the Asia Cup Rising Stars on Friday, chasing down a target of 233 with 28 balls to spare to book their place in Sunday’s final against Sri Lanka ‘A’. The defending champions reached 233-5 in…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Hasan Nawaz leads Pakistan Shaheens into Asia Cup Rising Stars final",
+    "link": "https://arynews.tv/hasan-nawaz-leads-pakistan-shaheens-into-asia-cup-rising-stars-final",
+    "published": "2026-11-27T18:03:23Z",
+    "used_text": "Hasan Nawaz leads Pakistan Shaheens into Asia Cup Rising Stars final"
+   },
+   {
+    "source": "Dunya News",
+    "title": "Pakistan beat Bangladesh by 5 wickets to Reach Asia Cup Rising Stars Final",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYThPMkJxXzVkOGJZZ3ZqbEFSX0pnbG9rX3VESDU5SUlrX3VCQUIta0tfV3pIQXh4UHNyaENUcVZGMmxuVURoNmItZ0VrS1U3WUhKYUp3ZGE5blJBYXVVa1c5MUtVX0FCNHFDZ2xwLTlxa0V5X0ZKY0x2dmpaMVdMV0RuejZ4c2NPMEp2NmI4YkowVFRhNGJBczJJU3BBMENZdEVUUEk3VnNyVlJs?oc=5",
+    "published": "2026-11-27T17:50:58Z",
+    "used_text": ""
+   },
+   {
+    "source": "Samaa",
+    "title": "Hasan, Shazaib guide Pakistan Shaheens into Asia Cup Rising Stars final",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmZzeDNZd3BaeUprOUUtTFRXM1BscGJSVE9HVWFYejV6SlczX1Q2aTkyTnNDVVNyUnpkZ25ZekdfZnZDU3o4Qm5rUXhuWng0eUx1a05DNlZsM0pHYTJoa1c2OTlSNGNmcjBSc1NtazhiSHVJOFhvQ3pZT3dnYm4zUHJ3eWdrRDcybjRUV1pvRy1kand3U3d1OHhMZEU2dUpsYjVZT0ZYdGFMS3F4Q0poeTRoNzF0RHM?oc=5",
+    "published": "2026-11-27T17:47:55Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan A beat Bangladesh A to reach Rising Stars Asia Cup final",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV045S054NDlGcDNHZzN4Ry1JSGhDSUYwMmlCUTUzM0N4QWxCVmJsc0E5aWhOdjdhVVFIdnZsdnZTeXpMXzN4di1CM2t2X2pQclV2bmZYam5pX0g4WXI1MDlpS3dDRTFqMEhRbkQ1cUJYa043a3EzbmhldTVyTFFMYnJka0FTYi1EYWRkTnRSVWUzejVBd25qZHp0WGMwUHNLdmU3VWRB?oc=5",
+    "published": "2026-11-27T17:39:41Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Bangladesh A set 233-run target for Pakistan Shaheens in Asia Cup Rising Stars semi-final",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmwxS0xWc2c4dzBZRTNfY2xHOE0xRGE1b1VLWnF3Y1JnM19VaEZVS05vbG5odVNxeVBzd2lRUm5hN0J2WVBlTU81WlBCdkVyTHJwQW5ZckVsTm05ZVRyR1Q5ZC1WWkNESHJVa3R5QXFvc3RpWmRPMHpZdktRMzFvUFJqZGVoamZEUHJlU3ZrQmdjeWxFbm5ZYjkzaFAzamtRMUNrN3pRUUx2SEnSAVZBVV95cUxONHBCZ2w1S3NiLWVRb3U5V1dCS0szT3RESjM3Ri1xSnY2NVg0VHlzc1Ffb1Q4UUZIQU5KTGN5TC02MVdIa25JTXlGQ3dab3d1b2NmYmcxZw?oc=5",
+    "published": "2026-11-27T17:15:07Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Bangladesh A set 233-run target for Pakistan Shaheens in Asia Cup Rising Stars semi-final",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWtsUGxUWGpSckhyejJjT25FLTJWV2FXNWhvLUdTX0RrN0VObzlUelVOaFlRdUFfQ2wtcEpxMVRNS2J6Zi1BbWVGMG54QVE5aUJiWjVNbFdSbzA3NjFyUDV3UGlQOTJNRDdmVXVfOHNvdVozM2I4V3dsMU1IaTl6djh2ZVg1YmNqOUVxN1A0WTFOZEx1UDZwSUJrMkFKWmp6SldvVTJxTGVyU00zZFYySFZnb9IBVkFVX3lxTE40cEJnbDVLc2ItZVFvdTlXV0JLSzNPdERKMzdGLXFKdjY1WDRUeXNzUV9vVDhRRkhBTkpMY3lMLTYxV0hrbklNeUZDd1pvd3VvY2ZiZzFn?oc=5",
+    "published": "2026-11-27T16:59:09Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Bangladesh A bat first against Pakistan Shaheens in Asia Cup Rising Stars semi-final",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekVzbkt4cXo2c3JjSnFLck5UdWxwNWtuVDl4bS1KcGdVc1hSQTRXR0lQZHBxc2M2Um5GU0d0TERIcV9raUszM1RlWXMxOXM5RzZldU5zQWZPNXVxNHpZRTFwRDRoQ014NDU0M0ZUUS11dlNaM1hfNE53RDBMRGhjSXIyOTVZZERiUVhYOW9jbVNUTVhHVGZ6VEY4UjUxczRkU2ZKVVhacWJTY1hf0gFWQVVfeXFMTjRwQmdsNUtzYi1lUW91OVdXQktLM090REozN0YtcUp2NjVYNFR5c3NRX29UOFFGSEFOSkxjeUwtNjFXSGtuSU15RkN3Wm93dW9jZmJnMWc?oc=5",
+    "published": "2026-11-27T11:29:53Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-pakistan-shaheens-advance-to-asia-cup-rising-stars-final-c5b7.html"
+ },
+ {
+  "id": "b2e11a3b2de89dcd",
+  "region": "local",
+  "category": "sports",
+  "title": "Rohit Sharma Appointed Captain of Mumbai Indians for IPL 2027",
+  "summary": "Rohit Sharma is set to return as the captain of the Mumbai Indians for the 2027 Indian Premier League season.",
+  "paragraphs": [
+   "According to ARY News and Samaa, Rohit Sharma will return to lead the Mumbai Indians as captain for the upcoming IPL 2027 season."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "Rohit Sharma to lead Mumbai Indians in IPL 2027",
+    "link": "https://arynews.tv/rohit-sharma-to-lead-mumbai-indians-in-ipl-2027",
+    "published": "2026-11-27T16:24:43Z",
+    "used_text": "Rohit Sharma to lead Mumbai Indians in IPL 2027"
+   },
+   {
+    "source": "Samaa",
+    "title": "Rohit Sharma returns as Mumbai Indians captain for IPL 2027",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDJRcEc3QmdXczNnLVNyeDBQOVFzOHh0OE9INVMzS2ZZMzlmQktzd0l3dEVaZVlKN1pCV2pDMDNlREhOS0xGYWdUNjE1MXdhWXRVeF9mNEVCQzZwWUlPNkVuai1obFhOY3p0VE1fbnRFTjhISVBLcV94dVdlbEs4Q3JGX013T3JmQnBYMUp5OThmUzdoRlE?oc=5",
+    "published": "2026-11-27T13:31:07Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-rohit-sharma-appointed-captain-of-mumbai-indians-for-ipl-b2e1.html"
+ },
+ {
+  "id": "7ccde723bbfc009c",
+  "region": "international",
+  "category": "news",
+  "title": "US Military Disables Ship Under Iran Blockade",
+  "summary": "The United States military disabled a Palau-flagged merchant ship in the Gulf of Oman for attempting to breach the blockade on Iranian ports.",
+  "paragraphs": [
+   "According to DW and Al Jazeera, the United States stated it is continuing to strictly enforce its blockade of Iran's ports. The US military reported that it disabled a Palau-flagged merchant ship trying to breach the blockade.",
+   "Fox News reported that CENTCOM video showed the US strike disabling the commercial vessel in the Gulf of Oman after it attempted to evade the naval blockade. The US military confirmed that the crew of the disabled vessel was unharmed."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "US disables ship in Gulf of Oman under Iran blockade",
+    "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-27T23:17:00Z",
+    "used_text": "The United States said it was continuing \"to strictly enforce the blockade\" of Iran's ports. Meanwhile, Kuwait summoned Iran's ambassador over a strike that killed two Italian technicians."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+    "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+    "published": "2026-11-27T22:22:02Z",
+    "used_text": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed."
+   },
+   {
+    "source": "Fox News",
+    "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
+    "link": "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
+    "published": "2026-11-27T18:48:07Z",
+    "used_text": "CENTCOM video shows a U.S. strike disabling a commercial vessel in the Gulf of Oman after it tried to evade the naval blockade of all Iranian ports."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-us-military-disables-ship-under-iran-blockade-7ccd.html"
+ },
+ {
+  "id": "61c3fcd9908706cb",
+  "region": "international",
+  "category": "news",
+  "title": "Kenya Cult Leader Convicted of Manslaughter Over Starvation Deaths",
+  "summary": "Paul Mackenzie, founder of the Good News International Church, has been found guilty of manslaughter regarding more than 123 starvation deaths.",
+  "paragraphs": [
+   "Al Jazeera and BBC News reported that Kenyan cult leader Paul Mackenzie has been found guilty of manslaughter over more than 123 starvation deaths. Mackenzie is already serving a 200-year prison sentence.",
+   "According to the reports, the latest conviction comes weeks after the pastor was jailed for the mass murder of children connected to his Good News International Church."
+  ],
+  "sources": [
+   {
+    "source": "Al Jazeera",
+    "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+    "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+    "published": "2026-11-27T22:33:17Z",
+    "used_text": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church."
+   },
+   {
+    "source": "BBC News",
+    "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T17:19:31Z",
+    "used_text": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-kenya-cult-leader-convicted-of-manslaughter-over-starvation-deaths-61c3.html"
+ },
+ {
+  "id": "43f0fd92667a194f",
+  "region": "international",
+  "category": "news",
+  "title": "Uganda Begins mRNA Ebola Vaccine Trial and Announces Troop Withdrawal from DR Congo",
+  "summary": "Uganda has started clinical trials for an experimental mRNA Ebola vaccine while simultaneously announcing the withdrawal of its forces from eastern DR Congo.",
+  "paragraphs": [
+   "Euronews reported that Uganda has begun Africa's first clinical trial for an experimental mRNA Ebola vaccine developed by Moderna. The vaccine is being tested on 224 volunteers as health authorities respond to a deadly outbreak in the neighboring Democratic Republic of Congo.",
+   "Meanwhile, France 24 reported that Kampala announced the withdrawal of its troops from the key eastern DR Congo town of Lubero in North Kivu. The move follows deteriorating relations with Kinshasa after provocative comments made by Uganda's army chief regarding Walikale."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Uganda begins Africa's first mRNA Ebola vaccine trial",
+    "link": "https://www.euronews.com/2026/11/27/uganda-begins-africas-first-mrna-ebola-vaccine-trial",
+    "published": "2026-11-27T21:45:59Z",
+    "used_text": "An experimental mRNA vaccine developed by Moderna is being tested on 224 volunteers in Uganda as health authorities seek to combat a deadly Ebola outbreak that has claimed thousands of lives in neighbouring DRC."
+   },
+   {
+    "source": "France 24",
+    "title": "Uganda to withdraw troops from DR Congo",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+    "published": "2026-11-27T21:44:29Z",
+    "used_text": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate following provocative comments from Uganda's army chief. Then, pregnant women are struggling to cope with extreme heat,…"
+   },
+   {
+    "source": "France 24",
+    "title": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+    "link": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+    "published": "2026-11-27T17:56:28Z",
+    "used_text": "Uganda's army on Friday said it planned to withdraw from the eastern DR Congo town of Lubero in North Kivu. The announcement came days after Ugandan army chief Muhoozi Kainerugaba – son of President Yoweri Museveni – threatened to take control of Walikale, another North Kivu town, sparking a…"
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-uganda-begins-mrna-ebola-vaccine-trial-and-announces-troop-43f0.html"
+ },
+ {
+  "id": "8f87e1d65462d21e",
+  "region": "international",
+  "category": "news",
+  "title": "OpenAI and Apple File Counter-Lawsuits Amid Intensifying AI Race",
+  "summary": "Tensions between OpenAI and Apple have escalated as the companies trade lawsuits concerning trade secrets and artificial intelligence hardware.",
+  "paragraphs": [
+   "CNBC and Al Jazeera reported that OpenAI has filed a countersuit against Apple, accusing the tech giant of stealing trade secrets related to AI development.",
+   "According to the reports, Apple had previously sued OpenAI and two former employees in July, alleging the misappropriation of trade secrets to support ChatGPT's expansion into consumer hardware as competition in the artificial intelligence sector intensifies."
+  ],
+  "sources": [
+   {
+    "source": "CNBC",
+    "title": "OpenAI countersues Apple for stealing trade secrets",
+    "link": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+    "published": "2026-11-27T20:52:32Z",
+    "used_text": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+    "published": "2026-11-27T20:40:51Z",
+    "used_text": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-openai-and-apple-file-counter-lawsuits-amid-intensifying-ai-8f87.html"
+ },
+ {
+  "id": "bc11315c0cdf9e4a",
+  "region": "international",
+  "category": "news",
+  "title": "Canada Supreme Court Upholds Quebec Religious Symbols Ban",
+  "summary": "Canada's top court has largely upheld Quebec's legislation banning public servants from wearing religious symbols on the job.",
+  "paragraphs": [
+   "DW and Al Jazeera reported that Canada's Supreme Court has largely upheld Quebec's controversial secularism bill, known as Bill 21. The law bans public servants, including teachers and police officers, from wearing religious symbols such as hijabs, turbans, and crucifixes while working.",
+   "BBC News noted that the provincial government argued the measure was necessary to protect a secularist society, whereas critics and various groups, including female Muslim, Sikh, and Catholic teachers, argued the legislation violates fundamental rights."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+    "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-27T20:43:00Z",
+    "used_text": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics argue the bill weakens legal protections for fundamental rights."
+   },
+   {
+    "source": "BBC News",
+    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+    "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T16:53:46Z",
+    "used_text": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+    "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+    "published": "2026-11-27T15:15:36Z",
+    "used_text": "Quebec’s ban on teachers and police wearing religious symbols such as hijabs and turbans on the job remains in place."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-canada-supreme-court-upholds-quebec-religious-symbols-ban-bc11.html"
+ },
+ {
+  "id": "0977eae939fa01ac",
+  "region": "international",
+  "category": "news",
+  "title": "Norse Atlantic Files for Bankruptcy Following Aviation Fuel Cost Spikes",
+  "summary": "Low-cost carrier Norse Atlantic has filed for bankruptcy in Europe after failing to secure funding amid rising aviation fuel costs.",
+  "paragraphs": [
+   "CNBC and DW reported that budget airline Norse Atlantic filed for bankruptcy in Europe after failing to secure required funding. The low-cost carrier stated that soaring aviation fuel prices severely strained its operations.",
+   "Al Jazeera and Euronews added that flights and ticket sales have been halted. Passengers have been advised to seek refunds through the bankruptcy process, although the airline warned that financial guarantees are not assured."
+  ],
+  "sources": [
+   {
+    "source": "CNBC",
+    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+    "published": "2026-11-27T18:20:32Z",
+    "used_text": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+    "link": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+    "published": "2026-11-27T16:31:20Z",
+    "used_text": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic."
+   },
+   {
+    "source": "DW",
+    "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+    "link": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-27T14:20:00Z",
+    "used_text": "The low-cost airline was only founded a few years ago and had been struggling to turn a profit. The spike in aviation fuel prices caused by the war in Iran has now driven Norway's Norse Atlantic into bankruptcy."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-norse-atlantic-files-for-bankruptcy-following-aviation-fuel-cost-0977.html"
+ },
+ {
+  "id": "944391b88c3434da",
+  "region": "international",
+  "category": "news",
+  "title": "EU Leaders Fail to Reach Budget Agreement During Brussels Summit",
+  "summary": "A summit of European Union leaders collapsed after member states failed to resolve deep divisions over the bloc's long-term budget.",
+  "paragraphs": [
+   "Euronews and CNBC reported that EU leaders failed to break a deadlock over the bloc's long-term budget during a summit in Brussels. Talks are set to resume in December as political pressure mounts.",
+   "According to DW and Euronews, the discussions collapsed due to sharp divisions over funding for Ukraine and disagreements between member states wanting to protect established spending versus those seeking to finance new strategic tasks, such as proposed taxes on US tech companies."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Europe Tonight: EU budget summit collapses as Spain braces for vote and UK unveils deal",
+    "link": "https://www.euronews.com/2026/11/27/europe-tonight-eu-budget-summit-collapses-as-spain-braces-for-vote-and-uk-unveils-deal",
+    "published": "2026-11-27T16:58:45Z",
+    "used_text": "EU budget talks collapse early in Brussels as Germany and \"frugals\" walk out, pushing a deal to December. Meanwhile, Spain braces for Sunday’s snap election that could unseat PM Pedro Sánchez, and Britain unveils details of its new EU cooperation deal."
+   },
+   {
+    "source": "DW",
+    "title": "Divisions deepen between EU member states after tense budget summit",
+    "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-27T16:51:00Z",
+    "used_text": "An EU leaders summit on the bloc's seven-year budget fell apart amid divisions over how to fund Ukraine. The budget proposal also includes a 3% tax on US tech companies, in a bid for the EU to generate additional funds."
+   },
+   {
+    "source": "CNBC",
+    "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+    "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
+    "published": "2026-11-27T14:12:55Z",
+    "used_text": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms."
+   },
+   {
+    "source": "Euronews",
+    "title": "EU budget summit collapses as row over money exposes clash over Europe's strategic tasks",
+    "link": "https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks",
+    "published": "2026-11-27T13:33:03Z",
+    "used_text": "The EU summit on the Union's common budget for 2028-2034 has initially failed. Some want to protect established spending, others to cut costs and mainly finance new strategic tasks, warns foreign policy expert Alexander Wolf of the Hanns Seidel Foundation in Berlin."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-eu-leaders-fail-to-reach-budget-agreement-during-brussels-9443.html"
+ },
+ {
+  "id": "88672efd09fe2c26",
+  "region": "international",
+  "category": "news",
+  "title": "Serbia's Student Movement Nominates University Professor for Presidency",
+  "summary": "Serbia's student-led movement has chosen chemistry professor Radomir Saicic as its candidate for the upcoming presidential election.",
+  "paragraphs": [
+   "Euronews and DW reported that Serbia's student movement has put forward chemistry professor Radomir Saicic as its presidential candidate. Saicic, who teaches at Belgrade University, was selected for his academic achievements and personal integrity.",
+   "According to Al Jazeera and DW reports, Saicic accused the outgoing regime of trying to collapse the state following the ousting of strongman Aleksandar Vucic, distinguishing himself from the country's established political figures."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "Serbia’s student movement puts forward Professor Saičić as its presidential candidate",
+    "link": "https://www.euronews.com/2026/11/27/serbias-student-movement-puts-forward-professor-saicic-as-its-presidential-candidate",
+    "published": "2026-11-27T18:01:27Z",
+    "used_text": "Saičić was selected for his academic achievements, personal integrity and reserved public profile, which set him apart from Serbia’s established political figures."
+   },
+   {
+    "source": "DW",
+    "title": "Serbia's Student List runs chemistry professor Radomir Saicic for president",
+    "link": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-27T16:09:00Z",
+    "used_text": "After ousting strongman Aleksandar Vucic, Serbia's student movement has now nominated academic Radomir Saicic for the upcoming presidential vote. Saicic accused the \"outgoing regime\" of trying to collapse the state."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
+    "link": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
+    "published": "2026-11-27T15:26:50Z",
+    "used_text": "Radomir Saicic, who teaches at Belgrade University, was among the first university professors to join the movement."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-serbia-s-student-movement-nominates-university-professor-for-presidency-8867.html"
+ },
+ {
+  "id": "29124ee84f060d10",
+  "region": "international",
+  "category": "sports",
+  "title": "Nottingham Forest Defeats Chelsea as Gibbs-White Shines",
+  "summary": "Nottingham Forest secured a 3-2 victory over Chelsea in the Premier League, featuring goals from Igor Jesus and Morgan Gibbs-White.",
+  "paragraphs": [
+   "BBC News reported that Nottingham Forest defeated a struggling Chelsea side 3-2 at the City Ground for the first time since 1997. Morgan Gibbs-White scored two goals, while Igor Jesus contributed a stunning volley.",
+   "Following the match, BBC News noted that Chelsea manager Xabi Alonso called for togetherness after his team fell to their third consecutive defeat. Meanwhile, Nottingham Forest head coach Oliver Glasner praised Igor Jesus's performance, and defender Wesley Fofana was booed by his own fans."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+    "link": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T22:47:57Z",
+    "used_text": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League."
+   },
+   {
+    "source": "BBC News",
+    "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T22:45:22Z",
+    "used_text": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League."
+   },
+   {
+    "source": "BBC News",
+    "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T22:30:22Z",
+    "used_text": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row."
+   },
+   {
+    "source": "BBC News",
+    "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T21:59:48Z",
+    "used_text": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997."
+   },
+   {
+    "source": "BBC News",
+    "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-27T21:31:54Z",
+    "used_text": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview."
+   }
+  ],
+  "created": "2026-11-27T23:25:33Z",
+  "url": "a/2026-11-27-nottingham-forest-defeats-chelsea-as-gibbs-white-shines-2912.html"
+ },
+ {
   "id": "1b49b41eeeb3cf17",
   "region": "local",
   "category": "news",
