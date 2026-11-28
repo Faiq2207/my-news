@@ -1,5 +1,649 @@
 [
  {
+  "id": "428df6e72d45644e",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistani Leaders Hold Call with Astronaut Zeeshan Ali in Space",
+  "summary": "Prime Minister Shehbaz Sharif and Chief of Defence Forces Field Marshal Syed Asim Munir spoke with Pakistani astronaut Zeeshan Ali aboard China's space station.",
+  "paragraphs": [
+   "Prime Minister Shehbaz Sharif and Chief of Defence Forces and Chief of the Army Staff Field Marshal Syed Asim Munir held a conversation on Saturday with Pakistani astronaut Zeeshan Ali, according to Dawn, Dunya News, Express Tribune, Geo News, and Samaa. Dawn reported that Ali is aboard the Shenzhou-24 mission, while Geo News specified that he is stationed on the Tiangong space station.",
+   "According to Dawn, Ali became the first Pakistani in orbit on Wednesday. Express Tribune reported that the premier and field marshal lauded the space mission as a historic achievement and praised the enduring friendship between Pakistan and China. In addition, Aaj News reported that the astronaut has commenced scientific experiments while in space."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "‘Beacon of light’: PM Shehbaz, CDF Munir speak with astronaut Zeeshan Ali aboard China’s space station",
+    "link": "https://www.dawn.com/news/2047663/beacon-of-light-pm-shehbaz-cdf-munir-speak-with-astronaut-zeeshan-ali-aboard-chinas-space-station",
+    "published": "2026-11-28T11:25:43Z",
+    "used_text": "Prime Minister Shehbaz Sharif and Chief of Defence Forces and Chief of the Army Staff Field Marshal Syed Asim Munir held a phone call on Saturday with Pakistani astronaut Zeeshan Ali, who is aboard the Shenzhou-24 mission . On Wednesday, Ali became the first Pakistani in orbit and also the first…"
+   },
+   {
+    "source": "Samaa",
+    "title": "PM Shehbaz, Asim Munir speak to Pakistani astronaut in space",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalhZcG1XS29pdjlIY2VXQUNCMVZYZ2s0blpUS055MV9hUFo1R2hoYVJFMVRfMnk2UXZmVEFjTThkdGdqb2RqQlNER3dfTUxnTFh1aVg4bUFhbEdFRlB2TWM3ZEVFREJybzU1UGY1T0lyalFTV2M5SlVoUVpjRjhLMTBTb0NDZTdhSWRaNUpISTBDYnlLRkE?oc=5",
+    "published": "2026-11-28T11:09:21Z",
+    "used_text": ""
+   },
+   {
+    "source": "Geo News",
+    "title": "PM Shehbaz, CDF Munir speak live with Pakistani astronaut aboard Tiangong space station",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWMydW85STNFTjdZbzFidTI2OTFrZURORVVsQ0kzNnMtRDlSVE5nWE84eGx6aVhSNVRCZ0VkaXBHWEpUTFV2bzNUSWhQME9RdjhsazRHMGdVMFVld0lpcVowcmg3dzFyZjNqSmozUktsUzJTcm00dzZtdC10UE9LaVdQUHJaUHhqbEZ2Y0d4UC1LMmhpMnNzZzkyeUs0V1NPbndGdUQ0OE9qQWxFdXVEcFBFaFh1aWxwMl9z?oc=5",
+    "published": "2026-11-28T10:50:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "PM Shehbaz, Field Marshal speak with Pakistani astronaut aboard Chinese space station",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONnkzYkxsSkp1Z01MMlNtbVBLbHJUSlRmdm1vYmNGa1lDTmo2RndrMS1IY2dLS21VR21rdEhjU24zQlZnbC1tM1hkMXZyZGFzMHBkYVMySnFjZlR2MGM0Yi1OTDdiVTVYRkVaYnpTYnRGNDBJTFNQRl9majNUejhSU3NfX1pjaFBUckl5UDhwVkNXRENwb2Z5QjZlaTVvOV9FU0FPck9wdlUwenE5SzNsSkFGYjNrZ9IBVkFVX3lxTE9pX1NJUlVsdVZsZXJSa0Zib3lWS2tmY1FJU2lwSzNuT3JqbUcxQ0hyZUxWNXRsODkyamt1TzAwQ3BLcGJyTnBXZkhNVXlINHJ1dHF1Q193?oc=5",
+    "published": "2026-11-28T08:56:44Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan's first astronaut begins scientific experiments in space",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmVVVzFiQzZyVkR5Q0VVQTZoM2I4YnhnYWpBdktESlB5a1dJWmxFWG9hQk1UT0hUNzNpaEtCX1NQMkU2cHc5ZVcyc1EzQ3RKdlI5Q0d2ZjZ6cVRrR1FRd3h4cUV5MG9Hcm85UllYdENfMEcxaVZHMGE5SUJzQld0TkhfVFV3QkZFd1dpMHk4QnRZc1BOUmhXd2NxQzlEZWJoclkyXw?oc=5",
+    "published": "2026-11-28T05:40:39Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "PM Shehbaz, CDF Munir speak to Pakistan's first astronaut Zeeshan Ali in space",
+    "link": "https://tribune.com.pk/story/2642808/pm-shehbaz-cdf-munir-speak-to-pakistans-first-astronaut-zeeshan-ali-in-space",
+    "published": "2026-11-28T04:40:15Z",
+    "used_text": "Premier, field marshal hail space mission as historic achievement, praise enduring Pakistan-China friendship"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pakistani-leaders-hold-call-with-astronaut-zeeshan-ali-in-428d.html"
+ },
+ {
+  "id": "8acf8d54651b8c79",
+  "region": "local",
+  "category": "news",
+  "title": "Severe Air Pollution Affects Lahore and Other Pakistani Cities",
+  "summary": "Lahore's air quality has plunged into hazardous territory, placing it among the most polluted cities globally.",
+  "paragraphs": [
+   "Air quality across several cities in Pakistan has deteriorated significantly, with Lahore experiencing severe pollution levels. According to Dawn, Lahore was ranked as the world's most polluted major city on Saturday morning by monitoring firm IQAir as its air quality index hit 400. Dawn added that Peshawar and Sargodha also recorded air quality index figures exceeding 400.",
+   "Other outlets reported varying air quality index figures for Lahore during the period. Dunya News reported that Lahore's air quality worsened as its air quality index rose to 328. Meanwhile, ARY News stated that air pollution in the city reached 330 on the air quality index."
+  ],
+  "sources": [
+   {
+    "source": "Dunya News",
+    "title": "Lahore's air quality worsens as AQI rises to 328",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkZyRldvT1h3b1ZwRUFkRDNOMlpYT251VDBFRjRyLVBVWjkzOVAwbEdfNElKNC1yby0yQzV1VVNudmc2MXYzdGdkVHNLZkhTdUlELUVjeG5zNnhVQmIzdHVZcUZNOVgxUE5JbzVBWG1GS19fWjZ5dFBpcnpoS24zNWN3aGZ5eHh5a2xhLXZPNjBsQk1rZWNjYtIBVkFVX3lxTFBnSUF4RmJlSUlZcWlYQVhPaHc0M3JkMVBnZk9YWjhLTW9sblFnR3hDdnk2alZSeHZjVnR5UlJTUnB2ZUpHMUpIRHZpNU15MlZIZVVGcUFR?oc=5",
+    "published": "2026-11-28T08:56:43Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Lahore ranked world's most polluted major city; Sargodha, Peshawar also record hazardous air",
+    "link": "https://www.dawn.com/news/2047659/lahore-ranked-worlds-most-polluted-major-city-sargodha-peshawar-also-record-hazardous-air",
+    "published": "2026-11-28T08:20:23Z",
+    "used_text": "LAHORE: Lahore was ranked the world’s most polluted “major city” on Saturday morning as its air quality index (AQI) reached 400, while Peshawar and Sargodha also recorded AQIs above 400, according to monitoring firm IQAir . The Swiss air quality monitoring organisation placed Lahore at the top of…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Air pollution in Lahore soars to 330 on air quality index",
+    "link": "https://arynews.tv/air-pollution-in-lahore-soars-330-air-quality-index",
+    "published": "2026-11-28T07:27:44Z",
+    "used_text": "Air pollution in Lahore soars to 330 on air quality index"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-severe-air-pollution-affects-lahore-and-other-pakistani-cities-8acf.html"
+ },
+ {
+  "id": "b7e5139afb6519c5",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan Appoints Moazzam Ali as Diplomatic Envoy to India",
+  "summary": "Pakistan has chosen diplomat Moazzam Ali to serve as its new chargé d'affaires in India.",
+  "paragraphs": [
+   "Pakistan has moved to assign a new head of mission to its diplomatic post in New Delhi. Samaa and ARY News reported that Pakistan has decided to appoint Moazzam Ali as its new chargé d'affaires in India, while Dunya News similarly noted that he is likely to take up the role.",
+   "According to Aaj News, Moazzam Ali will be stepping in to replace Saad Warraich as the country's chargé d'affaires in India."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "Pakistan to appoint Moazzam Ali as new chargé d'affaires in India",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFBTeVVzRmYxSzRyOFc4V2JiY0pMUHNvYTVNdEFmQ3hFbnIxYkR6LTVvVXpfTVhnRzFsbF82R0J5emhHSnJfaWg0NlZ6V3BkbUFDWlFjaUtzSEJIbk5vUkF6dHJSM0hsVW5GRFNKVGZicjU3SjhPWTQxckNSVTBZUFZTeWUyM245TjNobmRoVlNsN04zaEplNHJ4eks?oc=5",
+    "published": "2026-11-28T10:37:08Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Muazam Ali likely to be appointed Pakistan's new envoy to India",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3FkY0lFNVpXOWVDdFB0VlJEbzZiRXVldEpXNWpzRFREZDQyVW9uWGdMOGRaNkF0dE1nT0U0akVLck1weXRqOF9BWmNzbzR4R0JITEJuU3FyaGpBNnBtbTc5OTZMUlgxWDNYNFFwZEZRdW01QTdva19xaDkwUHVxRU84cU5HU2taaUtwNklpbmYxMzNyTHJZNXlzSzlsajhGeUpNWU1ZS3NVaW5TNzUwS3pvaTlCN1ItU1HSAVZBVV95cUxQRGhHek5rc2Y2ZFNBRFdSRmROMlYzWk5xZUVXS3FRNmtCOGt4OGotRmI2ZjdmOG5hWW1oZkFnQ0swWjRpNjZkTnlFMG1uN3hsNWNUZHBFZw?oc=5",
+    "published": "2026-11-28T10:05:59Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Pakistan picks Moazam Ali for key diplomatic post in India",
+    "link": "https://arynews.tv/pakistan-picks-moazam-ali-for-key-diplomatic-post-in-india",
+    "published": "2026-11-28T09:17:52Z",
+    "used_text": "Pakistan picks Moazam Ali for key diplomatic post in India"
+   },
+   {
+    "source": "Aaj News",
+    "title": "Moazzam Ali to replace Saad Warraich as chargé d'affaires in India",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXV5am9ya1FnUnNRVDdwUUpUMVRtVFhLVlhrUmlHLXFzbDkwdjZwVDNfeVNJbUpyVzJERHVKazZWMEp2UEV1S3AtM0ZBNmV3ME8yT0pxWVFWanZtVzNhbE5sMl92anVoQ1MxNWNiTmJQWHpLTjRQUnZ4SWVhSlRPY1E5QlBNb2ctWFJwYjhIM3pxUUtkWkJ4ZFd6U2lFbXFNYkFicVZ3?oc=5",
+    "published": "2026-11-28T07:26:00Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pakistan-appoints-moazzam-ali-as-diplomatic-envoy-to-india-b7e5.html"
+ },
+ {
+  "id": "1fdfc1ebe7ad245c",
+  "region": "local",
+  "category": "news",
+  "title": "Prime Minister Orders Care for Drone-Hit Citizen in Kuwait",
+  "summary": "Pakistani authorities have intervened to ensure medical attention for a citizen wounded in a Kuwait drone incident.",
+  "paragraphs": [
+   "Prime Minister Shehbaz Sharif has issued instructions to provide comprehensive medical support to a Pakistani national who sustained injuries in Kuwait. Dunya News reported that the citizen was injured in a drone strike, prompting the prime minister to order the provision of the best available medical treatment.",
+   "According to ARY News, the prime minister specifically directed the Pakistani ambassador to ensure optimal care for the affected citizen. Aaj News reported that Pakistan's ambassador subsequently visited the injured national following the drone attack."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "PM directs Pak Amb. to ensure best care for injured Pakistani citizen in Kuwait",
+    "link": "https://arynews.tv/pm-directs-pak-amb-to-ensure-best-care-for-injured-pakistani-citizen-in-kuwait",
+    "published": "2026-11-28T11:13:01Z",
+    "used_text": "PM directs Pak Amb. to ensure best care for injured Pakistani citizen in Kuwait"
+   },
+   {
+    "source": "Dunya News",
+    "title": "PM Shehbaz orders best medical care for drone-hit Pakistani in Kuwait",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNndpbFJYNVR2QkZnRGZWMzRYRjREMVh4VWNUdjNJbkI5MTN0N1hfMzhLOVlRRzNQV2dRalltZmJwenpNZ3pBQm5mLXdoSnlra2R6YzlNbnktdkZwbkM1U2dFLWV4b2lQbzZXSGJhNWNnSjJNUkZOb2EwYnBRUjVxUXZHclNNY3M0elRzMVVmaXBvcVVhMFVVdF9LdVZ5OU1nUTRORlUzR0QyZWc2Y203UzUxekfSAVZBVV95cUxQOXY1SG52aHNka0lvNHBTYXNrZXpwZ3RLdW0zN2phWEhuVjBlXzFjN29jSGdBRTJrOFdkaml3V0xpRFRua2ZsbVBpN1FXazhFTkJQaWdsdw?oc=5",
+    "published": "2026-11-28T08:56:48Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan's ambassador visits citizen injured in drone attack in Kuwait",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2xDUGpYUUFmMy10VEl4Mi1rM3Z4MUU4V0wzMnhlZWYyMG5Mend4S3NXaV9iRlhWMnFFb2cyeUE2Q1FDVEZYX2VvYlByRG81NWNrWkhUVXp0ei1FWG5ucXZ0UGhZMnVvNFktN0hPSXJGVWJzN1ZEVGJRSjVpRTE2MWVSTzRPeDVsYTlJc3Z3enZDN3VJMEQtRXRJNFBUaUgxYTl1MEJISzZaMk0?oc=5",
+    "published": "2026-11-28T07:05:22Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-prime-minister-orders-care-for-drone-hit-citizen-in-1fdf.html"
+ },
+ {
+  "id": "33fba352cfe1fd01",
+  "region": "local",
+  "category": "news",
+  "title": "Submarine Cable Fault Repaired, Restoring Internet Across Pakistan",
+  "summary": "Authorities have announced that internet services across Pakistan are back to normal following repairs to the SMW5 submarine cable.",
+  "paragraphs": [
+   "Internet services across Pakistan have returned to regular functionality after technical teams resolved an international connectivity fault. Samaa reported on Saturday that the issue affecting the SMW-5 cable had been repaired, leading to the full restoration of internet connectivity across the country.",
+   "Dawn reported that the Pakistan Telecommunication Authority confirmed the restoration of the SEA-ME-WE 5 submarine cable system following the completion of repairs. The Pakistan Telecommunication Authority stated that services nationwide had normalised, having previously reported on November 18 that a fault had occurred."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "SMW-5 cable fault fixed, internet services restored across Pakistan",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVhxWWZta1p2YTVGdkdWNW9xcmE5UUlBY25hUVRCelRhRmwyLW5JeVl1clhTajBSRXhpSzduOUJkXzFVWDRkNVAycmxOaHdUUWI2NF9Za2oya0ZiNTBqYk5IQTdwcjZ1anhpbTNHX1JVVDB4bjBOaUZKLVZmaExiMGZhNmFJUS15cTgydm5nS1VYYnlRYUZlTUt6WmZUdFU?oc=5",
+    "published": "2026-11-28T10:12:48Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "PTA says submarine cable fault fixed, internet services return to normal",
+    "link": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+    "published": "2026-11-28T09:37:06Z",
+    "used_text": "The Pakistan Telecommunication Authority (PTA) on Saturday announced the restoration of the SEA-ME-WE 5 (SMW5) international submarine cable system following the repair of a fault, saying internet services across the country had returned to normal. On November 18, PTA said that a fault had been…"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-submarine-cable-fault-repaired-restoring-internet-across-pakistan-33fb.html"
+ },
+ {
+  "id": "3457748b8d16df44",
+  "region": "local",
+  "category": "news",
+  "title": "Authorities Seal Maulana Fazlur Rehman's Islamabad Residence",
+  "summary": "Capital authorities have sealed the official residence of JUI-F chief Maulana Fazlur Rehman in Islamabad.",
+  "paragraphs": [
+   "The Capital Development Authority sealed the Islamabad residence of Jamiat Ulema-i-Islam-Fazl chief Maulana Fazlur Rehman on Saturday, according to Dawn. Dawn reported that the action was carried out after the national identity card of the property's legal owner was cancelled, noting that the measure occurred amid ongoing tensions between the political party and the government.",
+   "Reporting on the incident, ARY News stated that Fazlur Rehman's residence was sealed and added that his son was arrested. Additionally, Dawn reported that JUI-F staged protests on Friday across Khyber Pakhtunkhwa, Balochistan, and parts of Punjab over the alleged detention of its leader, although police denied taking Fazlur Rehman into custody."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "CDA seals Fazl’s Islamabad residence after 'foreign' owner's CNIC cancelled",
+    "link": "https://www.dawn.com/news/2047652/cda-seals-fazls-islamabad-residence-after-foreign-owners-cnic-cancelled",
+    "published": "2026-11-28T10:35:23Z",
+    "used_text": "ISLAMABAD: The Capital Development Authority (CDA) on Saturday sealed the Islamabad residence of Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman after the identity card of the property’s legal owner was cancelled. The move comes amid continuing tensions between the JUI-F and the…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Maulana Fazlur Rehman’s Islamabad residence sealed, son arrested",
+    "link": "https://arynews.tv/maulana-fazlur-rehmans-islamabad-residence-sealed-son-arrested",
+    "published": "2026-11-28T06:32:31Z",
+    "used_text": "Maulana Fazlur Rehman’s Islamabad residence sealed, son arrested"
+   },
+   {
+    "source": "Dawn",
+    "title": "JUI-F claims scores held amid protests",
+    "link": "https://www.dawn.com/news/2047559/jui-f-claims-scores-held-amid-protests",
+    "published": "2026-11-28T03:23:14Z",
+    "used_text": "PESHAWAR/LAHORE/QUETTA: The JUI-F held protests across Khyber Pakhtunkhwa, Balochistan and parts of Punjab on Friday against the alleged detention of its chief, Maulana Fazlur Rehman, even as police denied that the party leader had been taken into custody. Meanwhile, police continued to round up…"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-authorities-seal-maulana-fazlur-rehman-s-islamabad-residence-3457.html"
+ },
+ {
+  "id": "1749cd381ada4d46",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Shaheens Advance to ACC Rising Stars Asia Cup Final",
+  "summary": "Pakistan Shaheens secured their spot in the Rising Stars Asia Cup final after defeating Bangladesh.",
+  "paragraphs": [
+   "Pakistan Shaheens have advanced to the final of the ACC Rising Stars tournament. Dunya News reported that the team secured their place in the championship match by defeating Bangladesh by 5 wickets.",
+   "According to Dunya News, Pakistan Shaheens are scheduled to play against Sri Lanka A in the final on Sunday. Aaj News added that the undefeated squad is aiming to secure its fourth ACC Rising Stars title."
+  ],
+  "sources": [
+   {
+    "source": "Aaj News",
+    "title": "Unbeaten Pakistan Shaheens eye fourth ACC Rising Stars title",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWVOMm05Nmptc1d2Z1dwaFVBamhKeUJlcHEwTHZIbDR3WFM2Y3k1bTRJX3VhLVlOUE51T2wzTy1FZEhwd0Roekt5UXA5bDNWOWdFR3VicG8tbkN3OEE3X3NCdDNEUTEzNlVtMXowakt1cjNzM1RyZTdUaVpmN0xnSXZ5M1dHUFdiejZiTUYxaTZ6a2g4VVBCMEhiNVVxMDg?oc=5",
+    "published": "2026-11-28T11:02:31Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Pakistan Shaheens to take on Sri Lanka A in Asia Cup Rising Stars final on Sunday",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXJXOS00OTNvZmJlVGNfY3poZ0Itc01XSUxEcVBHem01VWlZVW94S2IwbjJJcW9SbURrdld5TXczbG5SZkVsbWhqTEQxMDN5ZGJ5S3BUM3dFX2RfYm11YW1QM3FmdmlFUmJDampxaWh4YnR0bW5kUUVCcmR1ejZxbWRiY0J6c3pJUzU1aGNQb3VWUUpabHBtcXV1YVZNTzhycTFhcU9abGxpV3o5bmVvWFA0NWVHUnZITUNGVGdRZjBxd9IBVkFVX3lxTE1ySEwzY3FCT19tdzFnSFRmMFFuamlCazdqV1Jzc01HOUF0dkd1TWMzSjhoRXBBRzdtSEt5eG5ZZUdMZGw0VFk0SURWVW5iVURpYjdBdU9n?oc=5",
+    "published": "2026-11-28T08:56:48Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Pakistan beat Bangladesh by 5 wickets to Reach Asia Cup Rising Stars Final",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1h6NE1oVl9VTUlyWkowckZDLXdsVlJVTzlVSXFkSlV5cUZhZDJzeDlVeHZlZ3g4WnVmNzgzSGZIWTBWOEdhak9NSlhhSnZlUGxIa1ExSXpxazdPVmVCdnhBaU1hRS0zMVpoTHFkQTlKWjlSVjJnVnRab1VkSnZsY0p1ZnFTU2FpN3FuRjNGMjNxdjZiMWZaUXFrXzk2WFlZU3l1R3lrczJiTmdjcjdRaURXMHU?oc=5",
+    "published": "2026-11-28T00:58:21Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pakistan-shaheens-advance-to-acc-rising-stars-asia-cup-1749.html"
+ },
+ {
+  "id": "7a006f4912627584",
+  "region": "local",
+  "category": "sports",
+  "title": "Army Retains Title at National Taekwondo Championships",
+  "summary": "Pakistan Army clinched the 19th Korean Ambassador National Taekwondo Championship with 40 gold medals.",
+  "paragraphs": [
+   "Pakistan Army put on a dominant showing at the 19th Korean Ambassador National Taekwondo Championships held in Islamabad, according to Express Tribune.",
+   "Express Tribune reported that Army retained the overall championship title after securing an impressive haul of 40 gold medals during the competition."
+  ],
+  "sources": [
+   {
+    "source": "Express Tribune",
+    "title": "Army dominate National Taekwondo Championships with 40 gold medals",
+    "link": "https://tribune.com.pk/story/2642809/army-dominate-national-taekwondo-championships-with-40-gold-medals",
+    "published": "2026-11-28T04:53:52Z",
+    "used_text": "Army retain overall title at the 19th Korean Ambassador Championship in Islamabad"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-army-retains-title-at-national-taekwondo-championships-7a00.html"
+ },
+ {
+  "id": "aa4b400fa2c49269",
+  "region": "international",
+  "category": "news",
+  "title": "Deadly Blast Near Afghan School Prompts Conflicting Casualty Reports",
+  "summary": "An explosion near a school in Afghanistan has resulted in conflicting casualty figures from officials.",
+  "paragraphs": [
+   "An explosion next to an Afghan middle school has caused dozens of casualties, according to multiple news outlets. BBC News reported that a spokesperson for Afghanistan's interior ministry said the blast killed 10 students and injured more than 100 people, attributing the incident to carelessness at a nearby explosives depot.",
+   "However, Al Jazeera reported different figures, stating that at least six students were killed and 97 injured beside the school in Asadabad, Kunar province. An official cautioned to Al Jazeera that these numbers were preliminary and subject to change. DW reported that officials linked the blast to improperly stored explosives that ignited at a mining site, damaging surrounding buildings.",
+   "Authorities noted that an investigation into the explosion remains ongoing, according to DW."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T11:18:37Z",
+    "used_text": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
+   },
+   {
+    "source": "DW",
+    "title": "Afghanistan: Several killed in blast near middle school",
+    "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T10:21:00Z",
+    "used_text": "Officials have said improperly stored explosives at a mining site ignited, damaging nearby buildings including a school. An investigation is ongoing."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Several students killed in blast beside Afghan school",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+    "published": "2026-11-28T10:05:26Z",
+    "used_text": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
+    "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+    "published": "2026-11-28T07:42:09Z",
+    "used_text": "Official says the figures were preliminary and the casualty numbers could change as more information becomes available."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-deadly-blast-near-afghan-school-prompts-conflicting-casualty-reports-aa4b.html"
+ },
+ {
+  "id": "98bc2d4b2c371575",
+  "region": "international",
+  "category": "news",
+  "title": "MSF Clinic Struck in Gaza as Israel Labels Deceased Staff as Militants",
+  "summary": "An Israeli strike on a Doctors Without Borders clinic in Gaza has killed two staff members, drawing international condemnation.",
+  "paragraphs": [
+   "Doctors Without Borders (MSF) confirmed that an Israeli strike hit one of its clinics in Gaza, killing two staff members who were working as watchmen, according to reports from France 24 and Al Jazeera. MSF maintained that its premises were clearly marked with official logos and that its exact location had been communicated to and known by the Israeli military.",
+   "In contrast, the Israeli military labelled the two individuals as Hamas terrorists and stated it targeted militants during the operation, BBC News and France 24 reported. The lethal strike on the medical facility was formally condemned by the World Health Organization, according to BBC News."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+    "link": "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza",
+    "published": "2026-11-28T11:23:55Z",
+    "used_text": "Doctors Without Borders (MSF) said Saturday an Israeli strike killed two staff members at a clinic in Gaza, with the Israeli army labelling the pair as Hamas \"terrorists\". Noga Tarnopolsky is live from Jerusalem."
+   },
+   {
+    "source": "BBC News",
+    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T10:34:58Z",
+    "used_text": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+    "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+    "published": "2026-11-28T03:45:58Z",
+    "used_text": "MSF says premises 'clearly marked' with its logos, location communicated to and known by Israeli military."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+    "published": "2026-11-28T01:55:03Z",
+    "used_text": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-msf-clinic-struck-in-gaza-as-israel-labels-deceased-98bc.html"
+ },
+ {
+  "id": "be21306a8734ad4f",
+  "region": "international",
+  "category": "news",
+  "title": "Spain Faces High-Stakes Snap Election Amid Political Polarization",
+  "summary": "Spain heads to the polls as Prime Minister Pedro Sanchez seeks re-election against surging conservative and far-right parties.",
+  "paragraphs": [
+   "Spanish voters are heading to the polls on Sunday in a pivotal snap election that could end Prime Minister Pedro Sanchez's 8 years of leftist governance, DW and France 24 reported. A political shift to the right in Madrid could significantly alter Spain's policies regarding defense, migration, and the war in Gaza, according to DW.",
+   "Al Jazeera reported that opinion polls suggest the conservative PP and the far-right Vox could secure a governing majority. Sanchez issued a final plea urging citizens to vote in large numbers to prevent the nation from going backwards, DW noted.",
+   "France 24 highlighted that Vox centered its political campaign on immigration, a topic that intensified after tens of thousands of migrants crossed into Ceuta from Morocco in July."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "As Spain votes, what could change for Europe?",
+    "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T11:24:00Z",
+    "used_text": "Spain votes on Sunday. A loss for Pedro Sanchez and a shift to the right in Madrid could affect how one of the EU's largest countries approaches migration, defense and the war in Gaza."
+   },
+   {
+    "source": "France 24",
+    "title": "What are the main issues driving Spain's national election ?",
+    "link": "https://www.france24.com/en/what-are-the-main-issues-driving-spain-s-national-election",
+    "published": "2026-11-28T10:41:30Z",
+    "used_text": "Spain will elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez. The progressive leader has governed Spain for 8 years, presiding over several crises, years of economic expansion and immigration-led population growth. No issue, however, has affected…"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+    "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+    "published": "2026-11-28T10:36:41Z",
+    "used_text": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority."
+   },
+   {
+    "source": "France 24",
+    "title": "Immigration, a key issue in Sunday's Spanish snap election",
+    "link": "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election",
+    "published": "2026-11-28T10:30:47Z",
+    "used_text": "Vox has focused its campaign on immigration, which dominated politics after tens of thousands of migrants streamed into Spain's north African city of Ceuta from Morocco in July."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Spain faces political shift as far right gains ground",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+    "published": "2026-11-28T08:54:02Z",
+    "used_text": "Spain faces political shift as far right gains ground"
+   },
+   {
+    "source": "DW",
+    "title": "Spain's Sanchez makes final appeal to voters before election",
+    "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T00:51:00Z",
+    "used_text": "Spanish Prime Minister Pedro Sanchez told people to turn out in large numbers so the country does not go \"backwards.\" Polls suggest an end to his eight-year leftist leadership of Spain."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-spain-faces-high-stakes-snap-election-amid-political-polarization-be21.html"
+ },
+ {
+  "id": "c78debbd2ff8c65b",
+  "region": "international",
+  "category": "news",
+  "title": "Taiwan Chooses Local Leaders Across 22 Cities and Counties",
+  "summary": "Taiwan holds local elections across 22 administrative divisions under intense scrutiny from Beijing.",
+  "paragraphs": [
+   "Taiwan has held local elections to select mayors and other civic leaders across 22 cities and counties, according to reports from France 24 and DW. Al Jazeera noted that the mayoral race in Taipei, an opposition Kuomintang stronghold, serves as an important test for the ruling Democratic Progressive Party.",
+   "While campaigning largely focused on everyday matters like transport and childcare, authorities in Taiwan accused China of attempting to interfere and undermine confidence in the island's electoral procedures, France 24 and DW reported. Chinese officials firmly rejected these accusations.",
+   "In the capital's race, Taiwanese media outlets reported on Saturday that Taipei Mayor Chiang Wan-an held a lead in the ballot count over opponent Puma Shen, France 24 reported."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Taiwan holds elections to choose mayors and other local leaders",
+    "link": "https://www.france24.com/en/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders",
+    "published": "2026-11-28T11:06:49Z",
+    "used_text": "Jan Camenzind Broomby is live from Taipei, Taiwan."
+   },
+   {
+    "source": "France 24",
+    "title": "Taiwan awaits local election results as China watches",
+    "link": "https://www.france24.com/en/taiwan-awaits-local-election-results-as-china-watches",
+    "published": "2026-11-28T10:49:21Z",
+    "used_text": "Taipei Mayor ​Chiang Wan-an ​is leading in the vote count in ​an ‌election ⁠against his opponent Puma ‌Shen, Taiwan media outlets ⁠reported on Saturday."
+   },
+   {
+    "source": "NHK World",
+    "title": "Taiwanese head to polls in bellwether vote | NHK WORLD-JAPAN News",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnMXpTUzhtclRIR2hEbTRYNkphcVE3eTBLOEZXNmRlWC03R3hHZ1VscEpibU5id2pEVXJpNWQ2bjNrV1FZa18zVkVGeExpOWZ2Y2tDYlpuNkkzYUZaZ0FYR1I1RQ?oc=5",
+    "published": "2026-11-28T08:38:19Z",
+    "used_text": ""
+   },
+   {
+    "source": "France 24",
+    "title": "Taiwan holds local elections under Beijing's watchful gaze",
+    "link": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+    "published": "2026-11-28T06:25:33Z",
+    "used_text": "Taiwan is electing local leaders across 22 cities and counties on Saturday amid accusations by Taiwanese authorities of attempts by China to interfere and sow distrust in the island-nation’s electoral system. Chinese authorities reject the allegations."
+   },
+   {
+    "source": "DW",
+    "title": "Polls open in Taiwan's closely watched local elections",
+    "link": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T02:37:00Z",
+    "used_text": "Polls have opened for local elections in Taiwan. While campaigners have stayed away from the topic of China and focused on issues like transport and childcare, Beijing has repeatedly weighed in."
+   },
+   {
+    "source": "DW",
+    "title": "Polls close in Taiwan's closely watched local elections",
+    "link": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T02:37:00Z",
+    "used_text": "While campaigners have stayed away from the topic of China and focused on issues like transport and childcare, Beijing is putting pressure on the progressive candidate for Taipei mayor."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Taiwan votes in local elections to choose mayors, other leaders",
+    "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+    "published": "2026-11-28T02:05:27Z",
+    "used_text": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-taiwan-chooses-local-leaders-across-22-cities-and-counties-c78d.html"
+ },
+ {
+  "id": "dfb1ecb532522a23",
+  "region": "international",
+  "category": "news",
+  "title": "Pentagon Insists Networks Are Safe After Alleged Cloud One Hack",
+  "summary": "The US military maintains its systems remain secure following reports that its Cloud One platform was breached.",
+  "paragraphs": [
+   "Media reports revealed that hackers breached the US Air Force's Cloud One computing platform late Friday, creating concerns that sensitive military data might have been exposed, France 24 reported. Euronews noted that the US military insisted the Cloud One platform was secured following the news.",
+   "Without specifically denying that an intrusion occurred, the Pentagon emphasized that its broader computing networks remain secure amid an ongoing series of cyber-related data incidents, according to reporting by France 24 and Euronews."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "US military denied any issues with computing platform after hack reported",
+    "link": "https://www.euronews.com/2026/11/28/us-military-denied-any-issues-with-computing-platform-after-hack-reported",
+    "published": "2026-11-28T11:06:45Z",
+    "used_text": "Without denying having been hacked, the US military said its Cloud One computer platform was secured following media reports of US Air Force platform hack."
+   },
+   {
+    "source": "France 24",
+    "title": "Hackers reportedly breach US Air Force cloud platform as Pentagon insists systems are secure",
+    "link": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+    "published": "2026-11-28T06:04:56Z",
+    "used_text": "Hackers reportedly breached the US Air Force's Cloud One platform late Friday, potentially exposing sensitive military data. The Pentagon did not specifically deny that the system had been accessed, but insists its networks remain secure amid an ongoing spate of cyber-related data incidents."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pentagon-insists-networks-are-safe-after-alleged-cloud-one-dfb1.html"
+ },
+ {
+  "id": "85b3e012cdbd64bd",
+  "region": "international",
+  "category": "news",
+  "title": "Demonstrations Across France Denounce Violence Against Women",
+  "summary": "Thousands of protesters gather across France to demand action against violence towards women.",
+  "paragraphs": [
+   "Nationwide demonstrations against violence towards women took place across France on Saturday, France 24 reported. The marches were organized to bring together thousands of participants, including members of feminist organisations, labour unions, students, and Yellow Vest activists.",
+   "According to France 24, an estimated 840 million women globally are subjected to violence. The protests unfolded alongside a broader wave of social unrest in France, which has seen ongoing cost-of-living demonstrations, France 24 noted."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "France holds nationwide protests against violence towards women",
+    "link": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women",
+    "published": "2026-11-28T11:25:52Z",
+    "used_text": "Estimated 840 million women globally are subjected to violence."
+   },
+   {
+    "source": "France 24",
+    "title": "France holds nationwide protests against violence towards women",
+    "link": "https://www.france24.com/en/france/20261128-france-holds-nationwide-protests-against-violence-towards-women",
+    "published": "2026-11-28T10:59:52Z",
+    "used_text": "Demonstrations condemning violence against women are set to draw thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists expected to take part. The marches come amid a broader wave of social unrest, with cost-of-living protests entering…"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-demonstrations-across-france-denounce-violence-against-women-85b3.html"
+ },
+ {
+  "id": "416e6cd53b90841d",
+  "region": "international",
+  "category": "news",
+  "title": "US Military Fires at Vessel to Enforce Blockade on Iranian Ports",
+  "summary": "American forces fired on and disabled a commercial vessel attempting to violate a blockade on Iranian ports.",
+  "paragraphs": [
+   "The US military fired at and disabled a commercial ship after it breached a strict naval containment zone around Iranian ports, according to Euronews and Al Jazeera. The incident occurred on Thursday after the vessel departed an Iranian port and failed to follow orders.",
+   "Al Jazeera reported that the ship was disabled after ignoring warnings to stop, with Euronews confirming the military took action to uphold its naval containment policy.",
+   "Separately, Italian Foreign Minister Antonio Tajani announced that a drone utilized in a deadly attack in Kuwait had been manufactured in Iran, according to Al Jazeera."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "US military fires at a ship that violated blockade of Iranian ports",
+    "link": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
+    "published": "2026-11-28T06:55:55Z",
+    "used_text": "US military maintained a \"strict\" blockade of Iranian ports by firing at a ship that violated the naval containment on Thursday."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+    "published": "2026-11-28T00:00:00Z",
+    "used_text": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "US disables ship attempting to breach Iran blockade",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+    "published": "2026-11-27T23:55:16Z",
+    "used_text": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-us-military-fires-at-vessel-to-enforce-blockade-on-416e.html"
+ },
+ {
+  "id": "2ab1c0ab24fe6893",
+  "region": "international",
+  "category": "sports",
+  "title": "Andy Farrell Praises Progress as Ireland Conclude 2026 With Victory Over Australia",
+  "summary": "Ireland head coach Andy Farrell highlighted positive team momentum after finishing the year with a win over the Wallabies.",
+  "paragraphs": [
+   "Ireland concluded their 2026 rugby campaign on a high note by securing a victory against the Wallabies, BBC News reported. The triumph over Australia marked Ireland's fourth consecutive victory to close out the calendar year.",
+   "Head coach Andy Farrell offered an upbeat assessment following the match, expressing that he sensed a positive shift in his squad's ongoing development, according to BBC News."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Farrell senses 'shift' as Ireland end year strongly with Wallabies win",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6879ezd5r5qo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T00:05:10Z",
+    "used_text": "Ireland head coach Andy Farrell offers an upbeat assessment on his side's progress as they close out 2026 with a fourth straight win."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-andy-farrell-praises-progress-as-ireland-conclude-2026-with-2ab1.html"
+ },
+ {
+  "id": "c97a91b880181429",
+  "region": "international",
+  "category": "sports",
+  "title": "Southampton Coach Tonda Eckert Distances Himself From Middlesbrough Taunts",
+  "summary": "Southampton boss Tonda Eckert stated that taunts directed at Middlesbrough do not originate from him.",
+  "paragraphs": [
+   "Southampton head coach Tonda Eckert has expressed frustration over club-issued taunts aimed at Championship rivals Middlesbrough, BBC News reported.",
+   "Speaking about the rivalry, Eckert made it clear that the jibes did not come from him and emphasized that he was irked by the provocations directed toward the opposing side, according to BBC News."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "'It doesn't come from me' - Eckert irked by Southampton jibes at Boro",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T06:54:09Z",
+    "used_text": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-southampton-coach-tonda-eckert-distances-himself-from-middlesbrough-taunts-c97a.html"
+ },
+ {
   "id": "1c2cc3f756dee028",
   "region": "local",
   "category": "news",
@@ -3061,640 +3705,5 @@
   ],
   "created": "2026-11-25T23:36:38Z",
   "url": "a/2026-11-25-manchester-united-held-by-sporting-lisbon-in-lisbon-draw-6380.html"
- },
- {
-  "id": "27dc34414ab7ed14",
-  "region": "local",
-  "category": "news",
-  "title": "Pakistan's First Astronaut Zeeshan Ali Prepares for Historic Space Mission",
-  "summary": "Forty-year-old pilot Zeeshan Ali is set to become Pakistan's first astronaut in orbit aboard China's Shenzhou-24 mission.",
-  "paragraphs": [
-   "Forty-year-old pilot Zeeshan Ali is set to become Pakistan's first astronaut to enter orbit as part of the three-member crew of China's Shenzhou-24 space mission, according to Dawn. Geo News reported that he received a send-off ahead of the historic spaceflight.",
-   "Dawn reported that the spacecraft will use a Long March-2F rocket and its launch is scheduled for 8:18am Beijing Time, which is 5:18am Pakistan Time."
-  ],
-  "sources": [
-   {
-    "source": "Dawn",
-    "title": "Zeeshan Ali set to become Pakistan's first astronaut in orbit aboard China's Shenzhou-24",
-    "link": "https://www.dawn.com/news/2046753/zeeshan-ali-set-to-become-pakistans-first-astronaut-in-orbit-aboard-chinas-shenzhou-24",
-    "published": "2026-11-24T23:49:18Z",
-    "used_text": "Forty-year-old pilot Zeeshan Ali is set to become Pakistan’s first astronaut to enter orbit as part of the three-member crew of China’s Shenzhou-24 space mission. The launch of the spacecraft, which will use a Long March-2F rocket, is scheduled for 8:18am Beijing Time (5:18am Pakistan Time) from…"
-   },
-   {
-    "source": "Geo News",
-    "title": "Pakistan's first astronaut Zeeshan Ali receives send-off ahead of historic space mission",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUE4Z2haVTFMWS1KVE1MdmNPZ2hHejRzazdUVEcwNjhnU0s4NjN1dUJzdmc5NzVIeDV4TGkxUnBaWmg0VmVBOU9MeVFnNW91anFBdUMxdUpqOXZuXzhaSWJxVFBzTlUxTm0tOFV6REp4TmlSM1B1YndlVm1RbmhPRmJ3NThuVXZqV1RwZXY3aUlZWVJ3bHFabzVuZzZpT0I5bEN3UVNkLUFFblhG?oc=5",
-    "published": "2026-11-24T22:40:50Z",
-    "used_text": ""
-   },
-   {
-    "source": "ARY News",
-    "title": "Pakistan’s first astronaut set for historic spaceflight from China tomorrow",
-    "link": "https://arynews.tv/pakistans-first-astronaut-set-for-historic-spaceflight-from-china-tomorrow",
-    "published": "2026-11-24T19:27:20Z",
-    "used_text": "Pakistan’s first astronaut set for historic spaceflight from China tomorrow"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-pakistan-s-first-astronaut-zeeshan-ali-prepares-for-historic-27dc.html"
- },
- {
-  "id": "ab96b887af5cd22d",
-  "region": "local",
-  "category": "news",
-  "title": "Federal Cabinet Approves Sugar Sector Deregulation Policy",
-  "summary": "The federal cabinet has approved the deregulation of the sugar sector to meet an IMF structural benchmark.",
-  "paragraphs": [
-   "To meet a long-postponed structural benchmark of the International Monetary Fund, the federal cabinet approved the deregulation of the sugar sector, which includes an end to its export subsidies and free movement among the provinces, according to Dawn. Dunya News and Samaa also reported that the federal cabinet approved the sugar sector deregulation policy.",
-   "Dawn noted that the cabinet approved the 'National Policy for...' as part of fulfilling vital IMF requirements."
-  ],
-  "sources": [
-   {
-    "source": "Dunya News",
-    "title": "Federal cabinet approves sugar sector deregulation policy",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUJsSFNXUGczTGNwOE5lWlVDd21yN2l4cTVtTDFiWlptU3IxWEhXakFQd0ZILTBzVkNHMUtIcjFMcm95WVk0NUlTaHFjZktVT2Z4VzdEOUVfSTVyaFNybzNYRHppSnZvNDRyM3JLTkJVU21UaFRSYW1RUlJVNEJ0Vk1uRjZGNWdkYUlIYjN5QUJ0ZDNsVGR5RHRGTXJ0UdIBVkFVX3lxTE5GZGxlVXRVdERZOE1VYzdhZE1DR2sxZnpLcTNvSWg2ZVhGNE5Ib3JIWmVHVG0xczM1WUttTV9PdkpUeklpaURqc3Q3aEx3NmMzTUFBd3hR?oc=5",
-    "published": "2026-11-24T20:34:27Z",
-    "used_text": ""
-   },
-   {
-    "source": "Dawn",
-    "title": "Cabinet approves deregulation of sugar sector to meet vital IMF benchmark",
-    "link": "https://www.dawn.com/news/2046808/cabinet-approves-deregulation-of-sugar-sector-to-meet-imf-benchmark",
-    "published": "2026-11-24T19:57:54Z",
-    "used_text": "ISLAMABAD: To meet a long-postponed structural benchmark of the International Monetary Fund (IMF), the federal cabinet on Tuesday approved the deregulation of the sugar sector, an end to its export subsidies and free movement among the provinces. The cabinet approved the ‘National Policy for…"
-   },
-   {
-    "source": "Samaa",
-    "title": "Federal cabinet approves sugar sector deregulation policy",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDY2ZmxTRzFKamYwSHJPeWhTMWo3eGVkNG03ZjZjaUF3dnlsTG9QMGl4eFJDQnFobG1sMTdSSEs1MjdsdHpTOFJTSjlockV3b3ozZjFqdTc1dHkxUUNkcUMwbkVFcWhidlFqTGstaVJRdWNmXzFwTExROUZoUkZuWmxPU1llTXJQM0xQekcza3VDV3dtVDFRRkhtc1lMd0tDRTY1bVhB?oc=5",
-    "published": "2026-11-24T19:20:14Z",
-    "used_text": ""
-   },
-   {
-    "source": "ARY News",
-    "title": "Federal cabinet approves sugar sector deregulation policy",
-    "link": "https://arynews.tv/federal-cabinet-approves-sugar-sector-deregulation-policy",
-    "published": "2026-11-24T18:54:21Z",
-    "used_text": "Federal cabinet approves sugar sector deregulation policy"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-federal-cabinet-approves-sugar-sector-deregulation-policy-ab96.html"
- },
- {
-  "id": "5504085e6ccb0bac",
-  "region": "local",
-  "category": "news",
-  "title": "Pakistan Customs Seizes Marijuana Parcel in Karachi",
-  "summary": "Pakistan Customs intercepted a suspicious parcel at the International Mail Office and seized 900 grams of marijuana.",
-  "paragraphs": [
-   "Pakistan Customs foiled a narcotics smuggling attempt and seized 900 grams of marijuana during routine scanning at the International Mail Office in Karachi, according to Dawn.",
-   "The Collectorate of Customs airports in Karachi intercepted the suspicious parcel that was Multan-bound."
-  ],
-  "sources": [
-   {
-    "source": "Dawn",
-    "title": "Pakistan Customs seizes nearly 1kg of 'Multan-bound' marijuana in Karachi",
-    "link": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
-    "published": "2026-11-24T20:02:11Z",
-    "used_text": "The Collectorate of Customs (CoC) (airports) in Karachi foiled a narcotics smuggling attempt and seized 900 grams of marijuana during routine scanning at the International Mail Office (IMO), Pakistan Customs said on Tuesday. During routine scanning, Customs staff intercepted a “suspicious parcel”…"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-pakistan-customs-seizes-marijuana-parcel-in-karachi-5504.html"
- },
- {
-  "id": "3466d7b2757a2c2a",
-  "region": "local",
-  "category": "news",
-  "title": "Balochistan Government Announces Bounties for Wanted Terrorists",
-  "summary": "The Balochistan government has announced rewards of up to Rs250m for information regarding wanted terrorists.",
-  "paragraphs": [
-   "The Balochistan government has announced rewards ranging from Rs500,000 to Rs250 million for providing authentic information about most-wanted terrorists in the province, according to Dawn.",
-   "An official advertisement issued by the provincial government stated that a reward of Rs250m has been fixed for top targets."
-  ],
-  "sources": [
-   {
-    "source": "Dawn",
-    "title": "Balochistan govt announces rewards of up to Rs250m for information on wanted terrorists",
-    "link": "https://www.dawn.com/news/2046785/balochistan-govt-announces-rewards-of-up-to-rs250m-for-information-on-wanted-terrorists",
-    "published": "2026-11-24T14:14:34Z",
-    "used_text": "QUETTA: The Balochistan government has announced rewards ranging from Rs500,000 to Rs250 million for providing authentic information about most-wanted terrorists in the province. According to an official advertisement issued by the provincial government, a reward of Rs250m has been fixed for…"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-balochistan-government-announces-bounties-for-wanted-terrorists-3466.html"
- },
- {
-  "id": "946979df3e21a3ea",
-  "region": "local",
-  "category": "news",
-  "title": "Government Selects Consortium for $500M MIGA-Backed Facility",
-  "summary": "Pakistan selected three foreign banks to arrange a $500 million trade finance facility backed by MIGA.",
-  "paragraphs": [
-   "The government selected a consortium of three foreign banks to arrange a $500 million trade finance facility, backed by the Multilateral Investment Guarantee Agency, which is a member of the World Bank Group, according to Dawn.",
-   "Aaj News similarly reported that the Pakistan government selected three banks for the $500m MIGA-backed trade finance facility following a competitive selection process and receipt of bids."
-  ],
-  "sources": [
-   {
-    "source": "Aaj News",
-    "title": "Pakistan govt selects three banks for $500m MIGA-backed trade finance facility",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWh4eU1JVzl2MEo2QTBsek91M09TQnh6S0NYTHhuRHhOWjdaa2EwdlNNenNQUFA3X2F0NTFoNXNPQjJIeHkxbjItRmhCNnF3N3Z6eUVtVnpmdGxEbnFTMDFjOHNLcFVsYVlWVDNaRDc0TlpoRTQ5Qk41d2NTai1QQVJ3LWJCS1ZBUGNrUms2aWxvbzQ1OE40ZDQ4X2g2eUZVa3BKOFp2R0dVVGNVUEVSVVk0VzNWQQ?oc=5",
-    "published": "2026-11-24T18:06:01Z",
-    "used_text": ""
-   },
-   {
-    "source": "Aaj News",
-    "title": "Pakistan govt selects three banks for $500m MIGA-backed trade finance facility",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xc081SFFYbnBsT3l1eThSUlhtNDltM24yQmVHZ05MRkRKNC11aEFTUlUzOHM0Z2VrdmNKcUMwZHU2bkhESm1QWDdiTU1hM1NxUUhF?oc=5",
-    "published": "2026-11-24T18:06:01Z",
-    "used_text": ""
-   },
-   {
-    "source": "Dawn",
-    "title": "Govt selects consortium of 3 foreign banks for $500m finance facility backed by MIGA",
-    "link": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
-    "published": "2026-11-24T16:12:42Z",
-    "used_text": "ISLAMABAD: The government on Tuesday selected a consortium of three foreign banks to arrange a $500 million trade finance facility, backed by the Multilateral Investment Guarantee Agency (MIGA), a member of the World Bank Group. “Following a competitive selection process and receipt of bids from…"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-government-selects-consortium-for-500m-miga-backed-facility-9469.html"
- },
- {
-  "id": "c5f11cc085852220",
-  "region": "local",
-  "category": "news",
-  "title": "Government Reduces Petrol and Diesel Prices",
-  "summary": "Pakistan authorities have slashed the prices of petrol and diesel per litre.",
-  "paragraphs": [
-   "The government reduced the diesel price by Rs4 per litre and petrol by Re1 per litre, according to Dawn. Dunya News also reported that the petrol price was slashed by Rs1 and diesel by Rs4 per litre.",
-   "ARY News noted that petrol and diesel prices were revised in Pakistan."
-  ],
-  "sources": [
-   {
-    "source": "Dunya News",
-    "title": "Petrol price slashed by Rs1, diesel by Rs4 per litre",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYy01TWd0aC1VVzFiWnZiN1dlVVh4eXE0MHJtanpSMWZEZTl3aHhkVDdUbDV1enc5MU94M3FweHFsT2xiWGxUZXh3UWVVQUVkQlluRTJkUVNtWlBHeF9iLWNWQzBza1JxSnB3WjNPWFhLZWtxWko3TFlHcDAxSGdzdnp5S1E0bFc3M1R6aG5mRm1CX1ZlZ3fSAVZBVV95cUxPaXVJRElzZjJ2RnFQOEVldFlFYnNpZU9UTHpHUENhcWJTai05ZE1pakxPS3FJOVRFMDZuRDExYm5xVWRCNjBrTXM2SnR6Tzhwc2M2OHBWdw?oc=5",
-    "published": "2026-11-24T18:45:37Z",
-    "used_text": ""
-   },
-   {
-    "source": "ARY News",
-    "title": "Petrol, diesel prices revised in Pakistan",
-    "link": "https://arynews.tv/petrol-prices-in-pakistan-for-25-november",
-    "published": "2026-11-24T18:01:13Z",
-    "used_text": "Petrol, diesel prices revised in Pakistan"
-   },
-   {
-    "source": "Dawn",
-    "title": "Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre",
-    "link": "https://www.dawn.com/news/2046789/govt-reduces-diesel-price-by-rs4-per-litre-petrol-by-re1-per-litre",
-    "published": "2026-11-24T17:50:32Z",
-    "used_text": "& · ● ●"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-government-reduces-petrol-and-diesel-prices-c5f1.html"
- },
- {
-  "id": "d1435daac35a300d",
-  "region": "local",
-  "category": "news",
-  "title": "Prime Minister Shehbaz Sharif Assures KP Support Against Terrorism",
-  "summary": "Prime Minister Shehbaz Sharif met with the KP governor and promised federal cooperation to eradicate terrorism.",
-  "paragraphs": [
-   "Prime Minister Shehbaz Sharif met with KP Governor Faisal Karim Kundi and assured him of all possible cooperation on behalf of the federal government for the complete eradication of terrorism, durable peace, and public welfare in the province, according to Dawn.",
-   "Aaj News also highlighted the meeting between Shehbaz Sharif and Faisal Karim Kundi regarding KP peace and development."
-  ],
-  "sources": [
-   {
-    "source": "Aaj News",
-    "title": "Shehbaz pledges federal support to eliminate terrorism, boost development in KP",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXA5emN1OThKUzh0Rm9CT1ZEN3VzYU5fakVBV3lwTmdwVnpWcUxWRE8wZ3RZQk5IaEVnUlRwMlBGSkNqQnRNU2N1dEZHdE5hMjZudVJnSXBndHZwby1ZUWRtZnh5Y09hTDdBRU1zM1dXRjhzX2hzS1lnbUFFbmRnTWRYbHZ1eTZ3WjJMN1hSaFAtamtpLWY3SWloTW1qRXpiV1RYWGc0dkRObkdDS2VCWHRJZk42V00?oc=5",
-    "published": "2026-11-24T16:29:07Z",
-    "used_text": ""
-   },
-   {
-    "source": "Dawn",
-    "title": "PM Shehbaz assures KP governor of continued support to eliminate terrorism",
-    "link": "https://www.dawn.com/news/2046786/pm-shehbaz-assures-kp-governor-of-continued-support-to-eliminate-terrorism",
-    "published": "2026-11-24T16:12:55Z",
-    "used_text": "Prime Minister Shehbaz Sharif on Tuesday assured KP Governor Faisal Karim Kundi of all possible cooperation on behalf of the federal government for the complete eradication of terrorism, durable peace and the welfare of the public in the province. The premier made these remarks as he met with Kundi…"
-   },
-   {
-    "source": "Aaj News",
-    "title": "Shehbaz Sharif Meeting | Faisal Karim Kundi | KP Peace and Development",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yUGtXXzd6VGw5ZXR3T1pZQUJIaG5KclcyYmlPR0NDV0RodjIwck5MWmtGQ2JjWnlCdTN4eHFkRlRITWVfcU1WUzFWNlA?oc=5",
-    "published": "2026-11-24T15:40:13Z",
-    "used_text": ""
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-prime-minister-shehbaz-sharif-assures-kp-support-against-terrorism-d143.html"
- },
- {
-  "id": "2f5c7787a01725ab",
-  "region": "local",
-  "category": "news",
-  "title": "FoodAg 2026 Generates Significant Business and MoUs",
-  "summary": "Pakistan SMEs secured $70 million in Chinese trade deals during the FoodAg 2026 exhibition.",
-  "paragraphs": [
-   "Pakistan small and medium enterprises secured $70 million in Chinese trade deals at FoodAg 2026, according to Dunya News. The Express Tribune reported that the event generated $658m in expected business.",
-   "The Express Tribune added that SMEDA facilitated $70m in MoUs with Chinese buyers alongside 16 other MoUs and an export contract."
-  ],
-  "sources": [
-   {
-    "source": "Dunya News",
-    "title": "Pakistan SMEs secure $70 million Chinese trade deals at FoodAg 2026",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTZFUndIYk5fOTZ0clNvNHEwUEdzOUNIS0xxdUZOTF8xNE1PaENCS29EbDZLejBXdFZKbmUtNjBJMjRlcGJteTdOZ3VETTNDVl9qNDVqN3cwTHk4RE1DMmIzU2JUX0I3T3AwU2gtMmhhZHQxYmU0dkpBR2Vrbm9pUGR4M0FmLXhzdzlGWGZmMGE1V1BHa0N0dWtnT0Y0UThlV2Qzc2VSc0dZd9IBVkFVX3lxTE1hQmhqTjRQT3A0V0hBMl8wZ25KWUhZSnV0VkUxWTBTVWNZRVBZbFhlbXE3QnFfT3ItQThrM2FEZjc5ZzhCeThjUXg3T052TWRITmc2QTdR?oc=5",
-    "published": "2026-11-24T16:56:45Z",
-    "used_text": ""
-   },
-   {
-    "source": "Express Tribune",
-    "title": "FoodAg 2026 generates $658m in expected business",
-    "link": "https://tribune.com.pk/story/2642153/foodag-2026-generates-658m-in-expected-business",
-    "published": "2026-11-24T16:10:14Z",
-    "used_text": "SMEDA facilitates $70m MoUs with Chinese buyers, 16 other MoUs and an export contract"
-   },
-   {
-    "source": "Aaj News",
-    "title": "FoodAg Pakistan 2026 | Karachi Exhibition | 400+ Pakistani Companies",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xUFRONUNJOUVPcUdGWmlsY3duRGhNOTVnVW1aaXJRY3JmSkxGR3JPQm4zMTFqZVNYeTlKZDk0NUh6aXFrUm85TjZiLUs?oc=5",
-    "published": "2026-11-24T15:40:12Z",
-    "used_text": ""
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-foodag-2026-generates-significant-business-and-mous-2f5c.html"
- },
- {
-  "id": "a10d6a176179b92c",
-  "region": "local",
-  "category": "sports",
-  "title": "Pakistan Shaheens Defeat Nepal in Asia Cup Rising Stars",
-  "summary": "An unbeaten half-century by Rohail Nazir helped Pakistan Shaheens defeat Nepal by 96 runs in Doha.",
-  "paragraphs": [
-   "An unbeaten half-century by Rohail Nazir, followed by a devastating bowling display, helped Pakistan Shaheens defeat Nepal by 96 runs in their final Group B match of the Asia Cup Rising Stars at the University of Doha for Science and Technology, according to Dawn.",
-   "Dawn reported that the defending champions remained unbeaten, with Geo News and Aaj News also reporting that the Pakistan Shaheens crushed Nepal to reach the semi-finals."
-  ],
-  "sources": [
-   {
-    "source": "Aaj News",
-    "title": "Pakistan Shaheens crush Nepal to reach Asia Cup semi-finals",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2tqdTFfeTg4eFFMSmNJcXUwbG1YaEhYTHVDSk9Fc0d5Z2dETWlRSGdWUFZqZGhDaUp6ZWZObHhxNnhIX3JUUndrWnJROURYckpXVHZWNWN2Z2l3TTd1MHpIMFVIWDdoUzhISnJ1VU5jT1BfZnhVNWVvT0RPQVM3WDkwMDB0bWxkRFl4WGM3Q3dCeVJmTmRQZ3p4ZWVkQQ?oc=5",
-    "published": "2026-11-24T17:07:54Z",
-    "used_text": ""
-   },
-   {
-    "source": "Dawn",
-    "title": "Rohail Nazir's fifty books Asia Cup Rising Stars semi-finals spot for Pakistan Shaheens",
-    "link": "https://www.dawn.com/news/2046798/rohail-nazirs-fifty-books-asia-cup-rising-stars-semi-finals-spot-for-pakistan-shaheens",
-    "published": "2026-11-24T17:04:33Z",
-    "used_text": "An unbeaten half-century by Rohail Nazir, followed by a devastating bowling display, helped Pakistan Shaheens defeat Nepal by 96 runs in their final Group ‘B’ match of the Asia Cup Rising Stars at the University of Doha for Science and Technology on Tuesday. The defending champions remained…"
-   },
-   {
-    "source": "Geo News",
-    "title": "Pakistan Shaheens crush Nepal to maintain unbeaten run in Rising Stars Asia Cup",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHdIU3N4akEzNjNyYXlDZ1ozSmpCX2ZvbUZiREs0Z0xmdGNQV3VNRUJ1bXY0ajEyTG5LcGpmVDlSM29zTWFKaGJZYk5jTVhjVjVQTXM0OEwtV01LcFJMTDVoZFkzN3VmTHpOMXF1eENLdW9kU3lpeVNsclpZYWdXcUN6QVVRN0dmY29hQU1udzNNLVNuTHRDR1lDWkxVNmdERDU2VFBQU2xlVmd1dnFYUzR3?oc=5",
-    "published": "2026-11-24T15:36:00Z",
-    "used_text": ""
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-pakistan-shaheens-defeat-nepal-in-asia-cup-rising-stars-a10d.html"
- },
- {
-  "id": "f850bcc66e1462b7",
-  "region": "local",
-  "category": "sports",
-  "title": "Quetta Gladiators Sign Lockie Ferguson Directly",
-  "summary": "The Quetta Gladiators have added Lockie Ferguson to their squad as a direct signing.",
-  "paragraphs": [
-   "The Quetta Gladiators have roped in Lockie Ferguson as a direct signing for the upcoming tournament, according to ARY News.",
-   "The announcement marks a key addition to the team's lineup as franchises prepare their squads."
-  ],
-  "sources": [
-   {
-    "source": "ARY News",
-    "title": "Quetta Gladiators rope in Lockie Ferguson as direct signing",
-    "link": "https://arynews.tv/quetta-gladiators-rope-in-lockie-ferguson-as-direct-signing",
-    "published": "2026-11-24T14:45:53Z",
-    "used_text": "Quetta Gladiators rope in Lockie Ferguson as direct signing"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-quetta-gladiators-sign-lockie-ferguson-directly-f850.html"
- },
- {
-  "id": "bf98eb00944fae8b",
-  "region": "international",
-  "category": "news",
-  "title": "Pope Francis' Private Diaries Detail Spiritual Crisis and Visions",
-  "summary": "Recently published extracts from the late Pope Francis' private diaries reveal a two-year spiritual crisis and visions of the devil.",
-  "paragraphs": [
-   "Fox News and Euronews reported that the Vatican has released Pope Francis' private diary, detailing a two-year spiritual crisis starting in 2021. According to Fox News, the late pontiff wrote that he felt tempted by the devil and saw hell in 2018.",
-   "Euronews added that the published book contains Jorge Mario Bergoglio's notes over 30 years, including meetings with the devil and his choice regarding allowing married men to be priests."
-  ],
-  "sources": [
-   {
-    "source": "Fox News",
-    "title": "Vatican releases Pope Francis' private diary detailing spiritual crisis, encounters with the devil",
-    "link": "https://www.foxnews.com/world/vatican-releases-pope-francis-private-diary-detailing-spiritual-crisis-encounters-devil",
-    "published": "2026-11-24T23:42:26Z",
-    "used_text": "Pope Francis' private diary reveals a two-year spiritual crisis from 2021, with the late pontiff writing he felt tempted by the devil and saw hell in 2018."
-   },
-   {
-    "source": "Euronews",
-    "title": "Pope Francis' private notes reveal visions of the devil and a plan to allow married men to be priests",
-    "link": "https://www.euronews.com/2026/11/24/pope-francis-private-notes-reveal-visions-of-the-devil-and-a-plan-to-allow-married-men-to-",
-    "published": "2026-11-24T17:06:57Z",
-    "used_text": "The book published on Tuesday contains Jorge Mario Bergoglio's notes over 30 years, including meetings with the devil, a spiritual crisis, and his choice on married priests."
-   },
-   {
-    "source": "DW",
-    "title": "Pope Francis diaries recount spiritual crisis, him seeing the 'Devil'",
-    "link": "https://www.dw.com/en/pope-francis-diaries-recount-spiritual-crisis-him-seeing-the-devil/a-80033224?maca=en-rss-en-all-1573-rdf",
-    "published": "2026-11-24T15:21:00Z",
-    "used_text": "Extracts of the late Pope Francis' diaries have been published, the first release of its kind since the 1960s. They discuss his struggles with his role in the Vatican and visions of the devil and the gates of hell."
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-pope-francis-private-diaries-detail-spiritual-crisis-and-visions-bf98.html"
- },
- {
-  "id": "2d6392d6e49b0e2a",
-  "region": "international",
-  "category": "news",
-  "title": "Car Bomb Blast Destructs Buildings in Central Colombian City",
-  "summary": "A car bomb detonated in Villavicencio, Colombia, injuring dozens and prompting a security response from President Abelardo de la Espriella.",
-  "paragraphs": [
-   "According to Al Jazeera and Euronews, a car bomb detonated in the central Colombian city of Villavicencio, injuring tens of people and damaging government buildings, businesses, and vehicles. Al Jazeera and France 24 reported that Colombian President Abelardo de la Espriella blamed ex-FARC rebels for plotting the bombing and pledged to retaliate.",
-   "Euronews noted that President de la Espriella arrived in Villavicencio to hold a security meeting and visit the blast site."
-  ],
-  "sources": [
-   {
-    "source": "Al Jazeera",
-    "title": "Colombian president blames ex-FARC rebels for car bomb blast",
-    "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
-    "published": "2026-11-24T21:45:42Z",
-    "used_text": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate."
-   },
-   {
-    "source": "France 24",
-    "title": "Car bomb destroys buildings in central Colombian city",
-    "link": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
-    "published": "2026-11-24T19:27:10Z",
-    "used_text": "A car bomb detonated in the central Colombian city of Villavicencio on Monday, destroying a local governor's office and surrounding buildings, President Abelardo de la Espriella said. The right-wing leader has conducted a major crackdown on the country's drug trade, in response to left-wing FARC…"
-   },
-   {
-    "source": "Euronews",
-    "title": "At least 24 injured after car bomb detonates in central Colombia",
-    "link": "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia",
-    "published": "2026-11-24T18:04:08Z",
-    "used_text": "Colombian President Abelardo de la Espriella arrived in Villavicencio at around 9 am local time on Tuesday as he prepared to hold a security meeting and visit the scene of the blast."
-   },
-   {
-    "source": "Euronews",
-    "title": "Colombia: At least 25 injured in bombing as armed violence resurges",
-    "link": "https://www.euronews.com/video/2026/11/24/colombia-at-least-25-injured-in-bombing-as-armed-violence-resurges",
-    "published": "2026-11-24T15:54:58Z",
-    "used_text": "At least 25 people were injured in a bombing in Villavicencio, damaging government buildings, businesses and vehicles. Meanwhile, hundreds of residents marched with candles in Cúcuta following a separate attack, amid a resurgence of armed violence in Colombia."
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-car-bomb-blast-destructs-buildings-in-central-colombian-city-2d63.html"
- },
- {
-  "id": "367d4264579a6bd1",
-  "region": "international",
-  "category": "news",
-  "title": "Armed Men Take Hostages at a Supermarket in Colombia",
-  "summary": "Armed robbers took at least 25 people hostage at a supermarket in Cartagena, Colombia.",
-  "paragraphs": [
-   "According to Sky News and France 24, a group of armed men took at least 25 people hostage at a supermarket in Colombia's tourist city of Cartagena. The incident triggered a major police operation and a temporary suspension of incoming flights at Rafael Nunez International Airport.",
-   "Al Jazeera reported that President Abelardo de la Espriella stated police and military forces were deployed as the situation unfolded."
-  ],
-  "sources": [
-   {
-    "source": "Sky News",
-    "title": "Armed men take hostages in Colombia tourist hotspot",
-    "link": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
-    "published": "2026-11-24T21:36:00Z",
-    "used_text": "A group of armed men are holding at least 25 people hostage in a supermarket in Colombia, according to officials."
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
-    "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
-    "published": "2026-11-24T21:04:46Z",
-    "used_text": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena."
-   },
-   {
-    "source": "France 24",
-    "title": "Gunmen hold 25 people hostage at supermarket in Colombia's Cartagena",
-    "link": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
-    "published": "2026-11-24T17:35:48Z",
-    "used_text": "Armed robbers took 25 people hostage at a supermarket in Colombia’s tourist city of Cartagena on Tuesday, prompting a major police operation and a temporary suspension of incoming flights, authorities said. Landings at Rafael Nunez International Airport resumed after the military used a runway…"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-armed-men-take-hostages-at-a-supermarket-in-colombia-367d.html"
- },
- {
-  "id": "a23d52b822355f21",
-  "region": "international",
-  "category": "news",
-  "title": "UN Condemns Flogging of Iranian Singer Parastoo Ahmadi",
-  "summary": "The United Nations slammed Iran after singer Parastoo Ahmadi and members of her production team were flogged for performing without a veil.",
-  "paragraphs": [
-   "According to France 24 and Fox News, the United Nations condemned as abhorrent the flogging of Iranian singer Parastoo Ahmadi and four members of her production team. Local media reported that the five individuals received 74 lashes each following a concert performance in Qom where they appeared without a hijab.",
-   "France 24 noted the performance had been viewed millions of times on YouTube, while Fox News reported that they also face two-year bans."
-  ],
-  "sources": [
-   {
-    "source": "France 24",
-    "title": "UN slams Iran after it flogs singer for performing without veil",
-    "link": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
-    "published": "2026-11-24T20:53:57Z",
-    "used_text": "The United Nations condemned as \"abhorrent\" the flogging of Iranian singer Parastoo Ahmadi and four members of her production team, urging Tehran to abolish the practice. The five received 74 lashes each on Monday following a performance viewed millions of times on YouTube, local media reported,…"
-   },
-   {
-    "source": "Fox News",
-    "title": "Iran flogs female singer 74 times for performing without hijab in viral YouTube concert",
-    "link": "https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert",
-    "published": "2026-11-24T14:55:27Z",
-    "used_text": "Lawyers said singer Parastoo Ahmadi and members of her concert team received 74 lashes each in Qom after performing without a hijab. They also face two-year bans."
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-un-condemns-flogging-of-iranian-singer-parastoo-ahmadi-a23d.html"
- },
- {
-  "id": "0b05b9e847df0c73",
-  "region": "international",
-  "category": "news",
-  "title": "French Ex-President Sarkozy and Wife Carla Bruni to Stand Trial",
-  "summary": "Former French President Nicolas Sarkozy and his wife Carla Bruni-Sarkozy will face trial on charges related to witness tampering.",
-  "paragraphs": [
-   "According to BBC News and France 24, France's former president Nicolas Sarkozy and his wife, Carla Bruni, are set to face trial. France 24 specified that they will be tried in 2027 on charges of criminal conspiracy with intent to commit fraud and benefitting from witness tampering.",
-   "BBC News noted this is the latest legal case involving Sarkozy, who became the first French ex-president to go to jail last year."
-  ],
-  "sources": [
-   {
-    "source": "BBC News",
-    "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-    "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-24T16:49:07Z",
-    "used_text": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year."
-   },
-   {
-    "source": "France 24",
-    "title": "France's ex-president Nicolas Sarkozy, wife Carla Bruni to stand trial for alleged witness tampering",
-    "link": "https://www.france24.com/en/france/20261124-france-ex-president-nicolas-sarkozy-wife-carla-stand-trial-over-alleged-witness-tampering",
-    "published": "2026-11-24T16:33:12Z",
-    "used_text": "France's former president Nicolas Sarkozy and his wife, singer Carla Bruni-Sarkozy, are set to be tried in 2027 on charges of \"criminal conspiracy with intent to commit fraud\" as well as benefitting from witness tampering. The new charges are related to the Sarkozy couple's actions during the case…"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-french-ex-president-sarkozy-and-wife-carla-bruni-to-0b05.html"
- },
- {
-  "id": "cce9b9443685996c",
-  "region": "international",
-  "category": "news",
-  "title": "Scientists Discover Ancient Quasar Formed 630 Million Years After Big Bang",
-  "summary": "Scientists have observed a quasar as it appeared 13.1 billion years ago when the universe was very young.",
-  "paragraphs": [
-   "According to DW, scientists have discovered a quasar that formed 630 million years after the Big Bang. Researchers are seeing the celestial object as it existed 13.1 billion years ago.",
-   "DW reported that this sighting captures a time when the universe was less than 5% of its current age."
-  ],
-  "sources": [
-   {
-    "source": "DW",
-    "title": "Scientists discover quasar formed 630 million years after the Big Bang",
-    "link": "https://www.dw.com/en/scientists-discover-quasar-formed-630-million-years-after-the-big-bang/a-80041882?maca=en-rss-en-all-1573-rdf",
-    "published": "2026-11-24T22:34:00Z",
-    "used_text": "Scientists are seeing the quasar as it was 13.1 billion years ago — when the universe was less than 5% of its current age."
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-scientists-discover-ancient-quasar-formed-630-million-years-after-cce9.html"
- },
- {
-  "id": "086809bfdb564fd7",
-  "region": "international",
-  "category": "news",
-  "title": "US Army Prepares to Detonate Explosives in Iowa",
-  "summary": "The US Army is planning to destroy more than 4 tonnes of unstable lead azide explosives in Iowa.",
-  "paragraphs": [
-   "According to Al Jazeera, the US Army is set to detonate more than 4 tonnes of lead azide in Iowa. Federal officials stated that destroying the unstable explosives is the safest course of action despite public alarm regarding toxic lead.",
-   "Al Jazeera reported that the controlled detonation is scheduled to take place on Wednesday."
-  ],
-  "sources": [
-   {
-    "source": "Al Jazeera",
-    "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
-    "link": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
-    "published": "2026-11-24T20:28:40Z",
-    "used_text": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action."
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "Five tonnes of explosives set to blow up in Iowa",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
-    "published": "2026-11-24T17:33:41Z",
-    "used_text": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday."
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-us-army-prepares-to-detonate-explosives-in-iowa-0868.html"
- },
- {
-  "id": "266c2ffeceb5a44b",
-  "region": "international",
-  "category": "sports",
-  "title": "Real Madrid Thrash PSV While Manchester City Draws in Champions League",
-  "summary": "Real Madrid defeated PSV Eindhoven 5-1 in the Champions League, while Manchester City drew against Napoli.",
-  "paragraphs": [
-   "According to France 24 and Al Jazeera, Real Madrid extended their winning run to 10 games in all competitions by routing PSV Eindhoven 5-1 in a Champions League comeback win. Jude Bellingham scored a spectacular goal and Kylian Mbappé netted twice after an early deficit.",
-   "France 24 and BBC News reported that in the same competition, Manchester City was held to a draw by Napoli after twice coming from behind, with BBC News describing City's slick footballing machine as grinding to a halt."
-  ],
-  "sources": [
-   {
-    "source": "BBC News",
-    "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-24T23:17:42Z",
-    "used_text": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli."
-   },
-   {
-    "source": "France 24",
-    "title": "Champions League: Real Madrid thrash PSV 5-1 in comeback win as Manchester City held by Napoli",
-    "link": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
-    "published": "2026-11-24T22:59:39Z",
-    "used_text": "Real Madrid extended their winning run to 10 games in all competitions on Tuesday, overturning an early deficit to rout PSV Eindhoven 5-1 in the Champions League, with Jude Bellingham scoring a spectacular goal and Kylian Mbappé netting twice. Manchester City, meanwhile, twice came from behind to…"
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-    "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
-    "published": "2026-11-24T22:37:20Z",
-    "used_text": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League."
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-real-madrid-thrash-psv-while-manchester-city-draws-in-266c.html"
- },
- {
-  "id": "6cc49a3ea21bb609",
-  "region": "international",
-  "category": "sports",
-  "title": "Senegal Reinstated as 2025 Africa Cup of Nations Winners",
-  "summary": "Senegal was reinstated as 2025 Africa Cup of Nations champions after winning an appeal at the Court of Arbitration for Sport.",
-  "paragraphs": [
-   "According to France 24 and BBC News, Senegal were reinstated as 2025 Africa Cup of Nations winners after the sport's highest court upheld their appeal. Senegal contested the Confederation of African Football's decision to strip them of the title and declare Morocco champions following a chaotic final.",
-   "France 24 noted experts viewed the ruling as a positive precedent in sports law, while Euronews reported that Morocco has vowed to fight on and raised questions over alleged contact between a judge and the Senegalese federation."
-  ],
-  "sources": [
-   {
-    "source": "France 24",
-    "title": "Senegal reinstated as AFCON 2025 winners",
-    "link": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
-    "published": "2026-11-24T21:14:42Z",
-    "used_text": "In tonight's edition, Senegal were reinstated as 2025 Africa Cup of Nations winners after the sport's highest court upheld their appeal against being stripped of the title."
-   },
-   {
-    "source": "France 24",
-    "title": "Senegal AFCON ruling 'good in the books of sports law', expert says",
-    "link": "https://www.france24.com/en/senegal-afcon-ruling-good-in-the-books-of-sports-law-expert-says",
-    "published": "2026-11-24T19:54:12Z",
-    "used_text": "Speaking with FRANCE 24's Jennie Shin, sports presenter and journalist Thando Sibiya explains that the decision by the Court of Arbitration for Sport to reinstate Senegal as ⁠winner of ​the 2025 Africa Cup of Nations \"from a jurisprudence perspective or creating precedent, it is going to be good in…"
-   },
-   {
-    "source": "France 24",
-    "title": "Senegal regain AFCON title on appeal at Morocco's expense",
-    "link": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
-    "published": "2026-11-24T19:52:29Z",
-    "used_text": "Senegal on Tuesday regained their Africa Cup of Nations title after winning an appeal at the Court of Arbitration for Sport (CAS) against the decision by the Confederation of African Football to declare Morocco the winners following a chaotic final in January. CAS said in a statement it had \"upheld…"
-   },
-   {
-    "source": "BBC News",
-    "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-24T17:16:09Z",
-    "used_text": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport."
-   },
-   {
-    "source": "France 24",
-    "title": "Senegal reinstated as 2025 Africa Cup of Nations winners",
-    "link": "https://www.france24.com/en/video/20261124-senegal-reinstated-as-2025-africa-cup-of-nations-winners",
-    "published": "2026-11-24T16:16:03Z",
-    "used_text": "Senegal ​were reinstated as 2025 Africa Cup of Nations winners ​on Tuesday after the Court of Arbitration for Sport upheld their appeal against being stripped of the title. Senegal contested the ​Confederation ‌of African Football's decision to declare ⁠Morocco champions, despite Senegal beating…"
-   }
-  ],
-  "created": "2026-11-24T23:53:21Z",
-  "url": "a/2026-11-24-senegal-reinstated-as-2025-africa-cup-of-nations-winners-6cc4.html"
  }
 ]

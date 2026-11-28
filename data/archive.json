@@ -1,5 +1,649 @@
 [
  {
+  "id": "428df6e72d45644e",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistani Leaders Hold Call with Astronaut Zeeshan Ali in Space",
+  "summary": "Prime Minister Shehbaz Sharif and Chief of Defence Forces Field Marshal Syed Asim Munir spoke with Pakistani astronaut Zeeshan Ali aboard China's space station.",
+  "paragraphs": [
+   "Prime Minister Shehbaz Sharif and Chief of Defence Forces and Chief of the Army Staff Field Marshal Syed Asim Munir held a conversation on Saturday with Pakistani astronaut Zeeshan Ali, according to Dawn, Dunya News, Express Tribune, Geo News, and Samaa. Dawn reported that Ali is aboard the Shenzhou-24 mission, while Geo News specified that he is stationed on the Tiangong space station.",
+   "According to Dawn, Ali became the first Pakistani in orbit on Wednesday. Express Tribune reported that the premier and field marshal lauded the space mission as a historic achievement and praised the enduring friendship between Pakistan and China. In addition, Aaj News reported that the astronaut has commenced scientific experiments while in space."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "‘Beacon of light’: PM Shehbaz, CDF Munir speak with astronaut Zeeshan Ali aboard China’s space station",
+    "link": "https://www.dawn.com/news/2047663/beacon-of-light-pm-shehbaz-cdf-munir-speak-with-astronaut-zeeshan-ali-aboard-chinas-space-station",
+    "published": "2026-11-28T11:25:43Z",
+    "used_text": "Prime Minister Shehbaz Sharif and Chief of Defence Forces and Chief of the Army Staff Field Marshal Syed Asim Munir held a phone call on Saturday with Pakistani astronaut Zeeshan Ali, who is aboard the Shenzhou-24 mission . On Wednesday, Ali became the first Pakistani in orbit and also the first…"
+   },
+   {
+    "source": "Samaa",
+    "title": "PM Shehbaz, Asim Munir speak to Pakistani astronaut in space",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalhZcG1XS29pdjlIY2VXQUNCMVZYZ2s0blpUS055MV9hUFo1R2hoYVJFMVRfMnk2UXZmVEFjTThkdGdqb2RqQlNER3dfTUxnTFh1aVg4bUFhbEdFRlB2TWM3ZEVFREJybzU1UGY1T0lyalFTV2M5SlVoUVpjRjhLMTBTb0NDZTdhSWRaNUpISTBDYnlLRkE?oc=5",
+    "published": "2026-11-28T11:09:21Z",
+    "used_text": ""
+   },
+   {
+    "source": "Geo News",
+    "title": "PM Shehbaz, CDF Munir speak live with Pakistani astronaut aboard Tiangong space station",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWMydW85STNFTjdZbzFidTI2OTFrZURORVVsQ0kzNnMtRDlSVE5nWE84eGx6aVhSNVRCZ0VkaXBHWEpUTFV2bzNUSWhQME9RdjhsazRHMGdVMFVld0lpcVowcmg3dzFyZjNqSmozUktsUzJTcm00dzZtdC10UE9LaVdQUHJaUHhqbEZ2Y0d4UC1LMmhpMnNzZzkyeUs0V1NPbndGdUQ0OE9qQWxFdXVEcFBFaFh1aWxwMl9z?oc=5",
+    "published": "2026-11-28T10:50:00Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "PM Shehbaz, Field Marshal speak with Pakistani astronaut aboard Chinese space station",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONnkzYkxsSkp1Z01MMlNtbVBLbHJUSlRmdm1vYmNGa1lDTmo2RndrMS1IY2dLS21VR21rdEhjU24zQlZnbC1tM1hkMXZyZGFzMHBkYVMySnFjZlR2MGM0Yi1OTDdiVTVYRkVaYnpTYnRGNDBJTFNQRl9majNUejhSU3NfX1pjaFBUckl5UDhwVkNXRENwb2Z5QjZlaTVvOV9FU0FPck9wdlUwenE5SzNsSkFGYjNrZ9IBVkFVX3lxTE9pX1NJUlVsdVZsZXJSa0Zib3lWS2tmY1FJU2lwSzNuT3JqbUcxQ0hyZUxWNXRsODkyamt1TzAwQ3BLcGJyTnBXZkhNVXlINHJ1dHF1Q193?oc=5",
+    "published": "2026-11-28T08:56:44Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan's first astronaut begins scientific experiments in space",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmVVVzFiQzZyVkR5Q0VVQTZoM2I4YnhnYWpBdktESlB5a1dJWmxFWG9hQk1UT0hUNzNpaEtCX1NQMkU2cHc5ZVcyc1EzQ3RKdlI5Q0d2ZjZ6cVRrR1FRd3h4cUV5MG9Hcm85UllYdENfMEcxaVZHMGE5SUJzQld0TkhfVFV3QkZFd1dpMHk4QnRZc1BOUmhXd2NxQzlEZWJoclkyXw?oc=5",
+    "published": "2026-11-28T05:40:39Z",
+    "used_text": ""
+   },
+   {
+    "source": "Express Tribune",
+    "title": "PM Shehbaz, CDF Munir speak to Pakistan's first astronaut Zeeshan Ali in space",
+    "link": "https://tribune.com.pk/story/2642808/pm-shehbaz-cdf-munir-speak-to-pakistans-first-astronaut-zeeshan-ali-in-space",
+    "published": "2026-11-28T04:40:15Z",
+    "used_text": "Premier, field marshal hail space mission as historic achievement, praise enduring Pakistan-China friendship"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pakistani-leaders-hold-call-with-astronaut-zeeshan-ali-in-428d.html"
+ },
+ {
+  "id": "8acf8d54651b8c79",
+  "region": "local",
+  "category": "news",
+  "title": "Severe Air Pollution Affects Lahore and Other Pakistani Cities",
+  "summary": "Lahore's air quality has plunged into hazardous territory, placing it among the most polluted cities globally.",
+  "paragraphs": [
+   "Air quality across several cities in Pakistan has deteriorated significantly, with Lahore experiencing severe pollution levels. According to Dawn, Lahore was ranked as the world's most polluted major city on Saturday morning by monitoring firm IQAir as its air quality index hit 400. Dawn added that Peshawar and Sargodha also recorded air quality index figures exceeding 400.",
+   "Other outlets reported varying air quality index figures for Lahore during the period. Dunya News reported that Lahore's air quality worsened as its air quality index rose to 328. Meanwhile, ARY News stated that air pollution in the city reached 330 on the air quality index."
+  ],
+  "sources": [
+   {
+    "source": "Dunya News",
+    "title": "Lahore's air quality worsens as AQI rises to 328",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkZyRldvT1h3b1ZwRUFkRDNOMlpYT251VDBFRjRyLVBVWjkzOVAwbEdfNElKNC1yby0yQzV1VVNudmc2MXYzdGdkVHNLZkhTdUlELUVjeG5zNnhVQmIzdHVZcUZNOVgxUE5JbzVBWG1GS19fWjZ5dFBpcnpoS24zNWN3aGZ5eHh5a2xhLXZPNjBsQk1rZWNjYtIBVkFVX3lxTFBnSUF4RmJlSUlZcWlYQVhPaHc0M3JkMVBnZk9YWjhLTW9sblFnR3hDdnk2alZSeHZjVnR5UlJTUnB2ZUpHMUpIRHZpNU15MlZIZVVGcUFR?oc=5",
+    "published": "2026-11-28T08:56:43Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "Lahore ranked world's most polluted major city; Sargodha, Peshawar also record hazardous air",
+    "link": "https://www.dawn.com/news/2047659/lahore-ranked-worlds-most-polluted-major-city-sargodha-peshawar-also-record-hazardous-air",
+    "published": "2026-11-28T08:20:23Z",
+    "used_text": "LAHORE: Lahore was ranked the world’s most polluted “major city” on Saturday morning as its air quality index (AQI) reached 400, while Peshawar and Sargodha also recorded AQIs above 400, according to monitoring firm IQAir . The Swiss air quality monitoring organisation placed Lahore at the top of…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Air pollution in Lahore soars to 330 on air quality index",
+    "link": "https://arynews.tv/air-pollution-in-lahore-soars-330-air-quality-index",
+    "published": "2026-11-28T07:27:44Z",
+    "used_text": "Air pollution in Lahore soars to 330 on air quality index"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-severe-air-pollution-affects-lahore-and-other-pakistani-cities-8acf.html"
+ },
+ {
+  "id": "b7e5139afb6519c5",
+  "region": "local",
+  "category": "news",
+  "title": "Pakistan Appoints Moazzam Ali as Diplomatic Envoy to India",
+  "summary": "Pakistan has chosen diplomat Moazzam Ali to serve as its new chargé d'affaires in India.",
+  "paragraphs": [
+   "Pakistan has moved to assign a new head of mission to its diplomatic post in New Delhi. Samaa and ARY News reported that Pakistan has decided to appoint Moazzam Ali as its new chargé d'affaires in India, while Dunya News similarly noted that he is likely to take up the role.",
+   "According to Aaj News, Moazzam Ali will be stepping in to replace Saad Warraich as the country's chargé d'affaires in India."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "Pakistan to appoint Moazzam Ali as new chargé d'affaires in India",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFBTeVVzRmYxSzRyOFc4V2JiY0pMUHNvYTVNdEFmQ3hFbnIxYkR6LTVvVXpfTVhnRzFsbF82R0J5emhHSnJfaWg0NlZ6V3BkbUFDWlFjaUtzSEJIbk5vUkF6dHJSM0hsVW5GRFNKVGZicjU3SjhPWTQxckNSVTBZUFZTeWUyM245TjNobmRoVlNsN04zaEplNHJ4eks?oc=5",
+    "published": "2026-11-28T10:37:08Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Muazam Ali likely to be appointed Pakistan's new envoy to India",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3FkY0lFNVpXOWVDdFB0VlJEbzZiRXVldEpXNWpzRFREZDQyVW9uWGdMOGRaNkF0dE1nT0U0akVLck1weXRqOF9BWmNzbzR4R0JITEJuU3FyaGpBNnBtbTc5OTZMUlgxWDNYNFFwZEZRdW01QTdva19xaDkwUHVxRU84cU5HU2taaUtwNklpbmYxMzNyTHJZNXlzSzlsajhGeUpNWU1ZS3NVaW5TNzUwS3pvaTlCN1ItU1HSAVZBVV95cUxQRGhHek5rc2Y2ZFNBRFdSRmROMlYzWk5xZUVXS3FRNmtCOGt4OGotRmI2ZjdmOG5hWW1oZkFnQ0swWjRpNjZkTnlFMG1uN3hsNWNUZHBFZw?oc=5",
+    "published": "2026-11-28T10:05:59Z",
+    "used_text": ""
+   },
+   {
+    "source": "ARY News",
+    "title": "Pakistan picks Moazam Ali for key diplomatic post in India",
+    "link": "https://arynews.tv/pakistan-picks-moazam-ali-for-key-diplomatic-post-in-india",
+    "published": "2026-11-28T09:17:52Z",
+    "used_text": "Pakistan picks Moazam Ali for key diplomatic post in India"
+   },
+   {
+    "source": "Aaj News",
+    "title": "Moazzam Ali to replace Saad Warraich as chargé d'affaires in India",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXV5am9ya1FnUnNRVDdwUUpUMVRtVFhLVlhrUmlHLXFzbDkwdjZwVDNfeVNJbUpyVzJERHVKazZWMEp2UEV1S3AtM0ZBNmV3ME8yT0pxWVFWanZtVzNhbE5sMl92anVoQ1MxNWNiTmJQWHpLTjRQUnZ4SWVhSlRPY1E5QlBNb2ctWFJwYjhIM3pxUUtkWkJ4ZFd6U2lFbXFNYkFicVZ3?oc=5",
+    "published": "2026-11-28T07:26:00Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pakistan-appoints-moazzam-ali-as-diplomatic-envoy-to-india-b7e5.html"
+ },
+ {
+  "id": "1fdfc1ebe7ad245c",
+  "region": "local",
+  "category": "news",
+  "title": "Prime Minister Orders Care for Drone-Hit Citizen in Kuwait",
+  "summary": "Pakistani authorities have intervened to ensure medical attention for a citizen wounded in a Kuwait drone incident.",
+  "paragraphs": [
+   "Prime Minister Shehbaz Sharif has issued instructions to provide comprehensive medical support to a Pakistani national who sustained injuries in Kuwait. Dunya News reported that the citizen was injured in a drone strike, prompting the prime minister to order the provision of the best available medical treatment.",
+   "According to ARY News, the prime minister specifically directed the Pakistani ambassador to ensure optimal care for the affected citizen. Aaj News reported that Pakistan's ambassador subsequently visited the injured national following the drone attack."
+  ],
+  "sources": [
+   {
+    "source": "ARY News",
+    "title": "PM directs Pak Amb. to ensure best care for injured Pakistani citizen in Kuwait",
+    "link": "https://arynews.tv/pm-directs-pak-amb-to-ensure-best-care-for-injured-pakistani-citizen-in-kuwait",
+    "published": "2026-11-28T11:13:01Z",
+    "used_text": "PM directs Pak Amb. to ensure best care for injured Pakistani citizen in Kuwait"
+   },
+   {
+    "source": "Dunya News",
+    "title": "PM Shehbaz orders best medical care for drone-hit Pakistani in Kuwait",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNndpbFJYNVR2QkZnRGZWMzRYRjREMVh4VWNUdjNJbkI5MTN0N1hfMzhLOVlRRzNQV2dRalltZmJwenpNZ3pBQm5mLXdoSnlra2R6YzlNbnktdkZwbkM1U2dFLWV4b2lQbzZXSGJhNWNnSjJNUkZOb2EwYnBRUjVxUXZHclNNY3M0elRzMVVmaXBvcVVhMFVVdF9LdVZ5OU1nUTRORlUzR0QyZWc2Y203UzUxekfSAVZBVV95cUxQOXY1SG52aHNka0lvNHBTYXNrZXpwZ3RLdW0zN2phWEhuVjBlXzFjN29jSGdBRTJrOFdkaml3V0xpRFRua2ZsbVBpN1FXazhFTkJQaWdsdw?oc=5",
+    "published": "2026-11-28T08:56:48Z",
+    "used_text": ""
+   },
+   {
+    "source": "Aaj News",
+    "title": "Pakistan's ambassador visits citizen injured in drone attack in Kuwait",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2xDUGpYUUFmMy10VEl4Mi1rM3Z4MUU4V0wzMnhlZWYyMG5Mend4S3NXaV9iRlhWMnFFb2cyeUE2Q1FDVEZYX2VvYlByRG81NWNrWkhUVXp0ei1FWG5ucXZ0UGhZMnVvNFktN0hPSXJGVWJzN1ZEVGJRSjVpRTE2MWVSTzRPeDVsYTlJc3Z3enZDN3VJMEQtRXRJNFBUaUgxYTl1MEJISzZaMk0?oc=5",
+    "published": "2026-11-28T07:05:22Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-prime-minister-orders-care-for-drone-hit-citizen-in-1fdf.html"
+ },
+ {
+  "id": "33fba352cfe1fd01",
+  "region": "local",
+  "category": "news",
+  "title": "Submarine Cable Fault Repaired, Restoring Internet Across Pakistan",
+  "summary": "Authorities have announced that internet services across Pakistan are back to normal following repairs to the SMW5 submarine cable.",
+  "paragraphs": [
+   "Internet services across Pakistan have returned to regular functionality after technical teams resolved an international connectivity fault. Samaa reported on Saturday that the issue affecting the SMW-5 cable had been repaired, leading to the full restoration of internet connectivity across the country.",
+   "Dawn reported that the Pakistan Telecommunication Authority confirmed the restoration of the SEA-ME-WE 5 submarine cable system following the completion of repairs. The Pakistan Telecommunication Authority stated that services nationwide had normalised, having previously reported on November 18 that a fault had occurred."
+  ],
+  "sources": [
+   {
+    "source": "Samaa",
+    "title": "SMW-5 cable fault fixed, internet services restored across Pakistan",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVhxWWZta1p2YTVGdkdWNW9xcmE5UUlBY25hUVRCelRhRmwyLW5JeVl1clhTajBSRXhpSzduOUJkXzFVWDRkNVAycmxOaHdUUWI2NF9Za2oya0ZiNTBqYk5IQTdwcjZ1anhpbTNHX1JVVDB4bjBOaUZKLVZmaExiMGZhNmFJUS15cTgydm5nS1VYYnlRYUZlTUt6WmZUdFU?oc=5",
+    "published": "2026-11-28T10:12:48Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dawn",
+    "title": "PTA says submarine cable fault fixed, internet services return to normal",
+    "link": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+    "published": "2026-11-28T09:37:06Z",
+    "used_text": "The Pakistan Telecommunication Authority (PTA) on Saturday announced the restoration of the SEA-ME-WE 5 (SMW5) international submarine cable system following the repair of a fault, saying internet services across the country had returned to normal. On November 18, PTA said that a fault had been…"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-submarine-cable-fault-repaired-restoring-internet-across-pakistan-33fb.html"
+ },
+ {
+  "id": "3457748b8d16df44",
+  "region": "local",
+  "category": "news",
+  "title": "Authorities Seal Maulana Fazlur Rehman's Islamabad Residence",
+  "summary": "Capital authorities have sealed the official residence of JUI-F chief Maulana Fazlur Rehman in Islamabad.",
+  "paragraphs": [
+   "The Capital Development Authority sealed the Islamabad residence of Jamiat Ulema-i-Islam-Fazl chief Maulana Fazlur Rehman on Saturday, according to Dawn. Dawn reported that the action was carried out after the national identity card of the property's legal owner was cancelled, noting that the measure occurred amid ongoing tensions between the political party and the government.",
+   "Reporting on the incident, ARY News stated that Fazlur Rehman's residence was sealed and added that his son was arrested. Additionally, Dawn reported that JUI-F staged protests on Friday across Khyber Pakhtunkhwa, Balochistan, and parts of Punjab over the alleged detention of its leader, although police denied taking Fazlur Rehman into custody."
+  ],
+  "sources": [
+   {
+    "source": "Dawn",
+    "title": "CDA seals Fazl’s Islamabad residence after 'foreign' owner's CNIC cancelled",
+    "link": "https://www.dawn.com/news/2047652/cda-seals-fazls-islamabad-residence-after-foreign-owners-cnic-cancelled",
+    "published": "2026-11-28T10:35:23Z",
+    "used_text": "ISLAMABAD: The Capital Development Authority (CDA) on Saturday sealed the Islamabad residence of Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman after the identity card of the property’s legal owner was cancelled. The move comes amid continuing tensions between the JUI-F and the…"
+   },
+   {
+    "source": "ARY News",
+    "title": "Maulana Fazlur Rehman’s Islamabad residence sealed, son arrested",
+    "link": "https://arynews.tv/maulana-fazlur-rehmans-islamabad-residence-sealed-son-arrested",
+    "published": "2026-11-28T06:32:31Z",
+    "used_text": "Maulana Fazlur Rehman’s Islamabad residence sealed, son arrested"
+   },
+   {
+    "source": "Dawn",
+    "title": "JUI-F claims scores held amid protests",
+    "link": "https://www.dawn.com/news/2047559/jui-f-claims-scores-held-amid-protests",
+    "published": "2026-11-28T03:23:14Z",
+    "used_text": "PESHAWAR/LAHORE/QUETTA: The JUI-F held protests across Khyber Pakhtunkhwa, Balochistan and parts of Punjab on Friday against the alleged detention of its chief, Maulana Fazlur Rehman, even as police denied that the party leader had been taken into custody. Meanwhile, police continued to round up…"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-authorities-seal-maulana-fazlur-rehman-s-islamabad-residence-3457.html"
+ },
+ {
+  "id": "1749cd381ada4d46",
+  "region": "local",
+  "category": "sports",
+  "title": "Pakistan Shaheens Advance to ACC Rising Stars Asia Cup Final",
+  "summary": "Pakistan Shaheens secured their spot in the Rising Stars Asia Cup final after defeating Bangladesh.",
+  "paragraphs": [
+   "Pakistan Shaheens have advanced to the final of the ACC Rising Stars tournament. Dunya News reported that the team secured their place in the championship match by defeating Bangladesh by 5 wickets.",
+   "According to Dunya News, Pakistan Shaheens are scheduled to play against Sri Lanka A in the final on Sunday. Aaj News added that the undefeated squad is aiming to secure its fourth ACC Rising Stars title."
+  ],
+  "sources": [
+   {
+    "source": "Aaj News",
+    "title": "Unbeaten Pakistan Shaheens eye fourth ACC Rising Stars title",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWVOMm05Nmptc1d2Z1dwaFVBamhKeUJlcHEwTHZIbDR3WFM2Y3k1bTRJX3VhLVlOUE51T2wzTy1FZEhwd0Roekt5UXA5bDNWOWdFR3VicG8tbkN3OEE3X3NCdDNEUTEzNlVtMXowakt1cjNzM1RyZTdUaVpmN0xnSXZ5M1dHUFdiejZiTUYxaTZ6a2g4VVBCMEhiNVVxMDg?oc=5",
+    "published": "2026-11-28T11:02:31Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Pakistan Shaheens to take on Sri Lanka A in Asia Cup Rising Stars final on Sunday",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXJXOS00OTNvZmJlVGNfY3poZ0Itc01XSUxEcVBHem01VWlZVW94S2IwbjJJcW9SbURrdld5TXczbG5SZkVsbWhqTEQxMDN5ZGJ5S3BUM3dFX2RfYm11YW1QM3FmdmlFUmJDampxaWh4YnR0bW5kUUVCcmR1ejZxbWRiY0J6c3pJUzU1aGNQb3VWUUpabHBtcXV1YVZNTzhycTFhcU9abGxpV3o5bmVvWFA0NWVHUnZITUNGVGdRZjBxd9IBVkFVX3lxTE1ySEwzY3FCT19tdzFnSFRmMFFuamlCazdqV1Jzc01HOUF0dkd1TWMzSjhoRXBBRzdtSEt5eG5ZZUdMZGw0VFk0SURWVW5iVURpYjdBdU9n?oc=5",
+    "published": "2026-11-28T08:56:48Z",
+    "used_text": ""
+   },
+   {
+    "source": "Dunya News",
+    "title": "Pakistan beat Bangladesh by 5 wickets to Reach Asia Cup Rising Stars Final",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1h6NE1oVl9VTUlyWkowckZDLXdsVlJVTzlVSXFkSlV5cUZhZDJzeDlVeHZlZ3g4WnVmNzgzSGZIWTBWOEdhak9NSlhhSnZlUGxIa1ExSXpxazdPVmVCdnhBaU1hRS0zMVpoTHFkQTlKWjlSVjJnVnRab1VkSnZsY0p1ZnFTU2FpN3FuRjNGMjNxdjZiMWZaUXFrXzk2WFlZU3l1R3lrczJiTmdjcjdRaURXMHU?oc=5",
+    "published": "2026-11-28T00:58:21Z",
+    "used_text": ""
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pakistan-shaheens-advance-to-acc-rising-stars-asia-cup-1749.html"
+ },
+ {
+  "id": "7a006f4912627584",
+  "region": "local",
+  "category": "sports",
+  "title": "Army Retains Title at National Taekwondo Championships",
+  "summary": "Pakistan Army clinched the 19th Korean Ambassador National Taekwondo Championship with 40 gold medals.",
+  "paragraphs": [
+   "Pakistan Army put on a dominant showing at the 19th Korean Ambassador National Taekwondo Championships held in Islamabad, according to Express Tribune.",
+   "Express Tribune reported that Army retained the overall championship title after securing an impressive haul of 40 gold medals during the competition."
+  ],
+  "sources": [
+   {
+    "source": "Express Tribune",
+    "title": "Army dominate National Taekwondo Championships with 40 gold medals",
+    "link": "https://tribune.com.pk/story/2642809/army-dominate-national-taekwondo-championships-with-40-gold-medals",
+    "published": "2026-11-28T04:53:52Z",
+    "used_text": "Army retain overall title at the 19th Korean Ambassador Championship in Islamabad"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-army-retains-title-at-national-taekwondo-championships-7a00.html"
+ },
+ {
+  "id": "aa4b400fa2c49269",
+  "region": "international",
+  "category": "news",
+  "title": "Deadly Blast Near Afghan School Prompts Conflicting Casualty Reports",
+  "summary": "An explosion near a school in Afghanistan has resulted in conflicting casualty figures from officials.",
+  "paragraphs": [
+   "An explosion next to an Afghan middle school has caused dozens of casualties, according to multiple news outlets. BBC News reported that a spokesperson for Afghanistan's interior ministry said the blast killed 10 students and injured more than 100 people, attributing the incident to carelessness at a nearby explosives depot.",
+   "However, Al Jazeera reported different figures, stating that at least six students were killed and 97 injured beside the school in Asadabad, Kunar province. An official cautioned to Al Jazeera that these numbers were preliminary and subject to change. DW reported that officials linked the blast to improperly stored explosives that ignited at a mining site, damaging surrounding buildings.",
+   "Authorities noted that an investigation into the explosion remains ongoing, according to DW."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T11:18:37Z",
+    "used_text": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
+   },
+   {
+    "source": "DW",
+    "title": "Afghanistan: Several killed in blast near middle school",
+    "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T10:21:00Z",
+    "used_text": "Officials have said improperly stored explosives at a mining site ignited, damaging nearby buildings including a school. An investigation is ongoing."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Several students killed in blast beside Afghan school",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+    "published": "2026-11-28T10:05:26Z",
+    "used_text": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
+    "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+    "published": "2026-11-28T07:42:09Z",
+    "used_text": "Official says the figures were preliminary and the casualty numbers could change as more information becomes available."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-deadly-blast-near-afghan-school-prompts-conflicting-casualty-reports-aa4b.html"
+ },
+ {
+  "id": "98bc2d4b2c371575",
+  "region": "international",
+  "category": "news",
+  "title": "MSF Clinic Struck in Gaza as Israel Labels Deceased Staff as Militants",
+  "summary": "An Israeli strike on a Doctors Without Borders clinic in Gaza has killed two staff members, drawing international condemnation.",
+  "paragraphs": [
+   "Doctors Without Borders (MSF) confirmed that an Israeli strike hit one of its clinics in Gaza, killing two staff members who were working as watchmen, according to reports from France 24 and Al Jazeera. MSF maintained that its premises were clearly marked with official logos and that its exact location had been communicated to and known by the Israeli military.",
+   "In contrast, the Israeli military labelled the two individuals as Hamas terrorists and stated it targeted militants during the operation, BBC News and France 24 reported. The lethal strike on the medical facility was formally condemned by the World Health Organization, according to BBC News."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+    "link": "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza",
+    "published": "2026-11-28T11:23:55Z",
+    "used_text": "Doctors Without Borders (MSF) said Saturday an Israeli strike killed two staff members at a clinic in Gaza, with the Israeli army labelling the pair as Hamas \"terrorists\". Noga Tarnopolsky is live from Jerusalem."
+   },
+   {
+    "source": "BBC News",
+    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T10:34:58Z",
+    "used_text": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+    "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+    "published": "2026-11-28T03:45:58Z",
+    "used_text": "MSF says premises 'clearly marked' with its logos, location communicated to and known by Israeli military."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+    "published": "2026-11-28T01:55:03Z",
+    "used_text": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-msf-clinic-struck-in-gaza-as-israel-labels-deceased-98bc.html"
+ },
+ {
+  "id": "be21306a8734ad4f",
+  "region": "international",
+  "category": "news",
+  "title": "Spain Faces High-Stakes Snap Election Amid Political Polarization",
+  "summary": "Spain heads to the polls as Prime Minister Pedro Sanchez seeks re-election against surging conservative and far-right parties.",
+  "paragraphs": [
+   "Spanish voters are heading to the polls on Sunday in a pivotal snap election that could end Prime Minister Pedro Sanchez's 8 years of leftist governance, DW and France 24 reported. A political shift to the right in Madrid could significantly alter Spain's policies regarding defense, migration, and the war in Gaza, according to DW.",
+   "Al Jazeera reported that opinion polls suggest the conservative PP and the far-right Vox could secure a governing majority. Sanchez issued a final plea urging citizens to vote in large numbers to prevent the nation from going backwards, DW noted.",
+   "France 24 highlighted that Vox centered its political campaign on immigration, a topic that intensified after tens of thousands of migrants crossed into Ceuta from Morocco in July."
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "title": "As Spain votes, what could change for Europe?",
+    "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T11:24:00Z",
+    "used_text": "Spain votes on Sunday. A loss for Pedro Sanchez and a shift to the right in Madrid could affect how one of the EU's largest countries approaches migration, defense and the war in Gaza."
+   },
+   {
+    "source": "France 24",
+    "title": "What are the main issues driving Spain's national election ?",
+    "link": "https://www.france24.com/en/what-are-the-main-issues-driving-spain-s-national-election",
+    "published": "2026-11-28T10:41:30Z",
+    "used_text": "Spain will elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez. The progressive leader has governed Spain for 8 years, presiding over several crises, years of economic expansion and immigration-led population growth. No issue, however, has affected…"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+    "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+    "published": "2026-11-28T10:36:41Z",
+    "used_text": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority."
+   },
+   {
+    "source": "France 24",
+    "title": "Immigration, a key issue in Sunday's Spanish snap election",
+    "link": "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election",
+    "published": "2026-11-28T10:30:47Z",
+    "used_text": "Vox has focused its campaign on immigration, which dominated politics after tens of thousands of migrants streamed into Spain's north African city of Ceuta from Morocco in July."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Spain faces political shift as far right gains ground",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+    "published": "2026-11-28T08:54:02Z",
+    "used_text": "Spain faces political shift as far right gains ground"
+   },
+   {
+    "source": "DW",
+    "title": "Spain's Sanchez makes final appeal to voters before election",
+    "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T00:51:00Z",
+    "used_text": "Spanish Prime Minister Pedro Sanchez told people to turn out in large numbers so the country does not go \"backwards.\" Polls suggest an end to his eight-year leftist leadership of Spain."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-spain-faces-high-stakes-snap-election-amid-political-polarization-be21.html"
+ },
+ {
+  "id": "c78debbd2ff8c65b",
+  "region": "international",
+  "category": "news",
+  "title": "Taiwan Chooses Local Leaders Across 22 Cities and Counties",
+  "summary": "Taiwan holds local elections across 22 administrative divisions under intense scrutiny from Beijing.",
+  "paragraphs": [
+   "Taiwan has held local elections to select mayors and other civic leaders across 22 cities and counties, according to reports from France 24 and DW. Al Jazeera noted that the mayoral race in Taipei, an opposition Kuomintang stronghold, serves as an important test for the ruling Democratic Progressive Party.",
+   "While campaigning largely focused on everyday matters like transport and childcare, authorities in Taiwan accused China of attempting to interfere and undermine confidence in the island's electoral procedures, France 24 and DW reported. Chinese officials firmly rejected these accusations.",
+   "In the capital's race, Taiwanese media outlets reported on Saturday that Taipei Mayor Chiang Wan-an held a lead in the ballot count over opponent Puma Shen, France 24 reported."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "Taiwan holds elections to choose mayors and other local leaders",
+    "link": "https://www.france24.com/en/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders",
+    "published": "2026-11-28T11:06:49Z",
+    "used_text": "Jan Camenzind Broomby is live from Taipei, Taiwan."
+   },
+   {
+    "source": "France 24",
+    "title": "Taiwan awaits local election results as China watches",
+    "link": "https://www.france24.com/en/taiwan-awaits-local-election-results-as-china-watches",
+    "published": "2026-11-28T10:49:21Z",
+    "used_text": "Taipei Mayor ​Chiang Wan-an ​is leading in the vote count in ​an ‌election ⁠against his opponent Puma ‌Shen, Taiwan media outlets ⁠reported on Saturday."
+   },
+   {
+    "source": "NHK World",
+    "title": "Taiwanese head to polls in bellwether vote | NHK WORLD-JAPAN News",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnMXpTUzhtclRIR2hEbTRYNkphcVE3eTBLOEZXNmRlWC03R3hHZ1VscEpibU5id2pEVXJpNWQ2bjNrV1FZa18zVkVGeExpOWZ2Y2tDYlpuNkkzYUZaZ0FYR1I1RQ?oc=5",
+    "published": "2026-11-28T08:38:19Z",
+    "used_text": ""
+   },
+   {
+    "source": "France 24",
+    "title": "Taiwan holds local elections under Beijing's watchful gaze",
+    "link": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+    "published": "2026-11-28T06:25:33Z",
+    "used_text": "Taiwan is electing local leaders across 22 cities and counties on Saturday amid accusations by Taiwanese authorities of attempts by China to interfere and sow distrust in the island-nation’s electoral system. Chinese authorities reject the allegations."
+   },
+   {
+    "source": "DW",
+    "title": "Polls open in Taiwan's closely watched local elections",
+    "link": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T02:37:00Z",
+    "used_text": "Polls have opened for local elections in Taiwan. While campaigners have stayed away from the topic of China and focused on issues like transport and childcare, Beijing has repeatedly weighed in."
+   },
+   {
+    "source": "DW",
+    "title": "Polls close in Taiwan's closely watched local elections",
+    "link": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+    "published": "2026-11-28T02:37:00Z",
+    "used_text": "While campaigners have stayed away from the topic of China and focused on issues like transport and childcare, Beijing is putting pressure on the progressive candidate for Taipei mayor."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Taiwan votes in local elections to choose mayors, other leaders",
+    "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+    "published": "2026-11-28T02:05:27Z",
+    "used_text": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-taiwan-chooses-local-leaders-across-22-cities-and-counties-c78d.html"
+ },
+ {
+  "id": "dfb1ecb532522a23",
+  "region": "international",
+  "category": "news",
+  "title": "Pentagon Insists Networks Are Safe After Alleged Cloud One Hack",
+  "summary": "The US military maintains its systems remain secure following reports that its Cloud One platform was breached.",
+  "paragraphs": [
+   "Media reports revealed that hackers breached the US Air Force's Cloud One computing platform late Friday, creating concerns that sensitive military data might have been exposed, France 24 reported. Euronews noted that the US military insisted the Cloud One platform was secured following the news.",
+   "Without specifically denying that an intrusion occurred, the Pentagon emphasized that its broader computing networks remain secure amid an ongoing series of cyber-related data incidents, according to reporting by France 24 and Euronews."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "US military denied any issues with computing platform after hack reported",
+    "link": "https://www.euronews.com/2026/11/28/us-military-denied-any-issues-with-computing-platform-after-hack-reported",
+    "published": "2026-11-28T11:06:45Z",
+    "used_text": "Without denying having been hacked, the US military said its Cloud One computer platform was secured following media reports of US Air Force platform hack."
+   },
+   {
+    "source": "France 24",
+    "title": "Hackers reportedly breach US Air Force cloud platform as Pentagon insists systems are secure",
+    "link": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+    "published": "2026-11-28T06:04:56Z",
+    "used_text": "Hackers reportedly breached the US Air Force's Cloud One platform late Friday, potentially exposing sensitive military data. The Pentagon did not specifically deny that the system had been accessed, but insists its networks remain secure amid an ongoing spate of cyber-related data incidents."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-pentagon-insists-networks-are-safe-after-alleged-cloud-one-dfb1.html"
+ },
+ {
+  "id": "85b3e012cdbd64bd",
+  "region": "international",
+  "category": "news",
+  "title": "Demonstrations Across France Denounce Violence Against Women",
+  "summary": "Thousands of protesters gather across France to demand action against violence towards women.",
+  "paragraphs": [
+   "Nationwide demonstrations against violence towards women took place across France on Saturday, France 24 reported. The marches were organized to bring together thousands of participants, including members of feminist organisations, labour unions, students, and Yellow Vest activists.",
+   "According to France 24, an estimated 840 million women globally are subjected to violence. The protests unfolded alongside a broader wave of social unrest in France, which has seen ongoing cost-of-living demonstrations, France 24 noted."
+  ],
+  "sources": [
+   {
+    "source": "France 24",
+    "title": "France holds nationwide protests against violence towards women",
+    "link": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women",
+    "published": "2026-11-28T11:25:52Z",
+    "used_text": "Estimated 840 million women globally are subjected to violence."
+   },
+   {
+    "source": "France 24",
+    "title": "France holds nationwide protests against violence towards women",
+    "link": "https://www.france24.com/en/france/20261128-france-holds-nationwide-protests-against-violence-towards-women",
+    "published": "2026-11-28T10:59:52Z",
+    "used_text": "Demonstrations condemning violence against women are set to draw thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists expected to take part. The marches come amid a broader wave of social unrest, with cost-of-living protests entering…"
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-demonstrations-across-france-denounce-violence-against-women-85b3.html"
+ },
+ {
+  "id": "416e6cd53b90841d",
+  "region": "international",
+  "category": "news",
+  "title": "US Military Fires at Vessel to Enforce Blockade on Iranian Ports",
+  "summary": "American forces fired on and disabled a commercial vessel attempting to violate a blockade on Iranian ports.",
+  "paragraphs": [
+   "The US military fired at and disabled a commercial ship after it breached a strict naval containment zone around Iranian ports, according to Euronews and Al Jazeera. The incident occurred on Thursday after the vessel departed an Iranian port and failed to follow orders.",
+   "Al Jazeera reported that the ship was disabled after ignoring warnings to stop, with Euronews confirming the military took action to uphold its naval containment policy.",
+   "Separately, Italian Foreign Minister Antonio Tajani announced that a drone utilized in a deadly attack in Kuwait had been manufactured in Iran, according to Al Jazeera."
+  ],
+  "sources": [
+   {
+    "source": "Euronews",
+    "title": "US military fires at a ship that violated blockade of Iranian ports",
+    "link": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
+    "published": "2026-11-28T06:55:55Z",
+    "used_text": "US military maintained a \"strict\" blockade of Iranian ports by firing at a ship that violated the naval containment on Thursday."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+    "published": "2026-11-28T00:00:00Z",
+    "used_text": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran."
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "US disables ship attempting to breach Iran blockade",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+    "published": "2026-11-27T23:55:16Z",
+    "used_text": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-us-military-fires-at-vessel-to-enforce-blockade-on-416e.html"
+ },
+ {
+  "id": "2ab1c0ab24fe6893",
+  "region": "international",
+  "category": "sports",
+  "title": "Andy Farrell Praises Progress as Ireland Conclude 2026 With Victory Over Australia",
+  "summary": "Ireland head coach Andy Farrell highlighted positive team momentum after finishing the year with a win over the Wallabies.",
+  "paragraphs": [
+   "Ireland concluded their 2026 rugby campaign on a high note by securing a victory against the Wallabies, BBC News reported. The triumph over Australia marked Ireland's fourth consecutive victory to close out the calendar year.",
+   "Head coach Andy Farrell offered an upbeat assessment following the match, expressing that he sensed a positive shift in his squad's ongoing development, according to BBC News."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "Farrell senses 'shift' as Ireland end year strongly with Wallabies win",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6879ezd5r5qo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T00:05:10Z",
+    "used_text": "Ireland head coach Andy Farrell offers an upbeat assessment on his side's progress as they close out 2026 with a fourth straight win."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-andy-farrell-praises-progress-as-ireland-conclude-2026-with-2ab1.html"
+ },
+ {
+  "id": "c97a91b880181429",
+  "region": "international",
+  "category": "sports",
+  "title": "Southampton Coach Tonda Eckert Distances Himself From Middlesbrough Taunts",
+  "summary": "Southampton boss Tonda Eckert stated that taunts directed at Middlesbrough do not originate from him.",
+  "paragraphs": [
+   "Southampton head coach Tonda Eckert has expressed frustration over club-issued taunts aimed at Championship rivals Middlesbrough, BBC News reported.",
+   "Speaking about the rivalry, Eckert made it clear that the jibes did not come from him and emphasized that he was irked by the provocations directed toward the opposing side, according to BBC News."
+  ],
+  "sources": [
+   {
+    "source": "BBC News",
+    "title": "'It doesn't come from me' - Eckert irked by Southampton jibes at Boro",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-28T06:54:09Z",
+    "used_text": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him."
+   }
+  ],
+  "created": "2026-11-28T11:40:12Z",
+  "url": "a/2026-11-28-southampton-coach-tonda-eckert-distances-himself-from-middlesbrough-taunts-c97a.html"
+ },
+ {
   "id": "1c2cc3f756dee028",
   "region": "local",
   "category": "news",
